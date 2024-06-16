@@ -1,7 +1,6 @@
 Text_WhereDoYouWantToGo::
-	.string "おつかれさん！\n"
-	.string "どこに　いきたいんだ？$"
+  .string "おつかれさん！ どこに いきたいんだ？$"
 
 Text_AllAboardSeagallopNum::
-	.string "All right!\n"
-	.string "All aboard SEAGALLOP HI-SPEED {STR_VAR_1}!$"
+  .string "Tamamdır! Herkes SEAGALLOP HI-SPEED\n{STR_VAR_1}'e binsin!$"
+

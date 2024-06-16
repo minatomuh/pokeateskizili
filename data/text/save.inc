@@ -1,26 +1,18 @@
 gText_WouldYouLikeToSaveTheGame::
-	.string "Would you like to save the game?$"
+  .string "Oyunu kaydetmek ister misiniz?$"
 
 gText_AlreadySaveFile_WouldLikeToOverwrite::
-	.string "There is already a saved file.\n"
-	.string "Is it okay to overwrite it?$"
+  .string "Zaten kayıtlı bir dosya var.\nÜzerine yazılsın mı?$"
 
 gText_SavingDontTurnOffThePower::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+  .string "KAYDEDİLİYOR…\nOYUNU KAPATMAYIN.$"
 
 gText_PlayerSavedTheGame::
-	.string "{PLAYER} saved the game.$"
+  .string "{PLAYER} oyunu kaydetti.$"
 
 gText_SaveFailed2::
-	.string "セーブに　しっぱい　しました‥$"
+  .string "セーブに しっぱい しました‥$"
 
 gText_DifferentGameFile::
-	.string "WARNING!\p"
-	.string "There is a different game file that\n"
-	.string "is already saved.\p"
-	.string "If you save now, the other file's\n"
-	.string "adventure, including items and\l"
-	.string "POKéMON, will be entirely lost.\p"
-	.string "Are you sure you want to save now\n"
-	.string "and overwrite the other save file?$"
+  .string "UYARI!\pÖnceden kaydedilmiş farklı bir oyun\ndosyası var.\pEğer şimdi kaydederseniz, diğer\ndosyanın macerası, eşyalar ve POKéMON\lda dahil olmak üzere, tamamen\lkaybolacaktır.\pŞimdi kaydetmek ve diğer kayıt\ndosyasının üzerine yazmak istediğinizden\lemin misiniz?$"
+

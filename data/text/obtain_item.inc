@@ -1,47 +1,39 @@
 Text_ObtainedTheX::
-	.string "Obtained the {STR_VAR_2}!$"
+  .string "{STR_VAR_2} alındı!$"
 
 Text_BagIsFull::
-	.string "The BAG is full…$"
+  .string "Çanta dolu...$"
 
 Text_PutItemAway::
-	.string "{PLAYER} put the {STR_VAR_2}\n"
-	.string "in the {STR_VAR_3}.$"
+  .string "{PLAYER}, {STR_VAR_2} eşyasını\n{STR_VAR_3} cebine yerleştirdi.$"
 
 Text_FoundOneItem::
-	.string "{PLAYER} found one {STR_VAR_2}!$"
+  .string "{PLAYER}, bir {STR_VAR_2} buldu!$"
 
 Text_TooBadBagFull::
-	.string "Too bad!\n"
-	.string "The BAG is full…$"
+  .string "Olamaz!\nÇANTA dolu...$"
 
 Text_FoundXCoins::
-	.string "{PLAYER} found\n"
-	.string "{STR_VAR_1} {STR_VAR_2}!$"
+  .string "{PLAYER}, {STR_VAR_1} {STR_VAR_2}\nbuldu!$"
 
 Text_PutCoinsAwayInCoinCase::
-	.string "{PLAYER} put the COINS away in\n"
-	.string "the COIN CASE.$"
+  .string "{PLAYER}, jetonları JETON KASASINA\nkoydu.$"
 
 Text_CoinCaseIsFull::
-	.string "Too bad!\n"
-	.string "The COIN CASE is full…$"
+  .string "Olamaz!\nJETON KASASI dolu.$"
 
 Text_NothingToPutThemIn::
-	.string "Too bad!\n"
-	.string "There's nothing to put them in…$"
+  .string "Çok kötü!\nBunu koyacak yer yok...$"
 
 Text_FoundXItems::
-	.string "{PLAYER} found\n"
-	.string "{STR_VAR_1} {STR_VAR_2}(s)!$"
+  .string "{PLAYER}, {STR_VAR_1} adet\n{STR_VAR_2} buldu!$"
 
 Text_ObtainedTheDecor::
-	.string "Obtained the {STR_VAR_2}!$"
+  .string "{STR_VAR_2} alındı!$"
 
 Text_NoRoomForAnotherDecor::
-	.string "Too bad! There's no room left for\n"
-	.string "another {STR_VAR_2}…$"
+  .string "Olamaz!\n{STR_VAR_2} için yer kalmadı...$"
 
 Text_DecorTransferredToPC::
-	.string "The {STR_VAR_2} was transferred\n"
-	.string "to the PC.$"
+  .string "{STR_VAR_2} bilgisayara aktarıldı.$"
+

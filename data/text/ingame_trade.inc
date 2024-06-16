@@ -1,60 +1,45 @@
 Trade_Text_LookingForMonWannaTradeForMon::
-	.string "I'm looking for the POKéMON\n"
-	.string "{STR_VAR_1}!\p"
-	.string "Wanna trade one for my\n"
-	.string "{STR_VAR_2}?$"
+  .string "POKéMON {STR_VAR_1} arıyorum!\pBenim {STR_VAR_2} ile takas etmek\nister misin?$"
 
 Trade_Text_AwwOhWell::
-	.string "Awww!\n"
-	.string "Oh, well…$"
+  .string "Awww! Ah, şey...$"
 
 Trade_Text_WhatThatsNoMon::
-	.string "What?\n"
-	.string "That's no {STR_VAR_1}!$"
+  .string "Ne? Bu {STR_VAR_1} değil!$"
 
 Trade_Text_HeyThanks::
-	.string "Hey, thanks!$"
+  .string "Hey, teşekkürler!$"
 
 Trade_Text_IsntMyOldMonGreat::
-	.string "Isn't my old {STR_VAR_2} great?$"
+  .string "Eski {STR_VAR_2}'m harika değil mi?$"
 
 Trade_Text_DoYouHaveMonWouldYouTradeForMon::
-	.string "Hello, there! Do you happen to\n"
-	.string "have a {STR_VAR_1}?\p"
-	.string "Would you agree to a trade for\n"
-	.string "my {STR_VAR_2}?$"
+  .string "Merhabalar! Elinizde bir {STR_VAR_1}\nvar mı?\pBenim {STR_VAR_2}'m için takas\nyapmayı kabul eder misiniz?$"
 
 Trade_Text_WellIfYouDontWantTo::
-	.string "Well, if you don't want to…$"
+  .string "Eğer istemiyorsan.$"
 
 Trade_Text_ThisIsntMon::
-	.string "Hmmm?\n"
-	.string "This isn't a {STR_VAR_1}.\p"
-	.string "Think of me if you get one.$"
+  .string "Hmmm? Bu bir {STR_VAR_1} değil.\pBir tane alırsan beni düşün.$"
 
 Trade_Text_Thanks::
-	.string "Thanks!$"
+  .string "Teşekkürler!$"
 
 Trade_Text_HasTradedMonGrownStronger::
-	.string "The {STR_VAR_2} that I traded you,\n"
-	.string "has it grown stronger?$"
+  .string "Size takas ettiğim {STR_VAR_2} daha da\ngüçlendi mi?$"
 
 Trade_Text_DoYouHaveMonWantToTradeForMon::
-	.string "Hi!\n"
-	.string "Do you have a {STR_VAR_1}?\p"
-	.string "Want to trade it for my\n"
-	.string "{STR_VAR_2}?$"
+  .string "Merhaba! Elinizde {STR_VAR_1} var mı?\pBenim {STR_VAR_2} ile takas etmek\nister misiniz?$"
 
 Trade_Text_ThatsTooBad::
-	.string "That's too bad.$"
+  .string "Bu çok kötü.$"
 
 Trade_Text_ThisIsNoMon::
-	.string "…This is no {STR_VAR_1}.\p"
-	.string "If you get one, trade it with me.$"
+  .string "...Bu {STR_VAR_1} değil.\pEğer bir tane bulursan, benimle takas\net.$"
 
 Trade_Text_ThanksYoureAPal::
-	.string "Thanks, you're a pal!$"
+  .string "Teşekkürler, sen bir dostsun!$"
 
 Trade_Text_HowIsMyOldMon::
-	.string "How is my old {STR_VAR_2}?\n"
-	.string "My {STR_VAR_1} is doing great!$"
+  .string "Eski {STR_VAR_2}'m nasıl? Benim\n{STR_VAR_1}'im harika gidiyor!$"
+
