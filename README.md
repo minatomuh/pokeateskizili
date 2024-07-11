@@ -1,11 +1,6 @@
 # Pokémon FireRed and LeafGreen
 
-[![Build Status][travis-badge]][travis]
-
-[travis]: https://travis-ci.org/pret/pokefirered
-[travis-badge]: https://travis-ci.org/pret/pokefirered.svg?branch=master
-
-This is a disassembly of Pokémon FireRed and LeafGreen.
+This is a decompilation of Pokémon FireRed and LeafGreen, fan translated into Turkish.
 
 It builds the following ROMs:
 
