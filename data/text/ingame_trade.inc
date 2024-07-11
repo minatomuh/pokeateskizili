@@ -17,7 +17,7 @@ Trade_Text_DoYouHaveMonWouldYouTradeForMon::
   .string "Merhabalar! Elinizde bir {STR_VAR_1}\nvar mı?\pBenim {STR_VAR_2}'m için takas\nyapmayı kabul eder misiniz?$"
 
 Trade_Text_WellIfYouDontWantTo::
-  .string "Eğer istemiyorsan.$"
+  .string "Eğer istemiyorsan zorlayamam.$"
 
 Trade_Text_ThisIsntMon::
   .string "Hmmm? Bu bir {STR_VAR_1} değil.\pBir tane alırsan beni düşün.$"

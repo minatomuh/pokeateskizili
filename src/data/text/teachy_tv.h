@@ -1,10 +1,10 @@
-const u8 gTeachyTvString_TeachBattle[] = _("Teach me how to battle.");
-const u8 gTeachyTvString_StatusProblems[] = _("What are status problems?");
-const u8 gTeachyTvString_TypeMatchups[] = _("What are type matchups?");
-const u8 gTeachyTvString_CatchPkmn[] = _("I want to catch POKéMON.");
-const u8 gTeachyTvString_AboutTMs[] = _("Teach me about TMs.");
-const u8 gTeachyTvString_RegisterItem[] = _("How do I register an item?");
-const u8 gTeachyTvString_Cancel[] = _("CANCEL");
+const u8 gTeachyTvString_TeachBattle[] = _("Bana savaşmayı öğret.");
+const u8 gTeachyTvString_StatusProblems[] = _("Durum etkileri nedir?");
+const u8 gTeachyTvString_TypeMatchups[] = _("Tür eşleşmeleri nelerdir?");
+const u8 gTeachyTvString_CatchPkmn[] = _("POKéMON yakalamak istiyorum.");
+const u8 gTeachyTvString_AboutTMs[] = _("Bana TM'leri öğret.");
+const u8 gTeachyTvString_RegisterItem[] = _("Eşyaya nasıl tuş atayabilirim?");
+const u8 gTeachyTvString_Cancel[] = _("İPTAL");
 const u8 gTeachyTvText_PokedudeSaysHello[] = _(
     "Hey, eğitmenler!\n"
     "Hepinizi selamlıyorum!\p"
