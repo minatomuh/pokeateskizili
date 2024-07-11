@@ -1,23 +1,20 @@
 SSAnne_2F_Room2_Text_BrooksIntro::
-    .string "Competing against the young keeps\n"
-    .string "me youthful.$"
+    .string "Gençlerle yarışmak beni genç tutuyor.$"
 
 SSAnne_2F_Room2_Text_BrooksDefeat::
-    .string "Good match!\n"
-    .string "Ah, I feel young again!$"
+    .string "İyi maç!\n"
+    .string "Ah, gençliğime döndüm sanki!$"
 
 SSAnne_2F_Room2_Text_BrooksPostBattle::
-    .string "Fifteen years ago, I would\n"
-    .string "have won!$"
+    .string "On beş yıl önce kazanırdım!$"
 
 SSAnne_2F_Room2_Text_DaleIntro::
-    .string "Check out what I fished up!$"
+    .string "Bak neler yakaladım!$"
 
 SSAnne_2F_Room2_Text_DaleDefeat::
-    .string "I'm all out!$"
+    .string "Bitti, daha yok!$"
 
 SSAnne_2F_Room2_Text_DalePostBattle::
-    .string "Party?\p"
-    .string "The cruise ship's party should be\n"
-    .string "over by now.$"
+    .string "Parti bitti mi?\p"
+    .string "Gemi partisi sona ermiş olmalı.$"
 

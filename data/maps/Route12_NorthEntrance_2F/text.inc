@@ -1,36 +1,35 @@
-@ Male and female text identical, differ (presumably) in JP
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMale::
-    .string "My POKéMON's ashes are stored in\n"
-    .string "POKéMON TOWER.\p"
-    .string "You can have this TM.\n"
-    .string "I don't need it anymore…$"
+    .string "POKéMON'umun külleri, POKéMON\n"
+    .string "KULESİ'nde saklanıyor.\p"
+    .string "Bu TM'i alabilirsin.\n"
+    .string "Artık buna ihtiyacım yok…$"
 
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
-    .string "My POKéMON's ashes are stored in\n"
-    .string "POKéMON TOWER.\p"
-    .string "You can have this TM.\n"
-    .string "I don't need it anymore…$"
+    .string "POKéMON'umun külleri, POKéMON\n"
+    .string "KULESİ'nde saklanıyor.\p"
+    .string "Bu TM'i alabilirsin.\n"
+    .string "Artık buna ihtiyacım yok…$"
 
 Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
-    .string "{PLAYER} received TM27\n"
-    .string "from the little girl.$"
+    .string "{PLAYER} küçük kızdan TM27\n"
+    .string "aldı.$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
-    .string "TM27 is a move called RETURN…\p"
-    .string "If you treat your POKéMON good,\n"
-    .string "it will return your love by working\l"
-    .string "its hardest in battle.$"
+    .string "TM27 KARŞILIK isimli bir hareket.\p"
+    .string "Eğer POKéMON'unu iyi\n"
+    .string "beslersen, sevgisini savaşlarda\l"
+    .string "en iyi performansı ile\l"
+    .string "gösterecektir.$"
 
 Route12_NorthEntrance_2F_Text_DontHaveRoomForThis::
-    .string "You don't have room for this.$"
+    .string "Bunun için yerin yok.$"
 
 Route12_NorthEntrance_2F_Text_TheresManFishing::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "There's a man fishing!$"
+    .string "Teleskopun gösterdiğine bakalım\n"
+    .string "…\p"
+    .string "Bir adam balık tutuyor!$"
 
 Route12_NorthEntrance_2F_Text_ItsPokemonTower::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "It's POKéMON TOWER!$"
-
+    .string "Teleskopun gösterdiğine bakalım\n"
+    .string "…\p"
+    .string "POKéMON KULESİ!$"

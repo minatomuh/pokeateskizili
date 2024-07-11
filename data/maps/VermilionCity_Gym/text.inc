@@ -1,126 +1,124 @@
 VermilionCity_Gym_Text_LtSurgeIntro::
-    .string "Hey, kid! What do you think you're\n"
-    .string "doing here?\p"
-    .string "You won't live long in combat!\n"
-    .string "Not with your puny power!\p"
-    .string "I tell you, kid, electric POKéMON\n"
-    .string "saved me during the war!\p"
-    .string "They zapped my enemies into\n"
-    .string "paralysis!\p"
-    .string "The same as I'll do to you!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "Hey, çocuk! Burada ne yaptığını\n"
+    .string "sanıyorsun?\p"
+    .string "Savaşta uzun süre duramazsın!\n"
+    .string "Gücün çok zayıf!\p"
+    .string "Sana söylüyorum, çocuk, ELEKTRİK\n"
+    .string "POKéMON'ları savaşta beni kurtardı!\p"
+    .string "Düşmanlarımı felce uğrattılar!\p"
+    .string "Sana da aynısını yapacağım!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 VermilionCity_Gym_Text_LtSurgePostBattle::
-    .string "A little word of advice, kid!\p"
-    .string "Electricity is sure powerful!\p"
-    .string "But, it's useless against GROUND-\n"
-    .string "type POKéMON!$"
+    .string "Bir küçük tavsiye, çocuk!\p"
+    .string "Elektrik gerçekten güçlü!\p"
+    .string "Ama, YER-tipi POKéMON'a karşı\n"
+    .string "işe yaramaz!$"
 
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
-    .string "The THUNDERBADGE cranks up your\n"
-    .string "POKéMON's SPEED!\p"
-    .string "It also lets your POKéMON FLY\n"
-    .string "lightning-quick anytime, kid!\p"
-    .string "You're special, kid!\n"
-    .string "Take this!$"
+    .string "THUNDERBADGE, POKéMON'unun\n"
+    .string "HIZINI arttırır!\p"
+    .string "Ayrıca POKéMON'un yıldırım hızıyla\n"
+    .string "UÇ kullanmasını sağlar, çocuk!\p"
+    .string "Sen özel birisin, çocuk!\n"
+    .string "Bunu al!$"
 
 VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
-    .string "{PLAYER} received TM34\n"
-    .string "from LT. SURGE.$"
+    .string "{PLAYER} TĞM. SURGE'dan TM34\n"
+    .string "aldı.$"
 
 VermilionCity_Gym_Text_ExplainTM34::
-    .string "TM34 contains SHOCK WAVE!\p"
-    .string "Teach it to an ELECTRIC POKéMON!$"
+    .string "TM34 ŞOK DALGASI içerir!\p"
+    .string "Bunu bir ELEKTRİK POKéMON'una öğret!$"
 
 VermilionCity_Gym_Text_MakeRoomInYourBag::
-    .string "Yo, kid, make room in your BAG!$"
+    .string "Hey, çocuk, çantanda yer aç!$"
 
 VermilionCity_Gym_Text_LtSurgeDefeat::
-    .string "Now that's a shocker!\p"
-    .string "You're the real deal, kid!\p"
-    .string "Fine, then, take the THUNDERBADGE!$"
+    .string "Bu gerçekten şaşırtıcı!\p"
+    .string "Sen gerçekten iyisin, çocuk!\p"
+    .string "Tamam, o zaman THUNDERBADGE'i al!$"
 
 VermilionCity_Gym_Text_TuckerIntro::
-    .string "When I was in the Army, LT. SURGE\n"
-    .string "was my strict CO.\p"
-    .string "He was a hard taskmaster.$"
+    .string "Ordudayken TĞM. SURGE\n"
+    .string "benim komutanımdı.\p"
+    .string "Çok zorlu eğitim verirdi.$"
 
 VermilionCity_Gym_Text_TuckerDefeat::
-    .string "Stop!\n"
-    .string "You're very good!$"
+    .string "Dur!\n"
+    .string "Çok iyisin!$"
 
 VermilionCity_Gym_Text_TuckerPostBattle::
-    .string "It's not easy opening that door.\p"
-    .string "LT. SURGE was always famous for\n"
-    .string "his cautious nature in the Army.$"
+    .string "O kapıyı açmak kolay değil.\p"
+    .string "TĞM. SURGE ordudayken her zaman\n"
+    .string "tedbirli tavrıyla tanınırdı.$"
 
 VermilionCity_Gym_Text_BailyIntro::
-    .string "I'm a lightweight, but I'm good\n"
-    .string "with electricity!\p"
-    .string "That's why I joined this GYM.$"
+    .string "Hafifim, ama elektrikle\n"
+    .string "iyi anlaşırım!\p"
+    .string "Bu yüzden bu GYM'e katıldım.$"
 
 VermilionCity_Gym_Text_BailyDefeat::
-    .string "Fried!$"
+    .string "Kızartıldı!$"
 
 VermilionCity_Gym_Text_BailyPostBattle::
-    .string "Okay, I'll talk!\p"
-    .string "LT. SURGE said he hid door\n"
-    .string "switches inside something.$"
+    .string "Tamam, konuşacağım!\p"
+    .string "TĞM. SURGE kapı düğmesini\n"
+    .string "bir şeyin içine sakladığını söyledi.$"
 
 VermilionCity_Gym_Text_DwayneIntro::
-    .string "This is no place for kids!\n"
-    .string "Not even if you're good!$"
+    .string "Bu çocuklar için yer değil!\n"
+    .string "Ne kadar iyi olursan ol!$"
 
 VermilionCity_Gym_Text_DwayneDefeat::
-    .string "Wow!\n"
-    .string "Surprised me!$"
+    .string "Vay!\n"
+    .string "Beni şaşırttın!$"
 
 VermilionCity_Gym_Text_DwaynePostBattle::
-    .string "LT. SURGE installed the traps in\n"
-    .string "the GYM himself.\p"
-    .string "He set up double locks everywhere.\n"
-    .string "Let me give you a hint.\p"
-    .string "When you open the first lock, the\n"
-    .string "second lock is right next to it.$"
+    .string "TĞM. SURGE SALON'daki tuzakları\n"
+    .string "kendi kurdu.\p"
+    .string "Her yere çift kilit yerleştirdi.\n"
+    .string "Bir ipucu vereyim.\p"
+    .string "İlk kilidi açtığında, ikinci kilit\n"
+    .string "onun hemen yanında olur.$"
 
 VermilionCity_Gym_Text_GymGuyAdvice::
-    .string "Yo!\n"
-    .string "Champ in the making!\p"
-    .string "LT. SURGE has a nickname.\p"
-    .string "People refer to him as the\n"
-    .string "Lightning American!\p"
-    .string "He's an expert on electric\n"
-    .string "POKéMON.\p"
-    .string "BIRD/WATER-type POKéMON match\n"
-    .string "poorly against the ELECTRIC type.\p"
-    .string "Beware of paralysis, too.\p"
-    .string "LT. SURGE is very cautious.\p"
-    .string "He's locked himself in, so it won't\n"
-    .string "be easy getting to him.$"
+    .string "Hey!\n"
+    .string "Şampiyon olacak gibisin!\p"
+    .string "TĞM. SURGE'ın bir takma adı var.\p"
+    .string "İnsanlar ona Yıldırım Amerikalı\n"
+    .string "diye hitap ediyorlar.\p"
+    .string "Elektrikli POKéMON konusunda\n"
+    .string "uzmandır.\p"
+    .string "KUŞ/SU-tipi POKéMON'lar elektriğe\n"
+    .string "karşı zayıf kalır.\p"
+    .string "Felce de dikkat et.\p"
+    .string "TĞM. SURGE çok tedbirli.\p"
+    .string "Kendini kilitledi, bu yüzden ona ulaşmak\n"
+    .string "kolay olmayacak.$"
 
 VermilionCity_Gym_Text_GymGuyPostVictory::
-    .string "Whew!\n"
-    .string "That match was electric!$"
+    .string "Vay!\n"
+    .string "Maç elektrikliydi!$"
 
 VermilionCity_Gym_Text_GymStatue::
-    .string "VERMILION POKéMON GYM\n"
-    .string "LEADER: LT. SURGE\p"
-    .string "WINNING TRAINERS:\n"
+    .string "VERMILION POKéMON SALONU\n"
+    .string "LİDER: LT. SURGE\p"
+    .string "KAZANAN ANTRENÖRLER:\n"
     .string "{RIVAL}$"
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
-    .string "VERMILION POKéMON GYM\n"
-    .string "LEADER: LT. SURGE\p"
-    .string "WINNING TRAINERS:\n"
+    .string "VERMILION POKéMON SALONU\n"
+    .string "LİDER: LT. SURGE\p"
+    .string "KAZANAN ANTRENÖRLER:\n"
     .string "{RIVAL}, {PLAYER}$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::
-    .string "Nope!\n"
-    .string "There's only trash here.$"
+    .string "Hayır!\n"
+    .string "Burada sadece çöp var.$"
 
 VermilionCity_Gym_Text_SwitchUnderTrashFirstLockOpened::
-    .string "Hey! There's a switch under the\n"
-    .string "trash! Turn it on!\p"
-    .string "The first electric lock opened!$"
+    .string "Hey! Çöpün altında bir düğme var!\n"
+    .string "Aç! İlk elektrikli kilit açıldı!$"
 
 VermilionCity_Gym_Text_AnotherSwitchInTrash::
     .string "ガサゴソ‥！\n"
@@ -129,12 +127,11 @@ VermilionCity_Gym_Text_AnotherSwitchInTrash::
     .string "おして　みよう！　‥　ポチッとな$"
 
 VermilionCity_Gym_Text_SecondLockOpened::
-    .string "The second electric lock opened!\n"
-    .string "The motorized door opened!$"
+    .string "İkinci elektrikli kilit açıldı!\n"
+    .string "Motorlu kapı açıldı!$"
 
 VermilionCity_Gym_Text_OnlyTrashLocksWereReset::
-    .string "Nope!\n"
-    .string "There's only trash here.\p"
+    .string "Hayır!\n"
+    .string "Burada sadece çöp var.\p"
     .string "Hey!\n"
-    .string "The electric locks were reset!$"
-
+    .string "Elektrikli kilitler sıfırlandı!$"

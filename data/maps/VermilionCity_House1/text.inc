@@ -1,34 +1,33 @@
 VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish::
-    .string "I'm the FISHING GURU!\p"
-    .string "I simply looove fishing!\n"
-    .string "I can't bear to go without.\p"
-    .string "Tell me, do you like to fish?$"
+    .string "Ben BALIK GURU'suyum!\p"
+    .string "Balık tutmayı çok seviyorum!\n"
+    .string "Onsuz yapamam.\p"
+    .string "Söyle, sen de balık tutmayı sever misin?$"
 
 VermilionCity_House1_Text_TakeThisAndFish::
-    .string "Grand! I like your style.\n"
-    .string "I think we can be friends.\p"
-    .string "Take this and fish, young friend!$"
+    .string "Harika! Tarzını beğendim.\n"
+    .string "Sanırım arkadaş olabiliriz.\p"
+    .string "Bunu al ve balık tut, genç dostum!$"
 
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
-    .string "{PLAYER} received an OLD ROD from\n"
-    .string "the FISHING GURU.$"
+    .string "{PLAYER}, BALIK GURU'sundan\n"
+    .string "bir ESKİ OLTA aldı.$"
 
 VermilionCity_House1_Text_FishingIsAWayOfLife::
-    .string "Fishing is a way of life!\n"
-    .string "It is like the finest poetry.\p"
-    .string "From the seas to rivers, go out\n"
-    .string "and land the big one, my friend.$"
+    .string "Balık tutmak bir yaşam tarzıdır!\n"
+    .string "Güzel bir şiire benzer.\p"
+    .string "Denizlerden nehirlerden bahsedelim,\n"
+    .string "ve büyük balığı yakala, dostum.$"
 
 VermilionCity_House1_Text_OhThatsSoDisappointing::
-    .string "Oh…\n"
-    .string "That's so disappointing…$"
+    .string "Ah…\n"
+    .string "Bu çok üzücü…$"
 
 VermilionCity_House1_Text_HowAreTheFishBiting::
-    .string "Hello there, {PLAYER}!\p"
-    .string "How are the fish biting?$"
+    .string "Merhaba, {PLAYER}!\p"
+    .string "Balık tutmak nasıl gidiyor?$"
 
 VermilionCity_House1_Text_NoRoomForNiceGift::
-    .string "Oh, no!\p"
-    .string "I had a nice gift for you, but you\n"
-    .string "have no room for it!$"
-
+    .string "Aman Tanrım!\p"
+    .string "Sana güzel bir hediyem vardı, ama\n"
+    .string "senin hiç yerin yok!$"

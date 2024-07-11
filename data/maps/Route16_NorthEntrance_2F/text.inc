@@ -1,47 +1,44 @@
 Route16_NorthEntrance_2F_Text_OnBikeRideWithGirlfriend::
-    .string "I'm on a relaxing ride on my new\n"
-    .string "bike with my girlfriend.$"
+.string "Kız arkadaşımla beraber yeni\n"
+.string "bisikletimle rahat bir turdayım.$"
 
 Route16_NorthEntrance_2F_Text_RidingTogetherOnNewBikes::
-    .string "We're going riding together on our\n"
-    .string "new bikes.$"
+.string "Yeni bisikletlerimizle geziyoruz.\n"
+.string "Birlikte eğleniyoruz.$"
 
 Route16_NorthEntrance_2F_Text_ItsCeladonDeptStore::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "It's the CELADON DEPT. STORE!$"
+.string "Teleskoptan ne göreceğiz bakalım…\p"
+.string "CELADON MAĞAZASI görünüyor!$"
 
 Route16_NorthEntrance_2F_Text_LongPathOverWater::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "There's a long path over water far\n"
-    .string "away.$"
+.string "Teleskoptan ne göreceğiz bakalım…\p"
+.string "Uzaklarda su üzerinde\n"
+.string "uzun bir yol var.$"
 
 Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
-    .string "Hi! Remember me?\n"
-    .string "I'm one of PROF. OAK's AIDES.\p"
-    .string "If your POKéDEX has complete data\n"
-    .string "on 40 species, I'm supposed to\l"
-    .string "give you a reward.\p"
-    .string "PROF. OAK entrusted me with an\n"
-    .string "AMULET COIN for you.\p"
-    .string "So, {PLAYER}, let me ask you.\p"
-    .string "Have you gathered data on at least\n"
-    .string "40 kinds of POKéMON?$"
+.string "Merhaba! Beni tanıyor musun?\n"
+.string "PROF. OAK'ın asistanlarından\l"
+.string "biriyim.\p"
+.string "Eğer POKéDEX'iniz 40 tür hakkında\n"
+.string "veri içeriyorsa, bir ödül\lvermem gerekiyor.\p"
+.string "PROF. OAK bana senin için bir\n"
+.string "PARA TILSIMI emanet etti.\p"
+.string "Öyleyse, {PLAYER}, sana sorayım.\p"
+.string "En az 40 çeşit POKéMON verisi\n"
+.string "topladın mı?$"
 
 Route16_NorthEntrance_2F_Text_GreatHereYouGo::
-    .string "Great! You have caught or owned\n"
-    .string "{STR_VAR_3} kinds of POKéMON!\p"
-    .string "Congratulations!\n"
-    .string "Here you go!$"
+.string "Harika! {STR_VAR_3} çeşit POKéMON\n"
+.string "yakaladın veya sahip oldun!\p"
+.string "Tebrikler!\n"
+.string "İşte bu senin olsun!$"
 
 Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
-    .string "{PLAYER} received the AMULET COIN\n"
-    .string "from the AIDE.$"
+.string "{PLAYER} asistanın verdiği PARA\n"
+.string "TILSIMI'nı aldı.$"
 
 Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::
-    .string "An AMULET COIN is an item to be\n"
-    .string "held by a POKéMON.\p"
-    .string "If the POKéMON appears in a winning\n"
-    .string "battle, you will earn more money.$"
-
+.string "PARA TILSIMI, POKéMON'un\n"
+.string "tutabileceği bir eşyadır.\p"
+.string "Eğer POKéMON savaşta kazanırsa,\n"
+.string "daha fazla para kazanırsın.$"

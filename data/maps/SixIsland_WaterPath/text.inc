@@ -1,102 +1,100 @@
 SixIsland_WaterPath_Text_RoseIntro::
-    .string "I let a pleasant breeze lead me\n"
-    .string "all the way here.$"
+    .string "Nereye gideceğimi serin bir esintiye bıraktım\n"
+    .string "ve buraya geldim.$"
 
 SixIsland_WaterPath_Text_RoseDefeat::
-    .string "Giggle… You're so cute when you're\n"
-    .string "determined.$"
+    .string "Giggle… O kararlı halin çok tatlı.$"
 
 SixIsland_WaterPath_Text_RosePostBattle::
-    .string "I want to go to the woods over\n"
-    .string "there, but…\p"
-    .string "There are lots of BUG POKéMON.\n"
-    .string "They scare me a little.$"
+    .string "Oradaki ormana gitmek istiyorum,\nama…\p"
+    .string "Orada çok BÖCEK POKéMON var.\n"
+    .string "Biraz korkutucu.$"
 
 SixIsland_WaterPath_Text_EdwardIntro::
-    .string "I'm practicing in secret so no one\n"
-    .string "can see me.$"
+    .string "Kimsenin görmeyeceği şekilde\n"
+    .string "gizli gizli\l"
+    .string "pratik yapıyorum.$"
 
 SixIsland_WaterPath_Text_EdwardDefeat::
-    .string "Nobody saw me losing, right?$"
+    .string "Kaybettiğimi kimse görmedi,\n"
+    .string "öyle değil mi?$"
 
 SixIsland_WaterPath_Text_EdwardPostBattle::
-    .string "As a performer, I don't want people\n"
-    .string "to know about the effort I put in.$"
+    .string "Bir performans sanatçısı olarak,\n"
+    .string "çabalarımın görülmesini istemem.$"
 
 SixIsland_WaterPath_Text_SamirIntro::
-    .string "What, you're suggesting that you're\n"
-    .string "sick of seeing SWIMMERS like me?\p"
-    .string "Aww, don't be hatin'!$"
+    .string "Ne, YÜZÜCÜLERDEN bıktım mı\n"
+    .string "demek istiyorsun?\p"
+    .string "Aww, yapma böyle!$"
 
 SixIsland_WaterPath_Text_SamirDefeat::
-    .string "Oh, no, no, no.$"
+    .string "Oh, hayır, hayır, hayır.$"
 
 SixIsland_WaterPath_Text_SamirPostBattle::
-    .string "I couldn't lift the stigma of being\n"
-    .string "a SWIMMER…$"
+    .string "YÜZÜCÜ olduğum için üzerimdeki kötü\n"
+    .string "imajı silemedim…$"
 
 SixIsland_WaterPath_Text_DeniseIntro::
-    .string "My boyfriend's always busy, so I\n"
-    .string "come swimming by myself.$"
+    .string "Erkek arkadaşım çok meşgul, bu\n"
+    .string "yüzden yüzmeye tek başıma geliyorum.$"
 
 SixIsland_WaterPath_Text_DeniseDefeat::
-    .string "Awww, I knew this would happen!$"
+    .string "Biliyordum böyle olacağını!$"
 
 SixIsland_WaterPath_Text_DenisePostBattle::
-    .string "When I can't be with my boyfriend,\n"
-    .string "I spend time with the POKéMON he\l"
-    .string "gave me.$"
+    .string "Erkek arkadaşımla\n"
+    .string "vakit geçiremediğimde,\l"
+    .string "bana verdiği POKéMON'larla vakit\l"
+    .string "geçiriyorum.$"
 
 SixIsland_WaterPath_Text_EarlIntro::
-    .string "Tell me, where are the mountains\n"
-    .string "around these parts?$"
+    .string "Söyle, bu civarda dağlar nerede?\p"
+    .string "Biraz da oraları\n"
+    .string "keşfetmek istiyorum.$"
 
 SixIsland_WaterPath_Text_EarlDefeat::
-    .string "I lost my way while I was busy\n"
-    .string "battling!$"
+    .string "Savaşırken yolumu kaybettim!$"
 
 SixIsland_WaterPath_Text_EarlPostBattle::
-    .string "Aren't there any mountains around\n"
-    .string "these parts?$"
+    .string "Bu civarda dağ yok mu?$"
 
 SixIsland_WaterPath_Text_MiuIntro::
-    .string "MIU: Hello, POKéMON!\n"
-    .string "It's time to play!$"
+    .string "MIU: Merhaba, POKéMON!\n"
+    .string "Oyun zamanı!$"
 
 SixIsland_WaterPath_Text_MiuDefeat::
-    .string "MIU: Oh, no!\n"
-    .string "Mommy!$"
+    .string "MIU: Oh, hayır!\n"
+    .string "Anne!$"
 
 SixIsland_WaterPath_Text_MiuPostBattle::
-    .string "MIU: It makes me all sad inside\n"
-    .string "when we lose…$"
+    .string "MIU: Kaybetmek içimi hüzünlendiriyor.\n"
+    .string "Ama yine de eğlenceliydi!$"
 
 SixIsland_WaterPath_Text_MiuNotEnoughMons::
-    .string "MIU: MIA and I are TWINS.\n"
-    .string "We want to battle together.$"
+    .string "MIU: MIA ve ben İKİZLERİZ.\n"
+    .string "Birlikte savaşmak istiyoruz.$"
 
 SixIsland_WaterPath_Text_MiaIntro::
-    .string "MIA: Hello, POKéMON!\n"
-    .string "It's time to battle!$"
+    .string "MIA: Merhaba, POKéMON!\n"
+    .string "Savaşmaya hazır mısın?$"
 
 SixIsland_WaterPath_Text_MiaDefeat::
-    .string "MIA: You're mean!\n"
-    .string "You're bad for winning!$"
+    .string "MIA: Çok kötüsün!\n"
+    .string "Kazandığın için utanmalısın!$"
 
 SixIsland_WaterPath_Text_MiaPostBattle::
     .string "MIA: Ohh…\n"
-    .string "I'm sorry, my POKéMON…$"
+    .string "Üzgünüm POKéMON'larım…$"
 
 SixIsland_WaterPath_Text_MiaNotEnoughMons::
-    .string "MIA: Oh, you only have one\n"
-    .string "POKéMON?\p"
-    .string "Don't you feel lonesome?$"
+    .string "MIA: Sadece bir POKéMON'un mu var?\p"
+    .string "Yalnız hissetmiyor musun?$"
 
 SixIsland_WaterPath_Text_WantedUltimateHorn::
-    .string "Wanted!\n"
-    .string "The Ultimate Horn!$"
+    .string "Aranıyor!\n"
+    .string "Nihai Boynuz!$"
 
 SixIsland_WaterPath_Text_RouteSign::
-    .string "WATER PATH\n"
-    .string "Leads to RUIN VALLEY$"
-
+    .string "SU YOLU\n"
+    .string "HARABE VADİ'ye gider$"

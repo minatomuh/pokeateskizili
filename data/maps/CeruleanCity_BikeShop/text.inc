@@ -1,50 +1,50 @@
 CeruleanCity_BikeShop_Text_WelcomeToBikeShop::
-    .string "Hi!\n"
-    .string "Welcome to our BIKE SHOP.\p"
-    .string "Have we got just the BIKE for\n"
-    .string "you!$"
+    .string "Merhaba!\n"
+    .string "Mağazamıza hoş geldiniz.\p"
+    .string "Sizin için mükemmel bir\n"
+    .string "BİSİKLET'imiz var!$"
 
 CeruleanCity_BikeShop_Text_SorryYouCantAffordIt::
-    .string "Sorry!\n"
-    .string "You can't afford it!$"
+    .string "Üzgünüm!\n"
+    .string "Onu alacak paranız yok!$"
 
 CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGo::
-    .string "Oh, that's…\p"
-    .string "A BIKE VOUCHER!\p"
-    .string "Okay!\n"
-    .string "Here you go!$"
+    .string "Oh, bu…\p"
+    .string "Bir BİSİKLET KUPONU!\p"
+    .string "Tamam!\n"
+    .string "İşte alabilirsin!$"
 
 CeruleanCity_BikeShop_Text_ExchangedVoucherForBicycle::
-    .string "{PLAYER} exchanged the\n"
-    .string "BIKE VOUCHER for a BICYCLE.$"
+    .string "{PLAYER} BİSİKLET KUPONU vererek\n"
+    .string "yenibir BİSİKLET aldı.$"
 
 CeruleanCity_BikeShop_Text_ThankYouComeAgain::
-    .string "Thank you!\n"
-    .string "Come back again sometime!$"
+    .string "Teşekkürler!\n"
+    .string "Yine bekleriz!$"
 
 CeruleanCity_BikeShop_Text_HowDoYouLikeNewBicycle::
-    .string "How do you like your new BICYCLE?\n"
-    .string "Do you like how it rides?\p"
-    .string "You can take it out on CYCLING\n"
-    .string "ROAD and even into caves!$"
+    .string "Yeni BİSİKLETİ nasıl buldunuz?\n"
+    .string "Kullanımı hoşunuza gitti mi?\p"
+    .string "Onu sürmek için BİSİKLET YOLU'na\n"
+    .string "gidebilir ve hatta mağaralarda bile\l"
+    .string "sürebilirsiniz!$"
 
 CeruleanCity_BikeShop_Text_MakeRoomForBicycle::
-    .string "You better make room for your\n"
-    .string "BICYCLE!$"
+    .string "BİSİKLET için yer açın!$"
 
 CeruleanCity_BikeShop_Text_CityBikeGoodEnoughForMe::
-    .string "A plain city bike is good enough\n"
-    .string "for me.\p"
-    .string "After all, you can't put a shopping\n"
-    .string "basket on a mountain bike.$"
+    .string "Sade bir şehir bisikleti\n"
+    .string "benim için yeterli.\p"
+    .string "Sonuçta, dağ bisikletine\n"
+    .string "bir sepet takamazsın.$"
 
 CeruleanCity_BikeShop_Text_BikesCoolButExpensive::
-    .string "These bikes are cool, but they're\n"
-    .string "way expensive!$"
+    .string "Bu bisikletler çok havalı,\n"
+    .string "ama çok pahalılar!$"
 
 CeruleanCity_BikeShop_Text_WowYourBikeIsCool::
-    .string "Wow.\n"
-    .string "Your BIKE is really cool!$"
+    .string "Vay canına.\n"
+    .string "BİSİKLETİN gerçekten çok havalı!$"
 
 @ Unused
 CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket::
@@ -53,5 +53,4 @@ CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket::
     .string "おりたたみ　じてんしゃ！$"
 
 CeruleanCity_BikeShop_Text_ShinyNewBicycle::
-    .string "A shiny new BICYCLE!$"
-
+    .string "Parlak yeni bir BİSİKLET!$"

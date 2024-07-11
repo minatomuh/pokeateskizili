@@ -1,113 +1,113 @@
 Route11_Text_HugoIntro::
-    .string "Win, lose, or draw!$"
+    .string "Kazan ya da kaybet!$"
 
 Route11_Text_HugoDefeat::
-    .string "Atcha!\n"
-    .string "Didn't go my way!$"
+    .string "Eyvah!\n"
+    .string "İstediğim gibi gitmedi!$"
 
 Route11_Text_HugoPostBattle::
-    .string "POKéMON is life!\n"
-    .string "And to live is to play games!$"
+    .string "POKéMON yaşam demek!\n"
+    .string "Ve yaşamak oyun oynamak demek!$"
 
 Route11_Text_JasperIntro::
-    .string "Competition!\n"
-    .string "I can't get enough!$"
+    .string "Rekabet!\n"
+    .string "Asla yeterince alamam!$"
 
 Route11_Text_JasperDefeat::
-    .string "I had a chance!$"
+    .string "Şansım vardı!$"
 
 Route11_Text_JasperPostBattle::
-    .string "You can't be a coward in the world\n"
-    .string "of POKéMON!$"
+    .string "POKéMON dünyasında\n"
+    .string "korkak olamazsın!$"
 
 Route11_Text_EddieIntro::
-    .string "Let's go, but don't cheat!$"
+    .string "Hadi başlayalım, ama hile yok!$"
 
 Route11_Text_EddieDefeat::
-    .string "Huh?\n"
-    .string "That's not right!$"
+    .string "Ne?\n"
+    .string "Bu doğru değil!$"
 
 Route11_Text_EddiePostBattle::
-    .string "I did my best.\n"
-    .string "I have no regrets.$"
+    .string "Elimden geleni yaptım.\n"
+    .string "Pişman değilim.$"
 
 Route11_Text_BraxtonIntro::
-    .string "Careful!\n"
-    .string "I'm laying down some cables!$"
+    .string "Dikkat!\n"
+    .string "Kablolar döşüyorum!$"
 
 Route11_Text_BraxtonDefeat::
-    .string "That was electric!$"
+    .string "O elektrik gibiydi!$"
 
 Route11_Text_BraxtonPostBattle::
-    .string "Spread the word to save energy!$"
+    .string "Enerji tasarrufu yapın!$"
 
 Route11_Text_DillonIntro::
-    .string "I just became a TRAINER.\n"
-    .string "But, I think I can win.$"
+    .string "Ben bir EĞİTMEN oldum.\n"
+    .string "Ama kazanabileceğimi düşünüyorum.$"
 
 Route11_Text_DillonDefeat::
-    .string "My POKéMON couldn't win…\n"
-    .string "Haven't they grown enough?$"
+    .string "POKéMON'um kazanamadı…\n"
+    .string "Yeterince güçlü değiller mi?$"
 
 Route11_Text_DillonPostBattle::
-    .string "What now?\n"
-    .string "Leave me alone!$"
+    .string "Şimdi ne olacak?\n"
+    .string "Beni yalnız bırak!$"
 
 Route11_Text_DirkIntro::
     .string "Fwahaha!\n"
-    .string "I have never lost!$"
+    .string "Hiç kaybetmedim!$"
 
 Route11_Text_DirkDefeat::
-    .string "My first loss!$"
+    .string "İlk defa kaybettim!$"
 
 Route11_Text_DirkPostBattle::
-    .string "You were just lucky, that's all.$"
+    .string "Sadece şanslıydın, hepsi bu.$"
 
 Route11_Text_DarianIntro::
-    .string "I have never won before…$"
+    .string "Hiç kazanamadım…$"
 
 Route11_Text_DarianDefeat::
-    .string "I saw this coming…$"
+    .string "Bunu bekliyordum…$"
 
 Route11_Text_DarianPostBattle::
-    .string "I was unlucky, as always.$"
+    .string "Her zamanki gibi şanssızdım.$"
 
 Route11_Text_YasuIntro::
-    .string "I'm the best in my class.\n"
-    .string "I train every morning.$"
+    .string "Sınıfımın en iyisiyim.\n"
+    .string "Her sabah antrenman yapıyorum.$"
 
 Route11_Text_YasuDefeat::
-    .string "Darn!\n"
-    .string "My POKéMON need to be stronger!$"
+    .string "Müsibet!\n"
+    .string "POKéMON'larımın daha güçlü\l"
+    .string "olması gerekiyor!$"
 
 Route11_Text_YasuPostBattle::
-    .string "There's a fat POKéMON that comes\n"
-    .string "down from the mountains.\p"
-    .string "I bet it'd be strong if you can\n"
-    .string "catch it.$"
+    .string "Dağlardan inen şişman\n"
+    .string "bir POKéMON var.\p"
+    .string "Eğer onu yakalayabilirsen\n"
+    .string "eminim güçlü olacaktır.$"
 
 Route11_Text_BernieIntro::
-    .string "Watch out for live wires!$"
+    .string "Elektrik tellerine dikkat et!$"
 
 Route11_Text_BernieDefeat::
-    .string "Whoa!\n"
-    .string "You spark plug!$"
+    .string "Vay!\n"
+    .string "Çok çarpıcı!$"
 
 Route11_Text_BerniePostBattle::
-    .string "Well, better get back to work.$"
+    .string "Eh, işe geri dönmeliyim.$"
 
 Route11_Text_DaveIntro::
-    .string "I raised my POKéMON carefully.\n"
-    .string "They should be ready by now!$"
+    .string "POKéMON'larıma iyi baktım.\n"
+    .string "Şimdi hazır olmaları gerekiyor!$"
 
 Route11_Text_DaveDefeat::
-    .string "Bye-bye!\n"
-    .string "Thank you, and good-bye!$"
+    .string "Elveda!\n"
+    .string "Hoşça kal, teşekkürler!$"
 
 Route11_Text_DavePostBattle::
     .string "Tch…\n"
-    .string "I better go find stronger ones!$"
+    .string "Daha güçlülerini bulmam gerek!$"
 
 Route11_Text_DiglettsCave::
-    .string "DIGLETT'S CAVE$"
-
+    .string "DIGLETT'İN MAĞARASI$"

@@ -1,28 +1,27 @@
 CinnabarIsland_Gym_Text_PhotoOfBlaineAndFuji::
-    .string "It's a photo of BLAINE and\n"
-    .string "MR. FUJI.\p"
-    .string "They're standing shoulder to\n"
-    .string "shoulder with big grins.$"
+    .string "BLAINE ve BAY FUJI'nin\n"
+    .string "bir fotoğrafı.\p" 
+    .string "Omuz omuza vermişler ve\n"
+    .string "gülümsüyorlar.$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_StudyMonsExtensively::
-    .string "We study POKéMON extensively\n"
-    .string "every day.\p"
-    .string "People often bring us rare POKéMON\n"
-    .string "for examination.$"
+    .string "Her gün POKéMON'lar üzerinde\n"
+    .string "çalışıyoruz.\p"
+    .string "İnsanlar nadir POKéMON'larını\n"
+    .string "incelememiz için getirirler.$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_PhotoOfLabFounderDrFuji::
-    .string "A photo of the LAB's founder…\n"
-    .string "DR. FUJI?!$"
+    .string "LAB'ın kurucusu DR. FUJI'nin\n"
+    .string "bir fotoğrafı!$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_MeetingRoomSign::
     .string "POKéMON LAB\n"
-    .string "Meeting Room$"
+    .string "Toplantı Odası$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_RAndDRoomSign::
     .string "POKéMON LAB\n"
-    .string "R & D Room$"
+    .string "Ar-Ge Odası$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_TestingRoomSign::
     .string "POKéMON LAB\n"
-    .string "Testing Room$"
-
+    .string "Test Odası$"

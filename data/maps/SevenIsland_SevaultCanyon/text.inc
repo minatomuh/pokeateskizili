@@ -1,130 +1,132 @@
 SevenIsland_SevaultCanyon_Text_CyndyIntro::
-    .string "My conditioning's in top form!$"
+.string "Kondisyonum mükemmel durumda!$"
 
 SevenIsland_SevaultCanyon_Text_CyndyDefeat::
-    .string "Huh?\n"
-    .string "Something's not right…$"
+.string "Hey!\n"
+.string "Bir şeyler yolunda gitmiyor…$"
 
 SevenIsland_SevaultCanyon_Text_CyndyPostBattle::
-    .string "The way I am now, I may have to\n"
-    .string "hold off on TRAINER TOWER…$"
+.string "Şu anki durumumla, sanırım\n"
+.string "EĞİTMEN KULESİ'ne katılmamak\l"
+.string "en iyisi…$"
 
 SevenIsland_SevaultCanyon_Text_EvanIntro::
-    .string "It doesn't matter if you happen to\n"
-    .string "have the strongest POKéMON…\p"
-    .string "It doesn't mean a thing if you don't\n"
-    .string "know how to use them properly!$"
+.string "En güçlü POKéMON'a sahip olmak\n"
+.string "önemli değil…\p"
+.string "Onları doğru kullanmayı\n"
+.string "bilmiyorsan, hiçbir anlamı yok!$"
 
 SevenIsland_SevaultCanyon_Text_EvanDefeat::
-    .string "You're a master at this.$"
+.string "Gerçekten ustasın.$"
 
 SevenIsland_SevaultCanyon_Text_EvanPostBattle::
-    .string "You see them every so often,\n"
-    .string "TRAINERS with awesome POKéMON\l"
-    .string "who have no idea what to do.\p"
-    .string "Before training POKéMON, TRAINERS\n"
-    .string "themselves need to grow up.$"
+.string "Bazen, en güçlü POKéMON'lara\n"
+.string "sahip EĞİTMENLER görürsünüz\l"
+.string "ama onları nasıl kullanacaklarını\l"
+.string "bilmezler.\p"
+.string "POKéMON eğitmeden önce,\n"
+.string "EĞİTMENLER'in kendilerinin\l"
+.string "büyümesi gerekir.$"
 
 SevenIsland_SevaultCanyon_Text_JacksonIntro::
-    .string "I work to protect the environment.\n"
-    .string "In turn, nature protects me!$"
+.string "Doğayı korumak için çalışıyorum.\n"
+.string "Karşılığında, doğa da beni koruyor!$"
 
 SevenIsland_SevaultCanyon_Text_JacksonDefeat::
-    .string "Whoa! You're tough!\n"
-    .string "How about protecting me?$"
+.string "Vay! Çok güçlüsün!\n"
+.string "Beni de korur musun?$"
 
 SevenIsland_SevaultCanyon_Text_JacksonPostBattle::
-    .string "From far out among the stars, our\n"
-    .string "planet is just a drop of water.\p"
-    .string "But we want to protect that drop\n"
-    .string "of water for everyone.$"
+.string "Uzaydan bakıldığında, gezegenimiz\n"
+.string "sadece bir damla su.\p"
+.string "Ama biz o damla suyu herkes için\n"
+.string "korumak istiyoruz.$"
 
 SevenIsland_SevaultCanyon_Text_KatelynIntro::
-    .string "Those shoes you have are pretty\n"
-    .string "snazzy.$"
+.string "O ayakkabılar gerçekten çok şık.$"
 
 SevenIsland_SevaultCanyon_Text_KatelynDefeat::
-    .string "You're hot stuff in spite of your\n"
-    .string "cute looks.$"
+.string "Görünüşüne rağmen, çok güçlüsün.$"
 
 SevenIsland_SevaultCanyon_Text_KatelynPostBattle::
-    .string "Your mom bought those snazzy\n"
-    .string "RUNNING SHOES for you?\p"
-    .string "She must adore you.$"
+.string "Annemin sana bu şık\n"
+.string "KOŞU AYAKKABILARINI aldığını\l"
+.string "mı söyledin?\p"
+.string "Seni çok seviyor olmalı.$"
 
 SevenIsland_SevaultCanyon_Text_LeroyIntro::
-    .string "You look strong.\n"
-    .string "Let me battle you, please!$"
+.string "Çok güçlü görünüyorsun.\n"
+.string "Lütfen benimle savaş!$"
 
 SevenIsland_SevaultCanyon_Text_LeroyDefeat::
-    .string "I knew it!\n"
-    .string "You're as tough as I thought!$"
+.string "Bunu biliyordum!\n"
+.string "Düşündüğüm kadar güçlüymüşsün!$"
 
 SevenIsland_SevaultCanyon_Text_LeroyPostBattle::
-    .string "The way you battle has given me\n"
-    .string "a lot of useful data.\p"
-    .string "Thanks so much!$"
+.string "Savaş stilin bana çok faydalı\n"
+.string "bilgiler verdi.\p"
+.string "Çok teşekkürler!$"
 
 SevenIsland_SevaultCanyon_Text_MichelleIntro::
-    .string "I was given the best possible\n"
-    .string "education to become this strong.\p"
-    .string "I don't want to lose to anyone!$"
+.string "En güçlü olmak için en iyi\n"
+.string "eğitimi aldım.\p"
+.string "Kimseye kaybetmek istemiyorum!$"
 
 SevenIsland_SevaultCanyon_Text_MichelleDefeat::
-    .string "Thank you. I feel like I've been\n"
-    .string "set free by losing to you.$"
+.string "Teşekkürler. Sana kaybederek özgür\n"
+.string "hissediyorum.$"
 
 SevenIsland_SevaultCanyon_Text_MichellePostBattle::
-    .string "For some reason, I get furious\n"
-    .string "over the slightest thing.\p"
-    .string "I'll calm myself by breathing\n"
-    .string "deeply.$"
+.string "Nedense, en ufak şeylere bile\n"
+.string "çok öfkeleniyorum.\p"
+.string "Derin nefes alarak sakinleşeceğim.$"
 
 SevenIsland_SevaultCanyon_Text_LexIntro::
-    .string "LEX: My darling NYA, together\n"
-    .string "we could win!$"
+.string "LEX: Sevgilim NYA, birlikte\n"
+.string "kazanabiliriz!$"
 
 SevenIsland_SevaultCanyon_Text_LexDefeat::
-    .string "LEX: I seem to have been too\n"
-    .string "careless…$"
+.string "LEX: Sanırım biraz dikkatsiz\n"
+.string "davranmışım…$"
 
 SevenIsland_SevaultCanyon_Text_LexPostBattle::
-    .string "LEX: I think it was a good\n"
-    .string "experience for NYA.\p"
-    .string "You have my gratitude.$"
+.string "LEX: NYA için iyi bir deneyim\n"
+.string "olduğunu düşünüyorum.\p"
+.string "Teşekkürler.$"
 
 SevenIsland_SevaultCanyon_Text_LexNotEnoughMons::
-    .string "LEX: May I ask you to battle the\n"
-    .string "both of us at the same time?$"
+.string "LEX: İkimize aynı anda meydan\n"
+.string "okumanızı isteyebilir miyim?$"
 
 SevenIsland_SevaultCanyon_Text_NyaIntro::
-    .string "NYA: I'll do my best so I won't\n"
-    .string "drag down my mentor, LEX!$"
+.string "NYA: Akıl hocam LEX'i \n"
+.string "utandırmamak için\l"
+.string "elimden geleni yapacağım!$"
 
 SevenIsland_SevaultCanyon_Text_NyaDefeat::
-    .string "NYA: Oh, no…\n"
-    .string "I'm so sorry, I…$"
+.string "NYA: Ah, hayır…\n"
+.string "Üzgünüm, ben…$"
 
 SevenIsland_SevaultCanyon_Text_NyaPostBattle::
-    .string "NYA: I think I'm going to need\n"
-    .string "much more seasoning and tutoring\l"
-    .string "under LEX…\p"
-    .string "…So, LEX, please, may I stay with\n"
-    .string "you like this?$"
+.string "NYA: Sanırım LEX'in yanında\n"
+.string "daha fazla eğitim ve rehberliğe\l"
+.string "ihtiyacım var…\p"
+.string "…LEX, lütfen, yanında kalıp\n"
+.string "öğrenmeye devam edebilir miyim?$"
 
 SevenIsland_SevaultCanyon_Text_NyaNotEnoughMons::
-    .string "NYA: I'm sorry, but may we battle\n"
-    .string "in two-on-two style?$"
+.string "NYA: Özür dilerim, ama ikişerli\n"
+.string "stilde savaşabilir miyiz?$"
 
 SevenIsland_SevaultCanyon_Text_RouteSign::
-    .string "SEVAULT CANYON\n"
-    .string "TANOBY RUINS AHEAD$"
+.string "SEVAULT KANYONU\n"
+.string "TANOBY HARABELERİ ÖNDE$"
 
 SevenIsland_SevaultCanyon_Text_BrunoTrainedWithBrawly::
-    .string "Training by oneself is certainly\n"
-    .string "not a bad thing.\p"
-    .string "But it's also not bad to aim for\n"
-    .string "the top with a partner.\p"
-    .string "Even BRUNO…\n"
-    .string "He trained with a fellow by the\l"
-    .string "name of BRAWLY before.$"
+.string "Tabii ki tek başına antrenman\n"
+.string "yapmak kötü bir şey değil.\p"
+.string "Ama bir ortakla zirveye ulaşmak\n"
+.string "de kötü bir şey değil.\p"
+.string "Hatta BRUNO bile…\l"
+.string "BRAWLY adında biriyle antrenman\l"
+.string "yapmıştı.$"

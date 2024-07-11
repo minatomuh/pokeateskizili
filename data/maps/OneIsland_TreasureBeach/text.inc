@@ -1,18 +1,18 @@
 OneIsland_TreasureBeach_Text_AmaraIntro::
-    .string "Lying back, rocked by the waves…\n"
-    .string "It's exquisite.$"
+    .string "Dalgaların salladığı bir\n"
+    .string "salıncakta uzanmak…\p"
+    .string "Tarifsiz bir duygu.$"
 
 OneIsland_TreasureBeach_Text_AmaraDefeat::
-    .string "I lost…\n"
-    .string "It feels awful.$"
+    .string "Kaybettim…\n"
+    .string "Kötü hissettiriyor.$"
 
 OneIsland_TreasureBeach_Text_AmaraPostBattle::
-    .string "The sea is pleasantly warm in these\n"
-    .string "parts.$"
+    .string "Buradaki deniz keyifle\n"
+    .string "yüzülebilecek kadar sıcak.$"
 
 OneIsland_TreasureBeach_Text_GoodThingsWashUpOnBeach::
-    .string "Good things get washed up by the\n"
-    .string "ocean current onto this beach.\p"
-    .string "That's why I often come here for\n"
-    .string "some beachcombing.$"
-
+    .string "Okyanus akıntısı, iyi şeyleri bu\n"
+    .string "plaja sürükler.\p"
+    .string "Bu yüzden sık sık sahilde yürüyüşe\n"
+    .string "çıkarım.$"

@@ -1,47 +1,46 @@
 LavenderTown_House2_Text_WantMeToRateNicknames::
-    .string "Hello, hello!\n"
-    .string "I am the official NAME RATER!\p"
-    .string "Want me to rate the nicknames of\n"
-    .string "your POKéMON?$"
+    .string "Merhaba, merhaba!\n"
+    .string "Ben İSİM DEĞERLENDİRİCİ'yim!\p"
+    .string "POKéMON'larının takma adlarını\n"
+    .string "değerlendirmemi ister misin?$"
 
 LavenderTown_House2_Text_CritiqueWhichMonsNickname::
-    .string "Which POKéMON's nickname should\n"
-    .string "I critique?$"
+    .string "Hangi POKéMON'un takma adını\n"
+    .string "değerlendirmemi istersin?$"
 
 LavenderTown_House2_Text_GiveItANicerName::
-    .string "{STR_VAR_1}, is it?\n"
-    .string "That is a decent nickname!\p"
-    .string "But, would you like me to give it\n"
-    .string "a nicer name?\p"
-    .string "How about it?$"
+    .string "{STR_VAR_1}, öyle mi?\n"
+    .string "Bu oldukça iyi bir takma ad!\p"
+    .string "Fakat, daha güzel bir isim\n"
+    .string "koymamı ister misin?\p"
+    .string "Ne dersin?$"
 
 LavenderTown_House2_Text_WhatShallNewNicknameBe::
-    .string "Ah, good. Then, what shall the new\n"
-    .string "nickname be?$"
+    .string "Peki, yeni takma adı ne olsun?\n"
+    .string "Bunu söyle!$"
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsName::
-    .string "Done! From now on, this POKéMON\n"
-    .string "shall be known as {STR_VAR_1}!\p"
-    .string "It is a better name than before!\n"
-    .string "How fortunate for you!$"
+    .string "Tamam! Bundan böyle, bu POKéMON\n"
+    .string "{STR_VAR_1} olarak anılacak!\p"
+    .string "Önceki isminden daha iyi!\n"
+    .string "Ne kadar şanslısın!$"
 
 LavenderTown_House2_Text_ISeeComeVisitAgain::
-    .string "I see.\n"
-    .string "Do come visit again.$"
+    .string "Anladım.\n"
+    .string "Tekrar gelmeyi unutma.$"
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
-    .string "Done! From now on, this POKéMON\n"
-    .string "shall be known as {STR_VAR_1}!\p"
-    .string "It looks no different from before,\n"
-    .string "and yet, this is vastly superior!\p"
-    .string "How fortunate for you!$"
+    .string "Tamam! Bundan böyle, bu POKéMON\n"
+    .string "{STR_VAR_1} olarak anılacak!\p"
+    .string "Öncekiyle aynı gibi görünse de,\n"
+    .string "bu çok daha iyi!\p"
+    .string "Ne kadar şanslısın!$"
 
 LavenderTown_House2_Text_TrulyImpeccableName::
-    .string "{STR_VAR_1}, is it?\n"
-    .string "That is a truly impeccable name!\p"
-    .string "Take good care of {STR_VAR_1}!$"
+    .string "{STR_VAR_1}, öyle mi?\n"
+    .string "Bu gerçekten kusursuz bir isim!\p"
+    .string "{STR_VAR_1}'e iyi bak!$"
 
 LavenderTown_House2_Text_ThatIsMerelyAnEgg::
-    .string "Now, now.\n"
-    .string "That is merely an EGG!$"
-
+    .string "Şimdi, şimdi.\n"
+    .string "Bu sadece bir YUMURTA!$"

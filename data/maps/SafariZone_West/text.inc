@@ -1,20 +1,19 @@
 SafariZone_West_Text_RestHouse::
-    .string "REST HOUSE$"
+    .string "DİNLENME EVİ$"
 
 SafariZone_West_Text_PleaseFindWardensLostTeeth::
-    .string "REQUEST NOTICE\p"
-    .string "Please find the SAFARI WARDEN's\n"
-    .string "lost GOLD TEETH.\l"
-    .string "They're around here somewhere.\p"
-    .string "Reward offered!\n"
-    .string "Contact: WARDEN$"
+    .string "İSTEK BİLDİRİMİ\p"
+    .string "Safari Muhafızının kayıp\n"
+    .string "ALTIN DİŞLERİNİ bulun.\l"
+    .string "Bir yerlerde burada olmalı.\p"
+    .string "Ödül verilecektir!\n"
+    .string "İletişim: BEKÇİ$"
 
 SafariZone_West_Text_SearchForSecretHouse::
-    .string "TRAINER TIPS\p"
-    .string "Zone Exploration Campaign!\n"
-    .string "The Search for the SECRET HOUSE!$"
+    .string "EĞİTMEN İPUCU\p"
+    .string "Bölge Keşif Kampanyası!\n"
+    .string "GİZLİ EV'i bulun!$"
 
 SafariZone_West_Text_AreaSign::
-    .string "AREA 3\n"
-    .string "EAST: CENTER AREA$"
-
+    .string "ALAN 3\n"
+    .string "DOĞU: MERKEZ ALAN$"

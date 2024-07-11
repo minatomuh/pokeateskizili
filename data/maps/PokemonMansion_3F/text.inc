@@ -1,35 +1,36 @@
 PokemonMansion_Text_PressSecretSwitchJP::
-    .string "ひみつの　スイッチが　ある！\p"
-    .string "おして　みますか？$"
+    .string "Gizli bir anahtar var!\p"
+    .string "Basıp görmek ister misin?$"
 
 PokemonMansion_Text_LetsTryIt::
-    .string "おしてみよう！　‥ポチッとな$"
+    .string "Deneyelim! ‥Tık$"
 
 PokemonMansion_Text_GaveUpOnPressingSwitch::
-    .string "おすのは　あきらめた$"
+    .string "Basmaktan vazgeçti$"
 
 PokemonMansion_1F_Text_SimonIntro::
-    .string "This place is, like, huge!$"
+    .string "Bu yer, çok büyük!$"
 
 PokemonMansion_1F_Text_SimonDefeat::
-    .string "Ayah!$"
+    .string "Ay!$"
 
 PokemonMansion_1F_Text_SimonPostBattle::
-    .string "I wonder where my partner went.$"
+    .string "Ortağım nereye gitti merak ediyorum.$"
 
 PokemonMansion_1F_Text_BraydonIntro::
-    .string "My mentor once lived here.$"
+    .string "Akıl hocam bir zamanlar burada\n"
+    .string "yaşamıştı.$"
 
 PokemonMansion_1F_Text_BraydonDefeat::
-    .string "Whew!\n"
-    .string "Overwhelming!$"
+    .string "Vaov!\n"
+    .string "Ezici!$"
 
 PokemonMansion_1F_Text_BraydonPostBattle::
-    .string "So, you're stuck?\n"
-    .string "Try jumping off over there!$"
+    .string "Demek sıkıştın?\n"
+    .string "Oradan atlayabilirsin!$"
 
 PokemonMansion_1F_Text_MewGaveBirthToMewtwo::
-    .string "Diary: Feb. 6\n"
-    .string "MEW gave birth.\p"
-    .string "We named the newborn MEWTWO.$"
+    .string "Günlük: 6 Şubat\n"
+    .string "MEW doğurdu.\p"
+    .string "Yenidoğan'a MEWTWO adını verdik.$"
 

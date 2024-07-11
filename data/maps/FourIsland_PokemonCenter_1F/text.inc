@@ -1,45 +1,44 @@
-@ The 5 texts below are supposed to be in FourIsland_House1
+@ Beş metin aşağıda FourIsland_House1 olarak görünmesi gerekiyor
 Text_BodySlamTeach::
-    .string "Ready?\n"
-    .string "Boing!\p"
-    .string "We're having a BODY SLAM match\n"
-    .string "to see who wimps out first.\p"
-    .string "If you were to join us, you'd be\n"
-    .string "squashed like a bug, though…\p"
-    .string "How about I teach BODY SLAM to\n"
-    .string "a POKéMON of yours instead?$"
+    .string "Hazır mısın?\n"
+    .string "Zıpla!\p"
+    .string "Bir VÜCUT VURUŞU maçı yapıyoruz\n"
+    .string "ilk kim pes edecek.\p"
+    .string "Katılırsan, bir böcek gibi ezilirsin…\p"
+    .string "VÜCUT VURUŞU hareketini bir\n"
+    .string "POKéMON'una öğretmemi ister misin?$"
 
 Text_BodySlamDeclined::
-    .string "Come again!\n"
-    .string "Boing!$"
+    .string "Tekrar gel!\n"
+    .string "Zıpla!$"
 
 Text_BodySlamWhichMon::
-    .string "Which POKéMON wants to learn how\n"
-    .string "to BODY SLAM?$"
+    .string "Hangi POKéMON VÜCUT VURUŞU\n"
+    .string "hareketini öğrenmek ister?$"
 
 Text_BodySlamTaught::
-    .string "Boioing!$"
+    .string "Zıplayarak öğrendim!$"
 
 FourIsland_House1_Text_FatMan::
     .string "それ　ぼよーん！\n"
     .string "おまえ　おもいなあー！$"
 
 FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave::
-    .string "There's a rare kind of ICE POKéMON\n"
-    .string "that lives in the cave.\p"
-    .string "We get a lot of visitors hoping to\n"
-    .string "see that POKéMON.$"
+    .string "Mağarada yaşayan nadir bir\n"
+    .string "BUZ POKéMON'u var.\p"
+    .string "Bu POKéMON'u görmek isteyen\n"
+    .string "birçok ziyaretçimiz var.$"
 
 FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
-    .string "Oh? A POKéMON EGG?\n"
-    .string "…I have no idea.\p"
-    .string "…Oh, wait. The DAY-CARE people\n"
-    .string "in town were saying something.\p"
-    .string "They said that they'd found EGGS\n"
-    .string "before on their property.$"
+    .string "Oh? Bir POKéMON YUMURTASI mı?\n"
+    .string "…Bunun hakkında hiçbir fikrim yok.\p"
+    .string "…Dur, bekle.\n"
+    .string "Şehirdeki GÜNDÜZ BAKIMI insanları\l"
+    .string "bir şeyler söylüyordu.\p"
+    .string "Mülklerinde daha önce YUMURTALAR\n"
+    .string "bulduklarını söylediler.$"
 
 FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrived::
-    .string "What's this?\p"
-    .string "The new POKéMON JOURNAL hasn't\n"
-    .string "arrived on this island?$"
-
+    .string "Bu nedir?\p"
+    .string "Yeni POKéMON DERGİSİ bu adaya\n"
+    .string "henüz ulaşmadı mı?$"

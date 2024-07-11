@@ -1,92 +1,99 @@
 CeruleanCity_Gym_Text_MistyIntro::
-    .string "Hi, you're a new face!\p"
-    .string "Only those TRAINERS who have a\n"
-    .string "policy about POKéMON can turn pro.\p"
-    .string "What is your approach when you\n"
-    .string "catch and train POKéMON?\p"
-    .string "My policy is an all-out offensive\n"
-    .string "with WATER-type POKéMON!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "Merhaba, burada yenisin!\p"
+    .string "Sadece POKéMON hakkında bir\l"
+    .string "politikası olan EĞİTMENLER\n"
+    .string "profesyonel olabilir.\p"
+    .string "POKéMON'u yakalayıp eğitirken\n"
+    .string "yaklaşımın nedir?\p"
+    .string "Benim politikam, SU tipi\n"
+    .string "POKéMON'larla tüm gücüyle\l"
+    .string "saldırmaktır!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
-    .string "TM03 teaches WATER PULSE.\p"
-    .string "Use it on an aquatic POKéMON!$"
+    .string "TM03 SU VURUŞU öğretir.\p"
+    .string "Onu su POKéMON'u üstünde kullan!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
-    .string "The CASCADEBADGE makes all\n"
-    .string "POKéMON up to Lv. 30 obey.\p"
-    .string "That includes even outsiders you\n"
-    .string "got in trades.\p"
-    .string "There's more. You can now use CUT\n"
-    .string "anytime, even out of battle.\p"
-    .string "You can CUT down small trees to\n"
-    .string "open new pathways.\p"
-    .string "You can also have my favorite TM.$"
+    .string "CASCADEBADGE, tüm POKéMON'ların\n"
+    .string "SV. 30'a kadar itaat etmesini\n"
+    .string "sağlar.\p"
+    .string "Buna takas yoluyla elde ettiğin\n"
+    .string "yabancı POKéMON'lar da dahil.\p"
+    .string "Daha da fazlası var. Artık KES\n"
+    .string "hamlesini herhangi bir zamanda\l"
+    .string "hatta savaş dışı kullanabilirsin.\p"
+    .string "Küçük ağaçları keserek yeni\n"
+    .string "yollar açabilirsin.\p"
+    .string "Ayrıca favori TM'imi de alabilirsin.$"
 
 CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
-    .string "{PLAYER} received TM03\n"
-    .string "from MISTY.$"
+    .string "{PLAYER}, MISTY'den TM03\n"
+    .string "aldı.$"
 
 CeruleanCity_Gym_Text_BetterMakeRoomForThis::
-    .string "You better make room for this!$"
+    .string "Bunun için yer açmalısın!$"
 
 CeruleanCity_Gym_Text_MistyDefeat::
-    .string "Wow!\n"
-    .string "You're too much!\p"
-    .string "All right!\p"
-    .string "You can have the CASCADEBADGE to\n"
-    .string "show you beat me.$"
+    .string "Vay canına!\n"
+    .string "Çok iyisin!\p"
+    .string "Tamam!\p"
+    .string "Çok iyi performans gösterdin, o\n"
+    .string "yüzden CASCADEBADGE'i sana\n"
+    .string "veriyorum.$"
 
 CeruleanCity_Gym_Text_DianaIntro::
-    .string "What? You?\n"
-    .string "I'm more than good enough for you!\p"
-    .string "MISTY won't have to be bothered.$"
+    .string "Ne? Sen mi?\n"
+    .string "Sana karşı yeterince iyiyim!\p"
+    .string "MISTY'yi rahatsız etmeye gerek\n"
+    .string "yok.$"
 
 CeruleanCity_Gym_Text_DianaDefeat::
-    .string "You overwhelmed me!$"
+    .string "Beni yendin!$"
 
 CeruleanCity_Gym_Text_DianaPostBattle::
-    .string "You have to face other TRAINERS\n"
-    .string "to see how good you really are.$"
+    .string "Diğer EĞİTMENLERE karşı\n"
+    .string "savaşarak gerçekten ne kadar\l"
+    .string "iyi olduğunu görmelisin.$"
 
 CeruleanCity_Gym_Text_LuisIntro::
-    .string "Splash!\p"
-    .string "I'm first up!\n"
-    .string "Let's do it!$"
+    .string "Çabuk!\p"
+    .string "İlk ben varım!\n"
+    .string "Hadi başlayalım!$"
 
 CeruleanCity_Gym_Text_LuisDefeat::
-    .string "That can't be!$"
+    .string "Bu olmamalıydı!$"
 
 CeruleanCity_Gym_Text_LuisPostBattle::
-    .string "MISTY is a TRAINER who's going to\n"
-    .string "keep improving.\p"
-    .string "She won't lose to someone like you!$"
+    .string "MISTY, kendini sürekli olarak\n"
+    .string "geliştiren bir EĞİTMEN.\p"
+    .string "Sana yenilmeyecek!$"
 
 CeruleanCity_Gym_Text_GymGuyAdvice::
-    .string "Yo!\n"
-    .string "Champ in the making!\p"
-    .string "Let me give you some advice!\p"
-    .string "The LEADER, MISTY, is a pro who\n"
-    .string "uses WATER-type POKéMON.\p"
-    .string "You can drain all their water with\n"
-    .string "GRASS-type POKéMON.\p"
-    .string "Or, you might use ELECTRIC-type\n"
-    .string "POKéMON and zap them!$"
+    .string "Hey!\n"
+    .string "Şampiyon adayı!\p"
+    .string "Bir tavsiyede bulunayım!\p"
+    .string "LİDER MISTY, SU tipi\n"
+    .string "POKéMON'ları kullanan bir\l"
+    .string "profesyoneldir.\p"
+    .string "Tüm suyunu ÇİMEN tipi\n"
+    .string "POKéMON'larla emebilirsin.\p"
+    .string "Ya da ELEKTRİK tipi POKéMON\n"
+    .string "kullanıp onları çarpabilirsin!$"
 
 CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
-    .string "You beat MISTY!\n"
-    .string "See, what'd I tell ya?\p"
-    .string "You and me, kid, we make a pretty\n"
-    .string "darn-good team!$"
+    .string "MISTY'yi yendin!\n"
+    .string "Bak, sana ne demiştim?\p"
+    .string "Sen ve ben, çocuk, oldukça iyi\n"
+    .string "bir takım oluruz!$"
 
 CeruleanCity_Gym_Text_GymStatue::
-    .string "CERULEAN POKéMON GYM\n"
-    .string "LEADER: MISTY\p"
-    .string "WINNING TRAINERS:\n"
+    .string "CERULEAN POKéMON SALONU\n"
+    .string "LİDER: MISTY\p"
+    .string "KAZANAN EĞİTMENLER:\n"
     .string "{RIVAL}$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
-    .string "CERULEAN POKéMON GYM\n"
-    .string "LEADER: MISTY\p"
-    .string "WINNING TRAINERS:\n"
+    .string "CERULEAN POKéMON SALONU\n"
+    .string "LİDER: MISTY\p"
+    .string "KAZANAN EĞİTMENLER:\n"
     .string "{RIVAL}, {PLAYER}$"
-

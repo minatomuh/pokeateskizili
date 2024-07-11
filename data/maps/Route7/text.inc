@@ -1,4 +1,3 @@
-Route7_Text_UndergroundPathSign::
-    .string "UNDERGROUND PATH\n"
-    .string "CELADON CITY - LAVENDER TOWN$"
-
+Route7_Text_UndergroundPathSign:
+    .string "ALT GEÇİT YOLU\n"
+    .string "CELADON ŞEHRİ - LAVENDER KASABASI$"

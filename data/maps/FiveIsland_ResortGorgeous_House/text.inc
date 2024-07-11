@@ -1,68 +1,67 @@
 FiveIsland_ResortGorgeous_House_Text_PleaseHearMyWish::
-    .string "SELPHY: Oh?\n"
-    .string "Do I know you from somewhere?\p"
-    .string "Oh, but that doesn't matter.\p"
-    .string "I am exquisitely bored.\n"
-    .string "Please, hear my wish.$"
+    .string "SELPHY: Ah evet?\n"
+    .string "Tanışıyor muyuz sanki?\p"
+    .string "Ah, ama önemli değil.\p"
+    .string "Çok sıkıldım.\n"
+    .string "Lütfen, dileğimi gerçekleştirin.$"
 
 FiveIsland_ResortGorgeous_House_Text_WishToSeeMonPlease::
-    .string "I wish to see a POKéMON.\n"
-    .string "A darling {STR_VAR_1}.\p"
-    .string "I want to see one right away.\n"
-    .string "Please, make my wish come true.$"
+    .string "Bir POKéMON görmek istiyorum.\n"
+    .string "Tatlı bir {STR_VAR_1}.\p"
+    .string "Hemen görmek istiyorum.\n"
+    .string "Lütfen dileğimi gerçekleştirin.$"
 
 FiveIsland_ResortGorgeous_House_Text_OhImTiredOfWaiting::
-    .string "SELPHY: Oh, I'm tired of this.\n"
-    .string "I'm tired of waiting for you.\p"
-    .string "I'll forgive you this time, but\n"
-    .string "please don't fail me next time.$"
+    .string "SELPHY: Ah, sıkıldım.\n"
+    .string "Sizi beklemekten yoruldum.\p"
+    .string "Bu seferlik affediyorum,\n"
+    .string "ama bir daha böyle olmasın.$"
 
 FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou::
-    .string "SELPHY: Oh, hello, there.\p"
-    .string "Oh, my gracious. That must be the\n"
-    .string "{STR_VAR_1} you caught for me.\p"
-    .string "Giggle…\n"
-    .string "I see a resemblance to you.\p"
-    .string "Thank you so kindly.\p"
+    .string "SELPHY: Ah, merhaba.\p"
+    .string "Ah, lütfen. O, benim için\n"
+    .string "yakaladığın {STR_VAR_1} olmalı.\p"
+    .string "Kıkır kıkır…\n"
+    .string "Sana benziyor.\p"
+    .string "Çok naziksin.\p"
     .string "… …  … …  … …\n"
-    .string "Is something the matter?\p"
-    .string "You may leave.\p"
+    .string "Bir sorun mu var?\p"
+    .string "Gidebilirsin.\p"
     .string "… …  … …  … …\n"
-    .string "Oh, fine. I understand now.\p"
+    .string "Ah, peki. Şimdi anlıyorum.\p"
     .string "SEBASTIAN!\n"
-    .string "I need you here this instant!$"
+    .string "Hemen yanıma gelmelisin!$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerYesMyLady::
-    .string "Butler: Yes, my lady.$"
+    .string "Kahya: Emredersiniz, hanımefendi.$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyGiveTokenOfAppreciation::
-    .string "SELPHY: See to it that this person\n"
-    .string "is given a token of appreciation.$"
+    .string "SELPHY: Bu kişiye bir teşekkür\n"
+    .string "hediyesi verilmesini sağlayın.$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerIShallDoAsYouBid::
-    .string "Butler: I shall do as you bid,\n"
-    .string "my lady.$"
+    .string "Kahya: Emriniz olur,\n"
+    .string "hanımefendi.$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerPleaseAcceptThisAsHerThanks::
-    .string "Butler: I sincerely thank you for\n"
-    .string "pleasing Lady SELPHY.\p"
-    .string "Please accept this as her thanks…$"
+    .string "Kahya: Lütfen, hanımefendi\n"
+    .string "SELPHY'yi memnun ettiğiniz için\l"
+    .string "teşekkür ediyorum. Lütfen bunu\l"
+    .string "kabul edin.$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerBagAppearsToBeFull::
-    .string "Butler: Your BAG appears to be\n"
-    .string "unfortunately full.$"
+    .string "Kahya: Çantanız maalesef\n"
+    .string "dolmuş gibi görünüyor.$"
 
 FiveIsland_ResortGorgeous_House_Text_OhHowDisappointing::
-    .string "Oh…\n"
-    .string "How disappointing.$"
+    .string "Ah…\n"
+    .string "Ne yazık.$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyWishYouBestOfLuck::
-    .string "SELPHY: I wish you the best of\n"
-    .string "luck.$"
+    .string "SELPHY: Şansınız bol olsun.$"
 
 FiveIsland_ResortGorgeous_House_Text_LadySelphySmileHasBrillianceOfSun::
-    .string "Butler: The smile of Lady SELPHY\n"
-    .string "has the brilliance of the sun.\p"
-    .string "Please, I beg you to bring joy\n"
-    .string "to Lady SELPHY.$"
-
+    .string "Kahya: Hanımefendi SELPHY'nin\n"
+    .string "gülümsemesi güneş kadar parlak.\p"
+    .string "Lütfen, hanımefendi SELPHY'ye\n"
+    .string "mutluluk verin.$"

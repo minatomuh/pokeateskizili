@@ -1,8 +1,7 @@
 FiveIsland_House2_Text_MeadowBelongedToFamily::
-    .string "That MEADOW has belonged to our\n"
-    .string "family for generations.\p"
-    .string "I should have had a giant mansion\n"
-    .string "built on it.\p"
-    .string "It would be preferable to having\n"
-    .string "those thugs run wild on it!$"
-
+    .string "O ÇAYIR nesiller boyu ailemize\n"
+    .string "aitti.\p"
+    .string "Üzerine dev bir malikâne\n"
+    .string "inşa etmek isterdim.\p"
+    .string "Orada haydutların pis işler\n"
+    .string "yapmasından daha iyi olurdu!$"

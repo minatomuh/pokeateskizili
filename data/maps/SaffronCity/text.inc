@@ -1,115 +1,113 @@
 SaffronCity_Text_WhatDoYouWantGetLost::
-    .string "What do you want?\n"
-    .string "Get lost!$"
+.string "Ne istiyorsun?\n"
+.string "Kayıp ol!$"
 
 SaffronCity_Text_BossTakeTownForTeamRocket::
-    .string "BOSS said he'll take this town\n"
-    .string "in the name of TEAM ROCKET!$"
+.string "PATRON bu şehri ROKET TAKIMI\n"
+.string "adına ele geçireceğini söyledi!$"
 
 SaffronCity_Text_DontGetDefiantOrIllHurtYou::
-    .string "Don't get defiant!\n"
-    .string "Or I'll have to hurt you!$"
+.string "Asi olma!\n"
+.string "Yoksa sana zarar verebilirim!$"
 
 SaffronCity_Text_SaffronBelongsToTeamRocket::
-    .string "SAFFRON belongs to TEAM ROCKET!$"
+.string "SAFFRON, ROKET TAKIMI'na ait!$"
 
 SaffronCity_Text_CriminalLifeMakesMeFeelAlive::
-    .string "My life as a criminal makes me feel\n"
-    .string "so alive!$"
+.string "Bir suçlu olarak yaşamım beni\n"
+.string "çok canlı hissettiriyor!$"
 
 SaffronCity_Text_WatchWhereYoureWalking::
-    .string "Ow!\n"
-    .string "Watch where you're walking!$"
+.string "Auv!\n"
+.string "Yürüdüğün yere dikkat et!$"
 
 SaffronCity_Text_WeCanExploitMonsAroundWorld::
-    .string "With SILPH under control, we can\n"
-    .string "exploit POKéMON around the world!\p"
-    .string "We'll get stinking rich, yeahah!$"
+.string "SILPH kontrolümüz altında,\n"
+.string "dünyadaki POKéMON'ları kullanabiliriz!\p"
+.string "Pis zengin olacağız, evet!$"
 
 SaffronCity_Text_YouBeatTeamRocket::
-    .string "You beat TEAM ROCKET all alone?\n"
-    .string "That's amazing!$"
+.string "ROKET TAKIMI'nı tek başına yendin mi?\n"
+.string "Bu inanılmaz!$"
 
 SaffronCity_Text_SafeToGoOutAgain::
-    .string "Yeah! TEAM ROCKET is gone!\n"
-    .string "It's safe to go out again!$"
+.string "Evet! ROKET TAKIMI gitti!\n"
+.string "Tekrar dışarı çıkmak güvenli!$"
 
 SaffronCity_Text_PeopleComingBackToSaffron::
-    .string "People fled from here in droves\n"
-    .string "when those ROCKETS came.\p"
-    .string "They should be flocking back to\n"
-    .string "SAFFRON now.$"
+.string "ROKET TAKIMI gelince\n"
+.string "insanlar buradan kaçtılar.\p"
+.string "Artık SAFFRON'a geri dönmeliler.$"
 
 SaffronCity_Text_FlewHereOnPidgeot::
-    .string "I flew here on my PIDGEOT when\n"
-    .string "I read about SILPH.\p"
-    .string "It's already over?\n"
-    .string "I missed the media action…$"
+.string "SILPH'i haberlerde okuyunca\n"
+.string "PIDGEOT'umla buraya uçtum.\p"
+.string "Çoktan bitti mi?\n"
+.string "Aksiyonu kaçırdım…$"
 
 SaffronCity_Text_Pidgeot::
-    .string "PIDGEOT: Bi bibii!$"
+.string "PIDGEOT: Bi bibii!$"
 
 SaffronCity_Text_SawRocketBossEscaping::
-    .string "I saw the ROCKET BOSS escaping\n"
-    .string "SILPH's building.$"
+.string "ROKET PATRONU'nu SILPH binasından\n"
+.string "kaçarken gördüm.$"
 
 SaffronCity_Text_ImASecurityGuard::
-    .string "I'm a security guard.\p"
-    .string "Suspicious kids I don't allow in!$"
+.string "Bir güvenlik görevlisiyim.\p"
+.string "Şüpheli çocukları içeri almam!$"
 
 SaffronCity_Text_HesTakingASnooze::
-    .string "…\n"
-    .string "Snore…\p"
-    .string "Hah! He's taking a snooze!$"
+.string "…\n"
+.string "Horlama…\p"
+.string "Ah! Bir uykuya dalıyor!$"
 
 SaffronCity_Text_CitySign::
-    .string "SAFFRON CITY\n"
-    .string "Shining, Golden Land of Commerce$"
+.string "SAFFRON ŞEHRİ\n"
+.string "Parlayan, Altın Ticaret Ülkesi$"
 
 SaffronCity_Text_FightingDojo::
-    .string "FIGHTING DOJO$"
+.string "FIGHTING DOJO$"
 
 SaffronCity_Text_GymSign::
-    .string "SAFFRON CITY POKéMON GYM\n"
-    .string "LEADER: SABRINA\l"
-    .string "The Master of PSYCHIC POKéMON!$"
+.string "SAFFRON ŞEHRİ POKéMON SALONU\n"
+.string "LİDER: SABRİNA\l"
+.string "PSİŞİK POKéMON Ustası!$"
 
 SaffronCity_Text_FullHealCuresStatus::
-    .string "TRAINER TIPS\p"
-    .string "FULL HEAL cures all ailments like\n"
-    .string "burns, paralysis, poisoning,\l"
-    .string "freezing, and sleep.\p"
-    .string "It costs a bit more, but it's more\n"
-    .string "convenient than buying other items.$"
+.string "EĞİTMEN İPUCU\p"
+.string "TAM İYİLEŞTR yanma, felç, zehir\n"
+.string "donma, uyku gibi tüm,\l"
+.string "durumları çözer.\p"
+.string "Diğer eşyalardan biraz daha pahalı,\n"
+.string "ama daha pratik.$"
 
 SaffronCity_Text_GreatBallImprovedCatchRate::
-    .string "TRAINER TIPS\p"
-    .string "The new GREAT BALL offers improved\n"
-    .string "catching rates.\p"
-    .string "Try it on those hard-to-catch\n"
-    .string "POKéMON.$"
+.string "EĞİTMEN İPUCU\p"
+.string "Yeni SÜPER TOP, yakalarken\n"
+.string "geliştirilmiş oranlar sunar.\p"
+.string "Onunla zor POKéMON\n"
+.string "yakalamaya çalış.$"
 
 SaffronCity_Text_SilphCoSign::
-    .string "SILPH CO. OFFICE BUILDING$"
+.string "SILPH ŞTİ. OFİS BİNASI$"
 
 SaffronCity_Text_MrPsychicsHouse::
-    .string "MR. PSYCHIC'S HOUSE$"
+.string "BAY PSİŞİK'İN EVİ$"
 
 SaffronCity_Text_SilphsLatestProduct::
-    .string "SILPH's latest product!\n"
-    .string "Release to be determined…$"
+.string "SILPH'in en yeni ürünü!\n"
+.string "Yakında çıkacak…$"
 
 SaffronCity_Text_TrainerFanClubSign::
-    .string "POKéMON TRAINER FAN CLUB\p"
-    .string "Many TRAINERS have scribbled their\n"
-    .string "names on this sign.$"
+.string "POKéMON EĞİTMENİ FAN KULÜBÜ\p"
+.string "Birçok EĞİTMEN bu levhaya\n"
+.string "isimlerini yazdılar.$"
 
 SaffronCity_Text_HowCanClubNotRecognizeLance::
-    .string "This FAN CLUB…\n"
-    .string "No one here has a clue!\p"
-    .string "How could they not recognize\n"
-    .string "the brilliance that is LANCE?\p"
-    .string "He stands for justice!\n"
-    .string "He's cool, and yet passionate!\l"
-    .string "He's the greatest, LANCE!$"
-
+.string "Bu FAN KULÜBÜ…\n"
+.string "Burada kimsenin bir fikri yok!\p"
+.string "Nasıl LANCE'in muhteşemliğini\n"
+.string "tanıyamadılar?\p"
+.string "O adalet için duruyor!\n"
+.string "Soğukkanlı ve tutkuludur!\l"
+.string "O en büyük, LANCE!$"

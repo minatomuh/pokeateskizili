@@ -1,10 +1,9 @@
 SaffronCity_Mart_Text_MaxRepelMoreEffectiveThanSuper::
-    .string "MAX REPEL keeps weaker POKéMON\n"
-    .string "from appearing.\p"
-    .string "MAX REPEL stays effective longer\n"
-    .string "than SUPER REPEL.$"
+    .string "MAKS SPREY, zayıf POKéMON'ların\n"
+    .string "görünmesini engeller.\p"
+    .string "MAKS SPREY, SÜPER SPREY'den daha\n"
+    .string "uzun süre etkili kalır.$"
 
 SaffronCity_Mart_Text_ReviveIsCostly::
-    .string "REVIVE is costly, but it revives\n"
-    .string "fainted POKéMON!$"
-
+    .string "CANLANDIRICI pahalıdır, ancak\n"
+    .string "baygın POKéMON'ları diriltir!$"

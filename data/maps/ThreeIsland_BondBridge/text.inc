@@ -1,101 +1,98 @@
 ThreeIsland_BondBridge_Text_NikkiIntro::
-    .string "The salty tang of the sea…\n"
-    .string "It tickles my heart.$"
+    .string "Denizden gelen tuzlu koku…\n"
+    .string "Kalbimi gıdıklıyor.$"
 
 ThreeIsland_BondBridge_Text_NikkiDefeat::
-    .string "…Sniff, sniff…\n"
-    .string "Something smells unpleasant…$"
+    .string "…Hımm, hımm…\n"
+    .string "Burada kötü bir koku var…$"
 
 ThreeIsland_BondBridge_Text_NikkiPostBattle::
-    .string "Perhaps that reek is your sweaty\n"
-    .string "POKéMON's body odor…$"
+    .string "Acaba bu koku ter kokan\n"
+    .string "POKéMON'undan mı geliyor…$"
 
 ThreeIsland_BondBridge_Text_VioletIntro::
-    .string "Where are you off to in such\n"
-    .string "a hurry?$"
+    .string "Aceleyle nereye gidiyorsun?\n"
+    .string "Acele etmeyin!$"
 
 ThreeIsland_BondBridge_Text_VioletDefeat::
-    .string "You're raising some wonderful\n"
-    .string "POKéMON.$"
+    .string "Harika POKéMON'lar yetiştirmişsin.\n"
+    .string "Tebrikler!$"
 
 ThreeIsland_BondBridge_Text_VioletPostBattle::
-    .string "If you keep going this way, you'll\n"
-    .string "eventually reach BERRY FOREST.$"
+    .string "Bu yolda devam ederseniz, sonunda\n"
+    .string "MEYVE ORMANI'na ulaşacaksınız.$"
 
 ThreeIsland_BondBridge_Text_AmiraIntro::
-    .string "My mommy said that I can't swim\n"
-    .string "without my float ring.$"
+    .string "Annemin söylediğine göre, yüzmek\n"
+    .string "için simidime ihtiyacım var.$"
 
 ThreeIsland_BondBridge_Text_AmiraDefeat::
-    .string "Waaah!\n"
-    .string "Waaah!$"
+    .string "Vaaay!\n"
+    .string "Ağlıyorum!$"
 
 ThreeIsland_BondBridge_Text_AmiraPostBattle::
-    .string "This year, I'm going to finally\n"
-    .string "learn how to swim!$"
+    .string "Bu sene yüzmeyi kesin öğreneceğim!\n"
+    .string "Sabırsızlanıyorum!$"
 
 ThreeIsland_BondBridge_Text_AlexisIntro::
-    .string "Yay, yay!\n"
-    .string "POKéMON!$"
+    .string "Hadi, hadi!\n"
+    .string "POKéMON zamanı!$"
 
 ThreeIsland_BondBridge_Text_AlexisDefeat::
-    .string "What happens now?$"
+    .string "Şimdi ne olacak?$"
 
 ThreeIsland_BondBridge_Text_AlexisPostBattle::
-    .string "Did I just win?\n"
-    .string "Or did I lose?$"
+    .string "Acaba kazandım mı, yoksa\n"
+    .string "kaybettim mi?$"
 
 ThreeIsland_BondBridge_Text_TishaIntro::
-    .string "Oh, no, don't come here!\n"
-    .string "Please, stay away from me!$"
+    .string "Aman Tanrım, buraya gelmeyin!\n"
+    .string "Lütfen benden uzak durun!$"
 
 ThreeIsland_BondBridge_Text_TishaDefeat::
-    .string "Okay, you've won!\n"
-    .string "Now will you please go away?$"
+    .string "Tamam, kazandınız!\n"
+    .string "Şimdi lütfen gidin!$"
 
 ThreeIsland_BondBridge_Text_TishaPostBattle::
-    .string "A POKéMON bit through my \n"
-    .string "swimsuit.\p"
-    .string "I can't get out of the water!$"
+    .string "Bir POKéMON mayoma ısırdı.\n"
+    .string "Artık sudan çıkamam!$"
 
 ThreeIsland_BondBridge_Text_JoyIntro::
-    .string "JOY: We'll teach you what our\n"
-    .string "favorite POKéMON is!$"
+    .string "JOY: Sana favori POKéMON'umuzu\n"
+    .string "göstereceğiz!$"
 
 ThreeIsland_BondBridge_Text_JoyDefeat::
-    .string "JOY: Ohh…\n"
+    .string "JOY: Ahh…\n"
     .string "MEG!$"
 
 ThreeIsland_BondBridge_Text_JoyPostBattle::
-    .string "JOY: Wasn't that fun?\n"
-    .string "I hope we can battle again!$"
+    .string "JOY: Eğlenceliydi, değil mi?\n"
+    .string "Tekrar savaşmak isterim!$"
 
 ThreeIsland_BondBridge_Text_JoyNotEnoughMons::
-    .string "JOY: I really want to battle with\n"
-    .string "MEG.\p"
-    .string "One POKéMON isn't enough.$"
+    .string "JOY: MEG ile savaşmak istiyorum,\n"
+    .string "ama bir POKéMON yetmez.$"
 
 ThreeIsland_BondBridge_Text_MegIntro::
-    .string "MEG: We'll show you our favorite\n"
-    .string "POKéMON.$"
+    .string "MEG: Favori POKéMON'umuzu\n"
+    .string "sana göstereceğiz.$"
 
 ThreeIsland_BondBridge_Text_MegDefeat::
-    .string "MEG: Ohh…\n"
+    .string "MEG: Ahh…\n"
     .string "JOY!$"
 
 ThreeIsland_BondBridge_Text_MegPostBattle::
-    .string "MEG: JOY, wasn't that fun?$"
+    .string "MEG: JOY, eğlenceliydi, değil mi?\n"
+    .string "Tekrar savaşalım!$"
 
 ThreeIsland_BondBridge_Text_MegNotEnoughMons::
-    .string "MEG: I want to battle together\n"
-    .string "with JOY.\p"
-    .string "One POKéMON isn't enough.$"
+    .string "MEG: JOY ile birlikte savaşmak\n"
+    .string "istiyorum, ama bir tane yetmez.$"
 
 ThreeIsland_BondBridge_Text_BerryForestAhead::
-    .string "BERRY FOREST AHEAD$"
+    .string "MEYVE ORMANI İLERİDE$"
 
 ThreeIsland_BondBridge_Text_BondBridgeSign::
-    .string "BOND BRIDGE\n"
-    .string "Please be quiet when crossing.\p"
-    .string "BERRY FOREST AHEAD$"
-
+    .string "BAĞ KÖPRÜSÜ\n"
+    .string "Lütfen sessiz olun.\n"
+    .string "MEYVE ORMANI İLERİDE$"

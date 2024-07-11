@@ -1,36 +1,35 @@
 PokemonTower_3F_Text_HopeIntro::
-    .string "Urrg… Awaa…\n"
-    .string "Huhu… Graa…$"
+    .string "Ugh… Ahh…\n"
+    .string "Ah… Ggh…$"
 
 PokemonTower_3F_Text_HopeDefeat::
-    .string "Hwa!\n"
-    .string "I'm saved!$"
+    .string "Hey!\n"
+    .string "Kurtuldum!$"
 
 PokemonTower_3F_Text_HopePostBattle::
-    .string "The ghosts can be identified by\n"
-    .string "the SILPH SCOPE.$"
+    .string "Hayaletler SILPH GÖZLÜK\n"
+    .string "ile tespit edilebilir.$"
 
 PokemonTower_3F_Text_CarlyIntro::
     .string "Kekeke…\n"
-    .string "Kwaaah!$"
+    .string "Ahh!$"
 
 PokemonTower_3F_Text_CarlyDefeat::
-    .string "Hmm?\n"
-    .string "What am I doing?$"
+    .string "Ne?\n"
+    .string "Ne yapıyorum ben?$"
 
 PokemonTower_3F_Text_CarlyPostBattle::
-    .string "Sorry!\n"
-    .string "I was possessed!$"
+    .string "Özür dilerim!\n"
+    .string "Beni ele geçirmişlerdi!$"
 
 PokemonTower_3F_Text_PatriciaIntro::
-    .string "Be gone!\n"
-    .string "Malevolent spirit!$"
+    .string "Defol!\n"
+    .string "Kötü ruh!$"
 
 PokemonTower_3F_Text_PatriciaDefeat::
-    .string "Whew!\n"
-    .string "The spirit left!$"
+    .string "Oh!\n"
+    .string "Ruh gitti!$"
 
 PokemonTower_3F_Text_PatriciaPostBattle::
-    .string "The others above…\n"
-    .string "They must have been possessed.$"
-
+    .string "Yukarıdakiler de…\n"
+    .string "Büyünün etkisindeydi.$"

@@ -1,144 +1,142 @@
 Text_ExplosionTeach::
-    .string "Can you imagine?\n"
-    .string "If this volcano were to erupt?\p"
-    .string "The explosion would be the end of\n"
-    .string "us. How terrifying is that?\p"
-    .string "While we're terrified, would you\n"
-    .string "like me to teach EXPLOSION?$"
+.string "Düşünebiliyor musun?\n"
+.string "Bu yanardağ patlasa ne olurdu?\p"
+.string "Patlama bizim sonumuz olurdu.\n"
+.string "Ne kadar korkunç, değil mi?\p"
+.string "Korkmuşken, PATLAMA öğretmemi\n"
+.string "ister misin?$"
 
 Text_ExplosionDeclined::
-    .string "Yeah, you're right.\n"
-    .string "It is too terrifying.$"
+.string "Evet, haklısın.\n"
+.string "Çok korkutucu.$"
 
 Text_ExplosionWhichMon::
-    .string "You're terribly brave!\p"
-    .string "Which POKéMON should I teach\n"
-    .string "EXPLOSION?$"
+.string "Çok cesursun!\p"
+.string "PATLAMA'yı hangi POKéMON'a\n"
+.string "öğretmeliyim?$"
 
 Text_ExplosionTaught::
-    .string "Using EXPLOSION while on this\n"
-    .string "volcano…\p"
-    .string "What a terrifying thrill!$"
+.string "Bu yanardağın üzerinde\n"
+.string "PATLAMA kullanmak…\p"
+.string "Ne kadar korkutucu ve heyecan verici!$"
 
-@ Below 4 are unused JP versions of the above texts
+@ Aşağıdaki 4 satır, yukarıdaki metinlerin kullanılmayan JP versiyonlarıdır
 Text_ExplosionTeachJP::
-    .string "こ　この　かざんが\n"
-    .string "もし　だいばくはつ　したら\l"
-    .string "お　おれら　ひとたまりも\l"
-    .string "ないなあ　‥ブルブル！\p"
-    .string "こ　こわい　ついでに\n"
-    .string "だいばくはつ　でも　おぼえてみる？$"
+.string "Bu yanardağ patlasa\n"
+.string "Ne olurdu, hepimiz ölürdük\l"
+.string "Ne kadar korkunç\l"
+.string "Öğrenmek ister misin?$"
 
 Text_ExplosionDeclinedJP::
-    .string "や　やっぱ　こわいもんな\n"
-    .string "ブルブル$"
+.string "Evet, çok korkutucu\n"
+.string "Titriyorum!$"
 
 Text_ExplosionWhichMonJP::
-    .string "つ　つよきだね！\n"
-    .string "じゃあ　どの　ポケモンに　する？$"
+.string "Çok cesursun!\n"
+.string "Hangi POKéMON'u seçmeliyim?$"
 
 Text_ExplosionTaughtJP::
-    .string "かざんで　だいばくはつを‥\n"
-    .string "す　すごい　スリル！$"
+.string "Yanardağ patladığında\n"
+.string "Çok heyecan verici!$"
 
 MtEmber_Exterior_Text_WellTryDiggingHere::
-    .string "Over here.\n"
-    .string "We'll try digging here.\p"
-    .string "That treasure the ADMINS've been\n"
-    .string "talking about should be here.$"
+.string "Burada deneyelim.\n"
+.string "Burada kazmaya çalışacağız.\p"
+.string "YÖNETİCİ'lerin bahsettiği hazine\n"
+.string "burada olmalı.$"
 
 MtEmber_Exterior_Text_YoureInTheWayGetLost::
-    .string "What the…?\n"
-    .string "You're in the way. Get lost.$"
+.string "Ne…?\n"
+.string "Beni engelliyorsun. Defol.$"
 
 MtEmber_Exterior_Text_PunchedThroughAtLast::
-    .string "Whew, punched through at last.\n"
-    .string "Let's go treasure hunting!$"
+.string "Oh, sonunda deldik.\n"
+.string "Hazine avına çıkalım!$"
 
 MtEmber_Exterior_Text_WhatsPasswordAgain::
-    .string "Any treasure we find, we haul back\n"
-    .string "to the WAREHOUSE, understood?\p"
-    .string "…Oh, and what're the passwords?\n"
-    .string "At the ROCKET WAREHOUSE, I mean.$"
+.string "Bulduğumuz her hazineyi AMBAR'a\n"
+.string "taşımalıyız, anlaştık mı?\p"
+.string "…Ah, şifreler neydi?\n"
+.string "ROKET AMBARI'ndaki şifreler.$"
 
 MtEmber_Exterior_Text_FirstPasswordGoldeen::
-    .string "What, you forgot the password?\n"
-    .string "There're actually two.\p"
-    .string "The first one's “GOLDEEN need\n"
-    .string "log.”\p"
-    .string "And the second one is…$"
+.string "Ne, şifreyi unuttun mu?\n"
+.string "Aslında iki tane var.\p"
+.string "İlk şifre\n"
+.string "“GOLDEEN kütük istiyor”\p"
+.string "İkinci şifre ise…$"
 
 MtEmber_Exterior_Text_SnoopsBeenListeningIn::
-    .string "Hey!\n"
-    .string "This snoop's been listening in!$"
+.string "Hey!\n"
+.string "Bu hınzır bizi dinliyor!$"
 
 MtEmber_Exterior_Text_Grunt1Intro::
-    .string "You've been eavesdropping on us,\n"
-    .string "haven't you?$"
+.string "Bizi gizlice dinliyordun,\n"
+.string "değil mi?$"
 
 MtEmber_Exterior_Text_Grunt1Defeat::
-    .string "Huh, what?$"
+.string "Hey, ne oluyor?$"
 
 MtEmber_Exterior_Text_Grunt1PostBattle::
-    .string "Why'd you have to win?$"
+.string "Neden kazanmak zorundasın?$"
 
 MtEmber_Exterior_Text_Grunt2Intro::
-    .string "Trying to horn in on our treasure?\n"
-    .string "Don't bet on it!$"
+.string "Hazinemize ortak mı olmak\n"
+.string "istiyorsun?\p"
+.string "Buna izin veremem!$"
 
 MtEmber_Exterior_Text_Grunt2Defeat::
-    .string "Wait!\n"
-    .string "But how?$"
+.string "Dur!\n"
+.string "Ama nasıl?$"
 
 MtEmber_Exterior_Text_Grunt2PostBattle::
-    .string "Develop amnesia conveniently and\n"
-    .string "forget everything you heard!$"
+.string "Duymuş olduklarını unut!$"
 
 MtEmber_Exterior_Text_WellRegroupDontStepInsideThere::
-    .string "What a setback…\n"
-    .string "We'll have to regroup.\p"
-    .string "You! Don't even think about taking\n"
-    .string "a step inside here!\p"
-    .string "If you know what's good for you,\n"
-    .string "don't even think about this!$"
+.string "Bu bir gerileme…\n"
+.string "Yeniden gruplanmamız gerekecek.\p"
+.string "Sen!\n"
+.string "Sakın içeri girmeyi bile düşünme!\p"
+.string "Kendi iyiliğin için,\n"
+.string "bunu aklından bile geçirme!$"
 
 MtEmber_Exterior_Text_LoganIntro::
-    .string "An active volcano is one that's\n"
-    .string "erupting, or about to.$"
+.string "Aktif yanardağ, patlamaya başlamış\n"
+.string "veya başlamak üzere olan\l"
+.string "yanardağdır.$"
 
 MtEmber_Exterior_Text_LoganDefeat::
-    .string "Whew… That was hot!\n"
-    .string "Sweat's erupting from me!$"
+.string "Oh… Bu çok sıcak!\n"
+.string "Kan ter içinde kaldım!$"
 
 MtEmber_Exterior_Text_LoganPostBattle::
-    .string "They say there're over 1,500\n"
-    .string "active volcanoes in the world.\p"
-    .string "Just thinking about them makes me\n"
-    .string "feel all hot and gooey inside!$"
+.string "Dünyada 1.500'den fazla aktif\n"
+.string "yanardağ olduğu söyleniyor.\p"
+.string "Onları düşündükçe içim ısınıyor!$"
 
 MtEmber_Exterior_Text_BethIntro::
-    .string "Do you know how caves form inside\n"
-    .string "volcanoes?$"
+.string "Yanardağların içinde mağaraların\n"
+.string "nasıl oluştuğunu\l"
+.string "biliyor musun?$"
 
 MtEmber_Exterior_Text_BethDefeat::
-    .string "Atchah!\n"
-    .string "You're shockingly good!$"
+.string "Atchah!\n"
+.string "Şaşırtıcı derecede iyisin!$"
 
 MtEmber_Exterior_Text_BethPostBattle::
-    .string "When lava at the surface of magma\n"
-    .string "hardens, and the magma inside flows\l"
-    .string "out, caverns are left behind.$"
+.string "Yüzeydeki lav sertleştiğinde\n"
+.string "ve içindeki magma\l"
+.string "aktığında mağaralar geride kalır.$"
 
 MtEmber_Exterior_Text_JocelynIntro::
-    .string "I've been in training so I can mend\n"
-    .string "my broken heart…\p"
-    .string "It toughened me up physically at\n"
-    .string "least! Hi-yah!$"
+.string "Kırık kalbimi onarmak için\n"
+.string "antrenman yapıyorum…\p"
+.string "En azından fiziksel olarak beni\n"
+.string "güçlendirdi! Haydi!$"
 
 MtEmber_Exterior_Text_JocelynDefeat::
-    .string "I think I tried to overdo it…$"
+.string "Galiba abarttım…$"
 
 MtEmber_Exterior_Text_JocelynPostBattle::
-    .string "The way you battle, it reminds me\n"
-    .string "of the guy who dumped me…$"
-
+.string "Savaşma şeklin, beni terk eden adama\n"
+.string "benziyor…$"

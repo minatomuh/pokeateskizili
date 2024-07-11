@@ -1,45 +1,47 @@
 SilphCo_4F_Text_CantYouSeeImHiding::
-    .string "Sssh!\n"
-    .string "Can't you see I'm hiding?$"
+    .string "Sssst!\n"
+    .string "Görmüyor musun, saklanıyorum?$"
 
 SilphCo_4F_Text_TeamRocketIsGone::
-    .string "Huh?\n"
-    .string "TEAM ROCKET is gone?$"
+    .string "Ne?\n"
+    .string "ROKET TAKIMI gitti mi?$"
 
 SilphCo_4F_Text_Grunt1Intro::
-    .string "TEAM ROCKET has taken control\n"
-    .string "of SILPH CO.!$"
+    .string "ROKET TAKIMI, SILPH ŞTİ'nin\n"
+    .string "kontrolünü ele geçirdi!$"
 
 SilphCo_4F_Text_Grunt1Defeat::
-    .string "Arrgh!$"
+    .string "Ayy!$"
 
 SilphCo_4F_Text_Grunt1PostBattle::
     .string "Fwahahaha!\n"
-    .string "My BOSS has been after this place!$"
+    .string "PATRON bu yeri istiyordu!$"
 
 SilphCo_4F_Text_RodneyIntro::
-    .string "My POKéMON is my loyal servant.$"
+    .string "POKéMON'um bana sadık bir\n"
+    .string "hizmetkârdır.$"
 
 SilphCo_4F_Text_RodneyDefeat::
-    .string "Darn!\n"
-    .string "You weak POKéMON!$"
+    .string "Olamaz!\n"
+    .string "Sizi zayıf POKéMON'lar!$"
 
 SilphCo_4F_Text_RodneyPostBattle::
-    .string "The doors are electronically\n"
-    .string "locked.\p"
-    .string "It takes a CARD KEY to open the\n"
-    .string "doors here.$"
+    .string "Kapılar elektronik olarak\n"
+    .string "kilitli.\p"
+    .string "Kapıları açmak için bir\n"
+    .string "ANAHTAR gerekiyor.$"
 
 SilphCo_4F_Text_Grunt2Intro::
-    .string "Intruder spotted!$"
+    .string "Kaçak tespit edildi!$"
 
 SilphCo_4F_Text_Grunt2Defeat::
-    .string "Who are you?$"
+    .string "Sen kimsin?$"
 
 SilphCo_4F_Text_Grunt2PostBattle::
-    .string "I better tell the BOSS on 11F!$"
+    .string "11. kattaki PATRONU\n"
+    .string "bilgilendirmeliyim!$"
 
 SilphCo_4F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "4F$"
+    .string "SILPH ŞTİ. GENEL MERKEZİ\n"
+    .string "4. KAT$"
 

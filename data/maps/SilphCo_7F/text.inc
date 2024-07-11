@@ -1,146 +1,147 @@
 SilphCo_7F_Text_HaveMonForSavingUs::
-    .string "Oh! Hi! You're not a ROCKET!\n"
-    .string "You came to save us?\l"
-    .string "Why, thank you!\p"
-    .string "I want you to have this POKéMON\n"
-    .string "for saving us.$"
+.string "Oh! Merhaba! Sen bir ROKET\n"
+.string "üyesi değilsin!\p"
+.string "Bizi kurtarmaya mı geldin?\n"
+.string "Oh, teşekkürler!\p"
+.string "Bu POKéMON'u sana vermek istiyorum,\n"
+.string "bizi kurtardığın için.$"
 
 SilphCo_7F_Text_ObtainedLaprasFromEmployee::
-    .string "{PLAYER} obtained a LAPRAS from\n"
-    .string "the SILPH employee!$"
+.string "{PLAYER}, SILPH çalışanından\n"
+.string "bir LAPRAS elde etti!$"
 
 SilphCo_7F_Text_ExplainLapras::
-    .string "It's a LAPRAS.\n"
-    .string "It's a very intelligent POKéMON.\p"
-    .string "We kept it in our lab, but it will\n"
-    .string "be much better off with you.\p"
-    .string "I think you will be a good TRAINER\n"
-    .string "for LAPRAS!\p"
-    .string "It's a good swimmer.\n"
-    .string "It'll give you a lift across water!$"
+.string "Bu bir LAPRAS.\n"
+.string "Çok zeki bir POKéMON.\p"
+.string "Onu laboratuvarımızda tutuyorduk\n"
+.string "ama sen daha iyi bakabilirsin.\p"
+.string "LAPRAS'a karşı iyi bir EĞİTMEN\n"
+.string "olacağını düşünüyorum!\p"
+.string "Çok iyi yüzüyor.\n"
+.string "Sana suda yolculuk yapmada\l"
+.string "yardımcı olacak!$"
 
 SilphCo_7F_Text_RocketBossWentToBoardroom::
-    .string "TEAM ROCKET's BOSS went to the\n"
-    .string "boardroom!\p"
-    .string "Is our PRESIDENT okay?\n"
-    .string "I'm worried.$"
+.string "ROKET TAKIMI'nın PATRON'u\n"
+.string "toplantı odasına gitti!\p"
+.string "BAŞKAN'ımız iyi mi?\n"
+.string "Endişeliyim.$"
 
 SilphCo_7F_Text_OhNo::
-    .string "あ‥　もう　もてないぞ$"
+.string "あ‥　もう　もてないぞ$"
 
 SilphCo_7F_Text_SavedAtLast::
-    .string "たすかったよ　ありがと！$"
+.string "Sonunda kurtuldum, teşekkürler!$"
 
 SilphCo_7F_Text_RocketsAfterMasterBall::
-    .string "TEAM ROCKET was after the MASTER\n"
-    .string "BALL, which catches any POKéMON.$"
+.string "ROKET TAKIMI USTA TOP'u almaya\n"
+.string "çalışıyordu\p"
+.string "USTA TOP tüm POKéMON'ları yakalar.$"
 
 SilphCo_7F_Text_CanceledMasterBallProject::
-    .string "We canceled the MASTER BALL\n"
-    .string "project because of TEAM ROCKET.$"
+.string "ROKET TAKIMI yüzünden USTA TOP\n"
+.string "projesini iptal ettik.$"
 
 SilphCo_7F_Text_BadIfTeamRocketTookOver::
-    .string "It would be bad if TEAM ROCKET\n"
-    .string "took over SILPH or our POKéMON.$"
+.string "ROKET TAKIMI'nın SILPH'i veya\n"
+.string "POKéMON'larımızı kontrol\l"
+.string "etmesi kötü olurdu.$"
 
 SilphCo_7F_Text_WowYouChasedOffTeamRocket::
-    .string "Wow!\p"
-    .string "You chased off TEAM ROCKET all by\n"
-    .string "yourself?$"
+.string "Vay!\p"
+.string "ROKET TAKIMI'nı tek başına\n"
+.string "mı kaçırdın?$"
 
 SilphCo_7F_Text_ReallyDangerousHere::
-    .string "You!\n"
-    .string "It's really dangerous here!\p"
-    .string "You came to save me?\n"
-    .string "You can't!$"
+.string "Sen!\n"
+.string "Burası gerçekten tehlikeli!\p"
+.string "Beni kurtarmaya mı geldin?\n"
+.string "Yapamazsın!$"
 
 SilphCo_7F_Text_ThankYouSoMuch::
-    .string "Thank you so much!$"
+.string "Çok teşekkürler!$"
 
 SilphCo_7F_Text_Grunt3Intro::
-    .string "Uh-oh!\n"
-    .string "I smell a little mouse!$"
+.string "Eyvah!\n"
+.string "Bir fare kokusu alıyorum!$"
 
 SilphCo_7F_Text_Grunt3Defeat::
-    .string "Lights out!$"
+.string "Işıklar kapandı!$"
 
 SilphCo_7F_Text_Grunt3PostBattle::
-    .string "You won't find my BOSS by just\n"
-    .string "scurrying around!$"
+.string "Sadece dolaşarak patronumu bulamazsın!$"
 
 SilphCo_7F_Text_JoshuaIntro::
-    .string "Heheh!\p"
-    .string "You mistook me for a SILPH worker?$"
+.string "Hehehe!\p"
+.string "Benim bir SILPH çalışanı\n"
+.string "olduğumu mu düşündün?$"
 
 SilphCo_7F_Text_JoshuaDefeat::
-    .string "I'm done!$"
+.string "Bitti!$"
 
 SilphCo_7F_Text_JoshuaPostBattle::
-    .string "Despite your age, you are a\n"
-    .string "skilled TRAINER!$"
+.string "Yaşına rağmen yetenekli bir eğitmensin!$"
 
 SilphCo_7F_Text_Grunt1Intro::
-    .string "I am one of the four ROCKET\n"
-    .string "BROTHERS!$"
+.string "ROKET KARDEŞLER'den biriyim!$"
 
 SilphCo_7F_Text_Grunt1Defeat::
-    .string "Aack!\n"
-    .string "Brothers, I lost!$"
+.string "Aaa!\n"
+.string "Kardeşler, yenildim!$"
 
 SilphCo_7F_Text_Grunt1PostBattle::
-    .string "Doesn't matter.\n"
-    .string "My brothers will repay the favor!$"
+.string "Önemli değil.\n"
+.string "Kardeşlerim intikamımı alacak!$"
 
 SilphCo_7F_Text_Grunt2Intro::
-    .string "A child intruder?\n"
-    .string "That must be you!$"
+.string "Çocuk bir casus musun?\n"
+.string "Sen olmalısın!$"
 
 SilphCo_7F_Text_Grunt2Defeat::
-    .string "Fine!\n"
-    .string "I lost!$"
+.string "Tamam!\n"
+.string "Yenildim!$"
 
 SilphCo_7F_Text_Grunt2PostBattle::
-    .string "Go on home before my BOSS gets\n"
-    .string "ticked off!$"
+.string "Patronum sinirlenmeden git evine!$"
 
 SilphCo_7F_Text_RivalWhatKeptYou::
-    .string "{RIVAL}: What kept you, {PLAYER}?$"
+.string "{RIVAL}: Neden bu kadar uzun\n"
+.string "sürdü, {PLAYER}?$"
 
 SilphCo_7F_Text_RivalIntro::
-    .string "{RIVAL}: Hahaha! I thought you'd\n"
-    .string "turn up if I waited here!\p"
-    .string "I guess TEAM ROCKET slowed you\n"
-    .string "down! Not that I care!\p"
-    .string "I saw you in SAFFRON, so I decided\n"
-    .string "to see if you got better!$"
+.string "{RIVAL}: Hahaha! Seni burada bekliyordum!\p"
+.string "ROKET TAKIMI'nın seni\n"
+.string "yavaşlattığını düşündüm!\p"
+.string "Umurumda değil!\p"
+.string "SAFFRON'da seni görmüştüm, bu yüzden\n"
+.string "gelip geliştiğini görmek istedim!$"
 
 SilphCo_7F_Text_RivalDefeat::
-    .string "Oh, man!\n"
-    .string "So, you are ready for BOSS\l"
-    .string "ROCKET!$"
+.string "Oh, adamım!\p"
+.string "Demek ki ROKET PATRONU'na\n"
+.string "meydan okumaya hazırsın!$"
 
 SilphCo_7F_Text_RivalVictory::
-    .string "{RIVAL}“おまえなあ‥\p"
-    .string "こんな　うでまえじゃ\n"
-    .string "まだまだ‥\l"
-    .string "いちにんまえ　とは　いえないぜ$"
+.string "{RIVAL}“Hey sen!\p"
+.string "Bu yeteneklerle\n"
+.string "henüz yolun başında sayılırsın\l"
+.string "diyebilirim.$"
 
 SilphCo_7F_Text_RivalPostBattle::
-    .string "Well, {PLAYER}!\n"
-    .string "I'm moving on up and ahead!\p"
-    .string "By checking my POKéDEX, I'm\n"
-    .string "starting to see what's strong and\l"
-    .string "how they evolve!\p"
-    .string "Am I a genius or what?\p"
-    .string "I'm going to the POKéMON LEAGUE to\n"
-    .string "boot out the ELITE FOUR.\p"
-    .string "I'll become the world's most\n"
-    .string "powerful TRAINER!\p"
-    .string "{PLAYER}, well, good luck to you!\n"
-    .string "Don't sweat it!\l"
-    .string "Smell ya!$"
+.string "Evet, {PLAYER}!\n"
+.string "Ben daha da ileri gidiyorum!\p"
+.string "POKéDEX'imi kontrol ederek\n"
+.string "güçlü olanları ve\l"
+.string "evrimlerini görmeye başlıyorum!\p"
+.string "Ben bir dahiyim, değil mi?\p"
+.string "POKéMON LİGİ'ne gidip ELİT\n"
+.string "DÖRTLÜ'yü yeneceğim.\p"
+.string "Dünyanın en güçlü eğitmeni olacağım!\p"
+.string "{PLAYER}, sana bol şans!\n"
+.string "Endişelenme!\l"
+.string "Görüşürüz!$"
 
 SilphCo_7F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "7F$"
+.string "SILPH ŞTİ. MERKEZ OFİSİ\n"
+.string "7. Kat$"
 

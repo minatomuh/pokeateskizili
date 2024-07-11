@@ -1,53 +1,54 @@
 Text_UltimateMoveThatMon::
-    .string "I perfected the ultimate move of\n"
-    .string "its type…\p"
-    .string "But will no one take it for\n"
-    .string "future use?\p"
+    .string "Bu türün en iyi hareketini\n"
+    .string "geliştirdim…\p"
+    .string "Ama hiç kimse bundan\n"
+    .string "faydalanmayacak mı?\p"
     .string "…Hm? Hmmm!\p"
-    .string "Y-you…\n"
-    .string "Th-that {STR_VAR_1}…$"
+    .string "S-sen…\n"
+    .string "O {STR_VAR_1}…$"
 
 Text_JustMistaken::
-    .string "…No…\n"
-    .string "I was just mistaken.$"
+    .string "…Hayır…\n"
+    .string "Yanılmışım.$"
 
 Text_AllowMeToTeachMonUltimateMove::
-    .string "Oh! This is the one!\n"
-    .string "This is the POKéMON!\p"
-    .string "This {STR_VAR_1} is worthy of\n"
-    .string "learning my ultimate move!\p"
-    .string "Will you allow it?\p"
-    .string "Will you allow your {STR_VAR_1} to\n"
-    .string "learn my {STR_VAR_2}?$"
+    .string "Oh! İşte bu!\n"
+    .string "Bu POKéMON!\p"
+    .string "Bu {STR_VAR_1} en iyi hareketimi\n"
+    .string "öğrenmeye değer!\p"
+    .string "Buna izin verir misin?\p"
+    .string "{STR_VAR_1}'ine {STR_VAR_2}\n"
+    .string "öğreteyim mi?$"
 
 Text_YouRejectIt::
-    .string "Gaah! You reject it?\n"
-    .string "No, I won't be dissuaded!$"
+    .string "Gaah! Reddediyor musun?\n"
+    .string "Hayır, vazgeçmeyeceğim!$"
 
 Text_LetMeConferUltimateMove::
-    .string "You will allow it?\p"
-    .string "Then, let me confer my ultimate\n"
-    .string "{STR_VAR_2} on your {STR_VAR_1}.\p"
+    .string "Buna izin veriyorsun?\p"
+    .string "O zaman, {STR_VAR_2} hareketini\n"
+    .string "{STR_VAR_1}'ine aktarayım.\p"
     .string "Ggggrah-awooo!$"
 
 Text_TaughtMove::
-    .string "Gasp, gasp, gasp…\p"
-    .string "I didn't think I could teach that\n"
-    .string "move while I still lived…$"
+    .string "Hıçkırık…\p"
+    .string "Yaşarken bu hareketi\n"
+    .string "öğretmeyi düşünmezdim…$"
 
 Text_MakeBestUseOfMove::
-    .string "I implore you to make the best\n"
-    .string "use of that move and gain power!$"
+    .string "Senden bu hareketi en iyi şekilde\n"
+    .string "kullanmanı ve güçlenmeni rica\n"
+    .string "ediyorum!$"
 
 Text_PassedOnEverythingIKnow::
-    .string "Gasp, gasp, gasp…\p"
-    .string "I have no regrets now.\n"
-    .string "I've passed on everything I know.\p"
-    .string "Now I can live out my life knowing\n"
-    .string "my work is done.$"
+    .string "Hıçkırık…\p"
+    .string "Artık hiçbir pişmanlığım yok.\n"
+    .string "Bildiğim her şeyi aktardım.\p"
+    .string "Artık yaşayabilirim, çünkü\n"
+    .string "görevimi tamamladım.$"
 
 Text_FeelRejuvenated::
-    .string "After I passed on my knowledge to\n"
-    .string "you, I felt so much relief.\p"
-    .string "In fact, I feel rejuvenated,\n"
-    .string "as if I were younger again!$"
+    .string "Bilgimi sana aktardıktan sonra,\n"
+    .string "büyük bir rahatlama hissettim.\p"
+    .string "Aslında, kendimi yeniden\n"
+    .string "gençleşmiş gibi hissediyorum!$"

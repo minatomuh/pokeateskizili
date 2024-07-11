@@ -1,81 +1,83 @@
 SilphCo_5F_Text_RocketsInUproarAboutIntruder::
-    .string "TEAM ROCKET is in an uproar over\n"
-    .string "some intruder.\p"
-    .string "That's you, right?$"
+    .string "ROKET TAKIMI karmaşada,\n"
+    .string "birisinin içeri sızdığı\p"
+    .string "söyleniyor. Sensin, değil mi?$"
 
 SilphCo_5F_Text_YoureOurHeroThankYou::
-    .string "TEAM ROCKET took off!\n"
-    .string "You're our hero! Thank you!$"
+    .string "ROKET TAKIMI kaçtı!\n"
+    .string "Kahramanımızsın! Teşekkürler!$"
 
 SilphCo_5F_Text_Grunt1Intro::
-    .string "I heard a kid was wandering\n"
-    .string "around.$"
+    .string "Bir çocuğun etrafta\n"
+    .string "dolaştığını duydum.$"
 
 SilphCo_5F_Text_Grunt1Defeat::
-    .string "Boom!$"
+    .string "Bum!$"
 
 SilphCo_5F_Text_Grunt1PostBattle::
-    .string "It's not smart to pick a fight with\n"
-    .string "TEAM ROCKET!$"
+    .string "ROKET TAKIMI ile kavga\n"
+    .string "etmek akıllıca değil!$"
 
 SilphCo_5F_Text_BeauIntro::
-    .string "We study POKé BALL technology on\n"
-    .string "this floor.$"
+    .string "Bu katta POKé TOPU\n"
+    .string "teknolojisini inceliyoruz.$"
 
 SilphCo_5F_Text_BeauDefeat::
-    .string "Dang!\n"
-    .string "Blast it!$"
+    .string "Aaa!\n"
+    .string "Vah!$"
 
 SilphCo_5F_Text_BeauPostBattle::
-    .string "We worked on the ultimate POKé\n"
-    .string "BALL which would catch anything.$"
+    .string "Her şeyi yakalamak için\n"
+    .string "en iyi POKé BALL'ı geliştirdik.$"
 
 SilphCo_5F_Text_DaltonIntro::
-    .string "Whaaat?\p"
-    .string "There shouldn't be any children\n"
-    .string "here!$"
+    .string "Neee?\p"
+    .string "Burada hiçbir çocuk\n"
+    .string "bulunmamalı!$"
 
 SilphCo_5F_Text_DaltonDefeat::
-    .string "Oh, goodness!$"
+    .string "Aman Tanrım!$"
 
 SilphCo_5F_Text_DaltonPostBattle::
-    .string "You're only on 5F.\n"
-    .string "It's a long way to my BOSS!$"
+    .string "Sadece 5. kattasın.\n"
+    .string "PATRON'uma daha çok var!$"
 
 SilphCo_5F_Text_Grunt2Intro::
-    .string "Show TEAM ROCKET a little respect!$"
+    .string "ROKET TAKIMI'na biraz saygı\n"
+    .string "gösterin!$"
 
 SilphCo_5F_Text_Grunt2Defeat::
-    .string "Cough…\n"
-    .string "Cough…$"
+    .string "Öhö…\n"
+    .string "Öhö…$"
 
 SilphCo_5F_Text_Grunt2PostBattle::
-    .string "Which reminds me.\p"
-    .string "KOFFING evolves into WEEZING!$"
+    .string "Bana hatırlatıyor ki,\p"
+    .string "KOFFING, WEEZING'e dönüşür!$"
 
 SilphCo_5F_Text_PorygonFirstVRMon::
-    .string "It's a POKéMON REPORT!\p"
-    .string "POKéMON LAB created PORYGON,\n"
-    .string "the first virtual-reality POKéMON.$"
+    .string "Bu bir POKéMON RAPORU!\p"
+    .string "POKéMON LAB, ilk sanal gerçeklik\n"
+    .string "POKéMON'u PORYGON'u yarattı.$"
 
 SilphCo_5F_Text_Over350TechniquesConfirmed::
-    .string "It's a POKéMON REPORT!\p"
-    .string "Over 350 POKéMON techniques have\n"
-    .string "been confirmed.$"
+    .string "Bu bir POKéMON RAPORU!\p"
+    .string "350'den fazla POKéMON hamlesi\n"
+    .string "olduğu onaylandı.$"
 
 SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
-    .string "It's a POKéMON REPORT!\p"
-    .string "Some POKéMON have been confirmed\n"
-    .string "to evolve when they are traded.$"
+    .string "Bu bir POKéMON RAPORU!\p"
+    .string "Bazı POKéMON'ların takas\n"
+    .string "edildiğinde evrimleştiği onaylandı.$"
 
 SilphCo_5F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "5F$"
+    .string "SILPH ŞTİ. GENEL MERKEZİ\n"
+    .string "5. Kat$"
 
 SilphCo_5F_Text_RocketBossLookingForStrongMons::
-    .string "Those thugs that took over our\n"
-    .string "building…\p"
-    .string "Their BOSS said he was looking for\n"
-    .string "strong POKéMON.\p"
-    .string "I hope our PRESIDENT managed to\n"
-    .string "avoid trouble…$"
+    .string "Binamızı ele geçiren\n"
+    .string "o serseriler…\p"
+    .string "PATRON'ları güçlü POKéMON\n"
+    .string "arıyormuş.\p"
+    .string "Umarım başkanımızdan uzak\n"
+    .string "dururlar…$"
+

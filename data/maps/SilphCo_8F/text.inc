@@ -1,49 +1,50 @@
 SilphCo_8F_Text_WonderIfSilphIsFinished::
-    .string "I wonder if SILPH is finished…$"
+    .string "SILPH bitti mi acaba?$"
 
 SilphCo_8F_Text_ThanksForSavingUs::
-    .string "Thanks for saving us!$"
+    .string "Bizi kurtardığınız için teşekkürler!$"
 
 SilphCo_8F_Text_Grunt1Intro::
-    .string "That's as far as you'll go!$"
+    .string "Buraya kadar!$"
 
 SilphCo_8F_Text_Grunt1Defeat::
-    .string "Not enough grit!$"
+    .string "Yeterli çaba yoktu!$"
 
 SilphCo_8F_Text_Grunt1PostBattle::
-    .string "If you don't turn back…\n"
-    .string "I'll call for backup!$"
+    .string "Eğer geri dönmezsen…\n"
+    .string "Destek çağırabilirim!$"
 
 SilphCo_8F_Text_ParkerIntro::
-    .string "You're causing us problems!$"
+    .string "Bize sorun çıkarıyorsunuz!$"
 
 SilphCo_8F_Text_ParkerDefeat::
-    .string "Huh?\n"
-    .string "I lost?$"
+    .string "Ne?\n"
+    .string "Kaybettim mi?$"
 
 SilphCo_8F_Text_ParkerPostBattle::
-    .string "So, what do you think of SILPH\n"
-    .string "BUILDING's maze?$"
+    .string "O zaman, SILPH Binası'nın\n"
+    .string "labirentini nasıl buldunuz?$"
 
 SilphCo_8F_Text_Grunt2Intro::
-    .string "I am one of the four ROCKET\n"
-    .string "BROTHERS!$"
+    .string "Ben ROKET TAKIMI'nın\n"
+    .string "dört kardeşinden biriyim!$"
 
 SilphCo_8F_Text_Grunt2Defeat::
-    .string "Whoo!\n"
-    .string "Oh, Brothers!$"
+    .string "Vay!\n"
+    .string "Kardeşler, oh kardeşler!$"
 
 SilphCo_8F_Text_Grunt2PostBattle::
-    .string "I'll leave you up to my brothers.$"
+    .string "Sizi kardeşlerime bırakıyorum.$"
 
 SilphCo_8F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "8F$"
+    .string "SILPH ŞTİ. GENEL MERKEZİ\n"
+    .string "8. Kat$"
 
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
-    .string "TEAM ROCKET's BOSS is terribly\n"
-    .string "cruel!\p"
-    .string "To him, POKéMON are just tools to\n"
-    .string "be used.\p"
-    .string "What will happen if that tyrant\n"
-    .string "takes over our company…$"
+    .string "ROKET TAKIMI'nın PATRONU çok\n"
+    .string "acımasız!\p"
+    .string "Onun için POKéMON'lar sadece\n"
+    .string "kullanılacak birer araç.\p"
+    .string "Eğer bu zalim şirketimizi ele\n"
+    .string "geçirirse ne olacak?$"
+

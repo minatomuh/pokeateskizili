@@ -1,156 +1,157 @@
 Route14_Text_CarterIntro::
-    .string "You need to use TMs to teach good\n"
-    .string "moves to POKéMON.$"
+    .string "TM'leri kullanman gerektiğini\n"
+    .string "biliyor musun?\p"
+    .string "Böylece POKéMON'larına\n"
+    .string "iyi hareketler öğretebilirsin.$"
 
 Route14_Text_CarterDefeat::
-    .string "Not good enough quite yet.$"
+    .string "Henüz yeterli değilsin.$"
 
 Route14_Text_CarterPostBattle::
-    .string "You have some HMs, right? POKéMON\n"
-    .string "can't forget those moves easily.$"
+    .string "HM'lere sahipsin, değil mi?\p"
+    .string "POKéMON'ların kolay kolay\n"
+    .string "bu hareketleri unutmazlar.$"
 
 Route14_Text_MitchIntro::
-    .string "My bird POKéMON should be ready\n"
-    .string "for battle.$"
+    .string "Kuş POKéMON'larım savaşmaya hazır.$"
 
 Route14_Text_MitchDefeat::
-    .string "Not ready yet!$"
+    .string "Henüz hazır değiller!$"
 
 Route14_Text_MitchPostBattle::
-    .string "My bird POKéMON need to learn\n"
-    .string "better moves.$"
+    .string "Kuş POKéMON'larımın daha iyi hareketler\n"
+    .string "öğrenmesi gerekiyor.$"
 
 Route14_Text_BeckIntro::
-    .string "They have TMs on sale at the\n"
-    .string "CELADON DEPT. STORE.\p"
-    .string "TMs aren't really rare, but not\n"
-    .string "many people have HMs.$"
+    .string "CELADON MAĞAZASI'nda\n"
+    .string "satılan TM'lere bakmalısın\l"
+    .string "TM'ler nadir değildir, ama\l"
+    .string "HM'lere sahip çok az kişi vardır.$"
 
 Route14_Text_BeckDefeat::
-    .string "Aww, bummer!$"
+    .string "Ayy, berbat!$"
 
 Route14_Text_BeckPostBattle::
-    .string "Try teaching POKéMON a move that's\n"
-    .string "the same type as it.\p"
-    .string "That apparently boosts the power\n"
-    .string "of the move.$"
+    .string "Aynı türden bir hareket öğretmeyi dene.\n"
+    .string "Bu, hareketin gücünü artırırmış.$"
 
 Route14_Text_MarlonIntro::
-    .string "Have you taught your bird POKéMON\n"
-    .string "how to FLY?\p"
-    .string "You'll be able to soar with it into\n"
-    .string "the sky!$"
+    .string "Uçan POKéMON'una UÇ hareketini\n"
+    .string "öğretmeyi denedin mi?\l"
+    .string "Böylece onunla\l"
+    .string "gökyüzünde süzülebilirsin!$"
 
 Route14_Text_MarlonDefeat::
-    .string "Shot down in flames!$"
+    .string "Alev alev yandın!$"
 
 Route14_Text_MarlonPostBattle::
-    .string "Bird POKéMON are my one true love.\n"
-    .string "I don't want to raise anything else.$"
+    .string "Uçan POKéMON'larımdan başkasını\n"
+    .string "eğitmek istemiyorum. Onlar benim\l"
+    .string "tek gerçek aşkım.$"
 
 Route14_Text_DonaldIntro::
-    .string "Have you heard the legend of the\n"
-    .string "winged mirages?$"
+    .string "Kanatlı mucizelerin efsanesini\n"
+    .string "duydun mu?$"
 
 Route14_Text_DonaldDefeat::
-    .string "Why?\n"
-    .string "Why'd I lose?$"
+    .string "Neden?\n"
+    .string "Neden kaybettim?$"
 
 Route14_Text_DonaldPostBattle::
-    .string "Well, the winged mirages are the\n"
-    .string "legendary bird POKéMON.\p"
-    .string "There are three of them: ARTICUNO,\n"
-    .string "ZAPDOS, and MOLTRES.$"
+    .string "Kanatlı mucizeler, efsanevi uçan\n"
+    .string "POKéMON'lardır.\p"
+    .string "Üç tane var: ARTICUNO,\n"
+    .string "ZAPDOS ve MOLTRES.$"
 
 Route14_Text_BennyIntro::
-    .string "I'm not into it, but okay.\n"
-    .string "Let's go!$"
+    .string "Pek ilgimi çekmiyor, ama olsun.\n"
+    .string "Haydi başlayalım!$"
 
 Route14_Text_BennyDefeat::
-    .string "I knew it!$"
+    .string "Biliyordum!$"
 
 Route14_Text_BennyPostBattle::
-    .string "Winning, losing… It's insignificant\n"
-    .string "under this huge sky.$"
+    .string "Bu uçsuz bucaksız gökyüzünde\n"
+    .string "kazanmak veya kaybetmek önemsiz.$"
 
 Route14_Text_LukasIntro::
-    .string "C'mon, c'mon.\n"
-    .string "Let's go, let's go, let's go!$"
+    .string "Hadi, hadi.\n"
+    .string "Haydi, haydi, haydi!$"
 
 Route14_Text_LukasDefeat::
-    .string "Arrg!\n"
-    .string "Lost! Get lost!$"
+    .string "Aarrg!\n"
+    .string "Kaybettim! Defol!$"
 
 Route14_Text_LukasPostBattle::
-    .string "What, what, what?\n"
-    .string "What do you want still?$"
+    .string "Ne, ne, ne?\n"
+    .string "Hala ne istiyorsun?$"
 
 Route14_Text_IsaacIntro::
-    .string "I need to burn some time.\n"
-    .string "Shut up and battle.$"
+    .string "Zaman öldürmem gerekiyor.\n"
+    .string "Sus ve savaş.$"
 
 Route14_Text_IsaacDefeat::
-    .string "What?\n"
-    .string "You!?$"
+    .string "Ne?\n"
+    .string "Sen mi?$"
 
 Route14_Text_IsaacPostBattle::
-    .string "Raising POKéMON is a drag, man.$"
+    .string "POKéMON eğitmek çok sıkıcı dostum.$"
 
 Route14_Text_GeraldIntro::
-    .string "We ride out here because of the\n"
-    .string "wide-open spaces.$"
+    .string "Burada dolaşıyoruz çünkü geniş\n"
+    .string "alanlar var.$"
 
 Route14_Text_GeraldDefeat::
-    .string "Wipeout!$"
+    .string "Çakıldım!$"
 
 Route14_Text_GeraldPostBattle::
-    .string "It's cool you made your POKéMON so\n"
-    .string "strong.\p"
-    .string "Might is right!\n"
-    .string "And you know it!$"
+    .string "POKéMON'unu güçlü yapman güzel.\n"
+    .string "Güç her şeydir!\n"
+    .string "Bunu biliyorsun!$"
 
 Route14_Text_MalikIntro::
-    .string "POKéMON battle?\n"
-    .string "Cool! Rumble!$"
+    .string "POKéMON savaşı mı?\n"
+    .string "Süper! Hadi başlayalım!$"
 
 Route14_Text_MalikDefeat::
-    .string "Blown away!$"
+    .string "Savrulup gittim!$"
 
 Route14_Text_MalikPostBattle::
-    .string "You know who'd win, you and me\n"
-    .string "one-on-one!$"
+    .string "Seninle tek başımıza savaşsak,\n"
+    .string "ben kazanırdım, biliyorsun!$"
 
 Route14_Text_RouteSign::
-    .string "ROUTE 14\n"
-    .string "West to FUCHSIA CITY$"
+    .string "ROTA 14\n"
+    .string "Batı FUCHSIA ŞEHRİ'ne gider$"
 
 Route14_Text_KiriIntro::
-    .string "KIRI: JAN, let's try really,\n"
-    .string "really hard together.$"
+    .string "KIRI: JAN, beraber çok\n"
+    .string "çalışalım, tamam mı?$"
 
 Route14_Text_KiriDefeat::
-    .string "KIRI: Whimper…\n"
-    .string "We lost, didn't we?$"
+    .string "KIRI: Hıçkı…\n"
+    .string "Kaybettik, değil mi?$"
 
 Route14_Text_KiriPostBattle::
-    .string "KIRI: Did we lose because of me?$"
+    .string "KIRI: Kaybettiysem, benim\n"
+    .string "yüzümden mi?$"
 
 Route14_Text_KiriNotEnoughMons::
-    .string "KIRI: We can battle if you have\n"
-    .string "two POKéMON.$"
+    .string "KIRI: İki POKéMON'un varsa\n"
+    .string "savaşabiliriz.$"
 
 Route14_Text_JanIntro::
-    .string "JAN: KIRI, here we go!\n"
-    .string "We have to try hard!$"
+    .string "JAN: KIRI, hazır mısın?\n"
+    .string "Çok çalışmalıyız!$"
 
 Route14_Text_JanDefeat::
     .string "JAN: Eeeeh!\n"
-    .string "No fair!$"
+    .string "Haksızlık!$"
 
 Route14_Text_JanPostBattle::
-    .string "JAN: KIRI, don't cry!\n"
-    .string "We'll just try harder next time.$"
+    .string "JAN: KIRI, ağlama!\n"
+    .string "Bir dahakine daha çok çalışacağız.$"
 
 Route14_Text_JanNotEnoughMons::
-    .string "JAN: You want to battle?\n"
-    .string "You don't have enough POKéMON.$"
+    .string "JAN: Savaşmak istiyorsun ama\n"
+    .string "yeterli POKéMON'un yok.$"

@@ -1,26 +1,25 @@
 Route6_NorthEntrance_Text_ThirstyOnGuardDuty::
-    .string "I'm on guard duty.\n"
-    .string "Gee, I'm thirsty, though!\p"
-    .string "Oh, wait there, the road's closed.$"
+.string "Nöbetteyim.\n"
+.string "Ama çok susadım!\p"
+.string "Dur, yol kapalı.$"
 
 Route6_NorthEntrance_Text_ThatTeaLooksTasty::
-    .string "Oh, that TEA…\n"
-    .string "It looks awfully tasty…$"
+.string "Oh, o ÇAY...\n"
+.string "Çok lezzetli görünüyor...$"
 
 Route6_NorthEntrance_Text_ThanksIllShareTeaWithGuards::
-    .string "Huh? I can have this drink?\n"
-    .string "Gee, thanks!\l"
-    .string "… …\l"
-    .string "Glug, glug…\l"
-    .string "… …\l"
-    .string "Gulp…\l"
-    .string "If you want to go to SAFFRON\l"
-    .string "CITY…\l"
-    .string "… …\l"
-    .string "You can go on through.\p"
-    .string "I'll share this TEA with the other\n"
-    .string "guards!$"
+.string "Ne? Bu içeceği içebilir miyim?\n"
+.string "Teşekkürler!\l"
+.string "… …\l"
+.string "Yudum, yudum...\l"
+.string "… …\l"
+.string "Yutkun…\l"
+.string "Eğer SAFFRON ŞEHRİ'ne\l"
+.string "gitmek istiyorsan…\l"
+.string "… …\l"
+.string "Geçebilirsin.\p"
+.string "Bu ÇAY'ı diğer nöbetçilerle\n"
+.string "paylaşacağım!$"
 
 Route6_NorthEntrance_Text_HiHowsItGoing::
-    .string "Hi, how's it going?$"
-
+.string "Merhaba, nasıl gidiyor?$"

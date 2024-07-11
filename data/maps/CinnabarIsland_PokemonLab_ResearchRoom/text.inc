@@ -1,19 +1,17 @@
 CinnabarIsland_PokemonLab_ResearchRoom_Text_EeveeCanEvolveIntroThreeMons::
-    .string "EEVEE can evolve into one of three\n"
-    .string "kinds of POKéMON.$"
+    .string "EEVEE üç farklı POKéMON'a\n"
+    .string "evrimleşebilir.$"
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
-    .string "There's an e-mail message.\p"
+    .string "Bir e-posta mesajı var.\p"
     .string "… … …\p"
-    .string "There are three legendary bird\n"
-    .string "POKéMON.\p"
-    .string "They are ARTICUNO, ZAPDOS, and\n"
-    .string "MOLTRES.\p"
-    .string "Their whereabouts are unknown.\p"
-    .string "We plan to explore the cavern\n"
-    .string "close to CERULEAN.\p"
-    .string "From: POKéMON RESEARCH TEAM…$"
+    .string "Üç efsanevi kuş POKéMON\n"
+    .string "vardır:\p"
+    .string "ARTICUNO, ZAPDOS ve MOLTRES\p"
+    .string "Nerede oldukları bilinmiyor.\p"
+    .string "CERULEAN yakınlarındaki mağarayı\n"
+    .string "araştırmayı planlıyoruz\p"
+    .string "Gönderen: POKéMON ARAŞTIRMA TAKIMI…$"
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipe::
-    .string "An amber pipe!$"
-
+    .string "Bir kehribar pipo!$"

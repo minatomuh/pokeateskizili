@@ -1,11 +1,11 @@
 SSAnne_B1F_Room3_Text_DylanIntro::
-    .string "I like feisty kids like you!$"
+    .string "Cesur çocuklar gibisini severim!$"
 
 SSAnne_B1F_Room3_Text_DylanDefeat::
-    .string "Argh!\n"
-    .string "Lost it!$"
+    .string "Aaaah!\n"
+    .string "Kaybetttim!$"
 
 SSAnne_B1F_Room3_Text_DylanPostBattle::
-    .string "Sea POKéMON live in deep water.\n"
-    .string "You'll need a ROD to fish them up!$"
+    .string "Deniz POKéMON'ları derinlerde yaşar.\n"
+    .string "Bir OLTA edinip onları tutmalısın!$"
 

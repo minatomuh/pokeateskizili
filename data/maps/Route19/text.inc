@@ -1,154 +1,152 @@
 Route19_Text_RichardIntro::
-    .string "I have to exercise and warm up\n"
-    .string "before going out for a swim.$"
+    .string "Önce egzersiz yapıp\n"
+    .string "ısınmam lazım.$"
 
 Route19_Text_RichardDefeat::
-    .string "All warmed up!$"
+    .string "Isındım bile!$"
 
 Route19_Text_RichardPostBattle::
-    .string "Thanks, kid!\n"
-    .string "I'm ready for a swim.$"
+    .string "Teşekkürler, çocuk!\n"
+    .string "Artık yüzmeye hazırım.$"
 
 Route19_Text_ReeceIntro::
-    .string "Wait! Slow down!\n"
-    .string "You'll have a heart attack!$"
+    .string "Dur! Yavaş ol!\n"
+    .string "Kalp krizi geçireceksin!$"
 
 Route19_Text_ReeceDefeat::
-    .string "Ooh!\n"
-    .string "That's chilly!$"
+    .string "Brr!\n"
+    .string "Soğukmuş!$"
 
 Route19_Text_ReecePostBattle::
-    .string "Watch out for TENTACOOL.\n"
-    .string "They sting so painfully.$"
+    .string "TENTACOOL'a dikkat et.\n"
+    .string "Acı verici şekilde sokarlar.$"
 
 Route19_Text_MatthewIntro::
-    .string "I love swimming!\n"
-    .string "What about you?$"
+    .string "Yüzmeyi çok seviyorum!\n"
+    .string "Peki ya sen?$"
 
 Route19_Text_MatthewDefeat::
-    .string "Belly flop!$"
+    .string "Karnım ağrıdı!$"
 
 Route19_Text_MatthewPostBattle::
-    .string "I can beat even marine POKéMON\n"
-    .string "at swimming.$"
+    .string "Deniz POKéMON'larına karşı\n"
+    .string "bile yüzebilirim.$"
 
 Route19_Text_DouglasIntro::
-    .string "What's beyond the horizon?$"
+    .string "Ufkun ötesinde ne var?$"
 
 Route19_Text_DouglasDefeat::
-    .string "Glub!$"
+    .string "Glup!$"
 
 Route19_Text_DouglasPostBattle::
-    .string "I see a couple of islands over\n"
-    .string "yonder!$"
+    .string "Orada birkaç ada görüyorum!\n"
+    .string "Haydi, gidelim!$"
 
 Route19_Text_DavidIntro::
-    .string "I tried diving for POKéMON, but it\n"
-    .string "was a no-go.$"
+    .string "POKéMON yakalamaya dalış\n"
+    .string "yaptım, ama olmadı.$"
 
 Route19_Text_DavidDefeat::
-    .string "Help!$"
+    .string "İmdat!$"
 
 Route19_Text_DavidPostBattle::
-    .string "I guess you have to fish for sea\n"
-    .string "POKéMON.$"
+    .string "Deniz POKéMON'larını yakalamak\n"
+    .string "için oltaya ihtiyaç var.$"
 
 Route19_Text_TonyIntro::
-    .string "I look at the sea to forget all\n"
-    .string "the bad things that happened.$"
+    .string "Denize bakmak, başıma gelen\n"
+    .string "kötü şeyleri unutturuyor.$"
 
 Route19_Text_TonyDefeat::
-    .string "Ooh!\n"
-    .string "Traumatic!$"
+    .string "Ayy!\n"
+    .string "Travmatik!$"
 
 Route19_Text_TonyPostBattle::
-    .string "I'm looking at the sea to forget\n"
-    .string "the bad thing that happened!$"
+    .string "Denize bakıp başıma gelen\n"
+    .string "kötü şeyi unutuyorum!$"
 
 Route19_Text_AnyaIntro::
-    .string "Oh, I just love your ride!\n"
-    .string "Can I have it if I win?$"
+    .string "Oh, ne güzel bir yolculuk!\n"
+    .string "Eğer kazanırsam, bana verir misin?$"
 
 Route19_Text_AnyaDefeat::
-    .string "Oh! I lost!$"
+    .string "Ayy! Kaybettim!$"
 
 Route19_Text_AnyaPostBattle::
-    .string "It's still a long way to go to\n"
-    .string "SEAFOAM ISLANDS…\p"
-    .string "I want to go back to FUCHSIA…$"
+    .string "SEAFOAM ADALARI'na daha çok\n"
+    .string "var… FUCHSIA'ya dönmek istiyorum.$"
 
 Route19_Text_AliceIntro::
-    .string "Swimming's great!\n"
-    .string "Sunburns aren't!$"
+    .string "Yüzmek harika!\n"
+    .string "Ama güneş yanığı değil!$"
 
 Route19_Text_AliceDefeat::
-    .string "Shocker!$"
+    .string "Çarpıldım!$"
 
 Route19_Text_AlicePostBattle::
-    .string "My boyfriend wanted to swim to\n"
-    .string "SEAFOAM ISLANDS.$"
+    .string "Erkek arkadaşım SEAFOAM ADALARI'na\n"
+    .string "kadar yüzmek istedi.$"
 
 Route19_Text_AxleIntro::
-    .string "Ahoy, there!\n"
-    .string "These waters are treacherous!$"
+    .string "Ahoy ahoy!\n"
+    .string "Bu sular tehlikeli!$"
 
 Route19_Text_AxleDefeat::
-    .string "Ooh!\n"
-    .string "Dangerous!$"
+    .string "Ayy!\n"
+    .string "Tehlikeliymiş!$"
 
 Route19_Text_AxlePostBattle::
-    .string "M-my legs! They cramped up!\n"
-    .string "Glub, glub…$"
+    .string "A-ayaklarım! Kasıldı!\n"
+    .string "Glup glup…$"
 
 Route19_Text_ConnieIntro::
-    .string "I swam here with my friends…\n"
-    .string "I'm tired…$"
+    .string "Arkadaşlarımla buraya kadar\n"
+    .string "yüzdüm… Yorgunum…$"
 
 Route19_Text_ConnieDefeat::
-    .string "I'm exhausted…$"
+    .string "Bitkin düşmüş durumdayım…$"
 
 Route19_Text_ConniePostBattle::
-    .string "If I were to ride a POKéMON on\n"
-    .string "the sea, I'd like a LAPRAS.\p"
-    .string "LAPRAS is so big, I bet it\n"
-    .string "would keep me dry on water.$"
+    .string "Denizde bir POKéMON'a binmek\n"
+    .string "istersem LAPRAS'ı seçerdim.\p"
+    .string "LAPRAS çok büyük, bence beni\n"
+    .string "denizde kuru tutar.$"
 
 Route19_Text_RouteSign::
-    .string "SEA ROUTE 19\n"
-    .string "FUCHSIA CITY - SEAFOAM ISLANDS$"
+    .string "DENİZ ROTASI 19\n"
+    .string "FUCHSIA ŞEHRİ - SEAFOAM ADALARI$"
 
 Route19_Text_LiaIntro::
-    .string "LIA: I'm looking after my brother.\n"
-    .string "He just became a TRAINER.$"
+    .string "LIA: Küçük kardeşime bakıyorum.\n"
+    .string "O da yeni bir EĞİTMEN.$"
 
 Route19_Text_LiaDefeat::
-    .string "LIA: That's no way to treat my\n"
-    .string "little brother!$"
+    .string "LIA: Küçük kardeşime böyle\n"
+    .string "davranamazsın!$"
 
 Route19_Text_LiaPostBattle::
-    .string "LIA: Do you have a younger\n"
-    .string "brother?\p"
-    .string "I hope you're teaching him all\n"
-    .string "sorts of things.$"
+    .string "LIA: Küçük kardeşin var mı?\n"
+    .string "Umarım ona bir şeyler\n"
+    .string "öğretmeye çalışıyorsundur.$"
 
 Route19_Text_LiaNotEnoughMons::
-    .string "LIA: I want to battle together\n"
-    .string "with my little brother.\p"
-    .string "Don't you have two POKéMON?$"
+    .string "LIA: Küçük kardeşimle beraber\n"
+    .string "savaşmak istiyorum.\p"
+    .string "İki POKéMON'un yok mu?$"
 
 Route19_Text_LucIntro::
-    .string "LUC: My big sis taught me how\n"
-    .string "to swim and train POKéMON.$"
+    .string "LUC: Büyük ablam bana yüzmeyi\n"
+    .string "ve POKéMON eğitmeyi öğretti.$"
 
 Route19_Text_LucDefeat::
-    .string "LUC: Oh, wow!\n"
-    .string "Someone tougher than my big sis!$"
+    .string "LUC: Vay canına!\n"
+    .string "Ablamdan daha güçlüsün!$"
 
 Route19_Text_LucPostBattle::
-    .string "LUC: My big sis is strong and nice.\n"
-    .string "I think she's awesome!$"
+    .string "LUC: Ablam güçlü ve iyi.\n"
+    .string "O harika biri!$"
 
 Route19_Text_LucNotEnoughMons::
-    .string "LUC: I don't want to if I can't\n"
-    .string "battle you with my big sis.\p"
-    .string "Don't you have two POKéMON?$"
+    .string "LUC: Ablam olmadan savaşmak\n"
+    .string "istemiyorum.\p"
+    .string "İki POKéMON'un yok mu?$"

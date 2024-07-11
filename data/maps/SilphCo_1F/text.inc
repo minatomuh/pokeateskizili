@@ -1,14 +1,12 @@
 SilphCo_1F_Text_WelcomePresidentInBoardroom::
-    .string "Welcome.\p"
-    .string "The PRESIDENT is in the boardroom\n"
-    .string "on 11F.$"
+    .string "Hoşgeldiniz.\p"
+    .string "BAŞKAN 11. katta toplantı odasında.$"
 
-@ Tentative translation. Unknown origin
 SilphCo_1F_Text_DestroyedWontBeFixedForWhile::
-    .string "めちゃめちゃに　こわされてる\n"
-    .string "とうぶん　なおりそうに　ない‥$"
+    .string "Her yer perişan olmuş.\n"
+    .string "Bir süre tamir edilecek gibi değil…$"
 
 SilphCo_1F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "1F$"
+    .string "SILPH ŞTİ. MERKEZ OFİS\n"
+    .string "1. Kat$"
 

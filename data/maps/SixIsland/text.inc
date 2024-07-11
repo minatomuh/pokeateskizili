@@ -1,14 +1,13 @@
 SixIsland_Text_IslandSign::
-    .string "SIX ISLAND\n"
-    .string "Fortune Island of Aged Wisdom$"
+    .string "ALTINCI ADA\n"
+    .string "Bilgelik Adası, Şans Adası$"
 
 SixIsland_Text_ThatWayToWaterPathRuinValley::
-    .string "Keep going this way and you'll get\n"
-    .string "to the WATER PATH.\p"
-    .string "Stay on that and you'll get to\n"
-    .string "the RUIN VALLEY.$"
+    .string "Bu yolda ilerlemeye devam et ve\n"
+    .string "SU YOLU'na ulaşacaksın.\p"
+    .string "Orada kal ve HARABE VADİ'ye\n"
+    .string "ulaşacaksın.$"
 
 SixIsland_Text_SkyAtNightIsFantastic::
-    .string "When you're this far away from the\n"
-    .string "city, the sky at night is fantastic.$"
-
+    .string "Şehirden bu kadar uzakta olunca,\n"
+    .string "gece gökyüzü muhteşem olur.$"

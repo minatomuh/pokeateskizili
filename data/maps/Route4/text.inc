@@ -1,79 +1,79 @@
 Route4_Text_TrippedOverGeodude::
-    .string "Ouch! I tripped over a rocky\n"
-    .string "POKéMON, GEODUDE!$"
+    .string "Ayy! Taştan bir POKéMON'a\n"
+    .string "takıldım, GEODUDE!$"
 
 Route4_Text_CrissyIntro::
-    .string "I came to MT. MOON in search of\n"
-    .string "mushroom POKéMON.$"
+    .string "Mantar POKéMON'lar için\n"
+    .string "AY DAĞI'na geldim.$"
 
 Route4_Text_CrissyDefeat::
-    .string "After all I did to catch them!$"
+    .string "Onca emeğime yazık oldu!$"
 
 Route4_Text_CrissyPostBattle::
-    .string "There might not be any more\n"
-    .string "mushrooms here.\p"
-    .string "I think I got them all.$"
+    .string "Burada artık mantar\n"
+    .string "kalmadı sanırım.\p"
+    .string "Bence hepsini topladım.$"
 
 Route4_Text_MtMoonEntrance::
-    .string "MT. MOON\n"
-    .string "Tunnel Entrance$"
+    .string "AY DAĞI\n"
+    .string "Mağara Girişi$"
 
 Route4_Text_RouteSign::
     .string "ROUTE 4\n"
-    .string "MT. MOON - CERULEAN CITY$"
+    .string "AY DAĞI - CERULEAN ŞEHRİ$"
 
 Text_MegaPunchTeach::
-    .string "A punch of roaring ferocity!\p"
-    .string "Packed with destructive power!\p"
-    .string "When the chips are down,\n"
-    .string "MEGA PUNCH is the ultimate attack!\l"
-    .string "You agree, yes?\p"
-    .string "Now!\n"
-    .string "Let me teach it to your POKéMON!$"
+    .string "Gürültülü bir yumruk!\p"
+    .string "Yıkıcı güçle dolu!\p"
+    .string "Zor durumda kaldığında,\n"
+    .string "MEGA YUMRUK en iyi saldırı!\l"
+    .string "Katılıyor musun?\p"
+    .string "Hadi!\n"
+    .string "Şimdi POKéMON'una öğretelim!$"
 
 Text_MegaPunchDeclined::
-    .string "You'll be back when you understand\n"
-    .string "the worth of MEGA PUNCH.$"
+    .string "MEGA YUMRUK'ün değerini\n"
+    .string "anladığında geri dönersin.$"
 
 Text_MegaPunchWhichMon::
-    .string "Fine!\n"
-    .string "Which POKéMON will learn it?$"
+    .string "Tamam!\n"
+    .string "Hangi POKéMON öğrenecek?$"
 
 Text_MegaPunchTaught::
-    .string "Now, we are comrades in the way of\n"
-    .string "punching!\p"
-    .string "You should go before you're seen\n"
-    .string "by the misguided fool who trains\l"
-    .string "only his silly kicking over there.$"
+    .string "Şimdi yumruk yoldaşı\n"
+    .string "olduk!\p"
+    .string "Şu yanlış eğitilen salak seni\n"
+    .string "görmeden gitmelisin,\l"
+    .string "kafayı tekme atmakla bozmuş.$"
 
 Text_MegaKickTeach::
-    .string "A kick of brutal ferocity!\p"
-    .string "Packed with destructive power!\p"
-    .string "When you get right down to it,\n"
-    .string "MEGA KICK is the ultimate attack!\l"
-    .string "Don't you agree?\p"
-    .string "Okay!\n"
-    .string "I'll teach it to your POKéMON!$"
+    .string "Vahşi bir tekme!\p"
+    .string "Yıkıcı güçle dolu!\p"
+    .string "Esas mesele şu ki, MEGA TEKME\n"
+    .string "en iyi saldırı!\l"
+    .string "Katılıyor musun?\p"
+    .string "Tamam!\n"
+    .string "POKéMON'una öğreteceğim!$"
 
 Text_MegaKickDeclined::
-    .string "You'll come crawling back when you\n"
-    .string "realize the value of MEGA KICK.$"
+    .string "MEGA TEKME'nin değerini\n"
+    .string "anladığında geri döneceksin.$"
 
 Text_MegaKickWhichMon::
-    .string "All right!\n"
-    .string "Which POKéMON wants to learn it?$"
+    .string "Harika!\n"
+    .string "Hangi POKéMON öğrenecek?$"
 
 Text_MegaKickTaught::
-    .string "Now, we are soul mates in the way\n"
-    .string "of kicking!\p"
-    .string "You should run before you're seen\n"
-    .string "by the deluded nitwit who trains\l"
-    .string "only simple punching over there.$"
+    .string "Şimdi tekme ruh ikiziyiz!\p"
+    .string "Görülmeden gitmelisin,\n"
+    .string "Şu yanlış eğitilen salak seni\l"
+    .string "görmeden gitmelisin,\l"
+    .string "kafayı tekme atmakla bozmuş.$"
 
 Route4_Text_PeopleLikeAndRespectBrock::
-    .string "Oh, wow, that's the BOULDERBADGE!\n"
-    .string "You got it from BROCK, didn't you?\p"
-    .string "BROCK is cool. He's not just tough.\n"
-    .string "People like and respect him.\p"
-    .string "I want to become a GYM LEADER\n"
-    .string "like him.$"
+    .string "Vay canına, bu BOULDERBADGE!\n"
+    .string "BROCK'tan aldın, değil mi?\p"
+    .string "BROCK çok havalı. Sadece güçlü\n"
+    .string "değil, sevilen ve saygı duyulan\l"
+    .string "biri. Onun gibi bir SALON\l"
+    .string "LİDERİ olmak istiyorum.$"

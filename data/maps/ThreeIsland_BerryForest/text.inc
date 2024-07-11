@@ -1,43 +1,42 @@
 ThreeIsland_BerryForest_Text_HelpScaryPokemon::
-    .string "LOSTELLE: Whimper… Sniff…\n"
-    .string "Oh! Please, help!\p"
-    .string "A scary POKéMON appeared there\n"
-    .string "a little while ago.\p"
-    .string "It kept scaring.\n"
-    .string "It made LOSTELLE scared.\p"
-    .string "I'm too scared to move!\n"
-    .string "But I want to go home…$"
+    .string "LOSTELLE: Hıçkı… Kokla…\n"
+    .string "Ah! Lütfen yardım edin!\p"
+    .string "Biraz önce orada ürkütücü\n"
+    .string "bir POKéMON belirdi.\l"
+    .string "Korkutmaya devam etti.\n"
+    .string "LOSTELLE'yi korkuttu.\p"
+    .string "Korkudan hareket edemiyorum!\n"
+    .string "Ama eve gitmek istiyorum…$"
 
 ThreeIsland_BerryForest_Text_HereItComesAgain::
-    .string "Oh! Here it comes again!\n"
-    .string "No! Go away! It's scaring me!\p"
+    .string "Ah! Tekrar geldi!\n"
+    .string "Hayır! Gitti! Beni korkutuyor!\p"
     .string "Waaaaaaah!\n"
-    .string "I want my daddy!$"
+    .string "Babamı istiyorum!$"
 
 ThreeIsland_BerryForest_Text_ThankYouHaveThis::
-    .string "Ohh! That was so scary!\n"
-    .string "Thank you!\p"
-    .string "LOSTELLE came to pick some\n"
-    .string "BERRIES.\p"
-    .string "You can have this!$"
+    .string "Ohh! O kadar korkutucuydu!\n"
+    .string "Teşekkür ederim!\p"
+    .string "LOSTELLE biraz MEYVE toplamaya\n"
+    .string "gelmişti. Bunu alabilirsin!$"
 
 ThreeIsland_BerryForest_Text_LetsGoHome::
-    .string "What's your name?\p"
-    .string "LOSTELLE's scared, so can I go\n"
-    .string "with you to my daddy's house?\p"
-    .string "Okay!\n"
-    .string "Let's go home!$"
+    .string "Adın ne?\p"
+    .string "LOSTELLE korktuğu için babamın\n"
+    .string "evine benimle gelebilir misin?\p"
+    .string "Tamam!\n"
+    .string "Eve gidelim!$"
 
 ThreeIsland_BerryForest_Text_BerryPouchIsFull::
-    .string "Your BERRY POUCH is full.\n"
-    .string "I guess you don't want this.$"
+    .string "MEYVE ÇANTASI dolu.\n"
+    .string "Sanırım bunu istemiyorsun.$"
 
 ThreeIsland_BerryForest_Text_WelcomeToBerryForest::
-    .string "Welcome to the BERRY FOREST\p"
-    .string "Be friendly and share BERRIES with\n"
-    .string "others and POKéMON.$"
+    .string "MEYVE ORMANINA hoş geldiniz\p"
+    .string "Misafirperver olun ve MEYVE'leri\n"
+    .string "başkalarıyla ve POKéMON'larla\l"
+    .string "paylaşın.$"
 
 ThreeIsland_BerryForest_Text_BewareWildBerryLovingMons::
-    .string "Beware of wild, BERRY-loving\n"
-    .string "POKéMON!$"
-
+    .string "Yabani, MEYVE seven POKéMON'lara\n"
+    .string "dikkat edin!$"

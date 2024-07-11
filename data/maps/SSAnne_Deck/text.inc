@@ -1,35 +1,35 @@
 SSAnne_Deck_Text_ShipDepartingSoon::
-    .string "The party's over.\n"
-    .string "The ship will be departing soon.$"
+    .string "Parti bitti.\n"
+    .string "Gemi yakında ayrılacak.$"
 
 SSAnne_Deck_Text_ScrubbingDecksHardWork::
-    .string "Whew!\n"
-    .string "Scrubbing decks is hard work!$"
+    .string "Of!$\n"
+    .string "Güverteleri temizlemek zor iş!$"
 
 SSAnne_Deck_Text_FeelSeasick::
-    .string "Urf… I feel ill…\p"
-    .string "I got seasick, so I stepped out to\n"
-    .string "get some air…$"
+    .string "Urf… Hasta gibiyim…\p"
+    .string "Deniz tutması yaşadım, bu yüzden\n"
+    .string "biraz hava almaya çıktım.$"
 
 SSAnne_Deck_Text_EdmondIntro::
-    .string "Hey, matey!\p"
-    .string "Let's do a little jig!$"
+    .string "Hey, kanka!\p"
+    .string "Biraz dans edelim!$"
 
 SSAnne_Deck_Text_EdmondDefeat::
-    .string "You're impressive!$"
+    .string "Sen inanılmazsın!$"
 
 SSAnne_Deck_Text_EdmondPostBattle::
-    .string "How many kinds of POKéMON do you\n"
-    .string "think there are in this big world?$"
+    .string "Bu büyük dünyada kaç çeşit\n"
+    .string "POKéMON olduğunu düşünüyorsun?$"
 
 SSAnne_Deck_Text_TrevorIntro::
-    .string "Ahoy, there!\n"
-    .string "Are you seasick?$"
+    .string "Ahoy!\n"
+    .string "Deniz tutması mı yaşıyorsun?$"
 
 SSAnne_Deck_Text_TrevorDefeat::
-    .string "I was just careless!$"
+    .string "Dikkatsiz davrandım!$"
 
 SSAnne_Deck_Text_TrevorPostBattle::
-    .string "My pa said there are 100 kinds of\n"
-    .string "POKéMON. I think there are more.$"
+    .string "Babam 100 çeşit POKéMON\n"
+    .string "olduğunu söyledi. Bence daha fazla.$"
 

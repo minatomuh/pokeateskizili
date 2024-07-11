@@ -1,67 +1,67 @@
 LavenderTown_PokemonCenter_1F_Text_HearMrFujiNotFromAroundHere::
-    .string "I recently moved to this town.\p"
-    .string "I hear that MR. FUJI's not from\n"
-    .string "these parts originally, either.$"
+    .string "Ben bu şehre yeni taşındım.\p"
+    .string "BAY FUJİ'nin de aslında buranın\n"
+    .string "yerlisi olmadığı söyleniyor.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_WhereDidMrFujiGo::
-    .string "That's odd, MR. FUJI isn't here.\n"
-    .string "Where'd he go?$"
+    .string "Bu tuhaf, BAY FUJİ burada değil.\n"
+    .string "Nereye gitti?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiWasPrayingForCubonesMother::
-    .string "MR. FUJI had been praying alone\n"
-    .string "for CUBONE's mother.$"
+    .string "BAY FUJİ, CUBONE'un annesi için\n"
+    .string "yalnız başına dua ediyor.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiLooksAfterOrphanedMons::
-    .string "This is really MR. FUJI's house.\p"
-    .string "He's really kind.\p"
-    .string "He looks after abandoned and\n"
-    .string "orphaned POKéMON.$"
+    .string "Bu gerçekten BAY FUJİ'nin evi.\p"
+    .string "O çok iyi biri.\p"
+    .string "Terk edilmiş ve öksüz POKéMON'lara\n"
+    .string "bakar.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MonsNiceToHug::
-    .string "It's so warm!\n"
-    .string "POKéMON are so nice to hug.$"
+    .string "Çok sıcak!\n"
+    .string "POKéMON'ları kucaklamak çok güzel.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Nidorino::
-    .string "NIDORINO: Gaoo!$"
+    .string "NIDORINO: Gaaoo!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Psyduck::
     .string "PSYDUCK: Gwappa!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
-    .string "MR. FUJI: {PLAYER}…\p"
-    .string "Your POKéDEX quest is one that\n"
-    .string "requires strong dedication.\p"
-    .string "Without deep love for POKéMON,\n"
-    .string "your quest may fail.\p"
-    .string "I'm not sure if this will help you,\n"
-    .string "but I'd like you to have it.$"
+    .string "BAY FUJİ: {PLAYER}…\p"
+    .string "POKéDEX arayışın, güçlü bir adanma\n"
+    .string "gerektiriyor.\p"
+    .string "POKéMON'ları derin bir sevgi\n"
+    .string "olmadan araman başarısız olabilir.\p"
+    .string "Bunun yardımcı olup olmayacağından\n"
+    .string "emin değilim, ama sana vermek\l"
+    .string "isterim.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
-    .string "{PLAYER} received a POKé FLUTE\n"
-    .string "from MR. FUJI.$"
+    .string "{PLAYER}, BAY FUJİ'den bir\n"
+    .string "POKE FLÜT aldı.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
-    .string "Upon hearing the POKé FLUTE,\n"
-    .string "sleeping POKéMON will spring awake.\p"
-    .string "Try using it on POKéMON that are\n"
-    .string "sleeping obstacles.$"
+    .string "POKé FLUTE'u duyduğunda, uyuyan\n"
+    .string "POKéMON'lar uyanacak.\p"
+    .string "Uyuyan engeller olan POKéMON'lara\n"
+    .string "karşı kullanmayı dene.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MustMakeRoomForThis::
-    .string "You must make room for this!$"
+    .string "Bunun için yer açmalısın!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYou::
-    .string "MR. FUJI: Has my POKé FLUTE\n"
-    .string "helped you?$"
+    .string "BAY FUJİ: POKé FLÜT'üm sana\n"
+    .string "yardım etti mi?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClipped::
-    .string "POKéMON FAN MAGAZINE\n"
-    .string "Monthly Grand Prize Drawing!\p"
-    .string "The application form is…\p"
-    .string "Gone! It's been clipped out.\n"
-    .string "Someone must have applied already.$"
+    .string "POKéMON FAN DERGİSİ\n"
+    .string "Aylık Büyük Ödül Çekilişi!\p"
+    .string "Başvuru formu…\p"
+    .string "Boş! Kesilmiş. Biri zaten\n"
+    .string "almış olmalı.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_PokemonMagazinesLineShelf::
-    .string "POKéMON magazines line the shelf.\p"
-    .string "POKéMON INSIDER…\p"
+    .string "Raf, POKéMON dergileriyle dolu.\p"
+    .string "POKéMON YÜZÜ…\p"
     .string "POKéMON FAN…$"
-

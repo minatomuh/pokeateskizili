@@ -1,37 +1,36 @@
 CeladonCity_Restaurant_Text_TakingBreakRightNow::
-    .string "Hi!\p"
-    .string "Sorry, but we're taking a break\n"
-    .string "right now.$"
+    .string "Merhaba!\p"
+    .string "Üzgünüm, şu an kısa bir moladayız.\n"
+    .string "Hemen döneriz.$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-    .string "My POKéMON are weak, so I often\n"
-    .string "have to go to the DRUGSTORE.$"
+    .string "POKéMON'larım zayıf, bu yüzden\n"
+    .string "sık sık ECZANEYE gitmem gerekiyor.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
-    .string "Psst! There's a basement under the\n"
-    .string "GAME CORNER, I hear.$"
+    .string "Şşt! OYUN KÖŞESİ'nin altında gizli\n"
+    .string "bir bodrum katı olduğunu duydum.$"
 
 CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
-    .string "Munch…\p"
-    .string "The man at that table lost it all\n"
-    .string "at the slots.$"
+    .string "Çıt çıt…\p"
+    .string "O masadaki adam, slot makinelerinde\n"
+    .string "her şeyini kaybetti.$"
 
 CeladonCity_Restaurant_Text_TakeThisImBusted::
-    .string "Go ahead! Laugh!\n"
-    .string "I'm flat-out busted!\p"
-    .string "No more slots for me!\n"
-    .string "I'm going straight!\p"
-    .string "Here!\n"
-    .string "I won't be needing this anymore!$"
+    .string "Devam et! Gül! \n"
+    .string "Tamamen battım!\p"
+    .string "Artık slot oynamayacağım!\n"
+    .string "Artık düzgün yaşayacağım!\p"
+    .string "Al!\n"
+    .string "Artık buna ihtiyacım yok!$"
 
 CeladonCity_Restaurant_Text_ReceivedCoinCaseFromMan::
-    .string "{PLAYER} received a COIN CASE\n"
-    .string "from the man.$"
+    .string "{PLAYER} adamdan JETON KASASI\n"
+    .string "aldı.$"
 
 CeladonCity_Restaurant_Text_MakeRoomForThis::
-    .string "Make room for this!$"
+    .string "Buna yer açın!$"
 
 CeladonCity_Restaurant_Text_ThoughtIdWinItBack::
-    .string "I always thought I was going to\n"
-    .string "win it back…$"
-
+    .string "Her zaman kazanacağımı\n"
+    .string "düşünmüştüm…$"

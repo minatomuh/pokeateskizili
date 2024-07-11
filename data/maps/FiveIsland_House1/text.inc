@@ -1,15 +1,15 @@
 FiveIsland_House1_JPText_HusbandWentOffFishing::
-    .string "こんばんの　おかずは\n"
-    .string "ようい　しなくて　いいぞ！\p"
-    .string "って　だんなが\n"
-    .string "つりに　いったん　だけど‥\l"
-    .string "しんじて　いいのかねえ$"
+    .string "Akşam yemeği için\n"
+    .string "bir şey almana gerek yok!\p"
+    .string "Eşim balık tutmaya giderken\n"
+    .string "böyle demişti.\p"
+    .string "Sözünü tutup tutmayacağından\n"
+    .string "emin değilim.$"
 
 FiveIsland_House1_Text_HusbandWentOffFishing::
-    .string "Don't worry about buying anything\n"
-    .string "for dinner tonight!\p"
-    .string "…That's what my husband said when\n"
-    .string "he went off fishing today.\p"
-    .string "I'm not sure if I can count on him\n"
-    .string "to live up to that promise.$"
-
+    .string "Akşam yemeği için bir şey\n"
+    .string "almana gerek yokmuş!\p"
+    .string "Eşim bugün balık tutmaya\n"
+    .string "giderken böyle demiş.\p"
+    .string "Sözünü tutup tutmayacağından\n"
+    .string "emin değilim.$"

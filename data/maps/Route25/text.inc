@@ -1,119 +1,123 @@
 Route25_Text_JoeyIntro::
-    .string "Local TRAINERS come here to\n"
-    .string "practice.$"
+    .string "Yerel EĞİTMEN'ler buraya\n"
+    .string "pratik yapmak için gelirler.$"
 
 Route25_Text_JoeyDefeat::
-    .string "You're decent.$"
+    .string "İyiydin.$"
 
 Route25_Text_JoeyPostBattle::
-    .string "All POKéMON have weaknesses.\n"
-    .string "Even the strongest ones.\p"
-    .string "That's why it's best to raise\n"
-    .string "POKéMON of different types.$"
+    .string "Tüm POKéMON'ların zayıf\n"
+    .string "yanları vardır. Hatta en\p"
+    .string "güçlülerin bile. Bu yüzden\n"
+    .string "farklı türlerdeki POKéMON'ları\p"
+    .string "eğitmek en iyisidir.$"
 
 Route25_Text_DanIntro::
-    .string "Dad took me to a great party on\n"
-    .string "the S.S. ANNE at VERMILION CITY.$"
+    .string "Babam beni S.S. ANNE'deki\n"
+    .string "harika bir partiye götürdü.\p"
+    .string "VERMILION ŞEHRİ'ndeydi.$"
 
 Route25_Text_DanDefeat::
-    .string "I'm not mad!$"
+    .string "Kızgın değilim!$"
 
 Route25_Text_DanPostBattle::
-    .string "On the S.S. ANNE, I saw TRAINERS\n"
-    .string "from around the world.$"
+    .string "S.S. ANNE'deyken, tüm dünyadan\n"
+    .string "EĞİTMEN'ler gördüm.$"
 
 Route25_Text_FlintIntro::
-    .string "I'm a cool guy.\n"
-    .string "I've got a girlfriend!$"
+    .string "Ben çok havalıyım.\n"
+    .string "Bir kız arkadaşım var!$"
 
 Route25_Text_FlintDefeat::
-    .string "Aww, darn…$"
+    .string "Ayy, yazık…$"
 
 Route25_Text_FlintPostBattle::
-    .string "Oh, well.\n"
-    .string "My girlfriend will cheer me up.$"
+    .string "Oh, olsun.\n"
+    .string "Kız arkadaşım beni teselli\p"
+    .string "edecek.$"
 
 Route25_Text_KelseyIntro::
-    .string "Hi!\n"
-    .string "My boyfriend is cool!$"
+    .string "Merhaba!\n"
+    .string "Erkek arkadaşım çok havalı!$"
 
 Route25_Text_KelseyDefeat::
-    .string "My conditioning isn't the best…$"
+    .string "Kondisyonum iyi değil…$"
 
 Route25_Text_KelseyPostBattle::
-    .string "I wish my boyfriend was as good\n"
-    .string "as you.$"
+    .string "Keşke erkek arkadaşım senin\n"
+    .string "kadar iyi olsa.$"
 
 Route25_Text_ChadIntro::
-    .string "I had this feeling…\n"
-    .string "I knew I had to battle you!$"
+    .string "Bu hisse kapılmıştım…\p"
+    .string "Seni yenmem gerektiğini\n"
+    .string "biliyordum!$"
 
 Route25_Text_ChadDefeat::
-    .string "I knew I'd lose, too!$"
+    .string "Kaybetmeyi biliyordum!$"
 
 Route25_Text_ChadPostBattle::
-    .string "If your POKéMON gets confused,\n"
-    .string "switch it out.\p"
-    .string "That's a good tactic.$"
+    .string "Eğer POKéMON'un şaşırırsa,\n"
+    .string "onu değiştir. Bu iyi bir\l"
+    .string "taktik.$"
 
 Route25_Text_HaleyIntro::
-    .string "My friend has many cute POKéMON.\n"
-    .string "I'm so jealous!$"
+    .string "Arkadaşımın çok tatlı POKéMON'ları\n"
+    .string "var. Çok kıskanıyorum!$"
 
 Route25_Text_HaleyDefeat::
-    .string "I'm not so jealous!$"
+    .string "Artık o kadar kıskanç değilim!$"
 
 Route25_Text_HaleyPostBattle::
-    .string "You came from MT. MOON?\n"
-    .string "May I have a CLEFAIRY?$"
+    .string "Sen AY DAĞI'ndan mı geldin?\n"
+    .string "Bir CLEFAIRY verebilir misin?$"
 
 Route25_Text_FranklinIntro::
-    .string "I just got down from MT. MOON,\n"
-    .string "but I've still got gas in the tank!$"
+    .string "AY DAĞI'ndan yeni indim,\n"
+    .string "ama hala enerjim var!$"
 
 Route25_Text_FranklinDefeat::
-    .string "You worked hard!$"
+    .string "Çok çalıştın!$"
 
 Route25_Text_FranklinPostBattle::
-    .string "Drat!\n"
-    .string "A ZUBAT bit me back in that cave.$"
+    .string "Zevzek!\n"
+    .string "Bir ZUBAT o mağarada beni ısırdı.$"
 
 Route25_Text_NobIntro::
-    .string "I'm off to see a POKéMANIAC's\n"
-    .string "collection at the cape.$"
+    .string "Bir POKéMANYAK'ın koleksiyonunu\n"
+    .string "görmeye gidiyorum.$"
 
 Route25_Text_NobDefeat::
-    .string "You done got me, and real good,\n"
-    .string "too!$"
+    .string "Beni yendin, hem de çok güzel!\n"
+    .string "Helal olsun sana!$"
 
 Route25_Text_NobPostBattle::
-    .string "The POKéMANIAC sure lives up to\n"
-    .string "his name.\p"
-    .string "His collection includes many rare\n"
-    .string "species of POKéMON.$"
+    .string "POKéMANYAK gerçekten adına\n"
+    .string "yaraşır biriymiş. Koleksiyonu\p"
+    .string "pek çok nadir POKéMON türünü\n"
+    .string "içeriyor.$"
 
 Route25_Text_WayneIntro::
-    .string "You're going to see BILL?\n"
-    .string "First, we battle!$"
+    .string "BILL'i görmeye gidiyor musun?\n"
+    .string "Önce seninle savaşacağım!$"
 
 Route25_Text_WayneDefeat::
-    .string "You're something.$"
+    .string "Sen harikasın!$"
 
 Route25_Text_WaynePostBattle::
-    .string "The trail below is a shortcut to\n"
-    .string "CERULEAN CITY.$"
+    .string "Aşağıdaki patika CERULEAN\n"
+    .string "ŞEHRİ'ne giden bir kısa yol.$"
 
 Route25_Text_SeaCottageSign::
-    .string "SEA COTTAGE\n"
-    .string "BILL lives here!$"
+    .string "DENİZ KÖŞKÜ\n"
+    .string "BILL burada yaşıyor!$"
 
 Route25_Text_MistyHighHopesAboutThisPlace::
-    .string "This cape is a famous date spot.\p"
-    .string "MISTY, the GYM LEADER, has high\n"
-    .string "hopes about this place.$"
+    .string "Bu tepe, ünlü bir buluşma\n"
+    .string "noktasıdır.\p"
+    .string "SALON LİDERİ MISTY, bu yer için\n"
+    .string "büyük umutlar besliyor.$"
 
 Route25_Text_AreYouHereAlone::
-    .string "Hello, are you here alone?\p"
-    .string "If you're out at CERULEAN's cape…\n"
-    .string "Well, it should be as a couple.$"
-
+    .string "Merhaba, yalnız mı geldin?\p"
+    .string "Eğer CERULEAN tepesindeysen…\n"
+    .string "Partnerinle gelmelisin.$"

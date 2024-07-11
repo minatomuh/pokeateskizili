@@ -1,34 +1,35 @@
 SilphCo_3F_Text_WhatAmIToDo::
-    .string "I work for SILPH CO.\n"
-    .string "What am I to do?$"
+    .string "SILPH ŞTİ. için çalışıyorum\n"
+    .string "Ne yapmalıyım?$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
     .string "{PLAYER}!\n"
-    .string "You and your POKéMON saved us!$"
+    .string "Sen ve POKéMON'ların bizi kurtardı!$"
 
 SilphCo_3F_Text_GruntIntro::
-    .string "Quit messing with us, kid!$"
+    .string "Bizi rahat bırak, çocuk!$"
 
 SilphCo_3F_Text_GruntDefeat::
-    .string "I give up!$"
+    .string "Pes ediyorum!$"
 
 SilphCo_3F_Text_GruntPostBattle::
-    .string "A hint? You can open doors with\n"
-    .string "a CARD KEY!$"
+    .string "Bir ipucu: Kapıları bir ANAHTAR\n"
+    .string "ile açabilirsin!$"
 
 SilphCo_3F_Text_JoseIntro::
-    .string "I support TEAM ROCKET more than\n"
-    .string "I support SILPH CO.!$"
+    .string "ROKET TAKIMI'nı SILPH ŞTİ'ne\n"
+    .string "tercih ederim!$"
 
 SilphCo_3F_Text_JoseDefeat::
-    .string "You really got me!$"
+    .string "Gerçekten yakalandım!$"
 
 SilphCo_3F_Text_JosePostBattle::
-    .string "Humph…\p"
-    .string "TEAM ROCKET said that if I helped\n"
-    .string "them, they'd let me study POKéMON.$"
+    .string "Hıph…\p"
+    .string "ROKET TAKIMI, POKéMON'ları\n"
+    .string "incelememe izin vereceklerini\l"
+    .string "söyledi.$"
 
 SilphCo_3F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "3F$"
+    .string "SILPH ŞTİ. GENEL MERKEZ\n"
+    .string "3. Kat$"
 

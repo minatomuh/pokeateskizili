@@ -1,51 +1,50 @@
 PokemonTower_5F_Text_RestHereInPurifiedSpace::
-    .string "Come, child!\n"
-    .string "I have purified this space.\l"
-    .string "You can rest here.$"
+    .string "Gel, çocuk!\n"
+    .string "Bu alanı arındırdım.\l"
+    .string "Burada dinlenebilirsin.$"
 
 PokemonTower_5F_Text_TammyIntro::
-    .string "Give…me…\n"
-    .string "your…all…$"
+    .string "Ver…bana…\n"
+    .string "her…şeyini…$"
 
 PokemonTower_5F_Text_TammyDefeat::
-    .string "Gasp!$"
+    .string "Ah!$"
 
 PokemonTower_5F_Text_TammyPostBattle::
-    .string "I was under possession.$"
+    .string "Beni kontrol ediyordu.$"
 
 PokemonTower_5F_Text_RuthIntro::
-    .string "You…shall…\n"
-    .string "join…us…$"
+    .string "Sen…bize…\n"
+    .string "katılacaksın…$"
 
 PokemonTower_5F_Text_RuthDefeat::
-    .string "What a nightmare!$"
+    .string "Ne kabusmuş!$"
 
 PokemonTower_5F_Text_RuthPostBattle::
-    .string "I was possessed.$"
+    .string "Benim ruhum ele geçirilmişti.$"
 
 PokemonTower_5F_Text_KarinaIntro::
-    .string "Zombies!$"
+    .string "Zombiler!$"
 
 PokemonTower_5F_Text_KarinaDefeat::
-    .string "Ha?$"
+    .string "Ne?$"
 
 PokemonTower_5F_Text_KarinaPostBattle::
-    .string "I regained my senses.$"
+    .string "Aklima kavuştum.$"
 
 PokemonTower_5F_Text_JanaeIntro::
-    .string "Urgah…\n"
-    .string "Urff…$"
+    .string "Ugh…\n"
+    .string "Uff…$"
 
 PokemonTower_5F_Text_JanaeDefeat::
-    .string "Whoo!$"
+    .string "Oh!$"
 
 PokemonTower_5F_Text_JanaePostBattle::
-    .string "I fell to evil spirits despite my\n"
-    .string "training in the mountains…$"
+    .string "Dağlarda onca eğitimime rağmen,\n"
+    .string "kötü ruhlara yenik düştüm…$"
 
 PokemonTower_5F_Text_PurifiedZoneMonsFullyHealed::
-    .string "Entered the purified and protected\n"
-    .string "zone.\p"
-    .string "{PLAYER}'s POKéMON were fully\n"
-    .string "healed.$"
-
+    .string "Arındırılmış ve korunmuş\n"
+    .string "alana girdiniz.\p"
+    .string "{PLAYER}'in POKéMON'ları\n"
+    .string "tamamen iyileşti.$"
