@@ -1,73 +1,73 @@
 FuchsiaCity_SafariZone_Entrance_Text_WelcomeToSafariZone::
-    .string "Welcome to the SAFARI ZONE!$"
+    .string "SAFARİ BÖLGESİ'ne Hoş Geldiniz!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500::
-    .string "For just ¥500, you can play the\n"
-    .string "SAFARI GAME.\p"
-    .string "You can roam the wide-open safari\n"
-    .string "and catch what you like.\p"
-    .string "Would you like to play?$"
+    .string "Sadece 500¥ karşılığında,\n"
+    .string "SAFARİ OYUNU'nu oynayabilirsin.\p"
+    .string "Geniş safari alanında gezip\n"
+    .string "dilediğin Pokémon'u\l"
+    .string "yakalayabilirsin.\p"
+    .string "Oyunu oynamak ister misin?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls::
-    .string "That'll be ¥500, please!\p"
-    .string "We only use a special kind of \n"
-    .string "POKé BALLS here.$"
+    .string "500¥ lütfen!\p"
+    .string "Burada sadece özel bir çeşit\n"
+    .string "POKé TOPU kullanıyoruz.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
-    .string "{PLAYER} received 30 SAFARI BALLS\n"
-    .string "from the attendant.$"
+    .string "{PLAYER}, görevli tarafından\n"
+    .string "30 SAFARİ TOPU aldı.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
-    .string "We'll call you on the PA when you\n"
-    .string "run out of time or SAFARI BALLS.\p"
-    .string "Well, I'll wish you the best of\n"
-    .string "luck!$"
+    .string "Zamanın veya SAFARİ TOPların\n"
+    .string "bittiğinde sana anons edeceğiz.\p"
+    .string "O zaman, sana bol şans dilerim!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OkayPleaseComeAgain::
-    .string "Okay.\n"
-    .string "Please come again!$"
+    .string "Tamam.\n"
+    .string "Tekrar gelmeyi unutma!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OopsNotEnoughMoney::
     .string "Oops!\n"
-    .string "Not enough money!$"
+    .string "Yeterli paran yok!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoingToLeaveSafariZoneEarly::
-    .string "Are you going to leave the\n"
-    .string "SAFARI ZONE early?$"
+    .string "SAFARİ BÖLGESİ'nden erken ayrılmak\n"
+    .string "istiyor musun?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PleaseReturnSafariBalls::
-    .string "Please return any SAFARI BALLS\n"
-    .string "you may have left.$"
+    .string "Lütfen kalan SAFARİ TOPlarını geri\n"
+    .string "vermeyi unutma.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoodLuck::
-    .string "Good luck!$"
+    .string "Bol şans!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CatchFairShareComeAgain::
-    .string "Did you catch your fair share?\n"
-    .string "Come again!$"
+    .string "Sana düşen payı aldın mı?\n"
+    .string "Tekrar gelmeyi unutma!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_FirstTimeAtSafariZone::
-    .string "Hi! Is it your first time here at\n"
-    .string "the SAFARI ZONE?$"
+    .string "Merhaba! SAFARİ BÖLGESİ'ne ilk\n"
+    .string "kez mi geliyorsun?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
-    .string "The SAFARI ZONE actually has\n"
-    .string "four zones in it.\p"
-    .string "Each zone has different kinds of\n"
-    .string "POKéMON, even some rare ones.\p"
-    .string "Use the supplied SAFARI BALLS to\n"
-    .string "catch them.\p"
-    .string "You can also throw BAIT or ROCKS\n"
-    .string "besides the SAFARI BALLS.\p"
-    .string "If you throw BAIT, the POKéMON\n"
-    .string "becomes less likely to flee, but\l"
-    .string "harder to catch.\p"
-    .string "If you throw ROCKS, the POKéMON\n"
-    .string "becomes more likely to flee, but\l"
-    .string "easier to catch.\p"
-    .string "When you run out of time or SAFARI\n"
-    .string "BALLS, it's game over for you!$"
+    .string "SAFARİ BÖLGESİ aslında içinde\n"
+    .string "dört bölgeye sahip.\p"
+    .string "Her bölge farklı çeşitlerde\n"
+    .string "POKéMON barındırıyor,\l"
+    .string "hatta bazıları nadir bulunuyor.\p"
+    .string "Verilen SAFARİ TOPlarını\n"
+    .string "kullanarak onları yakalayabilirsin.\p"
+    .string "Ayrıca SAFARİ TOPlarının yanı\n"
+    .string "sıra YEM veya TAŞ da atabilirsin.\p"
+    .string "YEM atarsan, POKéMON'un kaçma\n"
+    .string "ihtimali azalır, ancak yakalamak\l"
+    .string "zorlaşır.\p"
+    .string "TAŞ atarsan, POKéMON'un kaçma\n"
+    .string "ihtimali artar, ancak yakalamak\l"
+    .string "kolaylaşır.\p"
+    .string "Zamanın veya SAFARİ TOPların\n"
+    .string "bittiğinde oyun sona erer!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_SorryYoureARegularHere::
-    .string "Sorry, you're a regular here!$"
-
+    .string "Üzgünüm, sen buranın müdavimisin!$"

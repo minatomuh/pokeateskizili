@@ -1,37 +1,40 @@
-CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygon::
-    .string "I sure do fancy that PORYGON!\n"
-    .string "But, it's hard to win at slots!$"
+CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygon:
+    .string "PORYGON'u kazanmak istiyorum!\n"
+    .string "Slot makineleri zorlu.$"
 
-CeladonCity_GameCorner_PrizeRoom_Text_RakedItInToday::
-    .string "Gahaha! I raked it in today!\n"
-    .string "If only every day were like this…$"
+CeladonCity_GameCorner_PrizeRoom_Text_RakedItInToday:
+    .string "Harika bir gündü, çok para kazandım!\n"
+    .string "Keşke her gün böyle olsa…$"
 
-CeladonCity_GameCorner_PrizeRoom_Text_CoinCaseRequired::
-    .string "A COIN CASE is required…$"
+CeladonCity_GameCorner_PrizeRoom_Text_CoinCaseRequired:
+    .string "Bir JETON KASASI'na\n"
+    .string "ihtiyacınız var…$"
 
-CeladonCity_GameCorner_PrizeRoom_Text_WeExchangeCoinsForPrizes::
-    .string "We exchange your COINS for prizes.$"
+CeladonCity_GameCorner_PrizeRoom_Text_WeExchangeCoinsForPrizes:
+    .string "JETON'ları hediyelere çeviriyoruz.$"
 
-CeladonCity_GameCorner_PrizeRoom_Text_WhichPrize::
-    .string "Which prize would you like?$"
+CeladonCity_GameCorner_PrizeRoom_Text_WhichPrize:
+    .string "Hangi hediyeyi istersiniz?$"
 
-CeladonCity_GameCorner_PrizeRoom_Text_HereYouGo::
-    .string "はい どうぞ$"
+CeladonCity_GameCorner_PrizeRoom_Text_HereYouGo:
+    .string "İşte hediyeniz.$"
 
-CeladonCity_GameCorner_PrizeRoom_Text_YouWantPrize::
-    .string "So, you want the {STR_VAR_1}?$"
+CeladonCity_GameCorner_PrizeRoom_Text_YouWantPrize:
+    .string "Öyleyse,\n{STR_VAR_1} mı istiyorsunuz?$"
 
-CeladonCity_GameCorner_PrizeRoom_Text_YouWantTM::
-    .string "Okay, a TM of {STR_VAR_2}\n"
-    .string "is what you want?$"
+CeladonCity_GameCorner_PrizeRoom_Text_YouWantTM:
+    .string "Tamam,\n"
+    .string "{STR_VAR_2} TM'si\l"
+    .string "istiyorsunuz.\l"
+    .string "Doğru mu?$"
 
-CeladonCity_GameCorner_PrizeRoom_Text_NeedMoreCoins::
-    .string "Sorry, you'll need more COINS\n"
-    .string "than that.$"
+CeladonCity_GameCorner_PrizeRoom_Text_NeedMoreCoins:
+    .string "Üzgünüm, daha fazla\n"
+    .string "JETON gerekiyor.\l"
+    .string "Bu hediyeyi alamazsınız.$"
 
-CeladonCity_GameCorner_PrizeRoom_Text_OopsNotEnoughRoom::
-    .string "おきゃくさん もう もてないよ$"
+CeladonCity_GameCorner_PrizeRoom_Text_OopsNotEnoughRoom:
+    .string "Maalesef, envanteriniz dolu.$"
 
-CeladonCity_GameCorner_PrizeRoom_Text_OhFineThen::
-    .string "あっ そう$"
-
+CeladonCity_GameCorner_PrizeRoom_Text_OhFineThen:
+    .string "Pekala, iyi günler.$"

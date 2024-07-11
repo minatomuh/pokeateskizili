@@ -1,120 +1,121 @@
-@ All Trainer Tower text (Lobby and Roof) is interleaved here
+@ Tüm Eğitmen Kulesi metni (Lobi ve Çatı) burada iç içe geçmiştir
 
 TrainerTower_Lobby_Text_WelcomeToTrainerTower::
-    .string "Hello!\p"
-    .string "Welcome to TRAINER TOWER where\n"
-    .string "TRAINERS gather from all over!$"
+.string "Merhaba!\p"
+.string "Hoş geldin EĞİTMEN KULESİ'ne, burada\n"
+.string "eğitmenler her yerden toplanıyor!$"
 
 TrainerTower_Lobby_Text_TrainersUpToFloorNum::
-    .string "TRAINERS from all over the world\n"
-    .string "gather here to battle.\p"
-    .string "Let me see…\p"
-    .string "Right now, there are TRAINERS only\n"
-    .string "up to Floor {STR_VAR_1}.$"
+.string "Dünyanın dört bir yanından gelen\n"
+.string "eğitmenler burada savaşmak için\p"
+.string "bekliyorlar. Bir bakalım...\p"
+.string "Şu anda, eğitmenler sadece\n"
+.string "{STR_VAR_1}. kata kadar var.$"
 
 TrainerTower_Lobby_Text_TrainersUpEighthFloor::
-    .string "TRAINERS are awaiting your\n"
-    .string "challenge up to the eighth floor.$"
+.string "Sekizinci kata kadar eğitmenler\n"
+.string "sizi bekliyor.$"
 
 TrainerTower_Lobby_Text_LikeToChallengeTrainers::
-    .string "Would you like to challenge the\n"
-    .string "waiting TRAINERS?$"
+.string "Bekleyen eğitmenleri yenmeye ne\n"
+.string "dersin?$"
 
 TrainerTower_Lobby_Text_StartClockGetSetGo::
-    .string "Okay, I'll get the clock started,\n"
-    .string "so give it everything you have.\p"
-    .string "On your marks…\p"
-    .string "Get set…\p"
-    .string "Go!$"
+.string "Tamam, saati başlatacağım,\n"
+.string "bunun için hazır ol.\p"
+.string "Hazır ol...\p"
+.string "Durumuna bak...\p"
+.string "Hadi!$"
 
 TrainerTower_Lobby_Text_PleaseVisitUsAgain::
-    .string "Please do visit us again!$"
+.string "Lütfen tekrar gelin!$"
 
 TrainerTower_Lobby_Text_TooBadComeBackTryAgain::
-    .string "That was too bad.\p"
-    .string "I think you put in a tremendous\n"
-    .string "effort in your battling.\p"
-    .string "Please come back and try again!$"
+.string "Bu kötü olmuş.\p"
+.string "Savaşırken inanılmaz bir çaba\n"
+.string "gösterdiğini düşünüyorum.\p"
+.string "Lütfen geri dön ve tekrar dene!$"
 
 TrainerTower_Lobby_Text_GiveItYourBest::
-    .string "I hope you give it your best.$"
+.string "En iyisini yapmanı dilerim.$"
 
 TrainerTower_Lobby_Text_MoveCounterHereWhenTrainersSwitch::
-    .string "When the TRAINERS switch places,\n"
-    .string "the movement can be hectic.\p"
-    .string "To avoid the stampede, we moved\n"
-    .string "the reception counter here.\p"
-    .string "I'm sorry for the inconvenience.$"
+.string "Eğitmenler yer değiştirdiğinde,\n"
+.string "hareket biraz kaotik olabilir.\p"
+.string "Kaosu önlemek için resepsiyon\n"
+.string "kontuarı buraya taşıdık.\p"
+.string "Uygulamakta olduğumuz için özür\n"
+.string "dileriz.$"
 
 TrainerTower_Roof_Text_ImOwnerBattledPerfectly::
-    .string "Hello…\p"
-    .string "I am the owner of this TOWER…\p"
-    .string "How the sky soars above this\n"
-    .string "rooftop…\p"
-    .string "The caress of the winds up here…\p"
-    .string "It's all so perfect…\p"
-    .string "The way you battled…\n"
-    .string "It, too, was perfection…$"
+.string "Merhaba...\p"
+.string "Bu KULE'nin sahibiyim...\p"
+.string "Bakın, gökyüzü bu çatıdan nasıl\n"
+.string "yükseliyor...\p"
+.string "Rüzgarın okşamaları burada...\p"
+.string "Her şey o kadar mükemmel...\p"
+.string "Savaşın da mükemmeldi...$"
 
 TrainerTower_Roof_Text_ThisIsForYou::
-    .string "This is for you…$"
+.string "Bu senin için...$"
 
 TrainerTower_Roof_Text_DoneItInRecordTime::
-    .string "Oh!\n"
-    .string "Stupendous!\p"
-    .string "It's marvelous how you've come up\n"
-    .string "here so quickly.\p"
-    .string "The fact is, you've done it in\n"
-    .string "record time…\p"
-    .string "I'll have your record posted at\n"
-    .string "the reception counter.$"
+.string "Oh!\n"
+.string "Muhteşem!\p"
+.string "Buraya bu kadar hızlı gelmeniz\n"
+.string "gerçekten harika.\p"
+.string "Gerçek şu ki, bunu rekor bir\n"
+.string "zamanda başardınız...\p"
+.string "Rekorunuzu resepsiyon\n"
+.string "kontuarına yazdıracağım.$"
 
 TrainerTower_Roof_Text_TookSweetTimeGettingHere::
-    .string "You seem to have taken your sweet\n"
-    .string "time getting here…$"
+.string "Buraya gelmeniz biraz zaman\n"
+.string "aldı, değil mi?$"
 
 TrainerTower_Roof_Text_IdLikeToSeeBetterTime::
-    .string "What I would like to see is a\n"
-    .string "better time out of you…\p"
-    .string "I'm counting on you.\p"
-    .string "Until then, farewell…$"
+.string "Senden daha iyi bir zaman\n"
+.string "görmek istiyorum...\p"
+.string "Sana güveniyorum.\p"
+.string "O zamana kadar, hoşça kal...$"
 
 TrainerTower_Text_XMinYZSec::
-    .string "{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sec.$"
+.string "{STR_VAR_1} dk. {STR_VAR_2}.{STR_VAR_3} sn.$"
 
 TrainerTower_Lobby_Text_HereAreTheResults::
-    .string "せいせきひょうです$"
+.string "Sonuçlar burada!$"
 
 TrainerTower_Lobby_Text_NeedTwoMonsForDouble::
-    .string "This is a two-on-two battle.\p"
-    .string "You may not battle unless you have\n"
-    .string "at least two POKéMON.$"
+.string "Bu bir iki-iki savaşıdır.\p"
+.string "En az iki POKéMON'unuz yoksa\n"
+.string "savaşamazsınız.$"
 
 TrainerTower_Lobby_Text_ExplainTrainerTower::
-    .string "Here at TRAINER TOWER, there is an\n"
-    .string "event called TIME ATTACK.\p"
-    .string "You will be timed on how quickly\n"
-    .string "you can get from the reception\l"
-    .string "counter to the OWNER on the roof.\p"
-    .string "The best times will be recorded on\n"
-    .string "the Time Board.\p"
-    .string "Try competing with friends to see\n"
-    .string "who can beat it the fastest.\p"
-    .string "You will not earn any EXP. Points\n"
-    .string "or money by beating TRAINERS here.$"
+.string "Eğitmen Kulesi'nde, ZAMAN SALDIRISI\n"
+.string "adında bir etkinlik var.\p"
+.string "Resepsiyon kontuarından çatıdaki\l"
+.string "SAHİBİ'ne ne kadar hızlı\n"
+.string "çıktığınızı zamanlayacağız.\p"
+.string "En iyi zamanlar Zaman Tablosu'na\n"
+.string "kaydolacak.\p"
+.string "Arkadaşlarınızla rekabete girerek\n"
+.string "en hızlı kim olduğunu görün.\p"
+.string "Burada eğitmenleri yendiğinizde\n"
+.string "herhangi bir EXP Puanı veya para\n"
+.string "kazanmayacaksınız.$"
 
 TrainerTower_Lobby_Text_ThanksForCompeting::
-    .string "Thank you for competing!$"
+.string "Katılımınız için teşekkürler!$"
 
 TrainerTower_Lobby_Text_WonderWhatKindsOfTrainers::
-    .string "I'm here to see how good I am.\p"
-    .string "I wonder what kinds of TRAINERS\n"
-    .string "are waiting for me?\p"
-    .string "It's nerve-racking!$"
+.string "Burada ne kadar iyi olduğumu\n"
+.string "görmek için varım.\p"
+.string "Acaba beni neler bekliyor?\p"
+.string "Gerçekten heyecan verici!$"
 
 TrainerTower_Lobby_Text_StairsTougherThanAnyBattle::
-    .string "Gasp, gasp…\n"
-    .string "Gasp…\p"
-    .string "Never mind battling! These stairs…\n"
-    .string "They're tougher than any battle…$"
-
+.string "Of, of...\n"
+.string "Of...\p"
+.string "Savaşmayı bir kenara bırakın! Bu\n"
+.string "merdivenler... Onlardan daha zor\n"
+.string "bir savaş yok!$"

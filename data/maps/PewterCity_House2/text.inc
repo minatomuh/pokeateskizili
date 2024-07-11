@@ -1,14 +1,12 @@
 PewterCity_House2_Text_MonsLearnTechniquesAsTheyGrow::
-    .string "POKéMON learn new techniques as\n"
-    .string "they grow.\p"
-    .string "But some moves must be taught to\n"
-    .string "them by people.$"
+    .string "POKéMON'lar geliştikçe\n"
+    .string "yeni saldırılar öğrenir\p"
+    .string "Ama bazı saldırılar sadece\n"
+    .string "insanlar tarafından öğretilebilir.$"
 
 PewterCity_House2_Text_MonsEasierCatchIfStatused::
-    .string "A POKéMON becomes easier to \n"
-    .string "catch if it has a status problem.\p"
-    .string "Sleep, poison, burn, or paralysis…\n"
-    .string "Those are all effective.\p"
-    .string "But catching POKéMON is never\n"
-    .string "a sure thing!$"
-
+    .string "Bir POKéMON yakalamak eğer\n"
+    .string "UYKU, ZEHİR, YANIK veya FELÇ\l"
+    .string "durumu varsa daha kolay…\p"
+    .string "Hepsi etkili. Ama POKéMON'u\n"
+    .string "yakalamak yine de kesin değil!$"

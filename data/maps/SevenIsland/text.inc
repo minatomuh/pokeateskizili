@@ -1,38 +1,38 @@
 Text_SwordsDanceTeach::
-    .string "Not many people come out here.\p"
-    .string "If I train here, I'm convinced that\n"
-    .string "I'll get stronger and stronger.\p"
-    .string "Yep, stronger and stronger…\p"
-    .string "How would you like to learn a move\n"
-    .string "like that? It's SWORDS DANCE.$"
+    .string "Buraya pek çok kişi gelmez.\p"
+    .string "Eğer burada antrenman yaparsam,\n"
+    .string "daha güçlü olacağımı biliyorum.\p"
+    .string "Evet, daha güçlü ve daha güçlü…\p"
+    .string "Böyle bir hareket öğrenmek\n"
+    .string "ister misin?\l"
+    .string "Bu KILIÇ DANSI.$"
 
 Text_SwordsDanceDeclined::
-    .string "Well, that's fine, too.$"
+    .string "İyi, o da iyi.$"
 
 Text_SwordsDanceWhichMon::
-    .string "All right, pick which POKéMON\n"
-    .string "I should teach it to.$"
+    .string "Tamam, hangi POKéMON'a\n"
+    .string "öğretmem gerektiğini seç.$"
 
 Text_SwordsDanceTaught::
-    .string "If only we could keep getting\n"
-    .string "stronger and stronger, eh?$"
+    .string "Keşke sürekli daha da güçlü\n"
+    .string "olabilsek, öyle değil mi?$"
 
 SevenIsland_Text_IslandSign::
-    .string "SEVEN ISLAND\n"
-    .string "Quest Island of Infinity$"
+    .string "YEDİNCİ ADA\n"
+    .string "Sonsuzluk Adası$"
 
 SevenIsland_Text_IslandsMadeInSevenDays::
-    .string "These islands are called the SEVII\n"
-    .string "ISLANDS because there are seven.\p"
-    .string "…Or at least that's what the young\n"
-    .string "people believe.\p"
-    .string "The truth is, these islands are so\n"
-    .string "named because they are said to\l"
-    .string "have been made in seven days.$"
+    .string "Bu adalar, adaların yedi tane\n"
+    .string "olması nedeniyle SEVII ADALARI\l"
+    .string "olarak adlandırılır… En azından\l"
+    .string "gençlerin inancı bu yönde.\p"
+    .string "Gerçek şu ki, bu adalar yedi günde\n"
+    .string "oluştuğu için böyle adlandırılmış.\l"
+    .string "deniyor.$"
 
 SevenIsland_Text_IslandVirtuallyUntouched::
-    .string "This island has been left virtually\n"
-    .string "untouched in its natural state.\p"
-    .string "It could be a little difficult to\n"
-    .string "hike around because of that.$"
-
+    .string "Bu ada, doğal durumuna neredeyse\n"
+    .string "dokunulmamış bir şekilde bırakılmış.\p"
+    .string "Bu yüzden etrafta dolaşmak biraz\n"
+    .string "zor olabilir.$"

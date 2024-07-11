@@ -1,99 +1,92 @@
 FiveIsland_MemorialPillar_Text_MiloIntro::
-    .string "I'm the eldest of the BIRD\n"
-    .string "BROTHERS.\p"
-    .string "The best thing about birds…\n"
-    .string "It has to be the beak.$"
+    .string "Ben KUŞ KARDEŞLER'in en büyüğüyüm.\p"
+    .string "Kuşların en iyi yanı…\n"
+    .string "Sanırım gagası olmalı.$"
 
 FiveIsland_MemorialPillar_Text_MiloDefeat::
-    .string "Oh, so sharp!$"
+    .string "O kadar keskin!$"
 
 FiveIsland_MemorialPillar_Text_MiloPostBattle::
-    .string "You can fly to FOUR ISLAND from\n"
-    .string "here.$"
+    .string "Buradan DÖRDÜNCÜ ADA'ya uçabilirsin.$"
 
 FiveIsland_MemorialPillar_Text_ChazIntro::
-    .string "I'm the middle kid of the BIRD\n"
-    .string "BROTHERS.\p"
-    .string "The best thing about birds…\n"
-    .string "It has to be the wings.$"
+    .string "Ben KUŞ KARDEŞLER'in ortancasıyım.\p"
+    .string "Kuşların en iyi yanı…\n"
+    .string "Kanatları gibi.$"
 
 FiveIsland_MemorialPillar_Text_ChazDefeat::
-    .string "Flap, flap!$"
+    .string "Çırpın, çırpın!$"
 
 FiveIsland_MemorialPillar_Text_ChazPostBattle::
-    .string "There was a really somber guy\n"
-    .string "over that way.$"
+    .string "Orada çok kasvetli bir adam vardı.$"
 
 FiveIsland_MemorialPillar_Text_HaroldIntro::
-    .string "I'm the youngest of the BIRD\n"
-    .string "BROTHERS.\p"
-    .string "The best thing about birds…\n"
-    .string "It has to be the down.$"
+    .string "Ben KUŞ KARDEŞLER'in en küçüğüyüm.\p"
+    .string "Kuşların en iyi yanı…\n"
+    .string "Tüyleri gibi.$"
 
 FiveIsland_MemorialPillar_Text_HaroldDefeat::
-    .string "Down is so comfy…\n"
-    .string "It makes me drowsy…$"
+    .string "Tüyler çok rahatlatıcı…\n"
+    .string "Uyku getiriyor…$"
 
 FiveIsland_MemorialPillar_Text_HaroldPostBattle::
-    .string "It fills me with happiness when\n"
-    .string "bird POKéMON beg playfully…$"
+    .string "KUŞ POKéMON'ların neşeyle oynaması\n"
+    .string "beni mutlu ediyor.$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrub::
-    .string "Scrub, scrub…$"
+    .string "Sürt, sürt…$"
 
 FiveIsland_MemorialPillar_Text_YourMonsLookHealthy::
-    .string "Hello…\n"
-    .string "Your POKéMON look healthy…$"
+    .string "Merhaba…\p"
+    .string "POKéMON'ların çok sağlıklı\n"
+    .string "görünüyor…$"
 
 FiveIsland_MemorialPillar_Text_ThisIsWhereIBuriedMyOnix::
-    .string "This is where I buried my ONIX…\n"
-    .string "It was named TECTONIX…$"
+    .string "ONIX'imi gömdüğüm yer burası…\n"
+    .string "Adı TECTONIX'ti…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonixLemonadeOffering::
-    .string "“Here lies TECTONIX” is engraved\n"
-    .string "on a boulder.\p"
-    .string "There is a LEMONADE placed as an\n"
-    .string "offering in front of the grave.$"
+    .string "Bir kayada\p"
+    .string "“Burada TECTONIX yatıyor”\n"
+    .string "yazılı.\p"
+    .string "Mezarın önüne bir LİMONATA\n"
+    .string "bırakılmış.$"
 
 FiveIsland_MemorialPillar_Text_LeaveAnotherLemonadeOffering::
-    .string "Would you like to leave another\n"
-    .string "LEMONADE as an offering?$"
+    .string "Başka bir LİMONATA bırakmak\n"
+    .string "ister misin?$"
 
 FiveIsland_MemorialPillar_Text_PlacedCanOfLemonade::
-    .string "{PLAYER} placed a can of LEMONADE\n"
-    .string "in front of the grave.$"
+    .string "{PLAYER}, mezarın önüne bir adet\n"
+    .string "LİMONATA bıraktı.$"
 
 FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::
-    .string "Th-thank you…\p"
-    .string "That was my TECTONIX's favorite\n"
-    .string "drink…\p"
-    .string "I don't even know you, but your\n"
-    .string "act of kindness…\p"
-    .string "It's uplifted me a little.\p"
-    .string "Can you please take this as my\n"
-    .string "thanks?$"
+    .string "Te-teşekkürler…\p"
+    .string "O, TECTONIX'in favori içeceğiydi…\p"
+    .string "Yabancı biri olarak, bu iyiliğin…\n"
+    .string "Beni biraz mutlu etti.\p"
+    .string "Lütfen bunu teşekkür olarak kabul\n"
+    .string "et.$"
 
 FiveIsland_MemorialPillar_Text_BeGoodToYourMonsToo::
-    .string "Please be good to your POKéMON,\n"
-    .string "too.$"
+    .string "Lütfen POKéMON'larına da iyi davran.$"
 
 FiveIsland_MemorialPillar_Text_DontHaveRoomForIt::
-    .string "If you don't have room for it,\n"
-    .string "I'll hold it for you till next time.$"
+    .string "Eğer yerin yoksa, bir sonraki\n"
+    .string "sefere kadar ben saklayabilirim$"
 
 FiveIsland_MemorialPillar_Text_StillHaveThingAsMyThanks::
-    .string "Oh, it's you from that time…\p"
-    .string "I still have that thing I wanted\n"
-    .string "you to have as my thanks.$"
+    .string "Oh, sen o zamandaki…\p"
+    .string "Hala sana vermek istediğim şeyi\n"
+    .string "sakladım.$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrubTectonix::
-    .string "Scrub, scrub…\p"
+    .string "Ühü, ühü…\p"
     .string "… … …\n"
     .string "TECTONIX…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonix::
-    .string "Boulders and rocks are neatly piled\n"
-    .string "up as a cairn.\p"
-    .string "“Here lies TECTONIX” is engraved\n"
-    .string "on a boulder.$"
-
+    .string "Kayalar ve taşlar bir mezar gibi\n"
+    .string "yığılmış.\p"
+    .string "Kayada “Burada TECTONIX yatıyor”\n"
+    .string "yazılı.$"

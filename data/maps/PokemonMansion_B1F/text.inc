@@ -1,28 +1,27 @@
 PokemonMansion_B1F_Text_LewisIntro::
-    .string "Uh-oh…\n"
-    .string "Where am I now?$"
+    .string "Uh-oh!\n"
+    .string "Nerede olduğumu unuttum.$"
 
 PokemonMansion_B1F_Text_LewisDefeat::
     .string "Awooh!$"
 
 PokemonMansion_B1F_Text_LewisPostBattle::
-    .string "You can find stuff lying around.\n"
-    .string "The residents must've left them.$"
+    .string "Her yerde eşyalar var.\n"
+    .string "Buraların sakinleri bırakmış olmalı.$"
 
 PokemonMansion_B1F_Text_IvanIntro::
-    .string "This place is ideal for a lab.\n"
-    .string "Look at all this space.$"
+    .string "Bu yer bir laboratuvar için ideal.\n"
+    .string "Ne kadar çok alan var.$"
 
 PokemonMansion_B1F_Text_IvanDefeat::
-    .string "What was that for?$"
+    .string "Bana bunu neden yaptın?$"
 
 PokemonMansion_B1F_Text_IvanPostBattle::
-    .string "I like it here.\n"
-    .string "It's conducive to my studies.$"
+    .string "Burayı sevdim.\n"
+    .string "Çalışmalarım için uygun bir yer.$"
 
 PokemonMansion_B1F_Text_MewtwoIsFarTooPowerful::
-    .string "Diary: Sept. 1\n"
-    .string "MEWTWO is far too powerful.\p"
-    .string "We have failed to curb its vicious\n"
-    .string "tendencies…$"
-
+    .string "Günlük: 1 Eylül\n"
+    .string "MEWTWO aşırı güçlü.\p"
+    .string "Vahşi eğilimlerini\n"
+    .string "kontrol edemedik…$"

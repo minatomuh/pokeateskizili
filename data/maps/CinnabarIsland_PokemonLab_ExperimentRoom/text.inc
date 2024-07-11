@@ -1,77 +1,75 @@
 Text_MetronomeTeach::
-    .string "Tch-tch-tch!\n"
-    .string "I'll teach you a nifty move.\p"
-    .string "Teach it to a POKéMON, and watch\n"
-    .string "the fun unfold!\p"
-    .string "It's a move called METRONOME.\n"
-    .string "Does it strike your fancy?$"
+.string "Tik-tak-tik!\n"
+.string "Harika bir hareket öğreteceğim.\p"
+.string "Bir POKéMON'a öğret ve eğlenceyi\n"
+.string "izle!\p"
+.string "Hareketin adı METRONOM\n"
+.string "İlginizi çekti mi?$"
 
 Text_MetronomeDeclined::
-    .string "I tell you, it's a lot of fun!$"
+.string "Sana çok eğlence getirecek!$"
 
 Text_MetronomeWhichMon::
-    .string "Okay!\n"
-    .string "Which POKéMON should I teach?$"
+.string "Tamam!\n"
+.string "Hangi POKéMON'a öğretmeliyim?$"
 
 Text_MetronomeTaught::
-    .string "Tch-tch-tch!\n"
-    .string "That's the sound of a METRONOME.\p"
-    .string "It tweaks your POKéMON's brain into\n"
-    .string "using moves it doesn't even know.$"
+.string "Tik-tak-tik!\n"
+.string "Bu bir METRONOM sesidir.\p"
+.string "POKéMON'unun beynini, bilmediği\n"
+.string "hareketleri kullanmaya yönlendirir.$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HaveYouAFossilForMe::
-    .string "Hiya!\p"
-    .string "I am important doctor.\n"
-    .string "Yes, very much so, indeed.\p"
-    .string "Here, I study rare POKéMON fossils.\n"
-    .string "All the time, I study.\p"
-    .string "You!\n"
-    .string "Have you a fossil for me?$"
+.string "Merhaba!\p"
+.string "Ben önemli bir doktorum.\n"
+.string "Evet, çok önemliyim.\p"
+.string "Burada, nadir POKéMON fosilleri\n"
+.string "üzerinde çalışıyorum.\p"
+.string "Sen!\n"
+.string "Bana verecek bir fosilin var mı?$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoIsTooBad::
-    .string "No!\n"
-    .string "Is too bad!$"
+.string "Hayır mı?\n"
+.string "Ne yazık!$"
 
 @ Unused
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalkJP::
-    .string "ちょっと　じかん　かかるよ！\p"
-    .string "そこらへんを　すこし\n"
-    .string "ブラブラ　してくると　よろしー！$"
+.string "Biraz zaman alacak!\p"
+.string "Biraz dolaşmak istersin, değil mi?$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_FossilMonBackToLife::
-    .string "You late.\n"
-    .string "Where were you?\p"
-    .string "Your fossil is back to life!\n"
-    .string "It was {STR_VAR_1} like I think!$"
+.string "Geç kaldın.\n"
+.string "Neredeydin?\p"
+.string "Fosilin hayata döndü!\n"
+.string "{STR_VAR_1} olduğunu düşünüyorum!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_ReceivedMonFromDoctor::
-    .string "{PLAYER} received the {STR_VAR_1}\n"
-    .string "from the doctor.$"
+.string "{PLAYER} doktor tarafından verilen\n"
+.string "{STR_VAR_1}'ı aldı.$"
 
 @ Unused
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoRoomForPokemon::
-    .string "ポケモン　いっぱいで　もてないね！$"
+.string "POKéMON'lar için yer yok!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
-    .string "Oh!\n"
-    .string "That is {STR_VAR_2}, it is!\p"
-    .string "It is fossil of {STR_VAR_1},\n"
-    .string "a POKéMON that is already extinct!\p"
-    .string "My Resurrection Machine will make\n"
-    .string "that POKéMON live again!$"
+.string "Oh!\n"
+.string "Bu bir {STR_VAR_2}!\p"
+.string "Bu, {STR_VAR_1} adlı, artık\n"
+.string "soyu tükenmiş bir POKéMON fosili!\p"
+.string "Diriltme Makinem, o POKéMON'u\n"
+.string "yeniden hayata döndürecek!$"
 
-@ TODO: Resolve text dump error below?
+@ TODO: Aşağıdaki metin döküm hatasını çöz?
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HandedFossilToWeirdDoctor::
-    .string "So!\n"
-    .string "You hurry and give me that!\p"
-    .string "{FONT_NORMAL}{PLAYER} handed over the\n"
-    .string "{STR_VAR_2} to the weird doctor.$"
+.string "İşte!\n"
+.string "Çabuk onu bana ver!\p"
+.string "{FONT_NORMAL}{PLAYER}, garip doktora\n"
+.string "{STR_VAR_2}'yi verdi.$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalk::
-    .string "I take a little time!\n"
-    .string "You go for walk a little while!$"
+.string "Bu biraz zaman alacak!\n"
+.string "Biraz yürüyüşe çıkabilirsin!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_YouComeAgain::
-    .string "Aiyah!\n"
-    .string "You come again!$"
-
+.string "Aiyah!\n"
+.string "Tekrar gel!$"

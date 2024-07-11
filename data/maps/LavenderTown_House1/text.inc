@@ -2,15 +2,14 @@ LavenderTown_House1_Text_Cubone::
     .string "CUBONE: Kyarugoo!$"
 
 LavenderTown_House1_Text_RocketsKilledCubonesMother::
-    .string "Those horrible ROCKETS!\n"
-    .string "They deserve no mercy!\p"
-    .string "That poor CUBONE's mother…\p"
-    .string "It was killed trying to escape from\n"
-    .string "TEAM ROCKET.$"
+    .string "O korkunç ROKET TAKIMI!\n"
+    .string "Merhameti asla hak etmiyorlar!\p"
+    .string "O zavallı CUBONE'un annesi…\p"
+    .string "ROKET TAKIMI'ndan kaçmaya\n"
+    .string "çalışırken öldürüldü.$"
 
 LavenderTown_House1_Text_GhostOfPokemonTowerIsGone::
-    .string "The ghost of POKéMON TOWER is\n"
-    .string "gone!\p"
-    .string "Someone must have soothed its\n"
-    .string "restless spirit!$"
-
+    .string "POKéMON KULESİ'nin hayaleti\n"
+    .string "gitti!\p"
+    .string "Birisi mutlaka huzursuz ruhunu\n"
+    .string "teskin etmiş olmalı!$"

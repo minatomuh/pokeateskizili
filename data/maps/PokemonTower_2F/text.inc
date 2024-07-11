@@ -1,38 +1,36 @@
 PokemonTower_2F_Text_RivalIntro::
     .string "{RIVAL}: Hey, {PLAYER}!\n"
-    .string "What brings you here?\l"
-    .string "Is your POKéMON dead?\p"
-    .string "Hey! It's alive!\p"
-    .string "I can at least make them faint!\n"
-    .string "Let's go!$"
+    .string "Burada ne işin var?\l"
+    .string "POKéMON'un mu öldü?\p"
+    .string "Hey! Hala hayatta!\p"
+    .string "En azından bayıltabilirim!\n"
+    .string "Haydi başlayalım!$"
 
 PokemonTower_2F_Text_RivalDefeat::
-    .string "What?\n"
-    .string "You stinker!\p"
-    .string "I took it easy on you, too!$"
+    .string "Ne?\n"
+    .string "Pis herif!\p"
+    .string "Sana karşı yumuşak davrandım,\n"
+    .string "biliyor musun?$"
 
-@ Unused. Translated below
-@ Aw, man! They really kicked the bucket! Weak! Do them a favor and raise them more properly.
 PokemonTower_2F_Text_RivalVictory::
-    .string "{RIVAL}“あーあ‥！\n"
-    .string "ほんとに　くたばっちまったぞ！\l"
-    .string "よわいなー！\l"
-    .string "もっと　ちゃんと　そだてて　やれよ$"
+    .string "Ah, vah!\n"
+    .string "Gerçekten öldüler!\l"
+    .string "Çok zayıflardı!\l"
+    .string "Lütfen daha iyi bak, onlar buna değer.$"
 
 PokemonTower_2F_Text_RivalPostBattle::
-    .string "How's your POKéDEX coming?\n"
-    .string "I just caught a CUBONE!\p"
-    .string "I can't find the bigger MAROWAK.\n"
-    .string "Where could they be?\p"
-    .string "I bet there aren't any left!\p"
-    .string "Well, I better get going.\n"
-    .string "I've got a lot to accomplish,\l"
-    .string "unlike you.\p"
-    .string "Smell ya later!$"
+    .string "POKéDEX ilerlemen nasıl gidiyor?\n"
+    .string "Ben bir CUBONE yakaladım!\p"
+    .string "Daha büyük bir MAROWAK bulamıyorum.\n"
+    .string "Nerede olabilirler?\p"
+    .string "Sanırım hiçbiri kalmadı!\p"
+    .string "Neyse, ben gitmeliyim.\n"
+    .string "Yapacak çok şeyim var,\l"
+    .string "senin gibi değilim.\p"
+    .string "Sonra görüşürüz!$"
 
 PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
-    .string "Even we could not identify the\n"
-    .string "wayward ghosts.\p"
-    .string "A SILPH SCOPE might be able to\n"
-    .string "unmask them.$"
-
+    .string "Biz bile kayıp ruhları\n"
+    .string "tanımlayamadık.\p"
+    .string "Bir SILPH GÖZLÜK onların\n"
+    .string "gerçek yüzünü ortaya çıkarabilir.$"

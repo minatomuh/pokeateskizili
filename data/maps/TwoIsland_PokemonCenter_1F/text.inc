@@ -1,14 +1,13 @@
-TwoIsland_PokemonCenter_1F_Text_HaveYouVisitedGameCorner::
-    .string "Have you visited the GAME CORNER\n"
-    .string "already?\p"
-    .string "It's no good to go alone.\n"
-    .string "You have to take a friend along.$"
+TwoIsland_PokemonCenter_1F_Text_HaveYouVisitedGameCorner:
+    .string "OYUN KÖŞESİ'ne\n"
+    .string "gittin mi?\p"
+    .string "Tek başına gitmek iyi değil.\n"
+    .string "Bir arkadaşını da götürmelisin.$"
 
-TwoIsland_PokemonCenter_1F_Text_OldLadyLivesOutOnCape::
-    .string "Not many people live on\n"
-    .string "TWO ISLAND.\p"
-    .string "There is this old lady who lives\n"
-    .string "out on the cape.\p"
-    .string "She's been there since I don't know\n"
-    .string "when.$"
-
+TwoIsland_PokemonCenter_1F_Text_OldLadyLivesOutOnCape:
+    .string "İKİNCİ ADA'da çok az insan\n"
+    .string "yaşıyor.\p"
+    .string "Tepenin ucunda yaşayan yaşlı bir\n"
+    .string "kadından bahsediyorlar.\p"
+    .string "Orada ne zamandır yaşadığını\n"
+    .string "kimse bilmiyor.$"

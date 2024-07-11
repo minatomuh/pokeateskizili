@@ -1,38 +1,37 @@
 PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYou::
-    .string "MOM: …Right.\n"
-    .string "All boys leave home someday.\l"
-    .string "It said so on TV.\p"
-    .string "Oh, yes. PROF. OAK, next door, was\n"
-    .string "looking for you.$"
+    .string "ANNE: …Doğru.\n"
+    .string "Tüm çocuklar bir gün evden ayrılır.\l"
+    .string "Bunu televizyonda görmüştüm.\p"
+    .string "Ah, evet. Komşumuz PROF. OAK,\n"
+    .string "seni arıyordu.$"
 
 PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
-    .string "MOM: …Right.\n"
-    .string "All girls dream of traveling.\l"
-    .string "It said so on TV.\p"
-    .string "Oh, yes. PROF. OAK, next door, was\n"
-    .string "looking for you.$"
+    .string "ANNE: …Doğru.\n"
+    .string "Tüm kızların seyahat hayali vardır.\l"
+    .string "Bunu televizyonda görmüştüm.\p"
+    .string "Ah, evet. Komşumuz PROF. OAK,\n"
+    .string "seni arıyordu.$"
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
-    .string "MOM: {PLAYER}!\n"
-    .string "You should take a quick rest.$"
+    .string "ANNE: {PLAYER}!\n"
+    .string "Kısa bir dinlenmeye ihtiyacın var gibi.$"
 
 PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCare::
-    .string "MOM: Oh, good! You and your\n"
-    .string "POKéMON are looking great.\l"
-    .string "Take care now!$"
+    .string "ANNE: Oh, harika! Sen ve\n"
+    .string "POKéMON'un çok iyi görünüyorsunuz.\l"
+    .string "Kendinize dikkat edin!$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVFourBoysOnRailroad::
-    .string "There's a movie on TV.\n"
-    .string "Four boys are walking on railroad\l"
-    .string "tracks.\p"
-    .string "…I better go, too.$"
+    .string "Televizyonda bir film var.\n"
+    .string "Dört çocuk demiryolu raylarında\l"
+    .string "yürüyor.\p"
+    .string "…Ben de gitmeliyim.$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVGirlOnBrickRoad::
-    .string "There's a movie on TV.\n"
-    .string "A girl with her hair in pigtails is\l"
-    .string "walking up a brick road.\p"
-    .string "…I better go, too.$"
+    .string "Televizyonda bir film var.\n"
+    .string "İki örgülü kız, tuğla bir yolda\l"
+    .string "yürüyor.\p"
+    .string "…Ben de gitmeliyim.$"
 
 PalletTown_PlayersHouse_1F_Text_OopsWrongSide::
-    .string "Oops, wrong side…$"
-
+    .string "Aa, yanlış taraf…$"

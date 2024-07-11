@@ -1,10 +1,7 @@
 Route18_EastEntrance_2F_Text_PalletTownInWest::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "PALLET TOWN is in the west.$"
+    .string "Bakın dürbün ne gösteriyor…\n"
+    .string "Batıda PALLET KASABASI var.$"
 
 Route18_EastEntrance_2F_Text_PeopleSwimming::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "There are people swimming.$"
-
+    .string "Bakın dürbün ne gösteriyor…\n"
+    .string "Yüzmekte olan insanlar var.$"

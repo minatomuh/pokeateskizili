@@ -1,22 +1,22 @@
 VictoryRoad_1F_Text_NaomiIntro::
-    .string "I wonder if you are good enough\n"
-    .string "for me?$"
+    .string "Benim için yeterince güçlü\n"
+    .string "müsün bilmiyorum?$"
 
 VictoryRoad_1F_Text_NaomiDefeat::
-    .string "I lost out…$"
+    .string "Yenildim…$"
 
 VictoryRoad_1F_Text_NaomiPostBattle::
-    .string "I never wanted to lose to anybody,\n"
-    .string "especially to a younger kid…$"
+    .string "Hiç kimseye yenilmek istemedim,\n"
+    .string "hele ki senin gibi küçük birine…$"
 
 VictoryRoad_1F_Text_RolandoIntro::
-    .string "I can see you're good.\n"
-    .string "Let me see exactly how good!$"
+    .string "Güçlü olduğunu görebiliyorum.\n"
+    .string "Bakalım ne kadar güçlüsün!$"
 
 VictoryRoad_1F_Text_RolandoDefeat::
-    .string "I had a chance…$"
+    .string "Bir şansım vardı…$"
 
 VictoryRoad_1F_Text_RolandoPostBattle::
     .string "Tch!\n"
-    .string "I concede, you are better than I!$"
+    .string "Kabul ediyorum, benden daha iyisin!$"
 

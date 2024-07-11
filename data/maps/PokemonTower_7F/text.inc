@@ -1,50 +1,51 @@
 PokemonTower_7F_Text_Grunt1Intro::
-    .string "What do you want?\n"
-    .string "Why are you here?$"
+    .string "Ne istiyorsun?\n"
+    .string "Neden buradasın?$"
 
 PokemonTower_7F_Text_Grunt1Defeat::
-    .string "I give up!$"
+    .string "Pes ediyorum!$"
 
 PokemonTower_7F_Text_Grunt1PostBattle::
-    .string "I'm not going to forget this!$"
+    .string "Bunu unutmayacağım!$"
 
 PokemonTower_7F_Text_Grunt2Intro::
-    .string "This old guy marched right up to\n"
-    .string "our HIDEOUT.\p"
-    .string "Then, he starts ranting about how\n"
-    .string "TEAM ROCKET's abusing POKéMON.\p"
-    .string "So, we're just talking it over as\n"
-    .string "adults.$"
+    .string "Bu yaşlı adam\n"
+    .string "SIĞINAĞIMIZA geldi.\p"
+    .string "Sonra ROKET TAKIMI'nın\n"
+    .string "POKéMON'ları istismar ettiğini\l"
+    .string "söylemeye başladı.\p"
+    .string "Yani, burada yetişkinler olarak\n"
+    .string "konuşuyoruz.$"
 
 PokemonTower_7F_Text_Grunt2Defeat::
-    .string "Please!\n"
-    .string "No more!$"
+    .string "Lütfen!\n"
+    .string "Daha fazla yapma!$"
 
 PokemonTower_7F_Text_Grunt2PostBattle::
-    .string "POKéMON are only good for making\n"
-    .string "money. Why not use them?\p"
-    .string "You stay out of our business!$"
+    .string "POKéMON'lar para kazanmak için\n"
+    .string "iyidir. Neden kullanmayalım?\p"
+    .string "İşlerimize karışma!$"
 
 PokemonTower_7F_Text_Grunt3Intro::
-    .string "You're not saving anyone, kid!$"
+    .string "Kimseyi kurtaramazsın, çocuk!$"
 
 PokemonTower_7F_Text_Grunt3Defeat::
-    .string "Don't fight us ROCKETS!$"
+    .string "ROKET TAKIMI'na karşı savaşma!$"
 
 PokemonTower_7F_Text_Grunt3PostBattle::
-    .string "You're not getting away with this!$"
+    .string "Bundan kurtulmayacaksın!$"
 
 PokemonTower_7F_Text_MrFujiThankYouFollowMe::
-    .string "MR. FUJI: Heh?\n"
-    .string "You came to save me?\p"
-    .string "Thank you. But, I came here of my\n"
-    .string "own free will.\p"
-    .string "I came to calm the spirit of\n"
-    .string "CUBONE's mother.\p"
-    .string "I think MAROWAK's spirit has\n"
-    .string "finally left us.\p"
-    .string "I must thank you for your kind\n"
-    .string "concern.\p"
-    .string "Follow me to my home, POKéMON\n"
-    .string "HOUSE, at the foot of this tower.$"
-
+    .string "BAY FUJI: Heh?\n"
+    .string "Beni kurtarmaya mı geldin?\p"
+    .string "Teşekkür ederim. Ama, kendi\n"
+    .string "irademle geldim.\p"
+    .string "CUBONE'un annesinin ruhunu\n"
+    .string "dindirmeye geldim.\p"
+    .string "Sanırım MAROWAK'ın ruhu\n"
+    .string "sonunda bizi terk etti.\p"
+    .string "İlgilendiğin için teşekkür\n"
+    .string "ederim.\p"
+    .string "Beni takip et, evime gidelim,\n"
+    .string "POKéMON EVİ'ne, bu kule'nin\l"
+    .string "eteklerinde.$"

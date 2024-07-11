@@ -1,14 +1,13 @@
 CeruleanCity_Mart_Text_RepelWorksOnWeakMons::
-    .string "REPEL not only keeps bugs away,\n"
-    .string "it also works on weak POKéMON.\p"
-    .string "Put your strongest POKéMON at the\n"
-    .string "left of the POKéMON LIST.\p"
-    .string "If your first POKéMON is strong,\n"
-    .string "REPEL's effect is boosted.$"
+    .string "SPREY sadece böcekleri uzak\n"
+    .string "tutmaz, zayıf POKéMON'lara da\p"
+    .string "etkili. POKéMON LİSTESİ'nin\n"
+    .string "soluna en güçlü POKéMON'u koy.\p"
+    .string "İlk POKéMON'un güçlü ise,\n"
+    .string "SPREY'in etkisi artar.$"
 
 CeruleanCity_Mart_Text_DoYouKnowAboutRareCandy::
-    .string "Do you know about RARE CANDY?\n"
-    .string "They don't sell it in shops.\p"
-    .string "I think it makes POKéMON grow\n"
-    .string "very quickly all of a sudden.$"
-
+    .string "NADİR ŞEKER'den haberin var mı?\n"
+    .string "Mağazalarda satılmıyorlar.\p"
+    .string "Sanırım POKéMON'ları aniden\n"
+    .string "hızlıca geliştiriyor.$"

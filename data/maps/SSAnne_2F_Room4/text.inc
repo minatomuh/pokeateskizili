@@ -1,22 +1,23 @@
 SSAnne_2F_Room4_Text_LamarIntro::
-    .string "Which do you find more worthy,\n"
-    .string "a strong or a rare POKéMON?$"
+    .string "Sence güçlü mü yoksa nadir bulunan\n"
+    .string "POKéMON mu daha değerli?$"
 
 SSAnne_2F_Room4_Text_LamarDefeat::
-    .string "I must salute you!$"
+    .string "Sizi selamlamalıyım!$"
 
 SSAnne_2F_Room4_Text_LamarPostBattle::
-    .string "Personally, I prefer strong and\n"
-    .string "rare POKéMON.$"
+    .string "Benim tercihim güçlü ve\n"
+    .string "nadir POKéMON'lardan yana.$"
 
 SSAnne_2F_Room4_Text_DawnIntro::
-    .string "I don't believe I saw you at the\n"
-    .string "party?$"
+    .string "Galiba partiye gelmedin,\n"
+    .string "değil mi?$"
 
 SSAnne_2F_Room4_Text_DawnDefeat::
-    .string "Take it easy!$"
+    .string "Ağırdan al!$"
 
 SSAnne_2F_Room4_Text_DawnPostBattle::
-    .string "Oh, I adore your strong POKéMON!\n"
-    .string "Oh, how I envy you for them!$"
+    .string "Güçlü POKéMON'larınızı beğendim!\p"
+    .string "Onlara sahip olduğunuz için\n"
+    .string "size imreniyorum!$"
 

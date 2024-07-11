@@ -1,32 +1,33 @@
-Route2_EastBuilding_Text_GiveHM05IfSeen10Mons::
-    .string "Hi! Remember me?\n"
-    .string "I'm one of PROF. OAK's AIDES.\p"
-    .string "If your POKéDEX has complete data\n"
-    .string "on ten species, I'm supposed to\l"
-    .string "give you a reward.\p"
-    .string "PROF. OAK entrusted me with\n"
-    .string "HM05 for you.\p"
-    .string "So, {PLAYER}, let me ask you.\p"
-    .string "Have you gathered data on at least\n"
-    .string "ten kinds of POKéMON?$"
+Route2_EastBuilding_Text_GiveHM05IfSeen10Mons:
+    .string "Merhaba! Beni hatırladın mı?\n"
+    .string "PROF. OAK'ın asistanlarından\l"
+    .string "biriyim.\p"
+    .string "POKéDEX'inde en az 10 tür\n"
+    .string "kayıtlıysa, sana ödül\l"
+    .string "vermem gerekiyor.\p"
+    .string "PROF. OAK bana senin için\n"
+    .string "HM05'i emanet etti.\p"
+    .string "Öyleyse, {PLAYER}\p"
+    .string "En az on çeşit POKéMON hakkında\n"
+    .string "veri topladın mı?$"
 
-Route2_EastBuilding_Text_GreatHereYouGo::
-    .string "Great! You have caught or owned\n"
-    .string "{STR_VAR_3} kinds of POKéMON!\p"
-    .string "Congratulations!\n"
-    .string "Here you go!$"
+Route2_EastBuilding_Text_GreatHereYouGo:
+    .string "Harika! {STR_VAR_3} çeşit POKéMON\n"
+    .string "yakalamış veya sahip olmuşsun!\p"
+    .string "Tebrikler!\n"
+    .string "İşte bu eşya senin!$"
 
-Route2_EastBuilding_Text_ReceivedHM05FromAide::
-    .string "{PLAYER} received HM05\n"
-    .string "from the AIDE.$"
+Route2_EastBuilding_Text_ReceivedHM05FromAide:
+    .string "{PLAYER} ASİSTAN'dan\n"
+    .string "HM05 aldı.$"
 
-Route2_EastBuilding_Text_ExplainHM05::
-    .string "HM05 contains the hidden move\n"
-    .string "FLASH.\p"
-    .string "FLASH lights up even the darkest\n"
-    .string "of caves and dungeons.$"
+Route2_EastBuilding_Text_ExplainHM05:
+    .string "HM05 gizli hareket\n"
+    .string "FLAŞ'ı içerir.\p"
+    .string "FLAŞ, en karanlık mağaraları ve\n"
+    .string "yeraltı şehirlerini aydınlatır.$"
 
-Route2_EastBuilding_Text_CanGetThroughRockTunnel::
-    .string "Once a POKéMON learns FLASH, you\n"
-    .string "can get through ROCK TUNNEL.$"
-
+Route2_EastBuilding_Text_CanGetThroughRockTunnel:
+    .string "Bir POKéMON, FLAŞ\n"
+    .string "hareketini öğrendiğinde,\l"
+    .string "KAYA TÜNELİ'ni geçebilirsin.$"

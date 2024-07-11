@@ -1,33 +1,31 @@
 PokemonTower_4F_Text_PaulaIntro::
-    .string "Ghost! No!\n"
+    .string "Hayır, hayalet!\n"
     .string "Kwaaah!$"
 
 PokemonTower_4F_Text_PaulaDefeat::
-    .string "Where is the ghost?$"
+    .string "Hayalet nerede?$"
 
 PokemonTower_4F_Text_PaulaPostBattle::
-    .string "I must have been dreaming…$"
+    .string "Herhalde rüya görüyordum…$"
 
 PokemonTower_4F_Text_LaurelIntro::
-    .string "Be cursed with me!\n"
+    .string "Bana katıl, lanetlen!\n"
     .string "Kwaaah!$"
 
 PokemonTower_4F_Text_LaurelDefeat::
-    .string "What!$"
+    .string "Ne!$"
 
 PokemonTower_4F_Text_LaurelPostBattle::
-    .string "We can't determine the identity of\n"
-    .string "the ghosts…$"
+    .string "Hayaletlerin kimliğini\n"
+    .string "belirleyemiyoruz…$"
 
 PokemonTower_4F_Text_JodyIntro::
     .string "Huhuhu…\n"
-    .string "Beat me not!$"
+    .string "Bana dokunma!$"
 
 PokemonTower_4F_Text_JodyDefeat::
     .string "Huh?\n"
-    .string "Who? What?$"
+    .string "Kim? Ne?$"
 
 PokemonTower_4F_Text_JodyPostBattle::
-    .string "May the departed POKéMON rest in\n"
-    .string "peace…$"
-
+    .string "Ölen POKéMON'ların ruhu şad olsun…$"

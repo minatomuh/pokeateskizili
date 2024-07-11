@@ -1,5 +1,5 @@
 UndergroundPath_EastEntrance_Text_DoYouGoToCeladonDeptStore::
-    .string "The DEPARTMENT STORE in CELADON\n"
-    .string "has a great selection.\p"
-    .string "Do you go there very often?$"
+    .string "CELADON MAĞAZASI\n"
+    .string "harika çeşitliliğe sahip.\p"
+    .string "Orada sık sık alışveriş yapar mısın?$"
 

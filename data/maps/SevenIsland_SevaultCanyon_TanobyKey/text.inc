@@ -1,4 +1,3 @@
 SevenIsland_SevaultCanyon_TanobyKey_Text_MysteriousRumbleFarAway::
-    .string "A mysterious rumble echoed\n"
-    .string "somewhere far away.$"
-
+    .string "Uzaklardan garip bir gürültü geldi.\n"
+    .string "Sesin geldiği yer çok uzak.$"

@@ -1,131 +1,129 @@
 VermilionCity_Text_GrimerMultipliesInSludge::
-    .string "We're careful about pollution here.\p"
-    .string "We've heard GRIMER multiplies in\n"
-    .string "toxic sludge.$"
+    .string "Kirliliğe dikkat ediyoruz.\p"
+    .string "GRIMER'ın toksik çamurda\n"
+    .string "çoğaldığını duyduk.$"
 
 VermilionCity_Text_DidYouSeeSSAnneInHarbor::
-    .string "Did you see the S.S. ANNE moored\n"
-    .string "in the harbor?$"
+    .string "Liman'da demirlemiş S.S. ANNE'yi\n"
+    .string "gördün mü?$"
 
 VermilionCity_Text_SSAnneHasDepartedForYear::
-    .string "So, the S.S. ANNE has departed?\p"
-    .string "She'll be back in VERMILION about\n"
-    .string "this time next year.$"
+    .string "Öyleyse, S.S. ANNE ayrıldı mı?\p"
+    .string "Bir yıl sonra bu zamanlarda\n"
+    .string "tekrar VERMILION'da olacak.$"
 
 VermilionCity_Text_BuildingOnThisLand::
-    .string "I'm putting up a building on this\n"
-    .string "plot of land. I own it all.\p"
-    .string "My POKéMON is tamping the land\n"
-    .string "to lay the foundation.$"
+    .string "Bu arsa üzerinde bir bina\n"
+    .string "inşa ediyorum. Hepsi benim.\p"
+    .string "POKéMON'um toprağı eziyor\n"
+    .string "temel oluşturmak için.$"
 
 VermilionCity_Text_Machop::
     .string "MACHOP: Guoh! Gogogoh!$"
 
 VermilionCity_Text_MachopStompingLandFlat::
-    .string "A MACHOP is stomping the land flat.$"
+    .string "Bir MACHOP toprağı düzleştiriyor.$"
 
 VermilionCity_Text_SSAnneVisitsOnceAYear::
-    .string "The S.S. ANNE is a famous luxury\n"
-    .string "cruise ship.\p"
-    .string "It visits VERMILION once a year.$"
+    .string "S.S. ANNE, lüks bir kruvazördür.\p"
+    .string "Yılda bir kez VERMILION'a uğrar.$"
 
 VermilionCity_Text_CitySign::
-    .string "VERMILION CITY\n"
-    .string "The Port of Exquisite Sunsets$"
+    .string "VERMILION ŞEHRİ\n"
+    .string "Muhteşem Günbatımının Limanı$"
 
 VermilionCity_Text_SnorlaxBlockingRoute12::
-    .string "NOTICE!\p"
-    .string "ROUTE 12 may be blocked off by a\n"
-    .string "sleeping POKéMON.\p"
-    .string "Detour through ROCK TUNNEL to\n"
-    .string "LAVENDER TOWN.\p"
-    .string "VERMILION POLICE$"
+    .string "DİKKAT!\p"
+    .string "ROTA 12, uyuyan bir POKéMON\n"
+    .string "tarafından engellenmiş olabilir.\p"
+    .string "KAYA TÜNELİ üzerinden\n"
+    .string "LAVENDER KASABASI'na gidin.\p"
+    .string "VERMILION POLİSİ$"
 
 VermilionCity_Text_PokemonFanClubSign::
-    .string "POKéMON FAN CLUB\n"
-    .string "All POKéMON fans welcome!$"
+    .string "POKéMON FAN KULÜBÜ\n"
+    .string "Tüm POKéMON hayranlarını bekleriz!$"
 
 VermilionCity_Text_GymSign::
-    .string "VERMILION CITY POKéMON GYM\n"
-    .string "LEADER: LT. SURGE\l"
-    .string "The Lightning American!$"
+    .string "VERMILION POKéMON SALONU\n"
+    .string "LİDER: TEĞMEN SURGE\l"
+    .string "Şimşek Amerikalı!$"
 
 VermilionCity_Text_VermilionHarbor::
-    .string "VERMILION HARBOR$"
+    .string "VERMILION LİMANI$"
 
 VermilionCity_Text_WelcomeToTheSSAnne::
-    .string "Welcome to the S.S. ANNE!$"
+    .string "S.S. ANNE'e Hoş Geldiniz!$"
 
 VermilionCity_Text_DoYouHaveATicket::
-    .string "Welcome to the S.S. ANNE!\p"
-    .string "Excuse me, do you have a ticket?$"
+    .string "S.S. ANNE'e Hoş Geldiniz!\p"
+    .string "Biletin var mı?$"
 
 VermilionCity_Text_FlashedSSTicket::
-    .string "{FONT_NORMAL}{PLAYER} flashed the S.S. TICKET!\p"
-    .string "{FONT_MALE}Great!\n"
-    .string "Welcome to the S.S. ANNE!$"
+    .string "{FONT_NORMAL}{PLAYER} S.S. Biletini gösterdi!\p"
+    .string "{FONT_MALE}Harika!\n"
+    .string "S.S. ANNE'e Hoş Geldiniz!$"
 
 VermilionCity_Text_DontHaveNeededSSTicket::
-    .string "{FONT_NORMAL}{PLAYER} doesn't have the needed\n"
-    .string "S.S. TICKET.\p"
-    .string "{FONT_MALE}Sorry!\p"
-    .string "You need a ticket to get aboard.$"
+    .string "{FONT_NORMAL}{PLAYER} gerekli\n"
+    .string "S.S. Biletine sahip değil.\p"
+    .string "{FONT_MALE}Üzgünüm!\p"
+    .string "Gemiye binmek için bilete ihtiyacınız var.$"
 
 VermilionCity_Text_TheShipSetSail::
-    .string "The ship set sail.$"
+    .string "Gemi yelken açtı.$"
 
 VermilionCity_Text_BoardSeagallopTriPass::
-    .string "Ah, you have a TRI-PASS.\p"
-    .string "Would you like to board\n"
-    .string "a SEAGALLOP ferry?$"
+    .string "Ah, ÜÇLÜ-BİLET'e sahipsin.\p"
+    .string "SEAGALLOP feribotuna binmek ister\n"
+    .string "misiniz?$"
 
 VermilionCity_Text_Seagallop7Departing::
-    .string "Okay, everything's in order.\p"
-    .string "SEAGALLOP HI-SPEED 7 will be\n"
-    .string "departing immediately.$"
+    .string "Tamam, her şey yolunda.\p"
+    .string "SEAGALLOP HI-SPEED 7 hemen\n"
+    .string "ayrılacak.$"
 
 VermilionCity_Text_BoardSeagallopRainbowPass::
-    .string "Ah, you have a RAINBOW PASS.\p"
-    .string "Would you like to board\n"
-    .string "a SEAGALLOP ferry?$"
+    .string "Ah, PRİZMA BİLET'e sahipsin.\p"
+    .string "SEAGALLOP feribotuna binmek ister\n"
+    .string "misiniz?$"
 
 VermilionCity_Text_OhMysticTicketTakeYouToNavelRock::
-    .string "Oh! That's a MYSTICTICKET!\n"
-    .string "Now that is rare.\p"
-    .string "We'll be happy to take you to\n"
-    .string "NAVEL ROCK anytime.$"
+    .string "Oh! O bir MİSTİK BİLET!\n"
+    .string "Bu gerçekten nadir.\p"
+    .string "Sizi her zaman NAVEL ROCK'a\n"
+    .string "götürmekten mutluluk duyarız.$"
 
 VermilionCity_Text_OhAuroraTicketTakeYouToBirthIsland::
-    .string "Oh! That's an AURORATICKET!\n"
-    .string "Now that is rare.\p"
-    .string "We'll be happy to take you to\n"
-    .string "BIRTH ISLAND anytime.$"
+    .string "Oh! O bir AURORA BİLET!\n"
+    .string "Bu gerçekten nadir.\p"
+    .string "Sizi her zaman BIRTH ADASI'na\n"
+    .string "götürmekten mutluluk duyarız.$"
 
 VermilionCity_Text_BoardSeagallopFerry::
-    .string "Would you like to board\n"
-    .string "a SEAGALLOP ferry?$"
+    .string "SEAGALLOP feribotuna binmek ister\n"
+    .string "misiniz?$"
 
 VermilionCity_Text_Seagallop10Departing::
-    .string "Okay, everything's in order for you\n"
-    .string "to board a special ferry.\p"
-    .string "SEAGALLOP HI-SPEED 10 will be\n"
-    .string "departing immediately.$"
+    .string "Tamam, özel bir feribota binmek\n"
+    .string "için her şey yolunda.\p"
+    .string "SEAGALLOP HI-SPEED 10 hemen\n"
+    .string "ayrılacak.$"
 
 VermilionCity_Text_Seagallop12Departing::
-    .string "Okay, everything's in order for you\n"
-    .string "to board a special ferry.\p"
-    .string "SEAGALLOP HI-SPEED 12 will be\n"
-    .string "departing immediately.$"
+    .string "Tamam, özel bir feribota binmek\n"
+    .string "için her şey yolunda.\p"
+    .string "SEAGALLOP HI-SPEED 12 hemen\n"
+    .string "ayrılacak.$"
 
 VermilionCity_Text_Route2AideHasPackageForYou::
-    .string "Oh, hello, {PLAYER}!\n"
-    .string "How are you doing?\p"
-    .string "It's me, one of PROF. OAK's AIDES.\p"
-    .string "Did you meet the other AIDE?\p"
-    .string "He had a package from PROF. OAK\n"
-    .string "for you, {PLAYER}.\p"
-    .string "He said he'd look for you around\n"
-    .string "ROUTE 2, {PLAYER}.\p"
-    .string "If you're in the ROUTE 2 area,\n"
-    .string "please look for him.$"
-
+    .string "Oh, merhaba, {PLAYER}!\n"
+    .string "Nasılsın?\p"
+    .string "BEN PROF. OAK'ın YARDIMCISIYIM.\p"
+    .string "Diğer YARDIMCI'yı gördün mü?\p"
+    .string "PROF. OAK'den sana bir paketi\n"
+    .string "vardı, {PLAYER}.\p"
+    .string "O, ROTA 2 civarında seni arayacak\n"
+    .string "dedi, {PLAYER}.\p"
+    .string "Eğer ROTA 2 bölgesindeyseniz,\n"
+    .string "lütfen onu arayın.$"

@@ -1,93 +1,94 @@
 SevenIsland_SevaultCanyon_Entrance_Text_MiahIntro::
-    .string "Kyahaha!\n"
-    .string "I'll flick you away effortlessly!$"
+.string "Kyahaha!\n"
+.string "Kolayca savuracağım seni!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MiahDefeat::
-    .string "Tch!\n"
-    .string "Too strong for me!$"
+.string "Tch!\n"
+.string "Çok güçlüsünüz!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MiahPostBattle::
-    .string "What's that?\n"
-    .string "I don't act the way I look?\p"
-    .string "Heh, that's a part of my strategy!$"
+.string "Ne o?\n"
+.string "Göründüğüm gibi değilmiyim.\p"
+.string "Stratejimin bir parçası bu, hehe!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonIntro::
-    .string "Howdy!\n"
-    .string "Are you a member of my fan club?$"
+.string "Merhaba!\n"
+.string "Hayranlarımdan mısın?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonDefeat::
-    .string "Oh, so you're not a fan…\p"
-    .string "Well, I can change that.\n"
-    .string "Let me sing for you!$"
+.string "Öyleyse bir hayran değilsin…\p"
+.string "Durumu değiştirebilirim.\n"
+.string "Sana şarkı söyleyeyim!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonPostBattle::
-    .string "Lalalah…\n"
-    .string "My POKéMON, I send them out,\l"
-    .string "all the girls scream and shout!$"
+.string "Lalalah...\n"
+.string "POKéMON'larımı salarım,\l"
+.string "Kızlar çığlık atar, bayılırlar!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasIntro::
-    .string "This island is too spread out…\n"
-    .string "It's not easy patrolling the place.$"
+.string "Bu ada çok dağınık...\n"
+.string "Devriye gezmek kolay değil.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasDefeat::
-    .string "Uh-huh…$"
+.string "Evet...$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasPostBattle::
-    .string "TRAINERS like you from cities,\n"
-    .string "they sure are tough.\p"
-    .string "You'll be headed for the TOWER,\n"
-    .string "won't you?$"
+.string "Senin gibi şehirli EĞİTMENLER…\n"
+.string "Çok güçlüsünüz.\p"
+.string "KULE'ye gideceksiniz, değil mi?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineIntro::
-    .string "I punish people who abuse\n"
-    .string "POKéMON!$"
+.string "POKéMON'ları istismar edenleri\n"
+.string "cezalandırırım!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineDefeat::
-    .string "You don't seem to be a problem\n"
-    .string "TRAINER.$"
+.string "Sorunlu bir EĞİTMEN\n"
+.string "gibi görünmüyorsun.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelinePostBattle::
-    .string "If you treat your POKéMON with\n"
-    .string "kindness, they'll understand.$"
+.string "POKéMON'larınıza\n"
+.string "şefkatle yaklaşırsanız,\l"
+.string "onlar da anlayacak.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveIntro::
-    .string "EVE: I'll team up with JON and\n"
-    .string "battle together.$"
+.string "EVE: JON'la takım olup\n"
+.string "beraber savaşacağız.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveDefeat::
-    .string "EVE: Me and JON, we lost.\n"
-    .string "Ehehe.$"
+.string "EVE: JON'la kaybettik.\n"
+.string "Ehehe.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EvePostBattle::
-    .string "EVE: I'm going to work harder with\n"
-    .string "JON.$"
+.string "EVE: JON'la daha çok\n"
+.string "çalışmamız gerekiyor.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveNotEnoughMons::
-    .string "EVE: I want to team up with JON\n"
-    .string "when I battle you.\p"
-    .string "Come back with two POKéMON, okay?$"
+.string "EVE: JON'la takım olup\n"
+.string "sizinle savaşmak istiyorum.\p"
+.string "Lütfen iki POKéMON'la geri gelin, olur mu?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonIntro::
-    .string "JON: When I'm with EVE, it feels\n"
-    .string "like we could never lose.$"
+.string "JON: EVE'le birlikteyken\n"
+.string "asla yenilmeyeceğimizi hissediyorum.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonDefeat::
-    .string "JON: When I'm with EVE,\n"
-    .string "it doesn't feel like I've lost!$"
+.string "JON: EVE'le birlikteyken\n"
+.string "yenilmiş gibi hissetmiyorum!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonPostBattle::
-    .string "JON: When I'm with EVE, I feel\n"
-    .string "giddy whether I win or lose.\p"
-    .string "It's magical!$"
+.string "JON: EVE'le birlikteyken,\n"
+.string "kazansam da kaybetsem de mutlu\l"
+.string "oluyorum.\p"
+.string "Büyülü bir şey bu!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonNotEnoughMons::
-    .string "JON: If it's with EVE, I'll be\n"
-    .string "happy to battle with you.\p"
-    .string "So, I'd like to make it a\n"
-    .string "two-on-two battle, if I may.$"
+.string "JON: EVE'yle birlikte,\n"
+.string "sizinle savaşmak isterim.\p"
+.string "Bu yüzden ikişer POKéMON'la\n"
+.string "savaşalım, olur mu?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_RouteSign::
-    .string "SEVAULT CANYON ENTRANCE\p"
-    .string "TRAINERS are asked to refrain from\n"
-    .string "damaging plants in the CANYON.$"
-
+.string "SEVAULT KANYON GİRİŞİ\p"
+.string "EĞİTMENLER'den kanyondaki\n"
+.string "bitkilere zarar vermemeleri\l"
+.string "rica olunur.$"

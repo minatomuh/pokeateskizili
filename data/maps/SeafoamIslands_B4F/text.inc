@@ -1,29 +1,28 @@
 Text_RockSlideTeach::
-    .string "When you're up on a rocky mountain\n"
-    .string "like this, rockslides are a threat.\p"
-    .string "Can you imagine?\n"
-    .string "Boulders tumbling down on you?\p"
-    .string "That'd be, like, waaaaaaaaaaah!\n"
-    .string "Total terror!\p"
-    .string "You don't seem to be scared.\n"
-    .string "Want to try using ROCK SLIDE?$"
+    .string "Kayalık bir dağdasın,\n"
+    .string "kayalıklar tehlike yaratabilir.\p"
+    .string "Düşünebiliyor musun?\n"
+    .string "Kayalar üzerinize yuvarlanıyor?\p"
+    .string "Waaaaaaaaaaah, çok korkutucu!\n"
+    .string "Tam bir dehşet!\p"
+    .string "Korkmuş gibi görünmüyorsun.\n"
+    .string "ROCK SLIDE'ı denemek ister misin?$"
 
 Text_RockSlideDeclined::
-    .string "Oh, so you are scared after all.$"
+    .string "Öyleyse sonunda korkuyorsun.$"
 
 Text_RockSlideWhichMon::
-    .string "Which POKéMON should I teach\n"
-    .string "ROCK SLIDE?$"
+    .string "Hangi POKéMON'a ROCK SLIDE\n"
+    .string "öğretmeliyim?$"
 
 Text_RockSlideTaught::
-    .string "It might be scary to use it in this\n"
-    .string "tunnel…$"
+    .string "Bu tünelde kullanmak biraz\n"
+    .string "korkutucu olabilir…$"
 
 SeafoamIslands_B4F_Text_BouldersMightChangeWaterFlow::
-    .string "Hint: Boulders might change the\n"
-    .string "flow of water.$"
+    .string "İpucu: Kayalar suyun akışını\n"
+    .string "değiştirebilir.$"
 
 SeafoamIslands_B4F_Text_DangerFastCurrent::
-    .string "DANGER\n"
-    .string "Fast current!$"
-
+    .string "TEHLİKE\n"
+    .string "Hızlı akım!$"

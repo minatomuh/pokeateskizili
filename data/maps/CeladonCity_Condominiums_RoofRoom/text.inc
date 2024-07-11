@@ -1,52 +1,55 @@
 CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow::
-    .string "There is nothing that I don't know,\n"
-    .string "like I wrote on the blackboard.\p"
-    .string "I know about the world of POKéMON\n"
-    .string "in your GAME BOY ADVANCE!\p"
-    .string "Get together with your friends and\n"
-    .string "enjoy trading POKéMON!$"
+    .string "Bilmediğim hiçbir şey yok,\n"
+    .string "siyah tahtaya yazdığım gibi.\p"
+    .string "GAME BOY ADVANCE'daki\n"
+    .string "POKéMON dünyasını biliyorum!\p"
+    .string "Arkadaşlarınla buluş ve POKéMON\n"
+    .string "takasının tadını çıkar!$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEevee::
-    .string "{PLAYER} obtained an EEVEE!$"
+    .string "{PLAYER} bir EEVEE elde etti!$"
 
 CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull::
-    .string "ポケモンが　いっぱいだ\n"
-    .string "ボックスを　かえて　きなさい$"
+    .string "POKéMON'lar doldu!\n"
+    .string "Lütfen başka bir kutu seçin.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_WirelessAdapterLecture::
-    .string "POKéMON Lecture\p"
-    .string "Playing with the Wireless Adapter$"
+    .string "POKéMON Dersi\p"
+    .string "Kablosuz Adaptör ile Oynama$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ReadWhichHeading::
-    .string "Which heading do you want to read?$"
+    .string "Hangi başlığı okumak istersin?$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub::
-    .string "The POKéMON WIRELESS CLUB is\n"
-    .string "upstairs at any POKéMON CENTER.\p"
-    .string "Visit one to link up with friend(s)\n"
-    .string "using your Wireless Adapter.$"
+    .string "POKéMON KABLOSUZ KULÜBÜ,\n"
+    .string "herhangi bir POKéMON MERKEZİ'nin\n"
+    .string "üst katındadır.\p"
+    .string "Kablosuz Adaptör'ünüzü kullanarak\n"
+    .string "arkadaşlarınızla bağlantı kurun.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner::
-    .string "To link only with a friend, go to\n"
-    .string "the DIRECT CORNER.\p"
-    .string "It is the right counter at the\n"
-    .string "POKéMON WIRELESS CLUB.\p"
-    .string "Go into the TRADE CORNER or the\n"
-    .string "COLOSSEUM with your friend.$"
+    .string "Sadece bir arkadaşla bağlantı\n"
+    .string "kurmak için, DOĞRUDAN KÖŞE'ye\n"
+    .string "gitmelisin.\p"
+    .string "Bu, POKéMON KABLOSUZ KULÜBÜ'ndeki\n"
+    .string "sağ taraftaki bankodur.\p"
+    .string "Arkadaşınızla birlikte TİCARET\n"
+    .string "KÖŞESİ'ne veya COLOSSEUM'a gidin.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom::
-    .string "To link and communicate with\n"
-    .string "anyone, go to the UNION ROOM.\p"
-    .string "It is the left counter at the\n"
-    .string "POKéMON WIRELESS CLUB.\p"
-    .string "Go to the UNION ROOM and enjoy\n"
-    .string "meeting other TRAINERS.$"
+    .string "Herhangi biriyle bağlantı kurmak\n"
+    .string "ve iletişim kurmak için, BİRLİK\n"
+    .string "ODASI'na gidin.\p"
+    .string "Bu, POKéMON KABLOSUZ KULÜBÜ'ndeki\n"
+    .string "sol taraftaki bankodur.\p"
+    .string "BİRLİK ODASI'na gidin ve diğer\n"
+    .string "EĞİTMENLER ile tanışın.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_PamphletOnTMs::
-    .string "It's a pamphlet on TMs.\p"
+    .string "Bu, TM'ler hakkında bir broşür.\p"
     .string "… …\p"
-    .string "There are fifty TMs in all.\p"
-    .string "There are also seven HMs that\n"
-    .string "can be used repeatedly.\p"
-    .string "SILPH CO.$"
-
+    .string "Toplamda elli tane TM var.\p"
+    .string "Ayrıca, tekrar tekrar\n"
+    .string "kullanılabilen\l"
+    .string "yedi tane HM de var.\p"
+    .string "SILPH ŞTİ.$"

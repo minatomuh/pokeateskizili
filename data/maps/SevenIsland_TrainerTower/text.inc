@@ -1,41 +1,37 @@
 SevenIsland_TrainerTower_Text_DarioIntro::
-    .string "I sensed your approach.$"
+    .string "Yaklaşmanı hissettim.$"
 
 SevenIsland_TrainerTower_Text_DarioDefeat::
-    .string "Give up…$"
+    .string "Pes et…$"
 
 SevenIsland_TrainerTower_Text_DarioPostBattle::
-    .string "In your future, I sense that you\n"
-    .string "will meet many others.\p"
-    .string "I think you will be linked to each\n"
-    .string "other by a strange power.$"
+    .string "Gelecekte birçok kişiyle\n"
+    .string "tanışacağını hissediyorum.\p"
+    .string "Sizi garip bir gücün\n"
+    .string "birleştireceğini düşünüyorum.$"
 
 SevenIsland_TrainerTower_Text_RodetteIntro::
-    .string "Somewhere on this island, peculiar\n"
-    .string "POKéMON are sleeping.$"
+    .string "Bu adada, tuhaf POKéMON'lar uyuyor.$"
 
 SevenIsland_TrainerTower_Text_RodetteDefeat::
-    .string "What an amazing TRAINER!$"
+    .string "Ne muhteşem bir EĞİTMEN!$"
 
 SevenIsland_TrainerTower_Text_RodettePostBattle::
-    .string "Somewhere on this island, peculiar\n"
-    .string "POKéMON are sleeping.\p"
-    .string "Could it be that they're waiting\n"
-    .string "for you?$"
+    .string "Bu adada, tuhaf POKéMON'lar uyur.\p"
+    .string "Onlar seni mi bekliyor?$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerSign::
-    .string "TRAINER TOWER ENTRANCE\n"
-    .string "Rise to the Challenge, TRAINERS!$"
+    .string "EĞİTMEN KULESİ GİRİŞİ\n"
+    .string "Zorluğa Katıl, EĞİTMENLER!$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerAhead::
-    .string "TRAINER TOWER AHEAD$"
+    .string "EĞİTMEN KULESİ İLERİDE$"
 
-@ Unused text perhaps indicating Trainer Tower was planned to be unlocked by something
+@ Kullanılmayan metin, belki Trainer Tower'ın kilitli olduğu anlamına geliyor
 SevenIsland_TrainerTower_Text_LooksLikeTrainerTowerIsClosed::
     .string "トレーナータワーには\n"
-    .string "いまは　はいれない　みたい‥$"
+    .string "şimdi giremezsin gibi görünüyor‥$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerIsOpenLetsGoIn::
-    .string "トレーナータワーが　あいてる！\n"
-    .string "さっそく　はいってみよう！$"
-
+    .string "トレーナータワー　açık!\n"
+    .string "Hemen girelim!$"

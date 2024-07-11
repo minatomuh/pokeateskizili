@@ -1,21 +1,20 @@
 SafariZone_North_Text_RestHouse::
-    .string "REST HOUSE$"
+    .string "DİNLENME EVİ$"
 
 SafariZone_North_Text_SecretHouseStillAhead::
-    .string "TRAINER TIPS\p"
-    .string "The SECRET HOUSE is still ahead.$"
+    .string "EĞİTMEN İPUCU\p"
+    .string "GİZLİ EV hala ileride.$"
 
 SafariZone_North_Text_Area2::
-    .string "AREA 2$"
+    .string "ALAN 2$"
 
 SafariZone_North_Text_ZigzagThroughTallGrass::
-    .string "TRAINER TIPS\p"
-    .string "POKéMON hide in tall grass.\p"
-    .string "Zigzag through grassy areas to\n"
-    .string "flush them out.$"
+    .string "EĞİTMEN İPUCU\p"
+    .string "POKéMON'lar uzun otlarda saklanır.\p"
+    .string "Onları dışarı çıkarmak için otlu\n"
+    .string "alanlarda zikzaklar çizin.$"
 
 SafariZone_North_Text_WinFreeHMFindSecretHouse::
-    .string "TRAINER TIPS\p"
-    .string "Win a free HM for finding the\n"
-    .string "SECRET HOUSE.$"
-
+    .string "EĞİTMEN İPUCU\p"
+    .string "GİZLİ EV'i bulun ve ücretsiz\n"
+    .string "HM kazanın.$"

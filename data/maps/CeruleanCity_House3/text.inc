@@ -1,6 +1,4 @@
 CeruleanCity_House3_Text_PleaseTradeWithMyHusband::
-    .string "My husband likes trading POKéMON.\p"
-    .string "You're collecting POKéMON for your\n"
-    .string "POKéDEX, aren't you?\p"
-    .string "Would you please trade with him?$"
-
+    .string "Eşim POKéMON takas etmeyi sever.\p"
+    .string "Sen de POKéMON topluyorsun, değil mi?\n"
+    .string "Lütfen onunla takas yapar mısın?$"

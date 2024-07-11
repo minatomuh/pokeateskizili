@@ -1,59 +1,58 @@
-@ Unused
+@ Kullanılmıyor
 FiveIsland_Meadow_Text_DoorNeedsTwoPasswords::
-    .string "とびらを　あけるには\n"
-    .string "パスワードが　2つ　いるようだ$"
+    .string "Kapıyı açmak için iki\n"
+    .string "şifre gerekiyor gibi görünüyor.$"
 
 FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded::
-    .string "{PLAYER} entered a password.\p"
-    .string "“GOLDEEN need log.”\p"
+    .string "{PLAYER} bir şifre girdi.\p"
+    .string "“GOLDEEN kütük istiyor.”\p"
     .string "… …  … …  … …\p"
-    .string "Another password is needed to\n"
-    .string "open the door…$"
+    .string "Kapıyı açmak için\n"
+    .string "başka bir şifre daha gerekli.$"
 
 FiveIsland_Meadow_Text_EnteredPasswordDoorOpened::
-    .string "{PLAYER} entered two passwords.\p"
-    .string "“GOLDEEN need log.”\n"
-    .string "“Yes, nah, CHANSEY.”\p"
+    .string "{PLAYER} iki şifre girdi.\p"
+    .string "“GOLDEEN kütük istiyor.”\n"
+    .string "“Evet, hayır, CHANSEY.”\p"
     .string "… …  … …  … …\p"
-    .string "The WAREHOUSE's door opened!$"
+    .string "AMBAR kapısı açıldı!$"
 
 FiveIsland_Meadow_Text_WarehouseDoorAlreadyOpen::
-    .string "The WAREHOUSE's door is already\n"
-    .string "open.$"
+    .string "AMBAR kapısı zaten\n"
+    .string "açık.$"
 
 FiveIsland_Meadow_Text_Rocket1Intro::
-    .string "This area's strictly off-limits!\n"
-    .string "Out, out!$"
+    .string "Bu alan kesinlikle yasak bölge!\n"
+    .string "Defol buradan!$"
 
 FiveIsland_Meadow_Text_Rocket1Defeat::
-    .string "Is this for real?$"
+    .string "Bu gerçek olabilir mi?$"
 
 FiveIsland_Meadow_Text_Rocket1PostBattle::
-    .string "You don't have any business here!\n"
-    .string "Go home!$"
+    .string "Burada işin ne?\n"
+    .string "Defol git!$"
 
 FiveIsland_Meadow_Text_Rocket2Intro::
-    .string "There's nothing past here except\n"
-    .string "our WAREHOUSE.\p"
-    .string "So what brings you here?$"
+    .string "Buradan öteye bir şey yok,\n"
+    .string "sadece AMBARımız var.\p"
+    .string "O zaman neden buradasın?$"
 
 FiveIsland_Meadow_Text_Rocket2Defeat::
-    .string "That wasn't supposed to happen…$"
+    .string "Bunun olması mümkün değildi…$"
 
 FiveIsland_Meadow_Text_Rocket2PostBattle::
-    .string "You're wanting to know what's inside\n"
-    .string "this WAREHOUSE?\p"
-    .string "It's better you didn't know.\n"
-    .string "For your own sake, I mean.$"
+    .string "Bu AMBARın içinde ne olduğunu\n"
+    .string "bilmek istiyorsun, değil mi?\p"
+    .string "Bilmemen senin için daha iyi olurdu.\n"
+    .string "Kendi iyiliğin için söylüyorum.$"
 
 FiveIsland_Meadow_Text_Rocket3Intro::
-    .string "You'd be wasting time even if you\n"
-    .string "were to get by me.$"
+    .string "Beni geçsen bile vakit kaybı olacak,\n"
+    .string "çünkü şifreler olmadan giremezsin.$"
 
 FiveIsland_Meadow_Text_Rocket3Defeat::
-    .string "Oh, that makes me furious!$"
+    .string "Bunu yapmana çok sinirlendim!$"
 
 FiveIsland_Meadow_Text_Rocket3PostBattle::
-    .string "You won't be able to get in without\n"
-    .string "the passwords anyway.$"
-
+    .string "Şifreler olmadan\n"
+    .string "içeri giremezsin.$"

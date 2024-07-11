@@ -1,26 +1,24 @@
-@ Text for this file was split weirdly, and is instead in FourIsland_PokemonCenter_1F/text.inc
-@ Theres also an unused JP version of that text in this file instead
+@ Bu dosyanın metni garip bir şekilde bölündü ve FourIsland_PokemonCenter_1F/text.inc dosyasında. Ayrıca bu dosyada kullanılmayan bir JP sürümü de var.
 
 JPText_BodySlamTeach::
-    .string "そーれ　ぼよーん！\n"
-    .string "どっちが　さきに　へたばるか？\l"
-    .string "のしかかり　しょうぶ　してるんだ\p"
-    .string "きみは　なかまに　はいったら\n"
-    .string "つぶれそうだな‥\l"
-    .string "かわりに　きみの　ポケモンに\l"
-    .string "のしかかり　おしえて　やろっか？$"
+    .string "Hadi bakalım, salla kendini!\n"
+    .string "Hangimiz daha çabuk yorulacak?\l"
+    .string "Bir ezilme yarışması yapıyoruz!\p"
+    .string "Eğer sen ekibe katılırsan\n"
+    .string "Ezilir gibisin…\l"
+    .string "Yerine, Pokemon'una\l"
+    .string "Ezilme hareketini öğretmemi ister misin?$"
 
 JPText_BodySlamDeclined::
-    .string "また　おいで　ぼよーん！$"
+    .string "Tekrar gel, salla kendini!$"
 
 JPText_BodySlamWhichMon::
-    .string "どの　ポケモンに\n"
-    .string "おしえたい　かい？$"
+    .string "Hangi Pokemon'a\n"
+    .string "öğretmek istersin?$"
 
 JPText_BodySlamTaught::
-    .string "ぼよよーん！$"
+    .string "Salla salla!$"
 
 FourIsland_House1_Text_YoureAwfullyHeavy::
-    .string "There! Boing!\n"
-    .string "You're awfully heavy!$"
-
+    .string "Hop! Şimdi!\n"
+    .string "Çok ağırsın!$"

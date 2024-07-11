@@ -1,12 +1,12 @@
 SSAnne_1F_Room5_Text_ArthurIntro::
-    .string "You insolent pup!\n"
-    .string "How dare you barge in!$"
+    .string "Sen ne cüretkâr bir çocuksun!\n"
+    .string "Bana nasıl saygısızlık edersin!$"
 
 SSAnne_1F_Room5_Text_ArthurDefeat::
-    .string "Humph! You rude child!\n"
-    .string "You have no sense of courtesy!$"
+    .string "Höf! Ne kaba bir çocuksun!\n"
+    .string "Hiçbir nezaket kuralın yok!$"
 
 SSAnne_1F_Room5_Text_ArthurPostBattle::
-    .string "I wish to be left alone!\n"
-    .string "Get out!$"
+    .string "Beni yalnız bırakmayı dene!\n"
+    .string "Defol buradan!$"
 

@@ -1,5 +1,5 @@
 FuchsiaCity_WardensHouse_Text_HifFuffHefifoo::
-    .string "WARDEN: Hif fuff hefifoo!\p"
+    .string "BEKÇİ: Hif fuff hefifoo!\p"
     .string "Ha lof ha feef ee hafahi ho.\n"
     .string "Heff hee fwee!$"
 
@@ -9,57 +9,56 @@ FuchsiaCity_WardensHouse_Text_AhHowheeHoHoo::
 
 FuchsiaCity_WardensHouse_Text_HeOhayHeHaHoo::
     .string "Ha?\n"
-    .string "He ohay heh ha hoo ee haheh!$"
+    .string "He hamam heh ha hoo ee haheh!$"
 
 FuchsiaCity_WardensHouse_Text_GaveGoldTeethToWarden::
-    .string "{PLAYER} gave the GOLD TEETH\n"
-    .string "to the WARDEN.$"
+    .string "{PLAYER} ALTIN DİŞ'i\n"
+    .string "BEKÇİ'a verdi.$"
 
 FuchsiaCity_WardensHouse_Text_WardenPoppedInHisTeeth::
-    .string "The WARDEN popped in his teeth!$"
+    .string "BEKÇİ dişlerini taktı!$"
 
 FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomething::
-    .string "WARDEN: Thanks, son!\n"
-    .string "You're a real lifesaver!\p"
-    .string "No one could understand a word\n"
-    .string "that I said, not a one!\p"
-    .string "I was too ashamed to show my face\n"
-    .string "around the OFFICE, even.\p"
-    .string "Let me give you something for your\n"
-    .string "trouble.$"
+    .string "BEKÇİ: Teşekkürler, oğlum!\n"
+    .string "Gerçek bir hayat kurtarıcısın!\p"
+    .string "Söylediğim hiçbir şeyi\n"
+    .string "anlayamıyorlardı, hiçbiri!\p"
+    .string "Utancımdan ofise bile yüzümü\n"
+    .string "sokmaya çekiniyordum.\p"
+    .string "Buna değdi, sana bir şey vermek\n"
+    .string "istiyorum.$"
 
 FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
-    .string "WARDEN: Thank you, lassie!\n"
-    .string "You're a real lifesaver!\p"
-    .string "No one could understand a word\n"
-    .string "that I said, not a one!\p"
-    .string "I was too ashamed to show my face\n"
-    .string "around the OFFICE, even.\p"
-    .string "Let me give you something for your\n"
-    .string "trouble.$"
+    .string "BEKÇİ: Teşekkürler, kızım!\n"
+    .string "Gerçek bir hayat kurtarıcısın!\p"
+    .string "Söylediğim hiçbir şeyi\n"
+    .string "anlayamıyorlardı, hiçbiri!\p"
+    .string "Utancımdan ofise bile yüzümü\n"
+    .string "sokmaya çekiniyordum.\p"
+    .string "Buna değdi, sana bir şey vermek\n"
+    .string "istiyorum.$"
 
 FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWarden::
-    .string "{PLAYER} received HM04\n"
-    .string "from the WARDEN.$"
+    .string "{PLAYER} BEKÇİ'dan\n"
+    .string "HM04'ü aldı.$"
 
 FuchsiaCity_WardensHouse_Text_ExplainStrength::
-    .string "WARDEN: Inside HM04 you'll find\n"
-    .string "STRENGTH.\p"
-    .string "It lets POKéMON move boulders when\n"
-    .string "you're outside of battle.\p"
-    .string "Oh yes, did you find the SECRET\n"
-    .string "HOUSE in the SAFARI ZONE?$"
+    .string "BEKÇİ: HM04, GÜÇ\n"
+    .string "hamlesidir.\p"
+    .string "Savaş dışında POKéMON'ların\n"
+    .string "kayaları oynatmasını sağlar.\p"
+    .string "Evet, SAFARI BÖLGESİ'ndeki\n"
+    .string "GİZLİ EV'i buldun mu?$"
 
-@ Unused
+@ Kullanılmıyor
 FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff::
     .string "なんや　にもつ\n"
     .string "いっぱいやんけ！$"
 
 FuchsiaCity_WardensHouse_Text_MonPhotosFossilsOnDisplay::
-    .string "POKéMON photos and fossils are on\n"
-    .string "display.$"
+    .string "POKéMON fotoğrafları ve fosilleri\n"
+    .string "sergileniyor.$"
 
 FuchsiaCity_WardensHouse_Text_OldMonMerchandiseOnDisplay::
-    .string "Old POKéMON merchandise is on\n"
-    .string "display.$"
-
+    .string "Eski POKéMON ürünleri\n"
+    .string "sergileniyor.$"

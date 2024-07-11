@@ -1,54 +1,52 @@
 Text_SeismicTossTeach::
-    .string "The secrets of space…\n"
-    .string "The mysteries of earth…\p"
-    .string "There are so many things about\n"
-    .string "which we know so little.\p"
-    .string "But that should spur us to study\n"
-    .string "harder, not toss in the towel.\p"
-    .string "The only thing you should toss…\p"
-    .string "Well, how about SEISMIC TOSS?\n"
-    .string "Should I teach that to a POKéMON?$"
+    .string "Uzayın sırları...\n"
+    .string "Yerin gizemleri...\p"
+    .string "Bilmediğimiz o kadar çok şey var ki.\n"
+    .string "Ama bu bizi çalışmaya itmeli,\p"
+    .string "havlu atmaya değil.\p"
+    .string "Tek atman gereken şey...\p"
+    .string "SİSMİK ATMA?\n"
+    .string "Bir POKéMON'a öğreteyim mi?$"
 
 Text_SeismicTossDeclined::
-    .string "Is that so?\n"
-    .string "I'm sure you'll be back for it.$"
+    .string "Öyle mi?\n"
+    .string "Bundan vazgeçmeyeceğinden eminim.$"
 
 Text_SeismicTossWhichMon::
-    .string "Which POKéMON wants to learn\n"
-    .string "SEISMIC TOSS?$"
+    .string "SİSMİK ATMA'yı öğrenmek\n"
+    .string "isteyen POKéMON hangisi?$"
 
 Text_SeismicTossTaught::
-    .string "I hope you won't toss in the towel.\n"
-    .string "Keep it up.$"
+    .string "Havlu atmadığın için mutluyum.\n"
+    .string "Böyle devam et.$"
 
 PewterCity_Museum_1F_Text_WhatsSpecialAboutMoonStone::
-    .string "MOON STONE, huh?\p"
-    .string "What's so special about it?\n"
-    .string "Looks like an ordinary rock to me.$"
+    .string "AY TAŞI mı dedin?\p"
+    .string "Nesi özel peki?\n"
+    .string "Sıradan bir taş gibi görünüyor.$"
 
 PewterCity_Museum_1F_Text_BoughtColorTVForMoonLanding::
-    .string "July 20, 1969!\p"
-    .string "Humankind first set foot on the\n"
-    .string "moon that day.\p"
-    .string "I bought a color TV just so I\n"
-    .string "could watch that news.$"
+    .string "20 Temmuz 1969!\p"
+    .string "İnsanlık ilk kez aya ayak bastı\n"
+    .string "o gün.\p"
+    .string "O haberi izleyebilmek için\n"
+    .string "renkli televizyon almıştım.$"
 
 PewterCity_Museum_1F_Text_RunningSpaceExhibitThisMonth::
-    .string "This month, we're running a space\n"
-    .string "exhibit.$"
+    .string "Bu ay uzay sergisi düzenliyoruz.\n"
+    .string "Gelip görmelisin.$"
 
 PewterCity_Museum_1F_Text_AskedDaddyToCatchPikachu::
-    .string "I want a PIKACHU!\n"
-    .string "It's so cute!\p"
-    .string "I asked my daddy to catch me one!$"
+    .string "Bir PIKACHU istiyorum!\n"
+    .string "Çok tatlı!\p"
+    .string "Babamdan biri yakalamasını istedim!$"
 
 PewterCity_Museum_1F_Text_PikachuSoonIPromise::
-    .string "Yeah, a PIKACHU soon, I promise!$"
+    .string "Evet, bir PIKACHU, söz veriyorum!$"
 
 PewterCity_Museum_1F_Text_SpaceShuttle::
-    .string "Space Shuttle$"
+    .string "Uzay Mekiği$"
 
 PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoon::
-    .string "A meteorite that fell on MT. MOON.\n"
-    .string "It is thought to be a MOON STONE.$"
-
+    .string "AY DAĞI'na düşen bir meteor.\n"
+    .string "AY TAŞI olduğuna inanılıyor.$"

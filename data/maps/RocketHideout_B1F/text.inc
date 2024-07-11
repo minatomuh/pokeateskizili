@@ -1,53 +1,53 @@
 RocketHideout_B1F_Text_Grunt1Intro::
-    .string "Who are you?\n"
-    .string "How did you get here?$"
+.string "Sen kimsin?\n"
+.string "Buraya nasıl girdin?$"
 
 RocketHideout_B1F_Text_Grunt1Defeat::
-    .string "Oww!\n"
-    .string "Beaten!$"
+.string "Auv!\n"
+.string "Yenildim!$"
 
 RocketHideout_B1F_Text_Grunt1PostBattle::
-    .string "Blast it… You're dissing TEAM\n"
-    .string "ROCKET, aren't you?$"
+.string "Vay canına… ROKET TAKIMI'nı\n"
+.string "küçümsüyorsun, değil mi?$"
 
 RocketHideout_B1F_Text_Grunt2Intro::
-    .string "You broke into TEAM ROCKET's\n"
-    .string "operation? What nerve!$"
+.string "ROKET TAKIMI'nın operasyonuna\n"
+.string "çomak soktun?! Ne cesaret!$"
 
 RocketHideout_B1F_Text_Grunt2Defeat::
-    .string "Boom!$"
+.string "Bum!$"
 
 RocketHideout_B1F_Text_Grunt2PostBattle::
-    .string "You're not going to get away with\n"
-    .string "this, brat!$"
+.string "Bundan kurtulamayacaksın,\n"
+.string "yaramaz çocuk!$"
 
 RocketHideout_B1F_Text_Grunt3Intro::
-    .string "Intruder alert!$"
+.string "Kaçak var!$"
 
 RocketHideout_B1F_Text_Grunt3Defeat::
-    .string "I can't do it!$"
+.string "Yapamıyorum!$"
 
 RocketHideout_B1F_Text_Grunt3PostBattle::
-    .string "SILPH SCOPE? Humph!\n"
-    .string "I don't know where it is.$"
+.string "SILPH GÖZLÜK? Hıh!\n"
+.string "Nerede olduğunu bilmiyorum.$"
 
 RocketHideout_B1F_Text_Grunt4Intro::
-    .string "Why did you come here?$"
+.string "Neden buraya geldin?$"
 
 RocketHideout_B1F_Text_Grunt4Defeat::
-    .string "This won't do!$"
+.string "Bu olmamalı!$"
 
 RocketHideout_B1F_Text_Grunt4PostBattle::
-    .string "Okay, I'll talk…\n"
-    .string "Take the elevator to see my BOSS.$"
+.string "Tamam, konuşacağım…\n"
+.string "PATRONU görmek için asansöre bin.$"
 
 RocketHideout_B1F_Text_Grunt5Intro::
-    .string "Are you lost, you little mouse?$"
+.string "Kayıp mı oldun, küçük fare?$"
 
 RocketHideout_B1F_Text_Grunt5Defeat::
-    .string "Why…?$"
+.string "Neden…?$"
 
 RocketHideout_B1F_Text_Grunt5PostBattle::
-    .string "Uh-oh, that ruckus somehow opened\n"
-    .string "the door!$"
+.string "Uh-oh, o gürültü bir\n"
+.string "şekilde kapıyı açtı!$"
 

@@ -1,87 +1,88 @@
 Route21_South_Text_JackIntro::
-	.string "I caught my POKéMON at sea.$"
+	.string "Denizde POKéMON tuttum.$"
 
 Route21_South_Text_JackDefeat::
-	.string "Diver!!\n"
-	.string "Down!!$"
+	.string "Dalışçı!!\n"
+	.string "Aşağı!!$"
 
 Route21_South_Text_JackPostBattle::
-	.string "Where'd you catch your POKéMON?$"
+	.string "Sen POKéMON'unu nerede tuttun?$"
 
 Route21_South_Text_JeromeIntro::
-	.string "Right now, I'm in a triathlon meet.$"
+	.string "Şu an bir üçlü yarıştayım.$"
 
 Route21_South_Text_JeromeDefeat::
-	.string "Pant…\n"
-	.string "Pant… Pant…$"
+	.string "Hıh…\n"
+	.string "Hııh… hh…$"
 
 Route21_South_Text_JeromePostBattle::
-	.string "I'm beat! But, I still have the\n"
-	.string "bike race and marathon left!$"
+	.string "Bittim! Ama, daha bisiklet ve\n"
+	.string "maraton yarışlarım var!$"
 
 Route21_South_Text_RolandIntro::
 	.string "Ahh!\n"
-	.string "Feel the sun and the wind!$"
+	.string "Güneşi ve rüzgarı hisset!$"
 
 Route21_South_Text_RolandDefeat::
-	.string "Yow!\n"
-	.string "I lost!$"
+	.string "Auv!$\n"
+	.string "Kaybettim!$"
 
 Route21_South_Text_RolandPostBattle::
-	.string "I'm sunburnt to a crisp!$"
+	.string "Kömür gibi yandım!$"
 
 Route21_South_Text_ClaudeIntro::
-	.string "Hey, don't scare away the fish!$"
+	.string "Hey, balıkları kaçırma!$"
 
 Route21_South_Text_ClaudeDefeat::
-	.string "Sorry! I'm just so frustrated from\n"
-	.string "not catching anything.$"
+	.string "Üzgünüm! Hiçbir şey\n"
+	.string "yakalayamadığım için çok gerginim.$"
 
 Route21_South_Text_ClaudePostBattle::
-	.string "Sheesh, I haven't caught a thing.\n"
-	.string "Could this place actually be a\l"
-	.string "giant pool or something?$"
+	.string "Ööf, hiçbir şey yakalayamadım.\n"
+	.string "Acaba bu yer devasa bir havuz mu?$"
 
 Route21_South_Text_NolanIntro::
-	.string "Keep me company till I get a hit.$"
+	.string "Bir şey yakalayana kadar\n"
+    .string "bana eşlik et.$"
 
 Route21_South_Text_NolanDefeat::
-	.string "That burned some time.$"
+	.string "Zaman geçti.$"
 
 Route21_South_Text_NolanPostBattle::
-	.string "Oh wait!\n"
-	.string "I got a bite! Yeah!$"
+	.string "Bekle bir dakika!\n"
+	.string "Isırdım! Evet!$"
 
 Route21_North_Text_LilIntro::
-	.string "LIL: Huh? A battle?\n"
-	.string "IAN, can't you do it alone?$"
+	.string "LIL: Hı? Bir savaş mı? IAN,\n"
+	.string "bunu tek başına yapamaz mısın?$"
 
 Route21_North_Text_LilDefeat::
-	.string "LIL: Oh, see?\n"
-	.string "We lost. Happy now?$"
+	.string "LIL: Oh, bak?\n"
+	.string "Kaybettik. Şimdi mutlu musun?$"
 
 Route21_North_Text_LilPostBattle::
-	.string "LIL: I'm tired.\n"
-	.string "Can't we go home already?$"
+	.string "LIL: Yorgunum.\n"
+	.string "Eve gidemez miyiz?$"
 
 Route21_North_Text_LilNotEnoughMons::
-	.string "LIL: Huh? A battle?\n"
-	.string "I can't be bothered to do it alone.\l"
-	.string "Bring two POKéMON, won't you?$"
+	.string "LIL: Hı? Bir savaş mı?\n"
+	.string "Tek başıma uğraşamam.\l"
+	.string "İki POKéMON getirir misin?$"
 
 Route21_North_Text_IanIntro::
-	.string "IAN: My sis doesn't get enough\n"
-	.string "exercise, so I made her come.$"
+	.string "IAN: Kız kardeşim yeterince\n"
+	.string "egzersiz yapmıyor,\l"
+    .string "bu yüzden onu getirdim.$"
 
 Route21_North_Text_IanDefeat::
-	.string "IAN: Awww, Sis!\n"
-	.string "Get it together!$"
+	.string "IAN: Ah, Kardeşim!\n"
+	.string "Kendine gel!$"
 
 Route21_North_Text_IanPostBattle::
-	.string "IAN: Come on, Sis!\p"
-	.string "You're not going to lose weight\n"
-	.string "like this!$"
+	.string "IAN: Hadi, Kardeşim!\p"
+	.string "Böyle kilo veremeyeceksin.\n"
+	.string "Gel, gidelim!$"
 
 Route21_North_Text_IanNotEnoughMons::
-	.string "IAN: We want a two-on-two battle.\n"
-	.string "So can you bring two POKéMON?$"
+	.string "IAN: İkişerli bir savaş istiyoruz.\n"
+	.string "O yüzden iki POKéMON getirebilir misin?$"

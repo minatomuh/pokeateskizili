@@ -1,26 +1,26 @@
 Route7_EastEntrance_Text_ThirstyOnGuardDuty::
-    .string "I'm on guard duty.\n"
-    .string "Gee, I'm thirsty, though!\p"
-    .string "Oh, wait there, the road's closed.$"
+    .string "Nöbet görevindeyim.\n"
+    .string "Ama çok susadım!\p"
+    .string "Dur, yol kapalı.$"
 
 Route7_EastEntrance_Text_ThatTeaLooksTasty::
-    .string "Oh, that TEA…\n"
-    .string "It looks awfully tasty…$"
+    .string "O ÇAY…\n"
+    .string "Çok lezzetli görünüyor…$"
 
 Route7_EastEntrance_Text_ThanksIllShareTeaWithGuards::
-    .string "Huh? I can have this drink?\n"
-    .string "Gee, thanks!\l"
+    .string "Ne? Bu içeceği içebilir miyim?\n"
+    .string "Teşekkürler!\l"
     .string "… …\l"
-    .string "Glug, glug…\l"
+    .string "Yudum, yudum…\l"
     .string "… …\l"
-    .string "Gulp…\l"
-    .string "If you want to go to SAFFRON\l"
-    .string "CITY…\l"
+    .string "Yutkun…\l"
+    .string "SAFFRON ŞEHRİ'ne gitmek\l"
+    .string "istiyorsan…\l"
     .string "… …\l"
-    .string "You can go on through.\p"
-    .string "I'll share this TEA with the other\n"
-    .string "guards!$"
+    .string "Geçebilirsin.\p"
+    .string "Bu çayı diğer nöbetçilerle\n"
+    .string "paylaşacağım!\l"
+    .string "Teşekkürler!$"
 
 Route7_EastEntrance_Text_HiHowsItGoing::
-    .string "Hi, how's it going?$"
-
+    .string "Merhaba, nasıl gidiyor?$"

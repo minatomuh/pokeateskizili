@@ -1,29 +1,28 @@
 CeladonCity_Condominiums_1F_Text_Meowth::
-    .string "MEOWTH: Meow!$"
+    .string "MEOWTH: Miyav!$"
 
 CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
-    .string "You shouldn't spend all your money\n"
-    .string "on drinks.\p"
-    .string "Try this instead.$"
+    .string "Paranı içeceklere harcama.\n"
+    .string "Bunu dene.$"
 
 CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
-    .string "Nothing beats thirst like some hot\n"
-    .string "TEA.\p"
-    .string "It really is the best.$"
+    .string "Susuzluğa karşı sıcak bir\n"
+    .string "ÇAY gibisi yok.$"
+    .string "Gerçekten en iyisi.$"
 
 CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
-    .string "My dear POKéMON keep me company.\n"
-    .string "MEOWTH even brings money home!$"
+    .string "Sevgili POKéMON'larım bana\n"
+    .string "MEOWTH bile para getiriyor!$"
 
 CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
-    .string "Oh, hello, dearie.\n"
-    .string "Did you enjoy my TEA?\p"
-    .string "By the way, dear. Are you, by any\n"
-    .string "chance, from PALLET TOWN?\p"
-    .string "A girl from PALLET TOWN, DAISY,\n"
-    .string "she enjoys TEA every day.\p"
-    .string "She visits the CELADON DEPT. STORE\n"
-    .string "to buy some TEA.$"
+    .string "Oh, merhaba.\n"
+    .string "ÇAY'ımı beğendin mi?\p"
+    .string "Bu arada, PALLET KASABASI'ndan\n"
+    .string "mısın, canım?\p"
+    .string "PALLET KASABASI'ndan bir kız,\n"
+    .string "adı DAISY, her gün ÇAY içer.\p"
+    .string "ÇAY almak için\n"
+    .string "CELADON MAĞAZASINA gider.$"
 
 CeladonCity_Condominiums_1F_Text_Clefairy::
     .string "CLEFAIRY: Pi pippippi!$"
@@ -32,6 +31,5 @@ CeladonCity_Condominiums_1F_Text_Nidoran::
     .string "NIDORAN♀: Kya kyaoo!$"
 
 CeladonCity_Condominiums_1F_Text_ManagersSuite::
-    .string "CELADON MANSION\n"
-    .string "Manager's Suite$"
-
+    .string "CELADON KONAĞI\n"
+    .string "Yönetici Süiti$"

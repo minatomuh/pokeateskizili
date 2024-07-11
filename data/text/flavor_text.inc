@@ -11,7 +11,7 @@ Text_PokeMartShelf::
   .string "Vay canına! Tonlarca POKéMON şeyi!$"
 
 Text_DishesPlatesNeatlyLinedUp::
-  .string "Tabaklar ve tabaklar düzgünce\ndizilmiş.$"
+  .string "Tabaklar ve bulaşıklar\ndüzgünce dizilmiş.$"
 
 Text_Kitchen::
   .string "Nefis kokuyor! Birileri burada yemek\npişirmiş.$"
@@ -23,16 +23,16 @@ Text_Snacks::
   .string "Burada bir yığın atıştırmalık var.$"
 
 Text_PokemartSign::
-  .string "Tüm eşya ihtiyaçlarınız karşılandı!\nPOKéMON MART$"
+  .string "Tüm eşya ihtiyaçlarınız karşılansın!\nPOKéMON MARKET$"
 
 Text_PokecenterSign::
-  .string "POKéMON'unuzu İyileştirin! POKéMON\nMERKEZİ$"
+  .string "POKéMON'unuzu İyileştirin!\nPOKéMON MERKEZİ$"
 
 Text_Indigo_UltimateGoal::
-  .string "INDIGO PLATEAU\pEĞİTMENLERİN nihai hedefi! POKéMON\nLEAGUE HQ$"
+  .string "INDIGO PLATOSU\pEĞİTMENLERİN nihai hedefi! POKéMON\nLİG MERKEZİ$"
 
 Text_Indigo_HighestAuthority::
-  .string "INDIGO PLATEAU\pEn yüksek POKéMON otoritesi! POKéMON\nLEAGUE HQ$"
+  .string "INDIGO PLATOSU\pEn yüksek POKéMON otoritesi! POKéMON\nLİG MERKEZİ$"
 
 Text_Food::
   .string "Yiyecek her türlü lezzetli şeyle dolu\nolmalıdır.$"
@@ -41,7 +41,7 @@ Text_Blueprints::
   .string "Bir çeşit plan. Şemalar ve metinlerle\ndolu.$"
 
 Text_Painting::
-  .string "Bu bir POKemon'un güzel bir resmi. İyi\nhissediyor gibi görünüyor.$"
+  .string "Bu bir POKéMON'un güzel bir resmi. İyi\nhissediyor gibi görünüyor.$"
 
 Text_PowerPlantMachine::
   .string "Bu makine ne olabilir? Onunla\nuğraşmasan iyi olur!$"
@@ -74,7 +74,7 @@ Text_BlinkingLights::
   .string "Farklı renklerdeki ışıklar yanıp\nsönüyor.$"
 
 Text_NeatlyLinedUpTools::
-  .string "Her türlü alet düzgün bir şekilde\nsıralanmıştır.$"
+  .string "Her türlü alet düzgün bir şekilde\nsıralanmış.$"
 
 Text_ImpressiveMachine::
   .string "Bir çeşit makine. Kesinlikle etkileyici.$"

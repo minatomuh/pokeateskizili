@@ -1,125 +1,121 @@
 ViridianCity_Text_CanCarryMonsAnywhere::
-    .string "Those POKé BALLS at your waist!\n"
-    .string "You have POKéMON, don't you?\p"
-    .string "It's great that you can carry and\n"
-    .string "use POKéMON anytime, anywhere.$"
+    .string "O belindeki POKé TOPLARI!\n"
+    .string "POKéMON'ların var değil mi?\p"
+    .string "Her zaman her yerde POKéMON\n"
+    .string "taşımak ve kullanmak harika.$"
 
 ViridianCity_Text_GymClosedWonderWhoLeaderIs::
-    .string "This POKéMON GYM is always closed.\p"
-    .string "I wonder who the LEADER is?$"
+    .string "Bu POKéMON SALONU hep kapalı.\p"
+    .string "Acaba lider kim?$"
 
 ViridianCity_Text_ViridiansGymLeaderReturned::
-    .string "VIRIDIAN GYM's LEADER returned!$"
+    .string "VIRIDIAN SALON LİDERİ geri döndü!$"
 
 ViridianCity_Text_WantToKnowAboutCaterpillarMons::
-    .string "You want to know about the two\n"
-    .string "kinds of caterpillar POKéMON?$"
+    .string "İki çeşit tırtıl POKéMON hakkında\n"
+    .string "bir şeyler öğrenmek ister misin?$"
 
 ViridianCity_Text_OhOkayThen::
-    .string "Oh, okay then!$"
+    .string "Oh, peki o zaman!$"
 
 ViridianCity_Text_ExplainCaterpieWeedle::
-    .string "CATERPIE has no poison,\n"
-    .string "but WEEDLE does.\p"
-    .string "Watch that your POKéMON aren't\n"
-    .string "stabbed by WEEDLE's POISON STING.$"
+    .string "CATERPIE zehirsizdir,\n"
+    .string "ama WEEDLE zehirlidir.\p"
+    .string "POKéMON'unuzun WEEDLE'ın\n"
+    .string "ZEHİR İĞNE'si ile\l"
+    .string "yaralanmadığından emin olun.$"
 
 ViridianCity_Text_GrandpaHasntHadCoffeeYet::
-    .string "Oh, Grandpa!\n"
-    .string "Don't be so mean!\p"
-    .string "I'm so sorry.\n"
-    .string "He hasn't had his coffee yet.$"
+    .string "Oh, Dede!\n"
+    .string "Bu kadar sert olma!\p"
+    .string "Üzgünüm.\n"
+    .string "O hala kahvesini içemedi.$"
 
 ViridianCity_Text_GoShoppingInPewterOccasionally::
-    .string "I go shopping in PEWTER CITY\n"
-    .string "occasionally.\p"
-    .string "I have to take the winding trail in\n"
-    .string "VIRIDIAN FOREST when I go.$"
+    .string "Bazen PEWTER ŞEHRİ'nde alışverişe\n"
+    .string "giderim.\p"
+    .string "Giderken VIRIDIAN ORMANI'ndaki\n"
+    .string "dönemeçli yolu kullanmam gerekiyor.$"
 
 ViridianCity_Text_ThisIsPrivateProperty::
-    .string "I absolutely forbid you from\n"
-    .string "going through here!\p"
-    .string "This is private property!$"
+    .string "Buradan geçmeni kesinlikle\n"
+    .string "yasaklıyorum!\p"
+    .string "Bu özel mülktür!$"
 
 ViridianCity_Text_ShowYouHowToCatchMons::
-    .string "Well, now, I've had my coffee, and\n"
-    .string "that's what I need to get going!\p"
+    .string "Eh, şimdi, kahvemi içtim ve\n"
+    .string "bunu yapmak için hazırım!\p"
     .string "Hm?\n"
-    .string "What is that red box you have?\p"
-    .string "Ah, so you're working on your\n"
-    .string "POKéDEX.\p"
-    .string "Then let me give you a word of\n"
-    .string "advice.\p"
-    .string "Whenever you catch a POKéMON,\n"
-    .string "the POKéDEX automatically updates\l"
-    .string "its data.\p"
-    .string "…You don't know how to catch\n"
-    .string "a POKéMON?\p"
-    .string "I suppose I had better show you\n"
-    .string "then!$"
+    .string "O kırmızı kutu ne?\p"
+    .string "Ah, POKéDEX'ini tamamlamaya\n"
+    .string "çalışıyorsun.\p"
+    .string "O zaman sana bir tavsiye.\p"
+    .string "Bir POKéMON yakaladığında,\n"
+    .string "POKéDEX otomatik güncellenir.\l"
+    .string "Bilmiyorsun, değil mi?\p"
+    .string "O zaman sana göstereyim!$"
 
 ViridianCity_Text_ThatWasEducationalTakeThis::
-    .string "There! Now tell me, that was\n"
-    .string "educational, was it not?\p"
-    .string "And here, take this, too.$"
+    .string "İşte bu! Şimdi bana söyle,\n"
+    .string "eğiticiydi, değil mi?\p"
+    .string "Ve bunu da al.$"
 
 ViridianCity_Text_WatchThatToLearnBasics::
-    .string "If there's something you don't\n"
-    .string "understand, watch that.\p"
-    .string "It will teach you about the basics\n"
-    .string "of being a POKéMON TRAINER.$"
+    .string "Anlamadığın bir şey varsa, ona bak.\p"
+    .string "POKéMON eğitmenin temellerini\n"
+    .string "öğretir.$"
 
 ViridianCity_Text_WeakenMonsFirstToCatch::
-    .string "Well, now, I've had my coffee, and\n"
-    .string "that's what I need to get going!\p"
-    .string "But I made it too strong.\n"
-    .string "It gave me a headache…\p"
-    .string "Incidentally, are you filling your\n"
-    .string "POKéDEX?\p"
-    .string "At first, focus on weakening the\n"
-    .string "POKéMON before trying to catch it.$"
+    .string "Eh, şimdi, kahvemi içtim ve\n"
+    .string "bunu yapmak için hazırım!\p"
+    .string "Ama çok koyu yaptım.\n"
+    .string "Başım ağrıyor…\p"
+    .string "Bu arada, POKéDEX mi dolduruyorsun?\p"
+    .string "Önce POKéMON'u zayıflatmaya\n"
+    .string "odaklan.$"
 
 ViridianCity_Text_HowsTeachyTVHelping::
-    .string "Well, now, I've had my coffee, and\n"
-    .string "that's what I need to get going!\p"
-    .string "But I made it too strong.\n"
-    .string "It gave me a headache…\p"
-    .string "Incidentally, is my old TEACHY TV\n"
-    .string "helping you?$"
+    .string "Eh, şimdi, kahvemi içtim ve\n"
+    .string "bunu yapmak için hazırım!\p"
+    .string "Ama çok koyu oldu.\n"
+    .string "Başım ağrıyor…\p"
+    .string "Bu arada, eski TEACHY TV'imin\n"
+    .string "yardımı dokunuyor mu?$"
 
 ViridianCity_Text_MyGrandsonOnTheShow::
-    .string "Wahaha!\n"
-    .string "It's my grandson on the show!\p"
-    .string "Since he's the one doing the\n"
-    .string "teaching, you're bound to learn.$"
+    .string "Vahaha!\n"
+    .string "TV'de torunum var!\p"
+    .string "O öğretmenin ta kendisi,\n"
+    .string "kesin öğrenirsin.$"
 
 ViridianCity_Text_TooBusyForTeachyTV::
-    .string "Hm… You're too busy to not even\n"
-    .string "have the time for TEACHY TV…\p"
-    .string "Time is money, and neither should\n"
-    .string "be ill spent…$"
+    .string "Hm… TEACHY TV'ye bile\n"
+    .string "zaman ayıramayacak\l"
+    .string "kadar meşgulsün…\p"
+    .string "Zaman para demektir ve ikisi de\n"
+    .string "boşa harcanmamalı…$"
 
 ViridianCity_Text_CitySign::
-    .string "VIRIDIAN CITY \n"
-    .string "The Eternally Green Paradise$"
+    .string "VIRIDIAN ŞEHRİ\n"
+    .string "Daima Yeşil Bir Cennet$"
 
 ViridianCity_Text_CatchMonsForEasierBattles::
-    .string "TRAINER TIPS\p"
-    .string "Catch POKéMON and expand your\n"
-    .string "collection.\p"
-    .string "The more you have, the easier it\n"
-    .string "is to battle.$"
+    .string "EĞİTMEN İPUCU\p"
+    .string "POKéMON yakala ve koleksiyonunu genişlet.\p"
+    .string "Ne kadar çok POKéMON'un varsa,\n"
+    .string "savaşmak o kadar kolaylaşır.$"
 
 ViridianCity_Text_MovesLimitedByPP::
-    .string "TRAINER TIPS\p"
-    .string "The battle moves of POKéMON are\n"
-    .string "limited by their POWER POINTS, PP.\p"
-    .string "To replenish PP, rest your tired\n"
-    .string "POKéMON at a POKéMON CENTER.$"
+    .string "EĞİTMEN İPUCU\p"
+    .string "POKéMON savaş hareketleri\n"
+    .string "POWER POINTS, PP\l"
+    .string "ile sınırlıdır.\p"
+    .string "PP'yi yenilemek için yorgun\n"
+    .string "POKéMON'larını bir\l"
+    .string "POKéMON MERKEZİ'nde dinlendir.$"
 
 ViridianCity_Text_GymSign::
-    .string "VIRIDIAN CITY POKéMON GYM$"
+    .string "VIRIDIAN ŞEHRİ POKéMON SALONU$"
 
 ViridianCity_Text_GymDoorsAreLocked::
-    .string "VIRIDIAN GYM's doors are locked…$"
-
+    .string "VIRIDIAN SALONU'nun kapıları kilitli…$"

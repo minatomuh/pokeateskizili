@@ -1,25 +1,24 @@
 FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
-    .string "We nicknamed the WARDEN\n"
-    .string "“SLOWPOKE.”\p"
-    .string "You know, he has that vacant look\n"
-    .string "like a SLOWPOKE.$"
+    .string "Biz BEKÇİ'a\n"
+    .string "“SLOWPOKE lakabı taktık.”\p"
+    .string "Biliyor musun, aynı SLOWPOKE\n"
+    .string "gibi boş bakışları var.$"
 
 FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
-    .string "WARDEN SLOWPOKE is very\n"
-    .string "knowledgeable about POKéMON.\p"
-    .string "He even has some fossils of rare,\n"
-    .string "extinct POKéMON.$"
+    .string "BEKÇİ SLOWPOKE, POKéMON\n"
+    .string "konusunda çok bilgili.\p"
+    .string "Nadir, yok olmuş POKéMON\n"
+    .string "fosillerine bile sahip.$"
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
-    .string "WARDEN SLOWPOKE came in, but\n"
-    .string "I couldn't understand him.\p"
-    .string "I think he's got a speech problem!$"
+    .string "BEKÇİ SLOWPOKE içeri girdi, ama\n"
+    .string "onu hiç anlayamadım.\p"
+    .string "Sanırım konuşma problemi var!$"
 
 FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
-    .string "WARDEN SLOWPOKE is running a\n"
-    .string "promotion campaign right now.\p"
-    .string "Try to get to the farthest corner\n"
-    .string "of the SAFARI ZONE.\p"
-    .string "If you can make it, you'll win a\n"
-    .string "very convenient prize.$"
-
+    .string "BEKÇİ SLOWPOKE şu anda bir\n"
+    .string "tanıtım kampanyası yürütüyor.\p"
+    .string "SAFARİ BÖLGESİ'nin en uzak\n"
+    .string "köşesine ulaşmaya çalış.\p"
+    .string "Eğer başarırsan, çok kullanışlı\n"
+    .string "bir ödül kazanacaksın.$"

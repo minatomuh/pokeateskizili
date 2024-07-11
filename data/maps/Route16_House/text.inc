@@ -1,21 +1,20 @@
 Route16_House_Text_FoundMySecretRetreat::
-    .string "Oh, dear.\n"
-    .string "You've found my secret retreat.\p"
-    .string "Please don't tell anyone I'm here.\n"
-    .string "I'll make it up to you with this!$"
+    .string "Aman Tanrım!\n"
+    .string "Gizli sığınağımı bulmuşsun.\p"
+    .string "Lütfen kimseye burada olduğumu söyleme.\n"
+    .string "Bunu sana telafi edeceğim!$"
 
 Route16_House_Text_ReceivedHM02FromGirl::
-    .string "{PLAYER} received HM02\n"
-    .string "from the girl.$"
+    .string "{PLAYER}, kızdan\n"
+    .string "HM02 aldı.$"
 
 Route16_House_Text_ExplainHM02::
-    .string "HM02 is FLY.\n"
-    .string "It's a wonderfully convenient move.\p"
-    .string "Please, put it to good use.$"
+    .string "HM02, UÇ hareketidir.\n"
+    .string "Çok kullanışlı bir hareket.\p"
+    .string "Lütfen, bunu iyi değerlendir.$"
 
 Route16_House_Text_DontHaveAnyRoomForThis::
-    .string "You don't have any room for this.$"
+    .string "Bunun için yerin yok.$"
 
 Route16_House_Text_Fearow::
     .string "FEAROW: Kyueen!$"
-

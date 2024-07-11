@@ -1,19 +1,19 @@
 CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepel::
-    .string "SUPER REPEL keeps weak POKéMON at\n"
-    .string "bay…\p"
-    .string "Hmm, it's a more powerful REPEL.$"
+    .string "SÜPER SPREY zayıf POKéMON'ları\n"
+    .string "uzak tutuyor…\p"
+    .string "Daha güçlü bir SPREY bu.$"
 
 CeladonCity_DepartmentStore_2F_Text_BuyReviveForLongOutings::
-    .string "For long outings, you should buy\n"
-    .string "REVIVE.$"
+    .string "Uzun gezintiler için\n"
+    .string "CANLANDIRICI almalısın!$"
 
 CeladonCity_DepartmentStore_2F_Text_FloorSign::
-    .string "Top-Grade Items for TRAINERS!\p"
-    .string "2F: TRAINER'S MARKET$"
+    .string "EĞİTMENLER için Üstün Kalite!\p"
+    .string "2. Kat: Eğitmen Pazarı$"
 
 CeladonCity_DepartmentStore_2F_Text_LanceComesToBuyCapes::
-    .string "We have a customer, LANCE, who\n"
-    .string "occasionally comes.\p"
-    .string "He always buys capes.\p"
-    .string "I wonder… Does he have many\n"
-    .string "identical capes at home?$"
+    .string "LANCE adında bir müşterimiz var.\n"
+    .string "O ara sıra gelir.\p"
+    .string "Her zaman pelerin alır.\p"
+    .string "Acaba… Evinde bir sürü\n"
+    .string "aynı pelerinden mi var?$"

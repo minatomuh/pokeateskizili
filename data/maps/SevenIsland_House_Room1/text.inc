@@ -1,95 +1,92 @@
 SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattles::
-    .string "I may not look like much now,\n"
-    .string "but when I was younger…\p"
-    .string "I flew everywhere, challenging\n"
-    .string "TRAINERS wherever I found them.\p"
-    .string "Now, my only source of enjoyment\n"
-    .string "is reminiscing about the past while\l"
-    .string "watching battles.$"
+.string "Şimdilerde pek de iyi görünmüyorum\n"
+.string "ama gençken…\p"
+.string "Her yere uçardım, bulduğum\n"
+.string "her EĞİTMEN'e meydan okurdum.\p"
+.string "Şimdi tek eğlencem, geçmişi\n"
+.string "yâd edip savaşları izlemek.$"
 
 SevenIsland_House_Room1_Text_SlightBreezeAroundBox::
-    .string "There is a slight breeze blowing\n"
-    .string "around the box.$"
+.string "Kutunun etrafında hafif bir rüzgâr\n"
+.string "esiyor.$"
 
 SevenIsland_House_Room1_Text_ChallengeVisitingTrainer::
-    .string "Ah!\n"
-    .string "Welcome, my friend!\p"
-    .string "Let me tell you something. There's\n"
-    .string "a hidden room in the basement.\p"
-    .string "A TRAINER named {STR_VAR_1} is\n"
-    .string "waiting there now.\p"
-    .string "Tell me, you did come to challenge\n"
-    .string "{STR_VAR_1}, am I right?$"
+.string "Ah!\n"
+.string "Hoş geldin, dostum!\p"
+.string "Bir şey söyleyeyim mi? Bodrumda\n"
+.string "gizli bir oda var.\p"
+.string "{STR_VAR_1} adında bir EĞİTMEN\n"
+.string "şu an orada bekliyor.\p"
+.string "Söyle bana, {STR_VAR_1}'e meydan\n"
+.string "okumak için mi geldin?$"
 
 SevenIsland_House_Room1_Text_OhYouWontBattle::
-    .string "Oh…\n"
-    .string "You won't battle…\p"
-    .string "I see, I see.\n"
-    .string "… …\p"
-    .string "Well, perhaps if you change your\n"
-    .string "mind, do come back.$"
+.string "Oh…\n"
+.string "Savaşmayacaksın…\p"
+.string "Anlıyorum, anlıyorum.\n"
+.string "… …\p"
+.string "Eğer fikrini değiştirirsen, lütfen\n"
+.string "geri gel.$"
 
 SevenIsland_House_Room1_Text_LimitThreeMonsPerSide::
-    .string "Ah!\n"
-    .string "You will battle for me?\p"
-    .string "It was worth my time moving the\n"
-    .string "box aside, then.\p"
-    .string "… …\n"
-    .string "But there is one slight problem.\p"
-    .string "This hidden room is not built very\n"
-    .string "sturdy.\p"
-    .string "Can I get you to limit it to\n"
-    .string "battles of three POKéMON per side?$"
+.string "Ah!\n"
+.string "Benim için savaşacak mısın?\p"
+.string "O zaman kutuyu kenara çekmem\n"
+.string "boşuna değilmiş.\p"
+.string "… …\p"
+.string "Fakat bir sorun var. Bu gizli oda\n"
+.string "çok sağlam değil.\p"
+.string "Savaşın 3 POKéMON ile\n"
+.string "sınırlı olmasını ister misin?$"
 
 SevenIsland_House_Room1_Text_SaveProgressBeforeBattle::
-    .string "Fine! Before your battle, would\n"
-    .string "you like to save your game?$"
+.string "Tamam! Savaşmadan önce oyunu\n"
+.string "kaydetmek ister misin?$"
 
 SevenIsland_House_Room1_Text_DontHoldAnythingBack::
-    .string "All right.\n"
-    .string "Don't hold anything back!$"
+.string "Tamam.\n"
+.string "Hiçbir şeyi sakınmadan savaş!$"
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_1::
-    .string "{STR_VAR_1}$"
+.string "{STR_VAR_1}$"
 
 SevenIsland_House_Room2_Text_MatchEndedUpDraw::
-    .string "The match ended up a draw.$"
+.string "Maç berabere bitti.$"
 
 SevenIsland_House_Room1_Text_DrawWasIt::
-    .string "A draw, was it?\p"
-    .string "However, let me say that it was\n"
-    .string "a worthy spectacle.\p"
-    .string "I'd say it was a wonderful battle\n"
-    .string "with a real sense of depth!$"
+.string "Berabere mi bitti?\p"
+.string "Fakat şunu söylemeliyim ki, muhteşem\n"
+.string "bir gösteriydi.\p"
+.string "Gerçekten derinlik hissi veren harika\n"
+.string "bir savaş olduğunu söyleyebilirim!$"
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_2::
-    .string "{STR_VAR_1}$"
+.string "{STR_VAR_1}$"
 
 SevenIsland_House_Room1_Text_AstoundingBattle::
-    .string "Bravo!\p"
-    .string "Bravo, indeed!\n"
-    .string "What an astounding battle!\p"
-    .string "It was so astounding, why, it keeps\n"
-    .string "filling my eyes with tears!\p"
-    .string "The thrust and parry of expertly\n"
-    .string "used techniques!\p"
-    .string "The clash of power upon power!\p"
-    .string "Yes!\n"
-    .string "It was sheer magnificence!$"
+.string "Bravo!\p"
+.string "Gerçekten bravo!\n"
+.string "Ne müthiş bir savaş!\p"
+.string "O kadar müthişti ki, gözlerimi\n"
+.string "yaşartıyor!\p"
+.string "Uzmanca kullanılan tekniklerin\n"
+.string "çarpışması!\p"
+.string "Gücün güç ile çarpışması!\p"
+.string "Evet!\n"
+.string "Muhteşem bir gösteriydi!$"
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_3::
-    .string "{STR_VAR_1}$"
+.string "{STR_VAR_1}$"
 
 SevenIsland_House_Room1_Text_FeelYourDisappointment::
-    .string "Too bad!\n"
-    .string "I feel your disappointment.\p"
-    .string "However, that disappointment is\n"
-    .string "what will make you better.\p"
-    .string "Use it, learn from it, and make it\n"
-    .string "motivate you to seek greatness.\p"
-    .string "Forget not this disappointment\n"
-    .string "and redouble your training!$"
-
+.string "Yazık!\n"
+.string "Üzüntünü hissedebiliyorum.\p"
+.string "Fakat bu üzüntü seni daha iyi\l"
+.string "yapacak.\p"
+.string "Onu kullan, ondan ders al ve büyüklük\n"
+.string "ararken motivasyonun olsun.\p"
+.string "Bu üzüntüyü unutma ve çalışmalarını\n"
+.string "artır!$"

@@ -1,18 +1,20 @@
-FuchsiaCity_PokemonCenter_1F_Text_CantBecomeGoodTrainerWithOneMon::
-    .string "You can't become a good TRAINER\n"
-    .string "with just one strong POKéMON.\p"
-    .string "But raising many POKéMON evenly\n"
-    .string "is no easy task, either.$"
+FuchsiaCity_PokemonCenter_1F_Text_CantBecomeGoodTrainerWithOneMon:
+    .string "Tek bir POKéMON ile\n"
+    .string "iyi EĞİTMEN olamazsın.\p"
+    .string "Fakat birçok POKéMON'u\n"
+    .string "eşit şekilde eğitmek de\n"
+    .string "kolay değil.$"
 
-FuchsiaCity_PokemonCenter_1F_Text_PokemonLeagueWestOfViridian::
-    .string "There's a narrow trail west of\n"
-    .string "VIRIDIAN CITY.\p"
-    .string "It goes to the POKéMON LEAGUE HQ.\n"
-    .string "The HQ governs all TRAINERS.$"
+FuchsiaCity_PokemonCenter_1F_Text_PokemonLeagueWestOfViridian:
+    .string "VIRIDIAN ŞEHRİ'nin batısında\n"
+    .string "dar bir patika var.\p"
+    .string "Bu yol POKéMON LİGİ merkezine\n"
+    .string "gider. Merkez tüm EĞİTMENLERİ\l"
+    .string "yönetir.$"
 
-FuchsiaCity_PokemonCenter_1F_Text_VisitSafariZoneForPokedex::
-    .string "If you're working on a POKéDEX,\n"
-    .string "visit the SAFARI ZONE.\p"
-    .string "All sorts of rare POKéMON breed\n"
-    .string "there.$"
-
+FuchsiaCity_PokemonCenter_1F_Text_VisitSafariZoneForPokedex:
+    .string "Eğer bir POKéDEX üzerinde\n"
+    .string "çalışıyorsan, SAFARİ BÖLGESİ'ne\l"
+    .string "gitmelisin.\p"
+    .string "Tüm nadir POKéMON türleri\n"
+    .string "orada bulunur.$"

@@ -1,58 +1,54 @@
 VictoryRoad_2F_Text_DawsonIntro::
-    .string "If you can get through here,\n"
-    .string "you can go meet the ELITE FOUR.$"
+    .string "Buradan geçebilirsen,\n"
+    .string "ELİT DÖRTLÜ'ye gidebilirsin.$"
 
 VictoryRoad_2F_Text_DawsonDefeat::
-    .string "No!\n"
-    .string "Unbelievable!$"
+    .string "Hayır!\n"
+    .string "İnanılmaz!$"
 
 VictoryRoad_2F_Text_DawsonPostBattle::
-    .string "I can beat you when it comes to\n"
-    .string "knowledge about POKéMON!$"
+    .string "POKéMON bilgisi konusunda\n"
+    .string "beni yenebilirsin!$"
 
 VictoryRoad_2F_Text_DaisukeIntro::
-    .string "This here is VICTORY ROAD.\n"
-    .string "It's the final test for TRAINERS!$"
+    .string "Burası ZAFER YOLU.\n"
+    .string "EĞİTMEN'lerin son sınavı!$"
 
 VictoryRoad_2F_Text_DaisukeDefeat::
-    .string "Atcho!$"
+    .string "Hapşuu!$"
 
 VictoryRoad_2F_Text_DaisukePostBattle::
-    .string "If you get stuck, try moving some\n"
-    .string "boulders around.$"
+    .string "Sıkışırsan, bazı kayaları\n"
+    .string "ittirebilirsin.$"
 
 VictoryRoad_2F_Text_NelsonIntro::
-    .string "Ah, so you wish to challenge the\n"
-    .string "ELITE FOUR?$"
+    .string "Ah, demek ELİT DÖRTLÜ'ye meydan\n"
+    .string "okumak istiyorsun?$"
 
 VictoryRoad_2F_Text_NelsonDefeat::
-    .string "You got me!$"
+    .string "Beni yendin!$"
 
 VictoryRoad_2F_Text_NelsonPostBattle::
-    .string "{RIVAL} also came through here.$"
+    .string "{RIVAL} da buradan geçti.$"
 
 VictoryRoad_2F_Text_VincentIntro::
-    .string "Come on!\n"
-    .string "I'll whip you!$"
+    .string "Haydi!\n"
+    .string "Seni yeneceğim!$"
 
 VictoryRoad_2F_Text_VincentDefeat::
-    .string "I got whipped!$"
+    .string "Dayak yedim!$"
 
 VictoryRoad_2F_Text_VincentPostBattle::
-    .string "You earned the right to be on\n"
-    .string "VICTORY ROAD…$"
+    .string "ZAFER YOLU'nda olmaya\n"
+    .string "hak kazandın…$"
 
 VictoryRoad_2F_Text_GregoryIntro::
-    .string "Is VICTORY ROAD too tough?$"
+    .string "ZAFER YOLU çok mu zor?$"
 
 VictoryRoad_2F_Text_GregoryDefeat::
-    .string "Well done!$"
+    .string "Çok iyi!$"
 
 VictoryRoad_2F_Text_GregoryPostBattle::
-    .string "Many TRAINERS give up their\n"
-    .string "challenge here and go home.$"
-
-@ Unused, old text for Moltres
-VictoryRoad_2F_Text_Gyaoo::
-    .string "ギヤーオ！$"
+    .string "Birçok EĞİTMEN burada\n"
+    .string "mücadeleyi bırakıp eve döner.$"
 

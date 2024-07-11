@@ -1,48 +1,47 @@
 SSAnne_Kitchen_Text_BusyOutOfTheWay::
-    .string "You, mon petit!\n"
-    .string "We're busy here!\l"
-    .string "Out of the way!$"
+    .string "Sen, küçük!\n"
+    .string "Meşgulüz, kenara çekil!$"
 
 SSAnne_Kitchen_Text_SawOddBerryInTrash::
-    .string "I saw an odd BERRY in the trash.\n"
-    .string "I wonder what that was?$"
+    .string "Çöpte garip bir MEYVE gördüm.\n"
+    .string "Acaba neydi o?$"
 
 SSAnne_Kitchen_Text_SoBusyImDizzy::
-    .string "I'm so busy I'm getting dizzy!\n"
-    .string "You have to give me room here!$"
+    .string "O kadar meşgulüm ki başım dönüyor!\n"
+    .string "Bana yer aç!$"
 
 SSAnne_Kitchen_Text_PeelSpudsEveryDay::
-    .string "Hum-de-hum-de-ho…\p"
-    .string "I peel spuds every day!\n"
-    .string "Hum-hum…$"
+    .string "Hım hım hım hım…\p"
+    .string "Her gün patates soyuyorum!\n"
+    .string "Hım hım…$"
 
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
-    .string "Did you hear about SNORLAX?\n"
-    .string "It's a glutton.\p"
-    .string "No other POKéMON eats and sleeps\n"
-    .string "the way SNORLAX can and does!$"
+    .string "SNORLAX'ı duydun mu?\n"
+    .string "O bir obur.\p"
+    .string "Hiçbir POKéMON, SNORLAX kadar\n"
+    .string "obur ve uykucu olamaz!$"
 
 SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
-    .string "Snivel… Sniff…\p"
-    .string "I only get to peel onions…\n"
-    .string "Snivel…$"
+    .string "Hıçkı… Hıçkı…\p"
+    .string "Sadece soğan soyuyorum\n"
+    .string "Hıçkı…$"
 
 SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
     .string "Er-hem!\n"
-    .string "Indeed I am le CHEF!\p"
-    .string "Le main course is$"
+    .string "Evet, ben şefim!\p"
+    .string "Ana yemeğimiz…$"
 
 SSAnne_Kitchen_Text_SalmonDuSalad::
-    .string "Salmon du Salad!\p"
-    .string "Les guests may gripe it's fish\n"
-    .string "again, however!$"
+    .string "Somon Salatası!\p"
+    .string "Korkarım ki konuklar yine mi balık\n"
+    .string "diye şikayet edecek!$"
 
 SSAnne_Kitchen_Text_EelsAuBarbecue::
-    .string "Eels au Barbecue!\p"
-    .string "Les guests will mutiny, I fear.$"
+    .string "Mangal Somon!\p"
+    .string "Korkarım ki konuklar isyan edecek.$"
 
 SSAnne_Kitchen_Text_PrimeBeefsteak::
-    .string "Prime Beefsteak!\p"
-    .string "But, have I enough fillets du\n"
-    .string "beef?$"
+    .string "Kaliteli Biftek!\p"
+    .string "Ama yeterince etim var mı,\n"
+    .string "bilmiyorum.$"
 

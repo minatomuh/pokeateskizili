@@ -1,40 +1,40 @@
 LavenderTown_Text_DoYouBelieveInGhosts::
-    .string "Do you believe in ghosts?$"
+    .string "Hayaletlere inanır mısın?$"
 
 LavenderTown_Text_SoThereAreBelievers::
-    .string "Really?\n"
-    .string "So there are believers…$"
+    .string "Cidden mi?\n"
+    .string "Öyleyse inananlar var…$"
 
 LavenderTown_Text_JustImaginingWhiteHand::
-    .string "Hahaha, I guess not.\p"
-    .string "That white hand on your shoulder…\n"
-    .string "I'm just imagining it.$"
+    .string "Hahaha, sanmam.\p"
+    .string "Ama o omzundaki beyaz el…\n"
+    .string "Sanırım hayal gücümün ürünü.$"
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
-    .string "This town is known as the grave\n"
-    .string "site of POKéMON.\p"
-    .string "Memorial services are held in\n"
-    .string "POKéMON TOWER.$"
+    .string "Bu şehir, POKéMON'ların\n"
+    .string "mezarı olarak bilinir.\p"
+    .string "Anma törenleri POKéMON\n"
+    .string "KULESİ'nde yapılır.$"
 
 LavenderTown_Text_GhostsAppearedInTower::
-    .string "Ghosts appeared in POKéMON TOWER.\p"
-    .string "I think they're the spirits of\n"
-    .string "POKéMON that the ROCKETS killed.$"
+    .string "Hayaletler POKéMON KULESİ'nde\n"
+    .string "belirdi.\p"
+    .string "ROKET TAKIMI tarafından öldürülen\n"
+    .string "POKéMON'ların ruhları olabilirler.$"
 
 LavenderTown_Text_TownSign::
-    .string "LAVENDER TOWN\n"
-    .string "The Noble Purple Town$"
+    .string "LAVENDER KASABASI\n"
+    .string "Asil Mor Kasaba$"
 
 LavenderTown_Text_SilphScopeNotice::
-    .string "New SILPH SCOPE!\n"
-    .string "Make the Invisible Plain to See!\p"
-    .string "SILPH CO.$"
+    .string "Yeni SILPH GÖZLÜĞÜ!\n"
+    .string "Görünmez Olanı Görünür Kıl!\p"
+    .string "SILPH ŞTİ.$"
 
 LavenderTown_Text_VolunteerPokemonHouse::
-    .string "LAVENDER VOLUNTEER\n"
-    .string "POKéMON HOUSE$"
+    .string "LAVENDER GÖNÜLLÜLERİ\n"
+    .string "POKéMON EVİ$"
 
 LavenderTown_Text_PokemonTowerSign::
-    .string "POKéMON TOWER\n"
-    .string "Becalm the Spirits of POKéMON$"
-
+    .string "POKéMON KULESİ\n"
+    .string "POKéMON Ruhlarını Sakinleştir$"

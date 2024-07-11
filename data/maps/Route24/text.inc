@@ -1,100 +1,102 @@
 Route24_Text_JustEarnedFabulousPrize::
-    .string "Congratulations! You beat our\n"
-    .string "five contest TRAINERS!\p"
-    .string "You just earned a fabulous prize!$"
+    .string "Tebrikler! Beş eğitmeni yendin!\n"
+    .string "Muhteşem bir ödül kazandın!$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
-    .string "{PLAYER} received a NUGGET\n"
-    .string "from the mystery TRAINER!$"
+    .string "{PLAYER} gizemli EĞİTMEN'den\n"
+    .string "bir KÜLÇE kazandı!$"
 
 Route24_Text_YouDontHaveAnyRoom::
-    .string "You don't have any room!$"
+    .string "Yer kalmamış!$"
 
 Route24_Text_JoinTeamRocket::
-    .string "By the way, how would you like to\n"
-    .string "join TEAM ROCKET?\p"
-    .string "We're a group of professional\n"
-    .string "criminals specializing in POKéMON!\p"
-    .string "Want to join?\p"
-    .string "Are you sure?\p"
-    .string "Come on, join us!\p"
-    .string "I'm telling you to join!\p"
-    .string "…Okay, you need convincing!\p"
-    .string "I'll make you an offer you can't\n"
-    .string "refuse!$"
+    .string "Ayrıca, ROKET TAKIMI'na katılmak\n"
+    .string "ister misin?\p"
+    .string "Biz profesyonel POKéMON\n"
+    .string "suçlularından oluşan bir grubuz!\p"
+    .string "Katılmak ister misin?\p"
+    .string "Emin misin?\p"
+    .string "Gel, bize katıl!\p"
+    .string "Katılmanı söylüyorum!\p"
+    .string "…Tamam, ikna etmem gerek!\p"
+    .string "Reddedemeyeceğin bir\n"
+    .string "teklif sunacağım!$"
 
 Route24_Text_RocketDefeat::
-    .string "Arrgh!\n"
-    .string "You are good!$"
+    .string "Ayy!\n"
+    .string "İyiymişsin!$"
 
 Route24_Text_YoudBecomeTopRocketLeader::
-    .string "With your ability, you'd become\n"
-    .string "a top leader in TEAM ROCKET.\p"
-    .string "Come on, think of the opportunity!\n"
-    .string "Don't let this chance go to waste.$"
+    .string "Yeteneklerinle, ROKET TAKIMI'nda\n"
+    .string "üst düzey bir lidere dönüşürsün.\p"
+    .string "Fırsatı düşün! Bu şansı kaçırma!$"
 
 Route24_Text_ShaneIntro::
-    .string "I saw your feat from the grass!$"
+    .string "Başarılarını çimlerden izledim!$"
 
 Route24_Text_ShaneDefeat::
-    .string "I thought not!$"
+    .string "Böyle olacağını biliyordum!$"
 
 Route24_Text_ShanePostBattle::
-    .string "I hid because the people on the\n"
-    .string "bridge frightened me.$"
+    .string "Köprüdeki insanlar beni korkuttu.$"
 
 Route24_Text_EthanIntro::
-    .string "Okay! I'm No. 5!\n"
-    .string "I'll stomp you!$"
+    .string "Tamam! Ben 5 numarayım!\n"
+    .string "Seni ezeceğim!$"
 
 Route24_Text_EthanDefeat::
-    .string "Whoa!\n"
-    .string "Too much!$"
+    .string "Vay canına!\n"
+    .string "Çok fazla!$"
 
 Route24_Text_EthanPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "Elimden geleni yaptım,\n"
+    .string "pişman değilim!$"
 
 Route24_Text_ReliIntro::
-    .string "I'm No. 4!\n"
-    .string "Getting tired?$"
+    .string "Ben 4 numarayım!\n"
+    .string "Yoruluyor musun?$"
 
 Route24_Text_ReliDefeat::
-    .string "I lost, too!$"
+    .string "Ben de kaybettim!$"
 
 Route24_Text_ReliPostBattle::
-    .string "I did my best, so I've no regrets!$"
+    .string "Elimden geleni yaptım,\n"
+    .string "pişman değilim!$"
 
 Route24_Text_TimmyIntro::
-    .string "Here's No. 3!\n"
-    .string "I won't be easy!$"
+    .string "3 numara burada!\n"
+    .string "Kolay olmayacak!$"
 
 Route24_Text_TimmyDefeat::
-    .string "Ow!\n"
-    .string "Stomped flat!$"
+    .string "Auv!\n"
+    .string "Beni ezip geçtin!$"
 
 Route24_Text_TimmyPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "Elimden geleni yaptım,\n"
+    .string "pişman değilim!$"
 
 Route24_Text_AliIntro::
-    .string "I'm second!\n"
-    .string "Now it's serious!$"
+    .string "Ben ikincisiyim!\n"
+    .string "Şimdi işler ciddileşiyor!$"
 
 Route24_Text_AliDefeat::
-    .string "How could I lose?$"
+    .string "Nasıl kaybettim?$"
 
 Route24_Text_AliPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "Elimden geleni yaptım,\n"
+    .string "pişman değilim!$"
 
 Route24_Text_CaleIntro::
-    .string "People call this the NUGGET\n"
-    .string "BRIDGE!\p"
-    .string "Beat us five TRAINERS and win\n"
-    .string "a fabulous prize!\p"
-    .string "Think you got what it takes?$"
+    .string "İnsanlar buna KÜLÇE\n"
+    .string "KÖPRÜSÜ diyor!\p"
+    .string "Beş EĞİTMEN'i yen ve muhteşem\n"
+    .string "bir ödül kazan!\p"
+    .string "Bunu yapabilecek misin?$"
 
 Route24_Text_CaleDefeat::
-    .string "Whoo!\n"
-    .string "Good stuff!$"
+    .string "Vay be!\n"
+    .string "İyi iş!$"
 
 Route24_Text_CalePostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "Elimden geleni yaptım,\n"
+    .string "pişman değilim!$"

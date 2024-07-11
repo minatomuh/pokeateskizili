@@ -1,54 +1,55 @@
 Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
-    .string "Okay, set six POKé BALLS in my\n"
-    .string "belt…\p"
-    .string "Yeah, that'll do it. At most, you\n"
-    .string "can have six POKéMON with you.$"
+    .string "Tamam, kemeri altı POKé TOPU ile\n"
+    .string "ayarla…\p"
+    .string "Evet, şimdi oldu. En fazla,\n"
+    .string "altı POKéMON'a sahip olabilirsin.$"
 
 Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean::
-    .string "TEAM ROCKET attacks CERULEAN\n"
-    .string "citizens…\p"
-    .string "Not a day goes by without TEAM\n"
-    .string "ROCKET being in the news.$"
+    .string "ROKET TAKIMI, CERULEAN\n"
+    .string "vatandaşlarına saldırıyor…\p"
+    .string "ROKET TAKIMI'in haberlerde olmadığı\n"
+    .string "gün yok gibi.$"
 
 Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500::
-    .string "MAN: Hello there, laddie!\n"
-    .string "Have I got a deal just for you!\p"
-    .string "I'll let you have a secret POKéMON\n"
-    .string "- a MAGIKARP - for just ¥500!\p"
-    .string "So, you'll buy it, am I right?$"
+    .string "ADAM: Merhaba delikanlı!\n"
+    .string "Sana özel bir fırsat sunuyorum!\p"
+    .string "Sana gizli bir POKéMON'u sadece\n"
+    .string "¥500'e vereceğim - bir MAGIKARP!\p"
+    .string "Öyleyse, alacaksın, değil mi?$"
 
 Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500::
-    .string "MAN: Hello there, sweetie pie!\n"
-    .string "Have I got a deal just for you!\p"
-    .string "I'll let you have a secret POKéMON\n"
-    .string "- a MAGIKARP - for just ¥500!\p"
-    .string "So, you'll buy it, am I right?$"
+    .string "ADAM: Merhaba tatlım!\n"
+    .string "Sana özel bir fırsat sunuyorum!\p"
+    .string "Sana gizli bir POKéMON'u sadece\n"
+    .string "¥500'e vereceğim - bir MAGIKARP!\p"
+    .string "Öyleyse, alacaksın, değil mi?$"
 
 Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp::
-    .string "{PLAYER} paid an outrageous ¥500\n"
-    .string "and bought the MAGIKARP…$"
+    .string "{PLAYER}, inanılmaz bir ¥500\n"
+    .string "ödeyerek MAGIKARP'ı aldı…$"
 
 Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYou::
-    .string "No? You say no? I'm only doing this\n"
-    .string "as a favor to you!$"
+    .string "Hayır mı? Hayır diyorsun? Sana bir\n"
+    .string "iyilik yapıyorum sadece!$"
 
 Route4_PokemonCenter_1F_Text_NoRoomForMorePokemon::
-    .string "There's no more room for any more\n"
-    .string "POKéMON, it looks like.$"
+    .string "Daha fazla POKéMON için yer\n"
+    .string "kalmamış gibi görünüyor.$"
 
 Route4_PokemonCenter_1F_Text_YoullNeedMoreMoney::
-    .string "You'll need more money than that!$"
+    .string "Daha fazla paraya ihtiyacın var!$"
 
 Route4_PokemonCenter_1F_Text_IDontGiveRefunds::
-    .string "MAN: Well, I don't give refunds.\n"
-    .string "You knew what you were getting!$"
+    .string "ADAM: Ben iade yapmam\n"
+    .string "Ne aldığını biliyordun!$"
 
 Route4_PokemonCenter_1F_Text_ShouldStoreMonsUsingPC::
-    .string "Sometimes, you'll have too many\n"
-    .string "POKéMON with you to add any more.\p"
-    .string "In that case, you should just\n"
-    .string "store some using any PC.$"
+    .string "Bazen, yanınızda çok fazla POKéMON\n"
+    .string "olacak ve daha fazla\l"
+    .string "ekleyemeyeceksin\p"
+    .string "Böyle bir durumda bazılarını\n"
+    .string "herhangi bir PC kullanarak\l"
+    .string "saklamalısın.$"
 
 Route4_PokemonCenter_1F_Text_ItsANewspaper::
-    .string "It's a newspaper.$"
-
+    .string "Bu bir gazete.$"
