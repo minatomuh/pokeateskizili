@@ -26,10 +26,10 @@ ViridianCity_Text_ExplainCaterpieWeedle::
     .string "yaralanmadığından emin olun.$"
 
 ViridianCity_Text_GrandpaHasntHadCoffeeYet::
-    .string "Oh, Dede!\n"
+    .string "Of, Dede!\n"
     .string "Bu kadar sert olma!\p"
     .string "Üzgünüm.\n"
-    .string "O hala kahvesini içemedi.$"
+    .string "O kahvesini henüz içemedi.$"
 
 ViridianCity_Text_GoShoppingInPewterOccasionally::
     .string "Bazen PEWTER ŞEHRİ'nde alışverişe\n"
@@ -38,9 +38,9 @@ ViridianCity_Text_GoShoppingInPewterOccasionally::
     .string "dönemeçli yolu kullanmam gerekiyor.$"
 
 ViridianCity_Text_ThisIsPrivateProperty::
-    .string "Buradan geçmeni kesinlikle\n"
+    .string "Buradan geçmeni katiyen\n"
     .string "yasaklıyorum!\p"
-    .string "Bu özel mülktür!$"
+    .string "Burası özel mülktür!$"
 
 ViridianCity_Text_ShowYouHowToCatchMons::
     .string "Eh, şimdi, kahvemi içtim ve\n"

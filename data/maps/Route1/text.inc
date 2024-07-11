@@ -16,8 +16,8 @@ Route1_Text_PutPotionAway::
     .string "EŞYA bölümüne koydu.$"
 
 Route1_Text_CanJumpFromLedges::
-    .string "Yol boyunca o çıkıntıları\ngörüyor musun?\p"
-    .string "Biraz korkutucu,\nama onlardan atlayabilirsin.\p"
+    .string "Yol boyunca uzanan çıkıntıları\ngörüyor musun?\p"
+    .string "Biraz korkutucu gelebilir\nama onlardan atlayabilirsin.\p"
     .string "Bu şekilde PALLET KASABASI'na daha\n"
     .string "hızlı geri dönebilirsin.$"
 

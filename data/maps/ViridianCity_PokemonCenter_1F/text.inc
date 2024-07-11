@@ -1,7 +1,7 @@
 ViridianCity_PokemonCenter_1F_Text_FeelFreeToUsePC::
     .string "Köşedeki bilgisayarı\n"
     .string "kullanmaktan çekinmeyin!\p"
-    .string "Resepsiyonist söyledi.\n"
+    .string "Resepsiyonist böyle söyledi.\n"
     .string "Çok nazik bir hanımefendi!$"
 
 ViridianCity_PokemonCenter_1F_Text_PokeCenterInEveryTown::
