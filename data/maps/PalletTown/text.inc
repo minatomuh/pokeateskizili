@@ -17,8 +17,7 @@ PalletTown_Text_RaisingMonsToo::
 PalletTown_Text_CanStoreItemsAndMonsInPC::
     .string "Teknoloji bir harika!\p"
     .string "Artık eşyalarını ve POKéMON'ları\n"
-    .string "PC'den veri olarak\l"
-    .string "aktarabiliyorsun.$"
+    .string "PC'den veri olarak aktarabiliyorsun.$"
 
 PalletTown_Text_OakPokemonResearchLab::
     .string "OAK POKéMON ARAŞTIRMA LABORATUVARI$"

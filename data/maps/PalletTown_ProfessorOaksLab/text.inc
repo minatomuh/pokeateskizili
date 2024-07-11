@@ -43,8 +43,8 @@ Text_RivalVictory::
 .string "Harika değil miyim?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoToughenMyMon::
-.string "{RIVAL}: Tamam! POKéMON'umu\n"
-.string "güçlendirmek için savaşacağım!\p"
+.string "{RIVAL}: Tamam! POKéMON'umu daha\n"
+.string "da güçlendirmek için savaşacağım!\p"
 .string "{PLAYER}! Dede!\n"
 .string "Sonra görüşürüz!$"
 
@@ -73,8 +73,8 @@ PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap::
 PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne::
 .string "OAK: {RIVAL}?\n"
 .string "Bir düşünelim…\p"
-.string "Oh, doğru.\nSana gelmeni ben söyledim!\p"
-.string "Dur, {PLAYER}.\p"
+.string "Ah, doğru.\nSana gelmeni ben söyledim!\p"
+.string "Şimdi, {PLAYER}.\p"
 .string "Burada üç POKéMON var.\p"
 .string "Haha!\p"
 .string "POKéMON'lar bu POKé TOPLARININ\n"
@@ -98,28 +98,28 @@ PalletTown_ProfessorOaksLab_Text_OakWhichOneWillYouChoose::
 
 PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYet::
 .string "OAK: Hey!\n"
-.string "Henüz gitme!$"
+.string "POKéMON'unu seçmeden gitme!$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander::
-.string "Ah! Sen CHARMANDER'ı seçtin.\n"
+.string "Ah! CHARMANDER'ı seçiyorsun.\n"
 .string "Onu sabırla eğitmelisin.\p"
-.string "Öyleyse, {PLAYER}, sen ATEŞ\n"
-.string "POKéMON'u CHARMANDER'ı mı seçtin?$"
+.string "Öyleyse, {PLAYER}, ATEŞ POKéMON'u\n"
+.string "CHARMANDER'ı mı seçiyorsun?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtle::
-.string "Hm! Sen SQUIRTLE'ı seçtin.\n"
+.string "Hm! SQUIRTLE'ı seçiyorsun.\n"
 .string "Onu eğitmeye değer.\p"
-.string "Öyleyse, {PLAYER}, sen SU\n"
-.string "POKéMON'u SQUIRTLE'ı mı seçtin?$"
+.string "Öyleyse, {PLAYER}, SU POKéMON'u\n"
+.string "SQUIRTLE'ı mı seçiyorsun?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingBulbasaur::
-.string "Anladım! Sen BULBASAUR'ı seçtin.\n"
+.string "Anladım! BULBASAUR'ı seçiyorsun.\n"
 .string "Onu eğitmesi kolaydır.\p"
-.string "Öyleyse, {PLAYER}, sen ÇİMEN\n"
-.string "POKéMON'u BULBASAUR'ı mı seçtin?$"
+.string "Öyleyse, {PLAYER}, ÇİMEN POKéMON'u\n"
+.string "BULBASAUR'ı mı seçiyorsun?$"
 
 PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic::
-.string "Bu POKéMON çok enerjik!$"
+.string "Bu POKéMON çok enerjiktir!$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedMonFromOak::
 .string "{PLAYER} PROF. OAK'tan {STR_VAR_1}\n"
@@ -259,8 +259,8 @@ PalletTown_ProfessorOaksLab_Text_EmailMessage::
     .string "güçlü olduğunu gör!\p"
     .string "POKéMON LİGİ HQ\n"
     .string "INDIGO PLATEAU\p"
-    .string "PROF., lütfen bizi ziyaret edin!\n"
-    .string "…$"
+    .string "PROF. OAK, lütfen bizi ziyaret\n"
+    .string "edin! …$"
 
 PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
     .string "Ben PROF. OAK'ın YARDIMCISI olarak\n"
@@ -269,8 +269,8 @@ PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
 PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
     .string "Merhaba, {PLAYER}. POKéMON'larınla\n"
     .string "iyi arkadaş olduğuna eminim.\p"
-    .string "Bu arada, DAISY hakkında\n"
-    .string "biliyor muydun?\p"
+    .string "Bu arada, DAISY'i tanıyor\n"
+    .string "muydun?\p"
     .string "Eğer DAISY'ye POKéMON'unu\n"
     .string "gösterirsen, onun ne kadar\n"
     .string "seni sevdiğini söyleyebilir.\p"
