@@ -1,714 +1,1776 @@
 #include "global.h"
 #include "constants/moves.h"
 
-const u8 gMoveDescription_Pound[] = _("A physical attack\ndelivered with a\nlong tail or a\nforeleg, etc.");
-const u8 gMoveDescription_KarateChop[] = _("The foe is attacked\nwith a sharp chop.\nIt has a high\ncritical-hit ratio.");
-const u8 gMoveDescription_DoubleSlap[] = _("The foe is slapped\nrepeatedly, back\nand forth, two to\nfive times.");
-const u8 gMoveDescription_CometPunch[] = _("The foe is hit with\na flurry of punches\nthat strike two to\nfive times.");
-const u8 gMoveDescription_MegaPunch[] = _("The foe is slugged\nby a punch thrown\nwith muscle-packed\npower.");
-const u8 gMoveDescription_PayDay[] = _("Numerous coins are\nhurled at the foe.\nMoney is earned\nafter battle.");
-const u8 gMoveDescription_FirePunch[] = _("The foe is punched\nwith a fiery fist.\nIt may leave the\nfoe with a burn.");
-const u8 gMoveDescription_IcePunch[] = _("The foe is punched\nwith an icy fist.\nIt may leave the\nfoe frozen.");
-const u8 gMoveDescription_ThunderPunch[] = _("The foe is punched\nwith an electrified\nfist. It may leave\nthe foe paralyzed.");
-const u8 gMoveDescription_Scratch[] = _("Hard, pointed, and\nsharp claws rake\nthe foe.");
-const u8 gMoveDescription_ViceGrip[] = _("Huge, impressive\npincers grip and\nsqueeze the foe.");
-const u8 gMoveDescription_Guillotine[] = _("A vicious tearing\nattack with pincers.\nThe foe will faint\nif it hits.");
-const u8 gMoveDescription_RazorWind[] = _("Blades of wind hit\nthe foe on the 2nd\nturn. It has a high\ncritical-hit ratio.");
-const u8 gMoveDescription_SwordsDance[] = _("A frenetic dance of\nfighting. It sharply\nraises the ATTACK\nstat.");
-const u8 gMoveDescription_Cut[] = _("A basic attack.\nIt can be used to\ncut down thin trees\nand grass.");
-const u8 gMoveDescription_Gust[] = _("Strikes the foe\nwith a gust of wind\nwhipped up by\nwings.");
-const u8 gMoveDescription_WingAttack[] = _("The foe is struck\nwith large, imposing\nwings spread wide.");
-const u8 gMoveDescription_Whirlwind[] = _("The foe is made to\nswitch out with an\nally. In the wild,\nthe battle ends.");
-const u8 gMoveDescription_Fly[] = _("A 2-turn move that\nhits on the 2nd\nturn. Use it to fly\nto any known town.");
-const u8 gMoveDescription_Bind[] = _("A long body or\ntentacles are used\nto bind the foe for\ntwo to five turns.");
-const u8 gMoveDescription_Slam[] = _("The foe is struck\nwith a long tail,\nvines, etc.");
-const u8 gMoveDescription_VineWhip[] = _("The foe is struck\nwith slender, whip-\nlike vines.");
-const u8 gMoveDescription_Stomp[] = _("The foe is stomped\nwith a big foot.\nIt may make the\nfoe flinch.");
-const u8 gMoveDescription_DoubleKick[] = _("Two legs are used\nto quickly kick the\nfoe twice in one\nturn.");
-const u8 gMoveDescription_MegaKick[] = _("The foe is attacked\nby a kick fired\nwith muscle-packed\npower.");
-const u8 gMoveDescription_JumpKick[] = _("The user jumps up\nhigh, then kicks.\nIf it misses, the\nuser hurts itself.");
-const u8 gMoveDescription_RollingKick[] = _("A quick kick from a\nrolling spin.\nIt may make the\nfoe flinch.");
-const u8 gMoveDescription_SandAttack[] = _("A lot of sand is\nhurled in the foe's\nface, reducing its\naccuracy.");
-const u8 gMoveDescription_Headbutt[] = _("The user sticks its\nhead out and rams.\nIt may make the\nfoe flinch.");
-const u8 gMoveDescription_HornAttack[] = _("The foe is jabbed\nwith a sharply\npointed horn to\ninflict damage.");
-const u8 gMoveDescription_FuryAttack[] = _("The foe is jabbed\nrepeatedly with a\nhorn or beak two to\nfive times.");
-const u8 gMoveDescription_HornDrill[] = _("The horn is rotated\nlike a drill to ram.\nThe foe will faint\nif it hits.");
-const u8 gMoveDescription_Tackle[] = _("A physical attack\nin which the user\ncharges, full body,\ninto the foe.");
-const u8 gMoveDescription_BodySlam[] = _("The user drops its\nfull body on the\nfoe. It may leave\nthe foe paralyzed.");
-const u8 gMoveDescription_Wrap[] = _("A long body or\nvines are used to\nwrap the foe for\ntwo to five turns.");
-const u8 gMoveDescription_TakeDown[] = _("A reckless, full-\nbody charge attack\nthat also hurts the\nuser a little.");
-const u8 gMoveDescription_Thrash[] = _("The user rampages\nabout for two to\nthree turns, then\nbecomes confused.");
-const u8 gMoveDescription_DoubleEdge[] = _("A reckless, life-\nrisking tackle that\nalso hurts the user\na little.");
-const u8 gMoveDescription_TailWhip[] = _("The user wags its\ntail cutely, making\nthe foe lower its\nDEFENSE stat.");
-const u8 gMoveDescription_PoisonSting[] = _("The foe is stabbed\nwith a toxic barb,\netc. It may poison\nthe foe.");
-const u8 gMoveDescription_Twineedle[] = _("The foe is stabbed\ntwice with foreleg\nstingers. It may\npoison the foe.");
-const u8 gMoveDescription_PinMissile[] = _("Sharp pins are shot\nat the foe and hit\ntwo to five times\nat once.");
-const u8 gMoveDescription_Leer[] = _("The foe is given an\nintimidating look\nthat lowers its\nDEFENSE stat.");
-const u8 gMoveDescription_Bite[] = _("The user bites with\nvicious fangs.\nIt may make the\nfoe flinch.");
-const u8 gMoveDescription_Growl[] = _("The user growls in\na cute way, making\nthe foe lower its\nATTACK stat.");
-const u8 gMoveDescription_Roar[] = _("The foe is made to\nswitch out with an\nally. In the wild,\nthe battle ends.");
-const u8 gMoveDescription_Sing[] = _("A soothing song\nin a calming voice\nlulls the foe into\na deep slumber.");
-const u8 gMoveDescription_Supersonic[] = _("The user generates\nodd sound waves.\nIt may confuse the\nfoe.");
-const u8 gMoveDescription_SonicBoom[] = _("The foe is hit with\na shock wave that\nalways inflicts 20-\nHP damage.");
-const u8 gMoveDescription_Disable[] = _("For a few turns,\nit prevents the foe\nfrom using the move\nit last used.");
-const u8 gMoveDescription_Acid[] = _("The foe is sprayed\nwith a harsh, hide-\nmelting acid that\nmay lower DEFENSE.");
-const u8 gMoveDescription_Ember[] = _("The foe is attacked\nwith small flames.\nThe foe may suffer\na burn.");
-const u8 gMoveDescription_Flamethrower[] = _("The foe is scorched\nwith intense flames.\nThe foe may suffer\na burn.");
-const u8 gMoveDescription_Mist[] = _("The ally party is\nprotected by a\nmist that prevents\nstat reductions.");
-const u8 gMoveDescription_WaterGun[] = _("The foe is struck\nwith a lot of water\nexpelled forcibly\nfrom the mouth.");
-const u8 gMoveDescription_HydroPump[] = _("A high volume of\nwater is blasted at\nthe foe under great\npressure.");
-const u8 gMoveDescription_Surf[] = _("A big wave crashes\ndown on the foe.\nCan also be used\nfor crossing water.");
-const u8 gMoveDescription_IceBeam[] = _("The foe is struck\nwith an icy beam.\nIt may freeze the\nfoe solid.");
-const u8 gMoveDescription_Blizzard[] = _("The foe is blasted\nwith a blizzard.\nIt may freeze the\nfoe solid.");
-const u8 gMoveDescription_Psybeam[] = _("A peculiar ray is\nshot at the foe.\nIt may leave the\nfoe confused.");
-const u8 gMoveDescription_BubbleBeam[] = _("A spray of bubbles\nstrikes the foe.\nIt may lower the\nfoe's SPEED stat.");
-const u8 gMoveDescription_AuroraBeam[] = _("A rainbow-colored\nattack beam.\nIt may lower the\nfoe's ATTACK stat.");
-const u8 gMoveDescription_HyperBeam[] = _("A severely damaging\nattack that makes\nthe user rest on\nthe next turn.");
-const u8 gMoveDescription_Peck[] = _("The foe is jabbed\nwith a sharply\npointed beak or\nhorn.");
-const u8 gMoveDescription_DrillPeck[] = _("A corkscrewing\nattack with the\nsharp beak acting\nas a drill.");
-const u8 gMoveDescription_Submission[] = _("A reckless, full-\nbody throw attack\nthat also hurts the\nuser a little.");
-const u8 gMoveDescription_LowKick[] = _("A low, tripping kick\nthat inflicts more\ndamage on heavier\nfoes.");
-const u8 gMoveDescription_Counter[] = _("A retaliation move\nthat counters any\nphysical hit with\ndouble the damage.");
-const u8 gMoveDescription_SeismicToss[] = _("A gravity-fed throw\nthat causes damage\nmatching the user's\nlevel.");
-const u8 gMoveDescription_Strength[] = _("The foe is slugged\nat maximum power.\nCan also be used\nto move boulders.");
-const u8 gMoveDescription_Absorb[] = _("An attack that\nabsorbs half the\ndamage it inflicted\nto restore HP.");
-const u8 gMoveDescription_MegaDrain[] = _("A tough attack that\ndrains half the\ndamage it inflicted\nto restore HP.");
-const u8 gMoveDescription_LeechSeed[] = _("A seed is planted\non the foe to steal\nsome HP for the \nuser on every turn.");
-const u8 gMoveDescription_Growth[] = _("The user's body is\nforced to grow,\nraising the SP.\nATK stat.");
-const u8 gMoveDescription_RazorLeaf[] = _("The foe is hit with\na cutting leaf.\nIt has a high\ncritical-hit ratio.");
-const u8 gMoveDescription_SolarBeam[] = _("A 2-turn move that\nblasts the foe with\nabsorbed energy in\nthe 2nd turn.");
-const u8 gMoveDescription_PoisonPowder[] = _("A cloud of toxic\ndust is scattered.\nIt may poison the\nfoe.");
-const u8 gMoveDescription_StunSpore[] = _("Paralyzing dust is\nscattered wildly.\nIt may paralyze\nthe foe.");
-const u8 gMoveDescription_SleepPowder[] = _("A sleep-inducing\ndust is scattered\nin high volume\naround a foe.");
-const u8 gMoveDescription_PetalDance[] = _("The user attacks\nwith petals for two\nto three turns,\nthen gets confused.");
-const u8 gMoveDescription_StringShot[] = _("The foe is bound\nwith strings shot\nfrom the mouth to\nreduce its SPEED.");
-const u8 gMoveDescription_DragonRage[] = _("The foe is hit with\na shock wave that\nalways inflicts 40-\nHP damage.");
-const u8 gMoveDescription_FireSpin[] = _("The foe is trapped\nin an intense spiral\nof fire that rages\ntwo to five turns.");
-const u8 gMoveDescription_ThunderShock[] = _("An electric shock\nattack that may\nalso leave the foe\nparalyzed.");
-const u8 gMoveDescription_Thunderbolt[] = _("A strong electrical\nattack that may\nalso leave the foe\nparalyzed.");
-const u8 gMoveDescription_ThunderWave[] = _("A weak electric\nshock that is sure\nto cause paralysis\nif it hits.");
-const u8 gMoveDescription_Thunder[] = _("A brutal lightning\nattack that may\nalso leave the foe\nparalyzed.");
-const u8 gMoveDescription_RockThrow[] = _("The foe is attacked\nwith a shower of\nsmall, easily\nthrown rocks.");
-const u8 gMoveDescription_Earthquake[] = _("An earthquake that\nstrikes all POKéMON\nin battle excluding\nthe user.");
-const u8 gMoveDescription_Fissure[] = _("The foe is dropped\ninto a fissure.\nThe foe faints if it\nhits.");
-const u8 gMoveDescription_Dig[] = _("An attack that hits\non the 2nd turn.\nCan also be used\nto exit dungeons.");
-const u8 gMoveDescription_Toxic[] = _("A move that badly\npoisons the foe.\nIts poison damage\nworsens every turn.");
-const u8 gMoveDescription_Confusion[] = _("A weak telekinetic\nattack that may\nalso leave the foe\nconfused.");
-const u8 gMoveDescription_Psychic[] = _("A strong telekinetic\nattack. It may also\nlower the foe's\nSP. DEF stat.");
-const u8 gMoveDescription_Hypnosis[] = _("Hypnotic suggestion\nis used to make the\nfoe fall into a\ndeep sleep.");
-const u8 gMoveDescription_Meditate[] = _("The user meditates\nto awaken its power\nand raise its\nATTACK stat.");
-const u8 gMoveDescription_Agility[] = _("The user relaxes\nand lightens its\nbody to sharply\nboost its SPEED.");
-const u8 gMoveDescription_QuickAttack[] = _("An almost invisibly\nfast attack that\nis certain to strike\nfirst.");
-const u8 gMoveDescription_Rage[] = _("An attack that\nbecomes stronger\neach time the user\nis hit in battle.");
-const u8 gMoveDescription_Teleport[] = _("Use it to flee from\nany wild POKéMON.\nAlso warps to the\nlast POKé CENTER.");
-const u8 gMoveDescription_NightShade[] = _("An attack with a\nmirage that inflicts\ndamage matching\nthe user's level.");
-const u8 gMoveDescription_Mimic[] = _("The user copies the\nmove last used by\nthe foe for the\nrest of the battle.");
-const u8 gMoveDescription_Screech[] = _("An ear-splitting\nscreech is emitted\nto sharply reduce\nthe foe's DEFENSE.");
-const u8 gMoveDescription_DoubleTeam[] = _("The user creates\nillusory copies of\nitself to raise its\nevasiveness.");
-const u8 gMoveDescription_Recover[] = _("A self-healing move\nthat restores HP by\nup to half of the\nuser's maximum HP.");
-const u8 gMoveDescription_Harden[] = _("The user stiffens\nall the muscles in\nits body to raise\nits DEFENSE stat.");
-const u8 gMoveDescription_Minimize[] = _("The user compresses\nall the cells in its\nbody to raise its\nevasiveness.");
-const u8 gMoveDescription_Smokescreen[] = _("An obscuring cloud\nof smoke or ink\nreduces the foe's\naccuracy.");
-const u8 gMoveDescription_ConfuseRay[] = _("The foe is exposed\nto a sinister ray\nthat triggers\nconfusion.");
-const u8 gMoveDescription_Withdraw[] = _("The user withdraws\nits body in its hard\nshell, raising its\nDEFENSE stat.");
-const u8 gMoveDescription_DefenseCurl[] = _("The user curls up\nto conceal weak\nspots and raise its\nDEFENSE stat.");
-const u8 gMoveDescription_Barrier[] = _("The user creates a\nsturdy wall that\nsharply raises its\nDEFENSE stat.");
-const u8 gMoveDescription_LightScreen[] = _("A wall of light\ncuts damage from\nSP. ATK attacks\nfor five turns.");
-const u8 gMoveDescription_Haze[] = _("Eliminates all stat\nchanges among all\nPOKéMON engaged in\nbattle.");
-const u8 gMoveDescription_Reflect[] = _("A wall of light\ncuts damage from\nphysical attacks\nfor five turns.");
-const u8 gMoveDescription_FocusEnergy[] = _("The user takes a\ndeep breath and\nfocuses to raise its\ncritical-hit ratio.");
-const u8 gMoveDescription_Bide[] = _("The user endures\nattacks for two\nturns, then strikes\nback double.");
-const u8 gMoveDescription_Metronome[] = _("Waggles a finger\nand stimulates the\nbrain into using any\nmove at random.");
-const u8 gMoveDescription_MirrorMove[] = _("The user counters\nthe move last used\nby the foe with the\nsame move.");
-const u8 gMoveDescription_SelfDestruct[] = _("The user blows up\nto inflict severe\ndamage, even\nmaking itself faint.");
-const u8 gMoveDescription_EggBomb[] = _("A large egg is\nhurled with great\nforce at the foe to\ninflict damage.");
-const u8 gMoveDescription_Lick[] = _("The foe is licked\nand hit with a long\ntongue. It may\nalso paralyze.");
-const u8 gMoveDescription_Smog[] = _("The foe is attacked\nwith exhaust gases.\nIt may also poison\nthe foe.");
-const u8 gMoveDescription_Sludge[] = _("Toxic sludge is\nhurled at the foe.\nIt may poison the\ntarget.");
-const u8 gMoveDescription_BoneClub[] = _("The foe is clubbed\nwith a bone held in\nhand. It may make\nthe foe flinch.");
-const u8 gMoveDescription_FireBlast[] = _("The foe is hit with\nan intense flame.\nIt may leave the\ntarget with a burn.");
-const u8 gMoveDescription_Waterfall[] = _("A powerful charge\nattack. It can also\nbe used to climb\na waterfall.");
-const u8 gMoveDescription_Clamp[] = _("The foe is clamped\nand squeezed by\nthe user's shell for\ntwo to five turns.");
-const u8 gMoveDescription_Swift[] = _("Star-shaped rays\nthat never miss are\nfired at all foes in\nbattle.");
-const u8 gMoveDescription_SkullBash[] = _("The user raises its\nDEFENSE in the 1st\nturn, then attacks\nin the 2nd turn.");
-const u8 gMoveDescription_SpikeCannon[] = _("Sharp spikes are\nfired at the foe to\nstrike two to five\ntimes.");
-const u8 gMoveDescription_Constrict[] = _("The foe is attacked\nwith long tentacles\nor vines. It may\nlower SPEED.");
-const u8 gMoveDescription_Amnesia[] = _("Forgets about\nsomething and\nsharply raises\nSP. DEF.");
-const u8 gMoveDescription_Kinesis[] = _("The user distracts\nthe foe by bending\na spoon. It may\nlower accuracy.");
-const u8 gMoveDescription_SoftBoiled[] = _("Heals the user by\nup to half its full\nHP. It can be used\nto heal an ally.");
-const u8 gMoveDescription_HiJumpKick[] = _("A strong jumping\nknee kick. If it\nmisses, the user is\nhurt.");
-const u8 gMoveDescription_Glare[] = _("The user intimidates\nthe foe with the\ndesign on its belly\nto cause paralysis.");
-const u8 gMoveDescription_DreamEater[] = _("Absorbs half the\ndamage it inflicted\non a sleeping foe\nto restore HP.");
-const u8 gMoveDescription_PoisonGas[] = _("The foe is sprayed\nwith a cloud of\ntoxic gas that may\npoison the foe.");
-const u8 gMoveDescription_Barrage[] = _("Round objects are\nhurled at the foe\nto strike two to\nfive times.");
-const u8 gMoveDescription_LeechLife[] = _("An attack that\nabsorbs half the\ndamage it inflicted\nto restore HP.");
-const u8 gMoveDescription_LovelyKiss[] = _("The user forces a\nkiss on the foe\nwith a scary face\nthat induces sleep.");
-const u8 gMoveDescription_SkyAttack[] = _("A 2nd-turn attack\nmove with a high\ncritical-hit ratio.\nThe foe may flinch.");
-const u8 gMoveDescription_Transform[] = _("The user transforms\ninto a copy of the\nfoe with even the\nsame move set.");
-const u8 gMoveDescription_Bubble[] = _("A spray of bubbles\nhits the foe.\nIt may lower the\nfoe's SPEED stat.");
-const u8 gMoveDescription_DizzyPunch[] = _("The foe is hit with\na rhythmic punch\nthat may leave it\nconfused.");
-const u8 gMoveDescription_Spore[] = _("The user scatters\nbursts of fine\nspores that induce\nsleep.");
-const u8 gMoveDescription_Flash[] = _("A blast of light\nthat cuts the foe's\naccuracy. It also\nilluminates caves.");
-const u8 gMoveDescription_Psywave[] = _("The foe is attacked\nwith an odd, hot\nenergy wave that\nvaries in intensity.");
-const u8 gMoveDescription_Splash[] = _("The user just flops\nand splashes around\nwithout having any\neffect.");
-const u8 gMoveDescription_AcidArmor[] = _("The user alters its\ncells to liquefy\nitself and sharply\nraise DEFENSE.");
-const u8 gMoveDescription_Crabhammer[] = _("A large pincer is\nused to hammer the\nfoe. It has a high\ncritical-hit ratio.");
-const u8 gMoveDescription_Explosion[] = _("The user explodes\nto inflict terrible\ndamage even while\nfainting itself.");
-const u8 gMoveDescription_FurySwipes[] = _("The foe is raked\nwith sharp claws or\nscythes two to five\ntimes.");
-const u8 gMoveDescription_Bonemerang[] = _("The user throws a\nbone that hits the\nfoe once, then once\nagain on return.");
-const u8 gMoveDescription_Rest[] = _("The user sleeps for\ntwo turns to fully\nrestore HP and heal\nany status problem.");
-const u8 gMoveDescription_RockSlide[] = _("Large boulders are\nhurled at the foe.\nIt may make the\nfoe flinch.");
-const u8 gMoveDescription_HyperFang[] = _("The foe is attacked\nwith sharp fangs.\nIt may make the\nfoe flinch.");
-const u8 gMoveDescription_Sharpen[] = _("The user reduces\nits polygon count\nto sharpen edges\nand raise ATTACK.");
-const u8 gMoveDescription_Conversion[] = _("The user changes\nits type to match\nthe type of one of\nits moves.");
-const u8 gMoveDescription_TriAttack[] = _("A simultaneous\n3-beam attack that\nmay paralyze, burn,\nor freeze the foe.");
-const u8 gMoveDescription_SuperFang[] = _("The user attacks\nwith sharp fangs\nand halves the\nfoe's HP.");
-const u8 gMoveDescription_Slash[] = _("The foe is slashed\nwith claws, etc.\nIt has a high\ncritical-hit ratio.");
-const u8 gMoveDescription_Substitute[] = _("The user creates a\ndecoy using one-\nquarter of its full\nHP.");
-const u8 gMoveDescription_Struggle[] = _("An attack that is\nused only if there\nis no PP. It also\nhurts the user.");
-const u8 gMoveDescription_Sketch[] = _("This move copies\nthe move last used\nby the foe, then\ndisappears.");
-const u8 gMoveDescription_TripleKick[] = _("A 3-kick attack\nthat becomes more\npowerful with each\nsuccessive hit.");
-const u8 gMoveDescription_Thief[] = _("An attack that may\ntake the foe's held\nitem if the user\nisn't holding one.");
-const u8 gMoveDescription_SpiderWeb[] = _("Ensnares the foe \nwith sticky string\nso it doesn't flee\nor switch out.");
-const u8 gMoveDescription_MindReader[] = _("The user predicts\nthe foe's action to\nensure its next\nattack hits.");
-const u8 gMoveDescription_Nightmare[] = _("A sleeping foe is\nshown a nightmare\nthat inflicts some\ndamage every turn.");
-const u8 gMoveDescription_FlameWheel[] = _("The user makes a\nfiery charge at the\nfoe. It may cause\na burn.");
-const u8 gMoveDescription_Snore[] = _("An attack that can\nbe used only while\nasleep. It may\ncause flinching.");
-const u8 gMoveDescription_Curse[] = _("A move that works\ndifferently for the\nGHOST-type and all\nthe other types.");
-const u8 gMoveDescription_Flail[] = _("A desperate attack\nthat becomes more\npowerful the less\nHP the user has.");
-const u8 gMoveDescription_Conversion2[] = _("The user changes\ntype to make itself\nresistant to the\nlast attack it took.");
-const u8 gMoveDescription_Aeroblast[] = _("A vortex of air is\nshot at the foe.\nIt has a high\ncritical-hit ratio.");
-const u8 gMoveDescription_CottonSpore[] = _("Cotton-like spores\ncling to the foe,\nsharply reducing\nits SPEED stat.");
-const u8 gMoveDescription_Reversal[] = _("An all-out attack\nthat becomes more\npowerful the less\nHP the user has.");
-const u8 gMoveDescription_Spite[] = _("A move that cuts\n2 to 5 PP from the\nmove last used by\nthe foe.");
-const u8 gMoveDescription_PowderSnow[] = _("Blasts the foe with\na snowy gust.\nIt may cause\nfreezing.");
-const u8 gMoveDescription_Protect[] = _("Enables the user to\nevade all attacks.\nIt may fail if used\nin succession.");
-const u8 gMoveDescription_MachPunch[] = _("A punch thrown at\nblinding speed.\nIt is certain to\nstrike first.");
-const u8 gMoveDescription_ScaryFace[] = _("Frightens the foe\nwith a scary face\nto sharply reduce\nits SPEED.");
-const u8 gMoveDescription_FaintAttack[] = _("The user draws up\nclose to the foe\ndisarmingly, then\nhits without fail.");
-const u8 gMoveDescription_SweetKiss[] = _("The user kisses\nthe foe with sweet\ncuteness that\ncauses confusion.");
-const u8 gMoveDescription_BellyDrum[] = _("The user maximizes\nits ATTACK stat at\nthe cost of half\nits full HP.");
-const u8 gMoveDescription_SludgeBomb[] = _("Filthy sludge is\nhurled at the foe.\nIt may poison the\ntarget.");
-const u8 gMoveDescription_MudSlap[] = _("Mud is hurled in\nthe foe's face to\ninflict damage and\nlower its accuracy.");
-const u8 gMoveDescription_Octazooka[] = _("Ink is blasted in\nthe foe's face or\neyes to damage and\nlower accuracy.");
-const u8 gMoveDescription_Spikes[] = _("A trap of spikes is\nlaid around the\nfoe's party to hurt\nfoes switching in.");
-const u8 gMoveDescription_ZapCannon[] = _("An electric blast is\nfired like a cannon\nto inflict damage\nand paralyze.");
-const u8 gMoveDescription_Foresight[] = _("Completely negates\nthe foe's efforts to\nheighten its ability\nto evade.");
-const u8 gMoveDescription_DestinyBond[] = _("If the user faints,\nthe foe delivering\nthe final hit also\nfaints.");
-const u8 gMoveDescription_PerishSong[] = _("Any battler that\nhears this faints\nin three turns\nunless it switches.");
-const u8 gMoveDescription_IcyWind[] = _("A chilling wind is\nused to attack.\nIt also lowers the\nSPEED stat.");
-const u8 gMoveDescription_Detect[] = _("Enables the user to\nevade all attacks.\nIt may fail if used\nin succession.");
-const u8 gMoveDescription_BoneRush[] = _("The user strikes\nthe foe with a bone\nin hand two to five\ntimes.");
-const u8 gMoveDescription_LockOn[] = _("The user locks on\nto the foe, making\nthe next move sure\nto hit.");
-const u8 gMoveDescription_Outrage[] = _("The user thrashes\nabout for two to\nthree turns, then\nbecomes confused.");
-const u8 gMoveDescription_Sandstorm[] = _("A 5-turn sandstorm\nthat damages all\ntypes except ROCK,\nGROUND, and STEEL.");
-const u8 gMoveDescription_GigaDrain[] = _("A harsh attack that\nabsorbs half the\ndamage it inflicted\nto restore HP.");
-const u8 gMoveDescription_Endure[] = _("The user endures\nany hit with 1 HP\nleft. It may fail if\nused in succession.");
-const u8 gMoveDescription_Charm[] = _("The foe is charmed\nby the user's cute\nappeals, sharply\ncutting its ATTACK.");
-const u8 gMoveDescription_Rollout[] = _("A 5-turn rolling\nattack that becomes\nstronger each time\nit hits.");
-const u8 gMoveDescription_FalseSwipe[] = _("A restrained attack\nthat always leaves\nthe foe with at\nleast 1 HP.");
-const u8 gMoveDescription_Swagger[] = _("A move that makes\nthe foe confused,\nbut also sharply\nraises its ATTACK.");
-const u8 gMoveDescription_MilkDrink[] = _("Heals the user by\nup to half its full\nHP. It can be used\nto heal an ally.");
-const u8 gMoveDescription_Spark[] = _("An electrically\ncharged tackle that\nmay also paralyze\nthe foe.");
-const u8 gMoveDescription_FuryCutter[] = _("An attack that\ngrows stronger on\neach successive\nhit.");
-const u8 gMoveDescription_SteelWing[] = _("The foe is hit with\nwings of steel.\nIt may also raise\nthe user's DEFENSE.");
-const u8 gMoveDescription_MeanLook[] = _("The foe is fixed\nwith a mean look\nthat prevents it\nfrom escaping.");
-const u8 gMoveDescription_Attract[] = _("If it is the other\ngender, the foe is\nmade infatuated and\nunlikely to attack.");
-const u8 gMoveDescription_SleepTalk[] = _("While asleep, the\nuser randomly uses\none of the moves it\nknows.");
-const u8 gMoveDescription_HealBell[] = _("A soothing bell\nchimes to heal the\nstatus problems of\nall allies.");
-const u8 gMoveDescription_Return[] = _("This attack move\ngrows more powerful\nthe more the user\nlikes its TRAINER.");
-const u8 gMoveDescription_Present[] = _("The foe is given a\nbooby-trapped gift.\nIt restores HP\nsometimes, however.");
-const u8 gMoveDescription_Frustration[] = _("This attack move\ngrows more powerful\nthe less the user\nlikes its TRAINER.");
-const u8 gMoveDescription_Safeguard[] = _("It protects the\nuser's party from\nall status problems\nfor five turns.");
-const u8 gMoveDescription_PainSplit[] = _("The user adds its\nHP to the foe's HP,\nthen equally shares\nthe total HP.");
-const u8 gMoveDescription_SacredFire[] = _("A mystical and\npowerful fire\nattack that may\ninflict a burn.");
-const u8 gMoveDescription_Magnitude[] = _("A ground-shaking\nattack against all\nstanding POKéMON.\nIts power varies.");
-const u8 gMoveDescription_DynamicPunch[] = _("The foe is punched\nwith the user's full\npower. It confuses\nthe foe if it hits.");
-const u8 gMoveDescription_Megahorn[] = _("A brutal ramming\nattack delivered\nwith a tough and\nimpressive horn.");
-const u8 gMoveDescription_DragonBreath[] = _("The foe is hit with\nan incredible blast\nof breath that may\nalso paralyze.");
-const u8 gMoveDescription_BatonPass[] = _("The user switches\nout, passing along\nany stat changes\nto the new battler.");
-const u8 gMoveDescription_Encore[] = _("Makes the foe use\nthe move it last\nused repeatedly for\ntwo to six turns.");
-const u8 gMoveDescription_Pursuit[] = _("An attack move that\nworks especially\nwell on a foe that\nis switching out.");
-const u8 gMoveDescription_RapidSpin[] = _("An attack that\nfrees the user from\nBIND, WRAP, LEECH\nSEED, and SPIKES.");
-const u8 gMoveDescription_SweetScent[] = _("Allures the foe to\nreduce evasiveness.\nIt also attracts\nwild POKéMON.");
-const u8 gMoveDescription_IronTail[] = _("An attack with a\nsteel-hard tail.\nIt may lower the\nfoe's DEFENSE stat.");
-const u8 gMoveDescription_MetalClaw[] = _("The foe is attacked\nwith steel claws.\nIt may also raise\nthe user's ATTACK.");
-const u8 gMoveDescription_VitalThrow[] = _("Makes the user\nattack after the\nfoe. In return,\nit will not miss.");
-const u8 gMoveDescription_MorningSun[] = _("Restores the user's\nHP. The amount of\nHP regained varies\nwith the weather.");
-const u8 gMoveDescription_Synthesis[] = _("Restores the user's\nHP. The amount of\nHP regained varies\nwith the weather.");
-const u8 gMoveDescription_Moonlight[] = _("Restores the user's\nHP. The amount of\nHP regained varies\nwith the weather.");
-const u8 gMoveDescription_HiddenPower[] = _("An attack that\nvaries in type and\nintensity depending\non the user.");
-const u8 gMoveDescription_CrossChop[] = _("The foe is hit with\ndouble chops.\nIt has a high\ncritical-hit ratio.");
-const u8 gMoveDescription_Twister[] = _("A vicious twister\nattacks the foe.\nIt may make the\nfoe flinch.");
-const u8 gMoveDescription_RainDance[] = _("A heavy rain falls\nfor five turns,\npowering up WATER-\ntype moves.");
-const u8 gMoveDescription_SunnyDay[] = _("The sun blazes for\nfive turns, powering\nup FIRE-type\nmoves.");
-const u8 gMoveDescription_Crunch[] = _("The foe is crunched\nwith sharp fangs.\nIt may lower the\nfoe's SP. DEF.");
-const u8 gMoveDescription_MirrorCoat[] = _("A retaliation move\nthat pays back the\nfoe's special attack\ndouble.");
-const u8 gMoveDescription_PsychUp[] = _("The user hypnotizes\nitself into copying\nany stat change\nmade by the foe.");
-const u8 gMoveDescription_ExtremeSpeed[] = _("A blindingly speedy\ncharge attack that\nalways goes before\nany other.");
-const u8 gMoveDescription_AncientPower[] = _("An ancient power is\nused to attack. It\nmay also raise all\nthe user's stats.");
-const u8 gMoveDescription_ShadowBall[] = _("A shadowy blob is\nhurled at the foe.\nMay also lower the\nfoe's SP. DEF.");
-const u8 gMoveDescription_FutureSight[] = _("Two turns after\nthis move is used,\nthe foe is attacked\npsychically.");
-const u8 gMoveDescription_RockSmash[] = _("An attack that may\nalso cut DEFENSE.\nIt can also smash\ncracked boulders.");
-const u8 gMoveDescription_Whirlpool[] = _("The foe is trapped\nin a fast, vicious\nwhirlpool for two\nto five turns.");
-const u8 gMoveDescription_BeatUp[] = _("All party POKéMON\njoin in the attack.\nThe more allies,\nthe more damage.");
-const u8 gMoveDescription_FakeOut[] = _("An attack that hits\nfirst and causes\nflinching. Usable\nonly on 1st turn.");
-const u8 gMoveDescription_Uproar[] = _("The user attacks in\nan uproar that\nprevents sleep for\ntwo to five turns.");
-const u8 gMoveDescription_Stockpile[] = _("The user charges\nup power for use\nlater. It can be\nused three times.");
-const u8 gMoveDescription_SpitUp[] = _("The power built\nusing STOCKPILE is\nreleased at once\nfor attack.");
-const u8 gMoveDescription_Swallow[] = _("The energy it built\nusing STOCKPILE is\nabsorbed to restore\nHP.");
-const u8 gMoveDescription_HeatWave[] = _("The user exhales a\nheated breath to\nattack. It may also\ninflict a burn.");
-const u8 gMoveDescription_Hail[] = _("A hailstorm lasting\nfive turns damages\nall POKéMON except\nthe ICE-type.");
-const u8 gMoveDescription_Torment[] = _("It enrages the foe,\nmaking it incapable\nof using the same\nmove successively.");
-const u8 gMoveDescription_Flatter[] = _("Flattery is used to\nconfuse the foe,\nbut its SP. ATK\nalso rises.");
-const u8 gMoveDescription_WillOWisp[] = _("A sinister, bluish\nwhite flame is shot\nat the foe to\ninflict a burn.");
-const u8 gMoveDescription_Memento[] = _("The user faints,\nbut sharply lowers\nthe foe's ATTACK\nand SP. ATK.");
-const u8 gMoveDescription_Facade[] = _("An attack that is\nboosted if user is\nburned, poisoned,\nor paralyzed.");
-const u8 gMoveDescription_FocusPunch[] = _("An attack that is\nexecuted last.\nThe user flinches\nif hit beforehand.");
-const u8 gMoveDescription_SmellingSalt[] = _("Doubly effective on\na paralyzed foe,\nbut it also cures\nthe foe's paralysis.");
-const u8 gMoveDescription_FollowMe[] = _("The user draws\nattention to itself,\nmaking foes attack\nonly the user.");
-const u8 gMoveDescription_NaturePower[] = _("An attack that\nchanges type\ndepending on the\nuser's location.");
-const u8 gMoveDescription_Charge[] = _("The user charges\npower to boost the\nELECTRIC move it\nuses next.");
-const u8 gMoveDescription_Taunt[] = _("The foe is taunted\ninto a rage that\nallows it to use\nonly attack moves.");
-const u8 gMoveDescription_HelpingHand[] = _("A move that boosts\nthe power of the\nally's attack in a\nbattle.");
-const u8 gMoveDescription_Trick[] = _("A move that tricks\nthe foe into\ntrading held items\nwith the user.");
-const u8 gMoveDescription_RolePlay[] = _("The user mimics the\nfoe completely and\ncopies the foe's\nability.");
-const u8 gMoveDescription_Wish[] = _("A self-healing move\nthat restores half\nthe full HP on the\nnext turn.");
-const u8 gMoveDescription_Assist[] = _("The user randomly\npicks and uses a\nmove of an allied\nPOKéMON.");
-const u8 gMoveDescription_Ingrain[] = _("The user lays roots\nthat restore HP on\nevery turn.\nIt can't switch out.");
-const u8 gMoveDescription_Superpower[] = _("A powerful attack,\nbut it also lowers\nthe user's ATTACK\nand DEFENSE stats.");
-const u8 gMoveDescription_MagicCoat[] = _("Reflects back the\nfoe's LEECH SEED\nand any status-\ndamaging move.");
-const u8 gMoveDescription_Recycle[] = _("A move that\nrecycles a used\nitem for use once\nmore.");
-const u8 gMoveDescription_Revenge[] = _("An attack move that\ngains in intensity if\nthe target has hurt\nthe user.");
-const u8 gMoveDescription_BrickBreak[] = _("An attack that also\nbreaks any barrier\nlike LIGHT SCREEN\nand REFLECT.");
-const u8 gMoveDescription_Yawn[] = _("A huge yawn lulls\nthe foe into falling\nasleep on the next\nturn.");
-const u8 gMoveDescription_KnockOff[] = _("Knocks down the\nfoe's held item to\nprevent its use\nduring the battle.");
-const u8 gMoveDescription_Endeavor[] = _("Gains power the\nfewer HP the user\nhas compared with\nthe foe.");
-const u8 gMoveDescription_Eruption[] = _("The higher the\nuser's HP, the more\npowerful this\nattack becomes.");
-const u8 gMoveDescription_SkillSwap[] = _("The user employs\nits psychic power\nto swap abilities\nwith the foe.");
-const u8 gMoveDescription_Imprison[] = _("Prevents foes from\nusing any move\nthat is also known\nby the user.");
-const u8 gMoveDescription_Refresh[] = _("A self-healing move\nthat cures the user\nof a poisoning,\nburn, or paralysis.");
-const u8 gMoveDescription_Grudge[] = _("If the user faints,\nthis move deletes\nthe PP of the move\nthat finished it.");
-const u8 gMoveDescription_Snatch[] = _("Steals the effects\nof the foe's\nhealing or status-\nchanging move.");
-const u8 gMoveDescription_SecretPower[] = _("An attack that may\nhave an additional\neffect that varies\nwith the terrain.");
-const u8 gMoveDescription_Dive[] = _("The user dives\nunderwater on the\nfirst turn and\nstrikes next turn.");
-const u8 gMoveDescription_ArmThrust[] = _("A quick flurry of\nstraight-arm\npunches that hit\ntwo to five times.");
-const u8 gMoveDescription_Camouflage[] = _("Alters the user's\ntype depending on\nthe location's\nterrain.");
-const u8 gMoveDescription_TailGlow[] = _("The user flashes a\nlight that sharply\nraises its SP. ATK\nstat.");
-const u8 gMoveDescription_LusterPurge[] = _("A burst of light\ninjures the foe. It\nmay also lower the\nfoe's SP. DEF.");
-const u8 gMoveDescription_MistBall[] = _("A flurry of down\nhits the foe. It\nmay also lower the\nfoe's SP. ATK.");
-const u8 gMoveDescription_FeatherDance[] = _("The foe is covered\nwith a mass of down\nthat sharply cuts\nthe ATTACK stat.");
-const u8 gMoveDescription_TeeterDance[] = _("A wobbly dance\nthat confuses all\nthe POKéMON in\nbattle.");
-const u8 gMoveDescription_BlazeKick[] = _("A fiery kick with a\nhigh critical-hit\nratio. It may also\nburn the foe.");
-const u8 gMoveDescription_MudSport[] = _("Weakens ELECTRIC-\ntype attacks while\nthe user is in the\nbattle.");
-const u8 gMoveDescription_IceBall[] = _("A 5-turn rolling\nattack that becomes\nstronger each time\nit rolls.");
-const u8 gMoveDescription_NeedleArm[] = _("An attack using\nthorny arms.\nIt may make the\nfoe flinch.");
-const u8 gMoveDescription_SlackOff[] = _("The user slacks off\nand restores its HP\nby half its full\nHP.");
-const u8 gMoveDescription_HyperVoice[] = _("The user lets loose\na horribly loud\nshout with the\npower to damage.");
-const u8 gMoveDescription_PoisonFang[] = _("The foe is bitten\nwith toxic fangs.\nIt may also badly\npoison the foe.");
-const u8 gMoveDescription_CrushClaw[] = _("The foe is attacked\nwith sharp claws.\nIt may also lower\nthe foe's DEFENSE.");
-const u8 gMoveDescription_BlastBurn[] = _("The foe is hit with\na huge explosion.\nThe user can't move\non the next turn.");
-const u8 gMoveDescription_HydroCannon[] = _("The foe is hit with\na watery cannon.\nThe user can't move\non the next turn.");
-const u8 gMoveDescription_MeteorMash[] = _("The foe is hit with\na hard, fast punch.\nIt may also raise\nthe user's ATTACK.");
-const u8 gMoveDescription_Astonish[] = _("An attack using a\nstartling shout.\nIt also may make\nthe foe flinch.");
-const u8 gMoveDescription_WeatherBall[] = _("An attack that\nvaries in power and\ntype depending on\nthe weather.");
-const u8 gMoveDescription_Aromatherapy[] = _("A soothing scent is\nreleased to heal\nall status problems\nin the user's party.");
-const u8 gMoveDescription_FakeTears[] = _("The user feigns\ncrying to sharply\nlower the foe's\nSP. DEF stat.");
-const u8 gMoveDescription_AirCutter[] = _("The foe is hit with\nrazor-like wind.\nIt has a high\ncritical-hit ratio.");
-const u8 gMoveDescription_Overheat[] = _("An intense attack\nthat also sharply\nreduces the user's\nSP. ATK stat.");
-const u8 gMoveDescription_OdorSleuth[] = _("Completely negates\nthe foe's efforts to\nheighten its ability\nto evade.");
-const u8 gMoveDescription_RockTomb[] = _("Boulders are hurled\nat the foe. It also\nlowers the foe's\nSPEED if it hits.");
-const u8 gMoveDescription_SilverWind[] = _("The foe is attacked\nwith a silver dust.\nIt may raise all\nthe user's stats.");
-const u8 gMoveDescription_MetalSound[] = _("A horrible metallic\nscreech is used to\nsharply lower the\nfoe's SP. DEF.");
-const u8 gMoveDescription_GrassWhistle[] = _("A pleasant melody\nis played to lull\nthe foe into a deep\nsleep.");
-const u8 gMoveDescription_Tickle[] = _("The foe is made to\nlaugh, reducing its\nATTACK and DEFENSE\nstats.");
-const u8 gMoveDescription_CosmicPower[] = _("The user absorbs a\nmystic power to\nraise its DEFENSE\nand SP. DEF.");
-const u8 gMoveDescription_WaterSpout[] = _("The higher the\nuser's HP, the more\npowerful this\nattack becomes.");
-const u8 gMoveDescription_SignalBeam[] = _("The foe is hit with\na flashing beam\nthat may also\ncause confusion.");
-const u8 gMoveDescription_ShadowPunch[] = _("The user throws a\npunch from the\nshadows. It cannot\nbe evaded.");
-const u8 gMoveDescription_Extrasensory[] = _("The user attacks\nwith an odd power\nthat may make the\nfoe flinch.");
-const u8 gMoveDescription_SkyUppercut[] = _("The user attacks\nwith an uppercut\nthrown skywards\nwith force.");
-const u8 gMoveDescription_SandTomb[] = _("The foe is trapped\ninside a painful\nsandstorm for two\nto five turns.");
-const u8 gMoveDescription_SheerCold[] = _("The foe is attacked\nwith ultimate cold\nthat causes fainting\nif it hits.");
-const u8 gMoveDescription_MuddyWater[] = _("The user attacks\nwith muddy water.\nIt may also lower\nthe foe's accuracy.");
-const u8 gMoveDescription_BulletSeed[] = _("The user shoots\nseeds at the foe.\nTwo to five seeds\nare shot at once.");
-const u8 gMoveDescription_AerialAce[] = _("An extremely fast\nattack against one\ntarget. It can't be\nevaded.");
-const u8 gMoveDescription_IcicleSpear[] = _("Sharp icicles are\nfired at the foe.\nIt strikes two to\nfive times.");
-const u8 gMoveDescription_IronDefense[] = _("The user hardens\nits body's surface\nto sharply raise its\nDEFENSE stat.");
-const u8 gMoveDescription_Block[] = _("The user blocks the\nfoe's way with arms\nspread wide to\nprevent escape.");
-const u8 gMoveDescription_Howl[] = _("The user howls to\nraise its spirit and\nboost its ATTACK\nstat.");
-const u8 gMoveDescription_DragonClaw[] = _("Sharp, huge claws\nhook and slash the\nfoe quickly and\nwith great power.");
-const u8 gMoveDescription_FrenzyPlant[] = _("The foe is hit with\nan enormous branch.\nThe user can't move\non the next turn.");
-const u8 gMoveDescription_BulkUp[] = _("The user bulks up\nits body to boost\nboth its ATTACK and\nDEFENSE stats.");
-const u8 gMoveDescription_Bounce[] = _("The user bounces\non the foe on the\n2nd turn. It may\nparalyze the foe.");
-const u8 gMoveDescription_MudShot[] = _("The user attacks by\nhurling mud.\nIt also reduces the\nfoe's SPEED.");
-const u8 gMoveDescription_PoisonTail[] = _("An attack with a\nhigh critical-hit\nratio. It may also\npoison the foe.");
-const u8 gMoveDescription_Covet[] = _("A cutely executed\nattack that also\nsteals the foe's\nhold item.");
-const u8 gMoveDescription_VoltTackle[] = _("The user throws an\nelectrified tackle.\nIt hurts the user\na little.");
-const u8 gMoveDescription_MagicalLeaf[] = _("The foe is attacked\nwith a strange leaf\nthat cannot be\nevaded.");
-const u8 gMoveDescription_WaterSport[] = _("Weakens FIRE-type\nattacks while the\nuser is in the\nbattle.");
-const u8 gMoveDescription_CalmMind[] = _("The user focuses\nits mind to raise\nthe SP. ATK and\nSP. DEF stats.");
-const u8 gMoveDescription_LeafBlade[] = _("The foe is slashed\nwith a sharp leaf.\nIt has a high\ncritical-hit ratio.");
-const u8 gMoveDescription_DragonDance[] = _("A mystic, powerful\ndance that boosts\nthe user's ATTACK\nand SPEED stats.");
-const u8 gMoveDescription_RockBlast[] = _("The user hurls two\nto five hard rocks\nat the foe to\nattack.");
-const u8 gMoveDescription_ShockWave[] = _("A rapid jolt of\nelectricity strikes\nthe foe. It can't\nbe evaded.");
-const u8 gMoveDescription_WaterPulse[] = _("An attack with a\npulsing blast of\nwater. It may also\nconfuse the foe.");
-const u8 gMoveDescription_DoomDesire[] = _("A move that attacks\nthe foe with a\nblast of light two\nturns after use.");
-const u8 gMoveDescription_PsychoBoost[] = _("An intense attack\nthat also sharply\nreduces the user's\nSP. ATK stat.");
+const u8 gMoveDescription_Pound[] = _(
+    "Düşmanı ön ayaklarıyla ya\n"
+    "da kuyruğuyla döver.");
 
-const u8 *const gMoveDescriptionPointers[MOVES_COUNT - 1] = {
-    [MOVE_POUND         - 1] = gMoveDescription_Pound,
-    [MOVE_KARATE_CHOP   - 1] = gMoveDescription_KarateChop,
-    [MOVE_DOUBLE_SLAP   - 1] = gMoveDescription_DoubleSlap,
-    [MOVE_COMET_PUNCH   - 1] = gMoveDescription_CometPunch,
-    [MOVE_MEGA_PUNCH    - 1] = gMoveDescription_MegaPunch,
-    [MOVE_PAY_DAY       - 1] = gMoveDescription_PayDay,
-    [MOVE_FIRE_PUNCH    - 1] = gMoveDescription_FirePunch,
-    [MOVE_ICE_PUNCH     - 1] = gMoveDescription_IcePunch,
+const u8 gMoveDescription_KarateChop[] = _(
+    "Yüksek kritik oranına\n"
+    "sahip bir saldırı.");
+
+const u8 gMoveDescription_DoubleSlap[] = _(
+    "Düşmana 2 ila 5 kez\n"
+    "tokat atar.");
+
+const u8 gMoveDescription_CometPunch[] = _(
+    "Düşmana 2 ila 5 kez tekrar\n"
+    "tekrar yumruk atar.");
+
+const u8 gMoveDescription_MegaPunch[] = _(
+    "İnanılmaz bir güçle atılan\n"
+    "güçlü bir yumruk.");
+
+const u8 gMoveDescription_PayDay[] = _(
+    "Düşmana para fırlatır.\n"
+    "Para daha sonra alınır.");
+
+const u8 gMoveDescription_FirePunch[] = _(
+    "Düşmanı yakabilecek ateşli\n"
+    "bir yumruk.");
+
+const u8 gMoveDescription_IcePunch[] = _(
+    "Düşmanı dondurabilecek buz\n"
+    "gibi bir yumruk.");
+
+const u8 gMoveDescription_ThunderPunch[] = _(
+    "Düşmanı felç edebilecek\n"
+    "elektrikli bir yumruk.");
+
+const u8 gMoveDescription_Scratch[] = _(
+    "Düşmanı keskin\n"
+    "pençeleriyle tırmalar.");
+
+const u8 gMoveDescription_ViceGrip[] = _(
+    "Düşmanı büyük ve güçlü\n"
+    "kıskaçlarla kavrar.");
+
+const u8 gMoveDescription_Guillotine[] = _(
+    "Bayıltabilen bir kıskaç\n"
+    "saldırısı.");
+
+const u8 gMoveDescription_RazorWind[] = _(
+    "Düşmanı 2. turda vuran 2\n"
+    "turluk bir hamle.");
+
+const u8 gMoveDescription_SwordsDance[] = _(
+    "SALDIRIYI çokça yükselten\n"
+    "bir dövüş dansı.");
+
+const u8 gMoveDescription_Cut[] = _(
+    "Düşmanı keskin tırpanlarla,\n"
+    "pençelerle vb. keser.");
+
+const u8 gMoveDescription_Gust[] = _(
+    "Düşmana kanatlarından\n"
+    "çıkan bir rüzgarla vurur.");
+
+const u8 gMoveDescription_WingAttack[] = _(
+    "Düşmana kanatlarını\n"
+    "açarak saldırır.");
+
+const u8 gMoveDescription_Whirlwind[] = _(
+    "Düşmanı rüzgarla savurur\n"
+    "ve savaşı bitirir.");
+
+const u8 gMoveDescription_Fly[] = _(
+    "İlk dönüşte uçar, sonraki\n"
+    "dönüşte vurur.");
+
+const u8 gMoveDescription_Bind[] = _(
+    "Düşmanı 2 ila 5 tur boyunca\n"
+    "bağlar ve sıkıştırır.");
+
+const u8 gMoveDescription_Slam[] = _(
+    "Düşmanı uzun bir kuyruk,\n"
+    "asma vb. ile vurur.");
+
+const u8 gMoveDescription_VineWhip[] = _(
+    "Düşmana ince, kırbaç gibi\n"
+    "sarmaşıklarla vurur.");
+
+const u8 gMoveDescription_Stomp[] = _(
+    "Düşmanı büyük bir ayakla\n"
+    "ezer. Düşman ürkebilir.");
+
+const u8 gMoveDescription_DoubleKick[] = _(
+    "Düşmana iki kez vuran çift\n"
+    "tekme saldırısı.");
+
+const u8 gMoveDescription_MegaKick[] = _(
+    "Yoğun kuvvete sahip son\n"
+    "derece güçlü bir tekme.");
+
+const u8 gMoveDescription_JumpKick[] = _(
+    "Güçlü bir zıplama tekmesi.\n"
+    "Iskalayabilir.");
+
+const u8 gMoveDescription_RollingKick[] = _(
+    "Hızlı bir dönüşle atılan\n"
+    "hızlı bir tekme.");
+
+const u8 gMoveDescription_SandAttack[] = _(
+    "Düşmanın yüzüne kum fırlatır\n"
+    "ve kesinliği azaltır.");
+
+const u8 gMoveDescription_Headbutt[] = _(
+    "İrkilmeye neden olabilecek\n"
+    "bir vuruş saldırısı.");
+
+const u8 gMoveDescription_HornAttack[] = _(
+    "Düşmana keskin boynuzlarla\n"
+    "vurur.");
+
+const u8 gMoveDescription_FuryAttack[] = _(
+    "Düşmana keskin boynuzlarla\n"
+    "2 ila 5 kez vurur, vb.");
+
+const u8 gMoveDescription_HornDrill[] = _(
+    "Tek vuruşta nakavt edebilen\n"
+    "bir boynuz saldırısı.");
+
+const u8 gMoveDescription_Tackle[] = _(
+    "Düşmana tüm vücudu\n"
+    "kullanarak saldırır.");
+
+const u8 gMoveDescription_BodySlam[] = _(
+    "Felce neden olabilecek bir\n"
+    "tüm vücut vuruşu.");
+
+const u8 gMoveDescription_Wrap[] = _(
+    "Düşmanı sarmaşıklar ile\n"
+    "2 ila 5 kez sıkıştırır.");
+
+const u8 gMoveDescription_TakeDown[] = _(
+    "Kullanıcıya da zarar veren\n"
+    "bir hücum saldırısı.");
+
+const u8 gMoveDescription_Thrash[] = _(
+    "Kullanıcı kafasını karıştıran\n"
+    "2 ila 3 turluk bir saldırı.");
+
+const u8 gMoveDescription_DoubleEdge[] = _(
+    "Kullanıcıya da zarar veren,\n"
+    "riskli bir saldırı.");
+
+const u8 gMoveDescription_TailWhip[] = _(
+    "Düşmanın SAVUNMASINI\n"
+    "düşürmek için kuyruk sallar.");
+
+const u8 gMoveDescription_PoisonSting[] = _(
+    "Zehirleyebilecek dikenler\n"
+    "ile zehirli bir saldırı.");
+
+const u8 gMoveDescription_Twineedle[] = _(
+    "Ön ayaklardaki iğneler\n"
+    "düşmana iki kez vurur.");
+
+const u8 gMoveDescription_PinMissile[] = _(
+    "Keskin iğneler 2 ila 5 kez\n"
+    "vurulmak üzere ateşlenir.");
+
+const u8 gMoveDescription_Leer[] = _(
+    "SAVUNMAYI düşürmek için bir\n"
+    "bakışla düşmanı korkutur.");
+
+const u8 gMoveDescription_Bite[] = _(
+    "Vahşi dişlerle ısırır.\n"
+    "İrkilmeye neden olabilir.");
+
+const u8 gMoveDescription_Growl[] = _(
+    "Düşman SALDIRISI azaltmak\n"
+    "için sevimli şekilde hırlar.");
+
+const u8 gMoveDescription_Roar[] = _(
+    "Düşmanın savaşı bitirmek\n"
+    "için kaçmasını sağlar.");
+
+const u8 gMoveDescription_Sing[] = _(
+    "Sakinleştirici şarkısı,\n"
+    "düşmanı uykuya daldırır.");
+
+const u8 gMoveDescription_Supersonic[] = _(
+    "Kafa karıştırabilecek tuhaf\n"
+    "ses dalgaları yayar.");
+
+const u8 gMoveDescription_SonicBoom[] = _(
+    "Her zaman 20 CAN hasar veren\n"
+    "şok dalgaları fırlatır.");
+
+const u8 gMoveDescription_Disable[] = _(
+    "Düşman saldırılarından birini\n"
+    "psişik olarak engeller.");
+
+const u8 gMoveDescription_Acid[] = _(
+    "Deriyi eriten bir asit\n"
+    "püskürtür. SVN düşürebilir.");
+
+const u8 gMoveDescription_Ember[] = _(
+    "Yanıklara yol açabilen\n"
+    "zayıf bir ateş saldırısı.");
+
+const u8 gMoveDescription_Flamethrower[] = _(
+    "Yanıklara neden olabilen\n"
+    "güçlü bir ateş saldırısı.");
+
+const u8 gMoveDescription_Mist[] = _(
+    "Yeteneklerin azalmasını\n"
+    "durduran bir sis yaratır.");
+
+const u8 gMoveDescription_WaterGun[] = _(
+    "Düşmana saldırmak için su\n"
+    "fışkırtır.");
+
+const u8 gMoveDescription_HydroPump[] = _(
+    "Düşmana saldırmak için\n"
+    "yüksek güçte su püskürtür.");
+
+const u8 gMoveDescription_Surf[] = _(
+    "Büyük bir dalga yaratır,\n"
+    "sonra düşman üzerine çökertir.");
+
+const u8 gMoveDescription_IceBeam[] = _(
+    "Düşmanı dondurabilecek\n"
+    "buzlu bir ışınla patlatır.");
+
+const u8 gMoveDescription_Blizzard[] = _(
+    "Düşmana onu dondurabilecek\n"
+    "buzlu bir fırtına ile vurur.");
+
+const u8 gMoveDescription_Psybeam[] = _(
+    "Kafa karıştırabilen özel\n"
+    "bir ışın yayar.");
+
+const u8 gMoveDescription_BubbleBeam[] = _(
+    "HIZI düşürebilen baloncuk\n"
+    "püskürtür.");
+
+const u8 gMoveDescription_AuroraBeam[] = _(
+    "SALDIRI azaltabilen gökkuşağı\n"
+    "renginde bir ışın fırlatır.");
+
+const u8 gMoveDescription_HyperBeam[] = _(
+    "Güçlüdür ama bir sonraki\n"
+    "turda hareketsiz bırakır.");
+
+const u8 gMoveDescription_Peck[] = _(
+    "Düşmana saplanan bir gaga\n"
+    "ile saldırır.");
+
+const u8 gMoveDescription_DrillPeck[] = _(
+    "Gaga, matkap görevi görerek\n"
+    "düşmana saplanır.");
+
+const u8 gMoveDescription_Submission[] = _(
+    "Kullanıcısına da zarar\n"
+    "veren bir vücut darbesi.");
+
+const u8 gMoveDescription_LowKick[] = _(
+    "Düşman ne kadar ağırsa o\n"
+    "kadar hasar veren bir saldırı.");
+
+const u8 gMoveDescription_Counter[] = _(
+    "Gelen fiziksel saldırılara\n"
+    "iki kat güçle karşılık verir.");
+
+const u8 gMoveDescription_SeismicToss[] = _(
+    "Kullanıcının seviyesine\n"
+    "eşit hasar verir.");
+
+const u8 gMoveDescription_Strength[] = _(
+    "Muazzam bir güç oluşturur,\n"
+    "sonra düşmanı çarpar.");
+
+const u8 gMoveDescription_Absorb[] = _(
+    "Verilen hasarın yarısını\n"
+    "emen bir saldırı.");
+
+const u8 gMoveDescription_MegaDrain[] = _(
+    "Verilen hasarın yarısını\n"
+    "emen bir saldırı.");
+
+const u8 gMoveDescription_LeechSeed[] = _(
+    "Her turda can çalmak için\n"
+    "düşmana bir tohum eker.");
+
+const u8 gMoveDescription_Growth[] = _(
+    "Vücudu büyümeye zorlar ve\n"
+    "ÖZ. SLD yükseltir.");
+
+const u8 gMoveDescription_RazorLeaf[] = _(
+    "Düşmanı yapraklarla keser.\n"
+    "Yüksek kritik vuruş oranı var.");
+
+const u8 gMoveDescription_SolarBeam[] = _(
+    "Bir turda ışığı emer,\n"
+    "sonraki turda saldırır.");
+
+const u8 gMoveDescription_PoisonPowder[] = _(
+    "Düşmanı zehirleyebilecek\n"
+    "zehirli bir toz saçar.");
+
+const u8 gMoveDescription_StunSpore[] = _(
+    "Düşmanı felç edebilecek bir\n"
+    "toz saçar.");
+
+const u8 gMoveDescription_SleepPowder[] = _(
+    "Düşmanın uyumasına neden\n"
+    "olabilecek bir toz saçar.");
+
+const u8 gMoveDescription_PetalDance[] = _(
+    "Kafa karıştıran 2 ila 3\n"
+    "turluk bir saldırı.");
+
+const u8 gMoveDescription_StringShot[] = _(
+    "Hızını azaltmak için\n"
+    "düşmanı iple bağlar.");
+
+const u8 gMoveDescription_DragonRage[] = _(
+    "Her zaman 40 can hasar veren\n"
+    "şok dalgaları fırlatır.");
+
+const u8 gMoveDescription_FireSpin[] = _(
+    "Düşmanı 2 ila 5 tur boyunca\n"
+    "ateş çemberi içine hapseder.");
+
+const u8 gMoveDescription_ThunderShock[] = _(
+    "Düşmanı felç edebilen bir\n"
+    "elektrik saldırısı.");
+
+const u8 gMoveDescription_Thunderbolt[] = _(
+    "Düşmanı felç edebilen güçlü\n"
+    "bir elektrik saldırısı.");
+
+const u8 gMoveDescription_ThunderWave[] = _(
+    "Düşmanı felç eden zayıf bir\n"
+    "elektrik sarsıntısı.");
+
+const u8 gMoveDescription_Thunder[] = _(
+    "Felce neden olabilecek bir\n"
+    "yıldırım saldırısı.");
+
+const u8 gMoveDescription_RockThrow[] = _(
+    "Düşmana vurmak için küçük\n"
+    "taşlar fırlatır.");
+
+const u8 gMoveDescription_Earthquake[] = _(
+    "Güçlü bir sarsıntı, ancak\n"
+    "havadakilere hiçbir etkisi yok.");
+
+const u8 gMoveDescription_Fissure[] = _(
+    "Düşmanı yarık içine düşüren\n"
+    "tek vuruşluk nakavt hareketi.");
+
+const u8 gMoveDescription_Dig[] = _(
+    "İlk turda yeraltını kazar\n"
+    "ve sonraki turda saldırır.");
+
+const u8 gMoveDescription_Toxic[] = _(
+    "Düşmanı zararlı bir\n"
+    "toksinle zehirler.");
+
+const u8 gMoveDescription_Confusion[] = _(
+    "Kafa karışıklığına neden\n"
+    "olabilecek bir saldırı.");
+
+const u8 gMoveDescription_Psychic[] = _(
+    "ÖZ. SVN'yı düşürebilen güçlü\n"
+    "bir psişik saldırı.");
+
+const u8 gMoveDescription_Hypnosis[] = _(
+    "Uykuya neden olabilecek\n"
+    "hipnotize edici bir hareket.");
+
+const u8 gMoveDescription_Meditate[] = _(
+    "SALDIRI'yı artırmak için\n"
+    "meditasyon yapar.");
+
+const u8 gMoveDescription_Agility[] = _(
+    "HIZI çokça artırmak için\n"
+    "vücudu rahatlatır.");
+
+const u8 gMoveDescription_QuickAttack[] = _(
+    "Her zaman ilk vuruşu yapan\n"
+    "hızlı bir saldırı.");
+
+const u8 gMoveDescription_Rage[] = _(
+    "Her vurulduğunda kullananın\n"
+    "SALDIRI gücünü artırır.");
+
+const u8 gMoveDescription_Teleport[] = _(
+    "Savaştan anında kaçmak\n"
+    "için psişik bir hareket.");
+
+const u8 gMoveDescription_NightShade[] = _(
+    "Kullanıcının seviyesine\n"
+    "eşit hasar verir.");
+
+const u8 gMoveDescription_Mimic[] = _(
+    "Savaş sırasında düşman\n"
+    "hareketini kopyalar.");
+
+const u8 gMoveDescription_Screech[] = _(
+    "Düşmanın SAVUNMASINI\n"
+    "azaltan bir çığlık yayar.");
+
+const u8 gMoveDescription_DoubleTeam[] = _(
+    "Kesinliği artırmak için\n"
+    "hayali kopyalar yaratır.");
+
+const u8 gMoveDescription_Recover[] = _(
+    "Kullananın maks. canının\n"
+    "yarısını iyileştirir.");
+
+const u8 gMoveDescription_Harden[] = _(
+    "Kasları sertleştirerek SAVUNMA\n"
+    "artırır.");
+
+const u8 gMoveDescription_Minimize[] = _(
+    "Kaçış kabiliyetini artırmak\n"
+    "için kullanıcıyı küçültür.");
+
+const u8 gMoveDescription_Smokescreen[] = _(
+    "Duman, mürekkep vb. ile\n"
+    "düşmanın isabetini düşürür.");
+
+const u8 gMoveDescription_ConfuseRay[] = _(
+    "Düşman kafasını karıştıran\n"
+    "bir ışın.");
+
+const u8 gMoveDescription_Withdraw[] = _(
+    "SAVUNMAYI artırmak için\n"
+    "vücudu kabuk içine çeker.");
+
+const u8 gMoveDescription_DefenseCurl[] = _(
+    "Zayıflığını gizlemek için\n"
+    "SVN artırır ve büzülür.");
+
+const u8 gMoveDescription_Barrier[] = _(
+    "SAVUNMAYI çokça yükselten\n"
+    "bir bariyer oluşturur.");
+
+const u8 gMoveDescription_LightScreen[] = _(
+    "ÖZ. SLD'yı düşüren bir ışık\n"
+    "duvarı oluşturur.");
+
+const u8 gMoveDescription_Haze[] = _(
+    "Tüm durum değişikliklerini\n"
+    "kaldıran bir pus yaratır.");
+
+const u8 gMoveDescription_Reflect[] = _(
+    "Fiziksel saldırıları\n"
+    "zayıflatan duvar yaratır.");
+
+const u8 gMoveDescription_FocusEnergy[] = _(
+    "Kritik oranını yükseltmek\n"
+    "için odaklanır.");
+
+const u8 gMoveDescription_Bide[] = _(
+    "İsabeti iki kat artırmak\n"
+    "için 2 tur dayanır.");
+
+const u8 gMoveDescription_Metronome[] = _(
+    "Parmak sallayarak rastgele\n"
+    "bir saldırı kullanır.");
+
+const u8 gMoveDescription_MirrorMove[] = _(
+    "Düşmanın saldırısını aynı\n"
+    "saldırı ile karşılar.");
+
+const u8 gMoveDescription_SelfDestruct[] = _(
+    "Ağır hasar verir ama\n"
+    "kullanıcıyı bayıltır.");
+
+const u8 gMoveDescription_EggBomb[] = _(
+    "Düşmana zorla bir yumurta\n"
+    "fırlatılır.");
+
+const u8 gMoveDescription_Lick[] = _(
+    "Uzun bir dille ısırır.\n"
+    "Felç edebilir.");
+
+const u8 gMoveDescription_Smog[] = _(
+    "Zehirleyebilecek bir egzoz\n"
+    "gazı saldırısı.");
+
+const u8 gMoveDescription_Sludge[] = _(
+    "Çamur fırlatır.\n"
+    "Ayrıca zehirleyebilir.");
+
+const u8 gMoveDescription_BoneClub[] = _(
+    "Düşmana bir kemikle vurur.\n"
+    "Ürkütebilir.");
+
+const u8 gMoveDescription_FireBlast[] = _(
+    "Vurduğu her şeyi yakar.\n"
+    "Yanıklara neden olabilir.");
+
+const u8 gMoveDescription_Waterfall[] = _(
+    "Şelalelere tırmanmak için\n"
+    "düşmana hızla hücum eder.");
+
+const u8 gMoveDescription_Clamp[] = _(
+    "Düşmanı 2 ila 5 tur boyunca\n"
+    "sıkıştırır.");
+
+const u8 gMoveDescription_Swift[] = _(
+    "Asla ıskalamayan yıldız\n"
+    "ışınları yağdırır.");
+
+const u8 gMoveDescription_SkullBash[] = _(
+    "Kafayı içeri sokar, sonra\n"
+    "bir sonraki turda saldırır.");
+
+const u8 gMoveDescription_SpikeCannon[] = _(
+    "2 ila 5 kez vuran keskin\n"
+    "sivri uçlar fırlatır.");
+
+const u8 gMoveDescription_Constrict[] = _(
+    "Acı vermek için daraltır.\n"
+    "Hızı düşürebilir.");
+
+const u8 gMoveDescription_Amnesia[] = _(
+    "Hafızasından bir şey siler\n"
+    "ve ÖZ. SVN yükseltir.");
+
+const u8 gMoveDescription_Kinesis[] = _(
+    "Dikkat dağıtarak isabet\n"
+    "oranını düşürebilir.");
+
+const u8 gMoveDescription_SoftBoiled[] = _(
+    "Maksimum canının yarısına\n"
+    "kadar can iyileştirir.");
+
+const u8 gMoveDescription_HiJumpKick[] = _(
+    "Zıplayan bir diz tekmesi.\n"
+    "Iskalarsa geri teper.");
+
+const u8 gMoveDescription_Glare[] = _(
+    "Düşmanı korkutur ve felce\n"
+    "uğratır.");
+
+const u8 gMoveDescription_DreamEater[] = _(
+    "Uyuyan bir düşmana verilen\n"
+    "hasarın yarısını alır.");
+
+const u8 gMoveDescription_PoisonGas[] = _(
+    "Düşmanı zehirleyebilecek\n"
+    "zehirli bir gazla sarar.");
+
+const u8 gMoveDescription_Barrage[] = _(
+    "Düşmana 2 ila 5 kez yuvarlak\n"
+    "nesneler fırlatır.");
+
+const u8 gMoveDescription_LeechLife[] = _(
+    "Verilen hasarın yarısını\n"
+    "çalan bir saldırı.");
+
+const u8 gMoveDescription_LovelyKiss[] = _(
+    "Uykuyu tetikleyen korkunç\n"
+    "bir öpücük ister.");
+
+const u8 gMoveDescription_SkyAttack[] = _(
+    "Zayıf noktaları araştırır,\n"
+    "sonraki turda saldırır.");
+
+const u8 gMoveDescription_Transform[] = _(
+    "Düşmanın hücrelerini\n"
+    "kopyalar ve ona dönüşür.");
+
+const u8 gMoveDescription_Bubble[] = _(
+    "Baloncuk fırlatan bir\n"
+    "saldırı. HIZ düşürebilir.");
+
+const u8 gMoveDescription_DizzyPunch[] = _(
+    "Kafa karıştırabilen ritmik\n"
+    "bir yumruk.");
+
+const u8 gMoveDescription_Spore[] = _(
+    "Her zaman uykuya neden\n"
+    "olan bir spor bulutu saçar.");
+
+const u8 gMoveDescription_Flash[] = _(
+    "İsabeti kesen güçlü bir\n"
+    "ışık patlaması yayar.");
+
+const u8 gMoveDescription_Psywave[] = _(
+    "Değişken yoğunlukta psişik\n"
+    "bir dalga ile saldırır.");
+
+const u8 gMoveDescription_Splash[] = _(
+    "Bu sadece bir sıçrama...\n"
+    "Hiçbir etkisi yok.");
+
+const u8 gMoveDescription_AcidArmor[] = _(
+    "Kullanıcının vücudunu\n"
+    "sıvılaştırarak SVN artırır.");
+
+const u8 gMoveDescription_Crabhammer[] = _(
+    "Kıskaçlı çekiç. Yüksek\n"
+    "kritik oranına sahiptir.");
+
+const u8 gMoveDescription_Explosion[] = _(
+    "Ağır hasar verir ama\n"
+    "kullanıcıyı bayıltır.");
+
+const u8 gMoveDescription_FurySwipes[] = _(
+    "Düşmanı keskin pençeler\n"
+    "ile 2-5 kez tırmıklar.");
+
+const u8 gMoveDescription_Bonemerang[] = _(
+    "İki kez vuran bir kemik\n"
+    "bumerangı fırlatır.");
+
+const u8 gMoveDescription_Rest[] = _(
+    "Kullanıcı 2 tur boyunca\n"
+    "uyur, canı yenilenir.");
+
+const u8 gMoveDescription_RockSlide[] = _(
+    "Büyük kayalar fırlatılır.\n"
+    "İrkilmeye neden olabilir.");
+
+const u8 gMoveDescription_HyperFang[] = _(
+    "Keskin dişlerle saldırır.\n"
+    "İrkilmeye neden olabilir.");
+
+const u8 gMoveDescription_Sharpen[] = _(
+    "Poligon sayısını azaltır ve\n"
+    "SALDIRIYI artırır.");
+
+const u8 gMoveDescription_Conversion[] = _(
+    "Kullanıcının türünü bilinen\n"
+    "bir saldırının türü yapar.");
+
+const u8 gMoveDescription_TriAttack[] = _(
+    "Aynı anda üç tür ışın\n"
+    "ateşler.");
+
+const u8 gMoveDescription_SuperFang[] = _(
+    "Keskin dişlerle saldırır ve\n"
+    "düşmanın canını yarılar.");
+
+const u8 gMoveDescription_Slash[] = _(
+    "Pençelerle keser. Yüksek\n"
+    "kritik oranına sahiptir.");
+
+const u8 gMoveDescription_Substitute[] = _(
+    "Kullananın maks. canının\n"
+    "1/4'ü ile yem oluşturur.");
+
+const u8 gMoveDescription_Struggle[] = _(
+    "Sadece tüm PP'ler bitmişse\n"
+    "kullanılabilir.");
+
+const u8 gMoveDescription_Sketch[] = _(
+    "Düşmanın son hamlesini\n"
+    "kalıcı olarak kopyalar.");
+
+const u8 gMoveDescription_TripleKick[] = _(
+    "Düşmanı artan bir şiddetle\n"
+    "3 kez tekmeler.");
+
+const u8 gMoveDescription_Thief[] = _(
+    "Saldırırken, düşmanın\n"
+    "elindeki eşyayı çalabilir.");
+
+const u8 gMoveDescription_SpiderWeb[] = _(
+    "Düşmanın kaçmasını\n"
+    "engeller.");
+
+const u8 gMoveDescription_MindReader[] = _(
+    "Bir sonraki saldırının\n"
+    "isabetini artırır.");
+
+const u8 gMoveDescription_Nightmare[] = _(
+    "Her tur uyuyan bir düşmana\n"
+    "1/4 hasar verir.");
+
+const u8 gMoveDescription_FlameWheel[] = _(
+    "Yanıklara neden olabilen\n"
+    "ateşli bir saldırı.");
+
+const u8 gMoveDescription_Snore[] = _(
+    "Yalnız uykuda kullanılabilen\n"
+    "yüksek sesli bir saldırı.");
+
+const u8 gMoveDescription_Curse[] = _(
+    "Hayaletler için farklı işlev\n"
+    "gören bir hareket.");
+
+const u8 gMoveDescription_Flail[] = _(
+    "Kullanıcının canı\n"
+    "azaldığında gücü artar.");
+
+const u8 gMoveDescription_Conversion2[] = _(
+    "Kullanıcıyı son saldırının\n"
+    "türüne dynklılığını artırır.");
+
+const u8 gMoveDescription_Aeroblast[] = _(
+    "Güçlü bir patlama yaratır.\n"
+    "Kritik oranı yüksektir.");
+
+const u8 gMoveDescription_CottonSpore[] = _(
+    "Sporlar düşmana yapışarak\n"
+    "HIZI çokça azaltır.");
+
+const u8 gMoveDescription_Reversal[] = _(
+    "Kullanıcının canı\n"
+    "azaldığında hasar artar.");
+
+const u8 gMoveDescription_Spite[] = _(
+    "Düşmanın son hamlesinin\n"
+    "PP'sini çokça keser.");
+
+const u8 gMoveDescription_PowderSnow[] = _(
+    "Düşmanı karlı bir rüzgarla\n"
+    "savurur. Dondurabilir.");
+
+const u8 gMoveDescription_Protect[] = _(
+    "Saldırıdan kaçar, ancak\n"
+    "üst üste tutmayabilir.");
+
+const u8 gMoveDescription_MachPunch[] = _(
+    "Saldırı önceliği olan\n"
+    "bir yumruk saldırısı.");
+
+const u8 gMoveDescription_ScaryFace[] = _(
+    "HIZI yüksek bir şekilde\n"
+    "azaltır.");
+
+const u8 gMoveDescription_FaintAttack[] = _(
+    "Düşmanı yakınına çeker,\n"
+    "sonra hatasız vurur.");
+
+const u8 gMoveDescription_SweetKiss[] = _(
+    "Sevimli bir bakışla öpücük\n"
+    "ister. Kafa karıştırabilir.");
+
+const u8 gMoveDescription_BellyDrum[] = _(
+    "Canı feda ederken SLD\n"
+    "çokça yükseltir.");
+
+const u8 gMoveDescription_SludgeBomb[] = _(
+    "Hasar vermek için çamur\n"
+    "fırlatır. Zehirleyebilir.");
+
+const u8 gMoveDescription_MudSlap[] = _(
+    "Çamur fırlatarak düşman\n"
+    "isabeti düşürülür.");
+
+const u8 gMoveDescription_Octazooka[] = _(
+    "İsabeti düşürmek için\n"
+    "mürekkep ateşler.");
+
+const u8 gMoveDescription_Spikes[] = _(
+    "Düşmana zarar veren sivri\n"
+    "uçları devreye sokar.");
+
+const u8 gMoveDescription_ZapCannon[] = _(
+    "Oldukça güçlüdür ve felç\n"
+    "eder.");
+
+const u8 gMoveDescription_Foresight[] = _(
+    "İsabet düşürme etkilerini\n"
+    "keser.");
+
+const u8 gMoveDescription_DestinyBond[] = _(
+    "Kullanıcı bayılırsa, düşman\n"
+    "da bayılır.");
+
+const u8 gMoveDescription_PerishSong[] = _(
+    "Bu şarkıyı duyan POKéMON\n"
+    "3 tur içinde bayılır.");
+
+const u8 gMoveDescription_IcyWind[] = _(
+    "Düşmanın HIZINI düşüren\n"
+    "korkunç bir saldırı.");
+
+const u8 gMoveDescription_Detect[] = _(
+    "Saldırıdan kaçar, ancak\n"
+    "üst üste tutmayabilir.");
+
+const u8 gMoveDescription_BoneRush[] = _(
+    "Elindeki kemikle düşmanına\n"
+    "2 ila 5 kez vurur.");
+
+const u8 gMoveDescription_LockOn[] = _(
+    "Bir sonraki hamlenin isabet\n"
+    "etmesi için kilitlenir.");
+
+const u8 gMoveDescription_Outrage[] = _(
+    "Kullananın kafa karıştıran\n"
+    "2-3 turluk saldırı.");
+
+const u8 gMoveDescription_Sandstorm[] = _(
+    "Birkaç tur boyunca süren\n"
+    "kum fırtınası Başlatır.");
+
+const u8 gMoveDescription_GigaDrain[] = _(
+    "Verilen hasarın yarısını\n"
+    "çalan bir saldırı.");
+
+const u8 gMoveDescription_Endure[] = _(
+    "En az 1 can bırakarak 1\n"
+    "tur saldırılara dayanır.");
+
+const u8 gMoveDescription_Charm[] = _(
+    "Düşmanı büyüler ve SLD.\n"
+    "çokça azaltır.");
+
+const u8 gMoveDescription_Rollout[] = _(
+    "Yoğunluğu artan ve 5 tur\n"
+    "süren bir saldırı.");
+
+const u8 gMoveDescription_FalseSwipe[] = _(
+    "Düşmanı en az 1 can ile\n"
+    "bırakan bir saldırı.");
+
+const u8 gMoveDescription_Swagger[] = _(
+    "Düşman kafası karıştırır\n"
+    "ama SLD çokça yükseltir.");
+
+const u8 gMoveDescription_MilkDrink[] = _(
+    "Kullanıcının maks canının\n"
+    "yarısını iyileştirir.");
+
+const u8 gMoveDescription_Spark[] = _(
+    "Düşmanı felç edebilecek\n"
+    "elektrikli bir saldırı.");
+
+const u8 gMoveDescription_FuryCutter[] = _(
+    "Art arda her vuruşta\n"
+    "şiddetlenen bir saldırı.");
+
+const u8 gMoveDescription_SteelWing[] = _(
+    "Düşmana sert kanatlarını\n"
+    "açarak saldırır.");
+
+const u8 gMoveDescription_MeanLook[] = _(
+    "Düşmanın kaçmasını\n"
+    "engelleyen sert bir bakış.");
+
+const u8 gMoveDescription_Attract[] = _(
+    "Karşı cinsin saldırma\n"
+    "olasılığını azaltır.");
+
+const u8 gMoveDescription_SleepTalk[] = _(
+    "Uykudayken rastgele bir\n"
+    "hareket kullanır.");
+
+const u8 gMoveDescription_HealBell[] = _(
+    "Tüm durum sorunlarını\n"
+    "ses ile iyileştirir.");
+
+const u8 gMoveDescription_Return[] = _(
+    "Arkadaşlıkla gücü artan bir\n"
+    "saldırı.");
+
+const u8 gMoveDescription_Present[] = _(
+    "Bomba şeklinde bir hediye.\n"
+    "Canı yenileyebilir.");
+
+const u8 gMoveDescription_Frustration[] = _(
+    "Eğitmen sevilmediğinde\n"
+    "daha güçlü olan bir saldırı.");
+
+const u8 gMoveDescription_Safeguard[] = _(
+    "Tüm durum sorunlarını\n"
+    "önleyen, mistik bir güç.");
+
+const u8 gMoveDescription_PainSplit[] = _(
+    "Kullanıcı ve düşman canı\n"
+    "eşit olarak paylaştırır.");
+
+const u8 gMoveDescription_SacredFire[] = _(
+    "Yanıklara neden olabilen\n"
+    "mistik bir ateş saldırısı.");
+
+const u8 gMoveDescription_Magnitude[] = _(
+    "Rastgele yoğunlukta, yeri\n"
+    "sarsan bir saldırı.");
+
+const u8 gMoveDescription_DynamicPunch[] = _(
+    "Kafa karıştırır ancak\n"
+    "isabeti düşüktür.");
+
+const u8 gMoveDescription_Megahorn[] = _(
+    "Acımasız bir boynuz\n"
+    "saldırısı.");
+
+const u8 gMoveDescription_DragonBreath[] = _(
+    "Düşmanı inanılmaz bir nefes\n"
+    "patlamasıyla vurur.");
+
+const u8 gMoveDescription_BatonPass[] = _(
+    "Efektleri oyunda tutarken\n"
+    "kullanıcıyı değiştirir.");
+
+const u8 gMoveDescription_Encore[] = _(
+    "Düşmana son hareketini\n"
+    "2-6 tur tekrarlatır.");
+
+const u8 gMoveDescription_Pursuit[] = _(
+    "Değişen bir düşman üzerinde\n"
+    "hasarı yükselir.");
+
+const u8 gMoveDescription_RapidSpin[] = _(
+    "Düşmana vurmak için vücudu\n"
+    "yüksek hızda döndürür.");
+
+const u8 gMoveDescription_SweetScent[] = _(
+    "Kaçamakları azaltmak için\n"
+    "düşmanı cezbeder.");
+
+const u8 gMoveDescription_IronTail[] = _(
+    "Kaya gibi sert bir kuyrukla\n"
+    "saldırır. SVN düşürebilir.");
+
+const u8 gMoveDescription_MetalClaw[] = _(
+    "Kullanıcının saldırısını\n"
+    "artırabilen bir saldırı.");
+
+const u8 gMoveDescription_VitalThrow[] = _(
+    "Kullanıcın saldırıyı en\n"
+    "son yapar ama ıskalamaz.");
+
+const u8 gMoveDescription_MorningSun[] = _(
+    "Canı iyileştirir. Miktar\n"
+    "havaya göre değişir.");
+
+const u8 gMoveDescription_Synthesis[] = _(
+    "Canı iyileştirir. Miktar\n"
+    "havaya göre değişir.");
+
+const u8 gMoveDescription_Moonlight[] = _(
+    "Canı iyileştirir. Miktar\n"
+    "havaya göre değişir.");
+
+const u8 gMoveDescription_HiddenPower[] = _(
+    "Türü kullanıcıya göre\n"
+    "değişir.");
+
+const u8 gMoveDescription_CrossChop[] = _(
+    "Çifte doğrama saldırısı.\n"
+    "Yüksek kritik vuruş oranı.");
+
+const u8 gMoveDescription_Twister[] = _(
+    "Düşmanı parçalamak için\n"
+    "güçlü bir hortum çıkarır.");
+
+const u8 gMoveDescription_RainDance[] = _(
+    "SU tipi saldırı gücünü\n"
+    "5 tur boyunca artırır.");
+
+const u8 gMoveDescription_SunnyDay[] = _(
+    "ATEŞ tipi saldırı gücünü\n"
+    "5 tur boyunca artırır.");
+
+const u8 gMoveDescription_Crunch[] = _(
+    "Keskin dişlerle saldırır.\n"
+    "ÖZ. SVN düşürebilir.");
+
+const u8 gMoveDescription_MirrorCoat[] = _(
+    "Düşmanın özel saldırısını\n"
+    "iki kat güçle karşılar.");
+
+const u8 gMoveDescription_PsychUp[] = _(
+    "Düşman etkilerini\n"
+    "kopyalar ve alır.");
+
+const u8 gMoveDescription_ExtremeSpeed[] = _(
+    "Son derece hızlı ve güçlü\n"
+    "bir saldırı.");
+
+const u8 gMoveDescription_AncientPower[] = _(
+    "Tüm özellikleri\n"
+    "yükseltebilen bir saldırı.");
+
+const u8 gMoveDescription_ShadowBall[] = _(
+    "Düşmana ÖZ SVN düşürebilen\n"
+    "kara bir top fırlatır.");
+
+const u8 gMoveDescription_FutureSight[] = _(
+    "2 tur sonra saldırmak için\n"
+    "içsel gücü artırır.");
+
+const u8 gMoveDescription_RockSmash[] = _(
+    "SAVUNMAYI düşürebilecek\n"
+    "kaya kırıcı bir saldırı.");
+
+const u8 gMoveDescription_Whirlpool[] = _(
+    "Düşmanı 2 ila 5 tur boyunca\n"
+    "bir girdaba hapseder.");
+
+const u8 gMoveDescription_BeatUp[] = _(
+    "Saldırıya katılmaları için\n"
+    "POKéMON takımını çağırır.");
+
+const u8 gMoveDescription_FakeOut[] = _(
+    "İlk turda kullanılabilen,\n"
+    "ürküten, hızlı bir saldırı.");
+
+const u8 gMoveDescription_Uproar[] = _(
+    "2 ila 5 tur boyunca ses\n"
+    "yapar ve uykuyu engeller.");
+
+const u8 gMoveDescription_Stockpile[] = _(
+    "Gücü 3 tura kadar şarj\n"
+    "eder.");
+
+const u8 gMoveDescription_SpitUp[] = _(
+    "Stoklanan gücü serbest\n"
+    "bırakır.");
+
+const u8 gMoveDescription_Swallow[] = _(
+    "Depolanan gücü emer ve\n"
+    "canı yeniler.");
+
+const u8 gMoveDescription_HeatWave[] = _(
+    "Düşmanın üzerine sıcak bir\n"
+    "nefes üfler. Yakabilir.");
+
+const u8 gMoveDescription_Hail[] = _(
+    "Her turda vuran bir dolu\n"
+    "fırtınası çağırır.");
+
+const u8 gMoveDescription_Torment[] = _(
+    "Eziyet edererek üst üste\n"
+    "kullanımı engeller.");
+
+const u8 gMoveDescription_Flatter[] = _(
+    "Düşman kafası karıştırır,\n"
+    "ancak ÖZ. SLD yükseltir.");
+
+const u8 gMoveDescription_WillOWisp[] = _(
+    "Düşmanı yoğun ateşle\n"
+    "yakar.");
+
+const u8 gMoveDescription_Memento[] = _(
+    "Kullanıcı bayılır ve\n"
+    "düşman özlk. azaltır.");
+
+const u8 gMoveDescription_Facade[] = _(
+    "Kötü bir durumda, SALDIRI\n"
+    "artırır.");
+
+const u8 gMoveDescription_FocusPunch[] = _(
+    "Güçlüdür ancak kullanıcı\n"
+    "hasar alırsa ürker.");
+
+const u8 gMoveDescription_SmellingSalt[] = _(
+    "Felçli düşmanlara karşı x2\n"
+    "vurur ancak iyileştirir.");
+
+const u8 gMoveDescription_FollowMe[] = _(
+    "Düşmanların sadece kendine\n"
+    "saldırması için dikkat çeker.");
+
+const u8 gMoveDescription_NaturePower[] = _(
+    "Saldırının türü bulunduğu\n"
+    "yere göre değişir.");
+
+const u8 gMoveDescription_Charge[] = _(
+    "Bir sonraki elektrik\n"
+    "saldırısı için güç toplar.");
+
+const u8 gMoveDescription_Taunt[] = _(
+    "Sadece hasar veren saldırı\n"
+    "kullanması için kızdırır.");
+
+const u8 gMoveDescription_HelpingHand[] = _(
+    "Dostun saldırılarının\n"
+    "gücünü artırır.");
+
+const u8 gMoveDescription_Trick[] = _(
+    "Düşmanı elindeki eşyaları\n"
+    "takas etmesi için kandırır.");
+
+const u8 gMoveDescription_RolePlay[] = _(
+    "Hedefi taklit eder ve özel\n"
+    "yeteneğini kopyalar.");
+
+const u8 gMoveDescription_Wish[] = _(
+    "Can iyileştiren bir\n"
+    "dilek. Zaman alır.");
+
+const u8 gMoveDescription_Assist[] = _(
+    "Ortağın hareketlerinden\n"
+    "biriyle rastgele saldırır.");
+
+const u8 gMoveDescription_Ingrain[] = _(
+    "Can yenileyen kökler salar.\n"
+    "Yer değiştiremez.");
+
+const u8 gMoveDescription_Superpower[] = _(
+    "Gücü çokça artırır ama\n"
+    "yetenekleri azaltır.");
+
+const u8 gMoveDescription_MagicCoat[] = _(
+    "Özel etkileri saldırgana\n"
+    "geri yansıtır.");
+
+const u8 gMoveDescription_Recycle[] = _(
+    "Kullanılmış eşyayı tekrar\n"
+    "kullanım için dönüştürür.");
+
+const u8 gMoveDescription_Revenge[] = _(
+    "Düşman tarafından hasar\n"
+    "alınınca güçlenir.");
+
+const u8 gMoveDescription_BrickBreak[] = _(
+    "YANSITMA gibi duvarları\n"
+    "yok eder hasar verir.");
+
+const u8 gMoveDescription_Yawn[] = _(
+    "Düşmanı esnetir ve bir\n"
+    "sonraki turda uyutur.");
+
+const u8 gMoveDescription_KnockOff[] = _(
+    "Düşmanın elindeki eşyayı\n"
+    "düşürerek engeller.");
+
+const u8 gMoveDescription_Endeavor[] = _(
+    "Kullanıcının canı düşman\n"
+    "canından düşükse güçlenir.");
+
+const u8 gMoveDescription_Eruption[] = _(
+    "Kullanıcının canı ne kadar\n"
+    "yüksekse, o kadar güçlüdür.");
+
+const u8 gMoveDescription_SkillSwap[] = _(
+    "Kullanıcı hedefle özel\n"
+    "yeteneklerini değiştirir.");
+
+const u8 gMoveDescription_Imprison[] = _(
+    "Düşmanların kendi bildiği\n"
+    "saldırılarını engeller.");
+
+const u8 gMoveDescription_Refresh[] = _(
+    "Zehirlenmeyi, felci ya da\n"
+    "yanığı iyileştirir.");
+
+const u8 gMoveDescription_Grudge[] = _(
+    "Bayılırsa düşmanın son\n"
+    "saldırısının PP'lerini siler.");
+
+const u8 gMoveDescription_Snatch[] = _(
+    "Hedefin bir sonraki\n"
+    "etkilerini çalar.");
+
+const u8 gMoveDescription_SecretPower[] = _(
+    "Etkileri konuma göre\n"
+    "değişen bir saldırı.");
+
+const u8 gMoveDescription_Dive[] = _(
+    "İlk turda su altına dalar ve\n"
+    "bir sonraki turda vurur.");
+
+const u8 gMoveDescription_ArmThrust[] = _(
+    "Düşmana 2 ila 5 kez vuran\n"
+    "düz kol yumrukları.");
+
+const u8 gMoveDescription_Camouflage[] = _(
+    "Bulunduğu yere göre\n"
+    "POKéMON türü değiştirir.");
+
+const u8 gMoveDescription_TailGlow[] = _(
+    "ÖZ. SLD çokça yükselten\n"
+    "bir ışık yakıp söndürür.");
+
+const u8 gMoveDescription_LusterPurge[] = _(
+    "Işık patlamasıyla saldırır.\n"
+    "ÖZ. SVN düşürebilir.");
+
+const u8 gMoveDescription_MistBall[] = _(
+    "Bir telaşla saldırır.\n"
+    "ÖZ. SLD düşürebilir.");
+
+const u8 gMoveDescription_FeatherDance[] = _(
+    "Düşmanın saldırısını iki\n"
+    "seviye düşürür.");
+
+const u8 gMoveDescription_TeeterDance[] = _(
+    "Savaştaki POKéMON'ların\n"
+    "kafasını karıştırır.");
+
+const u8 gMoveDescription_BlazeKick[] = _(
+    "Kritik oranı yüksektir.\n"
+    "Yanığa neden olabilir.");
+
+const u8 gMoveDescription_MudSport[] = _(
+    "Elektrik direncini artırmak\n"
+    "için çamurla kaplanır.");
+
+const u8 gMoveDescription_IceBall[] = _(
+    "Art arda vurunca güçlenen\n"
+    "5 turluk bir saldırı.");
+
+const u8 gMoveDescription_NeedleArm[] = _(
+    "Dikenli kollarla saldırır.\n"
+    "Ürkmeye neden olabilir.");
+
+const u8 gMoveDescription_SlackOff[] = _(
+    "Yavaşlar ve maksimum canın\n"
+    "yarısını yeniler.");
+
+const u8 gMoveDescription_HyperVoice[] = _(
+    "Ses dalgalarını kullanan\n"
+    "bir saldırı.");
+
+const u8 gMoveDescription_PoisonFang[] = _(
+    "Keskin dişli bir saldırı.\n"
+    "Ağır zehirleyebilir.");
+
+const u8 gMoveDescription_CrushClaw[] = _(
+    "Keskin pençelerle düşmanı\n"
+    "keser. SVN düşürebilir.");
+
+const u8 gMoveDescription_BlastBurn[] = _(
+    "Güçlüdür ama kullanıcıyı\n"
+    "hareketsiz bırakır.");
+
+const u8 gMoveDescription_HydroCannon[] = _(
+    "Güçlüdür ama kullanıcıyı\n"
+    "hareketsiz bırakır.");
+
+const u8 gMoveDescription_MeteorMash[] = _(
+    "Meteor benzeri bir yumruk\n"
+    "atar. SLD yükseltebilir.");
+
+const u8 gMoveDescription_Astonish[] = _(
+    "Düşmanı şok ederek\n"
+    "korkutabilecek bir saldırı.");
+
+const u8 gMoveDescription_WeatherBall[] = _(
+    "Hareketin türü ve gücü\n"
+    "hava durumuna göre değişir.");
+
+const u8 gMoveDescription_Aromatherapy[] = _(
+    "Yatıştırıcı kokusuyla tüm\n"
+    "sorunları iyileştirir.");
+
+const u8 gMoveDescription_FakeTears[] = _(
+    "Düşmanın ÖZ. SVN keskin bir\n"
+    "şekilde düşürür.");
+
+const u8 gMoveDescription_AirCutter[] = _(
+    "Jilet gibi bir rüzgarla\n"
+    "keser. Kritik oran yüksek.");
+
+const u8 gMoveDescription_Overheat[] = _(
+    "Tam güç saldırı yapar ama\n"
+    "ÖZ. SLD çokça düşer.");
+
+const u8 gMoveDescription_OdorSleuth[] = _(
+    "Düşmanın kaçınma çabalarını\n"
+    "boşa çıkarır.");
+
+const u8 gMoveDescription_RockTomb[] = _(
+    "Kayalarla hareketi engeller\n"
+    "Hızı düşürebilir.");
+
+const u8 gMoveDescription_SilverWind[] = _(
+    "Yetenekleri artırabilen\n"
+    "tozlu bir saldırı.");
+
+const u8 gMoveDescription_MetalSound[] = _(
+    "ÖZ. SVN'yı çokça düşüren\n"
+    "korkunç bir çığlık yayar.");
+
+const u8 gMoveDescription_GrassWhistle[] = _(
+    "Düşmanı hoş bir melodiyle\n"
+    "uyutur.");
+
+const u8 gMoveDescription_Tickle[] = _(
+    "SLD ve SVN düşürmek için\n"
+    "düşmanı güldürür.");
+
+const u8 gMoveDescription_CosmicPower[] = _(
+    "Savunmayı ve ÖZ. SVN'yı\n"
+    "mistik bir güçle yükseltir.");
+
+const u8 gMoveDescription_WaterSpout[] = _(
+    "Kullanıcının canı yüksek\n"
+    "ise daha fazla hasar verir.");
+
+const u8 gMoveDescription_SignalBeam[] = _(
+    "Düşman kafası karıştırabilen\n"
+    "bir ışın saldırısı.");
+
+const u8 gMoveDescription_ShadowPunch[] = _(
+    "Gölgelerden atılan\n"
+    "kaçınılmaz bir yumruk.");
+
+const u8 gMoveDescription_Extrasensory[] = _(
+    "Tuhaf bir güçle saldırır.\n"
+    "Ürkütmeye neden olabilir.");
+
+const u8 gMoveDescription_SkyUppercut[] = _(
+    "Gökyüzüne sıçrar gibi\n"
+    "atılan bir aparkat.");
+
+const u8 gMoveDescription_SandTomb[] = _(
+    "Düşmanı 2 ila 5 tur boyunca\n"
+    "bataklığa hapseder.");
+
+const u8 gMoveDescription_SheerCold[] = _(
+    "İsabet ettiğinde bayılmaya\n"
+    "neden olan bir saldırı.");
+
+const u8 gMoveDescription_MuddyWater[] = _(
+    "Çamurlu su ile saldırır.\n"
+    "İsabet oranı düşebilir.");
+
+const u8 gMoveDescription_BulletSeed[] = _(
+    "Düşmana saldırmak için arka\n"
+    "arkaya 2 ila 5 tohum atar.");
+
+const u8 gMoveDescription_AerialAce[] = _(
+    "Son derece hızlı ve\n"
+    "kaçınılmaz bir saldırı.");
+
+const u8 gMoveDescription_IcicleSpear[] = _(
+    "Arka arkaya 2 ila 5 buz\n"
+    "sarkıtını fırlatır.");
+
+const u8 gMoveDescription_IronDefense[] = _(
+    "Vücudu sertleştirerek savunma\n"
+    "çokça artırır.");
+
+const u8 gMoveDescription_Block[] = _(
+    "Kaçışı engellemek için\n"
+    "düşmanın yolunu keser.");
+
+const u8 gMoveDescription_Howl[] = _(
+    "Ruhu yükseltmek için ulur\n"
+    "ve SALDIRIYI artırır.");
+
+const u8 gMoveDescription_DragonClaw[] = _(
+    "Düşmanı keskin\n"
+    "pençeleriyle keser.");
+
+const u8 gMoveDescription_FrenzyPlant[] = _(
+    "Güçlüdür ama kullanıcıyı\n"
+    "sonraki turda felç eder.");
+
+const u8 gMoveDescription_BulkUp[] = _(
+    "Hem SALDIRI hem de\n"
+    "SAVUNMAYI artırır.");
+
+const u8 gMoveDescription_Bounce[] = _(
+    "Zıplar, bir sonraki turda\n"
+    "aşağı iner. Felç edebilir.");
+
+const u8 gMoveDescription_MudShot[] = _(
+    "Düşmana çamur fırlatır ve\n"
+    "HIZI azaltır.");
+
+const u8 gMoveDescription_PoisonTail[] = _(
+    "Yüksek kritik oranına\n"
+    "sahiptir. Zehirleyebilir.");
+
+const u8 gMoveDescription_Covet[] = _(
+    "Düşman elindeki eşyayı\n"
+    "şirin bir şekilde yalvarır.");
+
+const u8 gMoveDescription_VoltTackle[] = _(
+    "Kullanıcıya hafifçe zarar\n"
+    "veren, riskli bir saldırı.");
+
+const u8 gMoveDescription_MagicalLeaf[] = _(
+    "Kaçınılması mümkün olmayan\n"
+    "bir yaprakla saldırır.");
+
+const u8 gMoveDescription_WaterSport[] = _(
+    "Ateşe karşı direnç\n"
+    "artırmak için ıslanır.");
+
+const u8 gMoveDescription_CalmMind[] = _(
+    "ÖZ. SLD ve ÖZ. SVN'yı zihni\n"
+    "odaklayarak yükseltir.");
+
+const u8 gMoveDescription_LeafBlade[] = _(
+    "Keskin bir yaprakla keser.\n"
+    "Yüksek kritik vuruş oranı.");
+
+const u8 gMoveDescription_DragonDance[] = _(
+    "SALDIRI ve HIZI artıran\n"
+    "mistik bir dans.");
+
+const u8 gMoveDescription_RockBlast[] = _(
+    "Düşmana arka arkaya 2 ila 5\n"
+    "kez kaya fırlatır.");
+
+const u8 gMoveDescription_ShockWave[] = _(
+    "Hızlı ve kaçınılmaz bir\n"
+    "elektrik saldırısı.");
+
+const u8 gMoveDescription_WaterPulse[] = _(
+    "Ultrasonik dalga ile vurur.\n"
+    "Kafa karıştırabilir.");
+
+const u8 gMoveDescription_DoomDesire[] = _(
+    "2 tur sonra saldırmak için\n"
+    "güçlü güneş ışığı çağırır.");
+
+const u8 gMoveDescription_PsychoBoost[] = _(
+    "Tam güç saldırır ancak\n"
+    "ÖZ. SLD çokça düşürür.");
+
+const u8 *const gMoveDescriptionPointers[MOVES_COUNT - 1] =
+{
+    [MOVE_POUND - 1] = gMoveDescription_Pound,
+    [MOVE_KARATE_CHOP - 1] = gMoveDescription_KarateChop,
+    [MOVE_DOUBLE_SLAP - 1] = gMoveDescription_DoubleSlap,
+    [MOVE_COMET_PUNCH - 1] = gMoveDescription_CometPunch,
+    [MOVE_MEGA_PUNCH - 1] = gMoveDescription_MegaPunch,
+    [MOVE_PAY_DAY - 1] = gMoveDescription_PayDay,
+    [MOVE_FIRE_PUNCH - 1] = gMoveDescription_FirePunch,
+    [MOVE_ICE_PUNCH - 1] = gMoveDescription_IcePunch,
     [MOVE_THUNDER_PUNCH - 1] = gMoveDescription_ThunderPunch,
-    [MOVE_SCRATCH       - 1] = gMoveDescription_Scratch,
-    [MOVE_VICE_GRIP     - 1] = gMoveDescription_ViceGrip,
-    [MOVE_GUILLOTINE    - 1] = gMoveDescription_Guillotine,
-    [MOVE_RAZOR_WIND    - 1] = gMoveDescription_RazorWind,
-    [MOVE_SWORDS_DANCE  - 1] = gMoveDescription_SwordsDance,
-    [MOVE_CUT           - 1] = gMoveDescription_Cut,
-    [MOVE_GUST          - 1] = gMoveDescription_Gust,
-    [MOVE_WING_ATTACK   - 1] = gMoveDescription_WingAttack,
-    [MOVE_WHIRLWIND     - 1] = gMoveDescription_Whirlwind,
-    [MOVE_FLY           - 1] = gMoveDescription_Fly,
-    [MOVE_BIND          - 1] = gMoveDescription_Bind,
-    [MOVE_SLAM          - 1] = gMoveDescription_Slam,
-    [MOVE_VINE_WHIP     - 1] = gMoveDescription_VineWhip,
-    [MOVE_STOMP         - 1] = gMoveDescription_Stomp,
-    [MOVE_DOUBLE_KICK   - 1] = gMoveDescription_DoubleKick,
-    [MOVE_MEGA_KICK     - 1] = gMoveDescription_MegaKick,
-    [MOVE_JUMP_KICK     - 1] = gMoveDescription_JumpKick,
-    [MOVE_ROLLING_KICK  - 1] = gMoveDescription_RollingKick,
-    [MOVE_SAND_ATTACK   - 1] = gMoveDescription_SandAttack,
-    [MOVE_HEADBUTT      - 1] = gMoveDescription_Headbutt,
-    [MOVE_HORN_ATTACK   - 1] = gMoveDescription_HornAttack,
-    [MOVE_FURY_ATTACK   - 1] = gMoveDescription_FuryAttack,
-    [MOVE_HORN_DRILL    - 1] = gMoveDescription_HornDrill,
-    [MOVE_TACKLE        - 1] = gMoveDescription_Tackle,
-    [MOVE_BODY_SLAM     - 1] = gMoveDescription_BodySlam,
-    [MOVE_WRAP          - 1] = gMoveDescription_Wrap,
-    [MOVE_TAKE_DOWN     - 1] = gMoveDescription_TakeDown,
-    [MOVE_THRASH        - 1] = gMoveDescription_Thrash,
-    [MOVE_DOUBLE_EDGE   - 1] = gMoveDescription_DoubleEdge,
-    [MOVE_TAIL_WHIP     - 1] = gMoveDescription_TailWhip,
-    [MOVE_POISON_STING  - 1] = gMoveDescription_PoisonSting,
-    [MOVE_TWINEEDLE     - 1] = gMoveDescription_Twineedle,
-    [MOVE_PIN_MISSILE   - 1] = gMoveDescription_PinMissile,
-    [MOVE_LEER          - 1] = gMoveDescription_Leer,
-    [MOVE_BITE          - 1] = gMoveDescription_Bite,
-    [MOVE_GROWL         - 1] = gMoveDescription_Growl,
-    [MOVE_ROAR          - 1] = gMoveDescription_Roar,
-    [MOVE_SING          - 1] = gMoveDescription_Sing,
-    [MOVE_SUPERSONIC    - 1] = gMoveDescription_Supersonic,
-    [MOVE_SONIC_BOOM    - 1] = gMoveDescription_SonicBoom,
-    [MOVE_DISABLE       - 1] = gMoveDescription_Disable,
-    [MOVE_ACID          - 1] = gMoveDescription_Acid,
-    [MOVE_EMBER         - 1] = gMoveDescription_Ember,
-    [MOVE_FLAMETHROWER  - 1] = gMoveDescription_Flamethrower,
-    [MOVE_MIST          - 1] = gMoveDescription_Mist,
-    [MOVE_WATER_GUN     - 1] = gMoveDescription_WaterGun,
-    [MOVE_HYDRO_PUMP    - 1] = gMoveDescription_HydroPump,
-    [MOVE_SURF          - 1] = gMoveDescription_Surf,
-    [MOVE_ICE_BEAM      - 1] = gMoveDescription_IceBeam,
-    [MOVE_BLIZZARD      - 1] = gMoveDescription_Blizzard,
-    [MOVE_PSYBEAM       - 1] = gMoveDescription_Psybeam,
-    [MOVE_BUBBLE_BEAM   - 1] = gMoveDescription_BubbleBeam,
-    [MOVE_AURORA_BEAM   - 1] = gMoveDescription_AuroraBeam,
-    [MOVE_HYPER_BEAM    - 1] = gMoveDescription_HyperBeam,
-    [MOVE_PECK          - 1] = gMoveDescription_Peck,
-    [MOVE_DRILL_PECK    - 1] = gMoveDescription_DrillPeck,
-    [MOVE_SUBMISSION    - 1] = gMoveDescription_Submission,
-    [MOVE_LOW_KICK      - 1] = gMoveDescription_LowKick,
-    [MOVE_COUNTER       - 1] = gMoveDescription_Counter,
-    [MOVE_SEISMIC_TOSS  - 1] = gMoveDescription_SeismicToss,
-    [MOVE_STRENGTH      - 1] = gMoveDescription_Strength,
-    [MOVE_ABSORB        - 1] = gMoveDescription_Absorb,
-    [MOVE_MEGA_DRAIN    - 1] = gMoveDescription_MegaDrain,
-    [MOVE_LEECH_SEED    - 1] = gMoveDescription_LeechSeed,
-    [MOVE_GROWTH        - 1] = gMoveDescription_Growth,
-    [MOVE_RAZOR_LEAF    - 1] = gMoveDescription_RazorLeaf,
-    [MOVE_SOLAR_BEAM    - 1] = gMoveDescription_SolarBeam,
+    [MOVE_SCRATCH - 1] = gMoveDescription_Scratch,
+    [MOVE_VICE_GRIP - 1] = gMoveDescription_ViceGrip,
+    [MOVE_GUILLOTINE - 1] = gMoveDescription_Guillotine,
+    [MOVE_RAZOR_WIND - 1] = gMoveDescription_RazorWind,
+    [MOVE_SWORDS_DANCE - 1] = gMoveDescription_SwordsDance,
+    [MOVE_CUT - 1] = gMoveDescription_Cut,
+    [MOVE_GUST - 1] = gMoveDescription_Gust,
+    [MOVE_WING_ATTACK - 1] = gMoveDescription_WingAttack,
+    [MOVE_WHIRLWIND - 1] = gMoveDescription_Whirlwind,
+    [MOVE_FLY - 1] = gMoveDescription_Fly,
+    [MOVE_BIND - 1] = gMoveDescription_Bind,
+    [MOVE_SLAM - 1] = gMoveDescription_Slam,
+    [MOVE_VINE_WHIP - 1] = gMoveDescription_VineWhip,
+    [MOVE_STOMP - 1] = gMoveDescription_Stomp,
+    [MOVE_DOUBLE_KICK - 1] = gMoveDescription_DoubleKick,
+    [MOVE_MEGA_KICK - 1] = gMoveDescription_MegaKick,
+    [MOVE_JUMP_KICK - 1] = gMoveDescription_JumpKick,
+    [MOVE_ROLLING_KICK - 1] = gMoveDescription_RollingKick,
+    [MOVE_SAND_ATTACK - 1] = gMoveDescription_SandAttack,
+    [MOVE_HEADBUTT - 1] = gMoveDescription_Headbutt,
+    [MOVE_HORN_ATTACK - 1] = gMoveDescription_HornAttack,
+    [MOVE_FURY_ATTACK - 1] = gMoveDescription_FuryAttack,
+    [MOVE_HORN_DRILL - 1] = gMoveDescription_HornDrill,
+    [MOVE_TACKLE - 1] = gMoveDescription_Tackle,
+    [MOVE_BODY_SLAM - 1] = gMoveDescription_BodySlam,
+    [MOVE_WRAP - 1] = gMoveDescription_Wrap,
+    [MOVE_TAKE_DOWN - 1] = gMoveDescription_TakeDown,
+    [MOVE_THRASH - 1] = gMoveDescription_Thrash,
+    [MOVE_DOUBLE_EDGE - 1] = gMoveDescription_DoubleEdge,
+    [MOVE_TAIL_WHIP - 1] = gMoveDescription_TailWhip,
+    [MOVE_POISON_STING - 1] = gMoveDescription_PoisonSting,
+    [MOVE_TWINEEDLE - 1] = gMoveDescription_Twineedle,
+    [MOVE_PIN_MISSILE - 1] = gMoveDescription_PinMissile,
+    [MOVE_LEER - 1] = gMoveDescription_Leer,
+    [MOVE_BITE - 1] = gMoveDescription_Bite,
+    [MOVE_GROWL - 1] = gMoveDescription_Growl,
+    [MOVE_ROAR - 1] = gMoveDescription_Roar,
+    [MOVE_SING - 1] = gMoveDescription_Sing,
+    [MOVE_SUPERSONIC - 1] = gMoveDescription_Supersonic,
+    [MOVE_SONIC_BOOM - 1] = gMoveDescription_SonicBoom,
+    [MOVE_DISABLE - 1] = gMoveDescription_Disable,
+    [MOVE_ACID - 1] = gMoveDescription_Acid,
+    [MOVE_EMBER - 1] = gMoveDescription_Ember,
+    [MOVE_FLAMETHROWER - 1] = gMoveDescription_Flamethrower,
+    [MOVE_MIST - 1] = gMoveDescription_Mist,
+    [MOVE_WATER_GUN - 1] = gMoveDescription_WaterGun,
+    [MOVE_HYDRO_PUMP - 1] = gMoveDescription_HydroPump,
+    [MOVE_SURF - 1] = gMoveDescription_Surf,
+    [MOVE_ICE_BEAM - 1] = gMoveDescription_IceBeam,
+    [MOVE_BLIZZARD - 1] = gMoveDescription_Blizzard,
+    [MOVE_PSYBEAM - 1] = gMoveDescription_Psybeam,
+    [MOVE_BUBBLE_BEAM - 1] = gMoveDescription_BubbleBeam,
+    [MOVE_AURORA_BEAM - 1] = gMoveDescription_AuroraBeam,
+    [MOVE_HYPER_BEAM - 1] = gMoveDescription_HyperBeam,
+    [MOVE_PECK - 1] = gMoveDescription_Peck,
+    [MOVE_DRILL_PECK - 1] = gMoveDescription_DrillPeck,
+    [MOVE_SUBMISSION - 1] = gMoveDescription_Submission,
+    [MOVE_LOW_KICK - 1] = gMoveDescription_LowKick,
+    [MOVE_COUNTER - 1] = gMoveDescription_Counter,
+    [MOVE_SEISMIC_TOSS - 1] = gMoveDescription_SeismicToss,
+    [MOVE_STRENGTH - 1] = gMoveDescription_Strength,
+    [MOVE_ABSORB - 1] = gMoveDescription_Absorb,
+    [MOVE_MEGA_DRAIN - 1] = gMoveDescription_MegaDrain,
+    [MOVE_LEECH_SEED - 1] = gMoveDescription_LeechSeed,
+    [MOVE_GROWTH - 1] = gMoveDescription_Growth,
+    [MOVE_RAZOR_LEAF - 1] = gMoveDescription_RazorLeaf,
+    [MOVE_SOLAR_BEAM - 1] = gMoveDescription_SolarBeam,
     [MOVE_POISON_POWDER - 1] = gMoveDescription_PoisonPowder,
-    [MOVE_STUN_SPORE    - 1] = gMoveDescription_StunSpore,
-    [MOVE_SLEEP_POWDER  - 1] = gMoveDescription_SleepPowder,
-    [MOVE_PETAL_DANCE   - 1] = gMoveDescription_PetalDance,
-    [MOVE_STRING_SHOT   - 1] = gMoveDescription_StringShot,
-    [MOVE_DRAGON_RAGE   - 1] = gMoveDescription_DragonRage,
-    [MOVE_FIRE_SPIN     - 1] = gMoveDescription_FireSpin,
+    [MOVE_STUN_SPORE - 1] = gMoveDescription_StunSpore,
+    [MOVE_SLEEP_POWDER - 1] = gMoveDescription_SleepPowder,
+    [MOVE_PETAL_DANCE - 1] = gMoveDescription_PetalDance,
+    [MOVE_STRING_SHOT - 1] = gMoveDescription_StringShot,
+    [MOVE_DRAGON_RAGE - 1] = gMoveDescription_DragonRage,
+    [MOVE_FIRE_SPIN - 1] = gMoveDescription_FireSpin,
     [MOVE_THUNDER_SHOCK - 1] = gMoveDescription_ThunderShock,
-    [MOVE_THUNDERBOLT   - 1] = gMoveDescription_Thunderbolt,
-    [MOVE_THUNDER_WAVE  - 1] = gMoveDescription_ThunderWave,
-    [MOVE_THUNDER       - 1] = gMoveDescription_Thunder,
-    [MOVE_ROCK_THROW    - 1] = gMoveDescription_RockThrow,
-    [MOVE_EARTHQUAKE    - 1] = gMoveDescription_Earthquake,
-    [MOVE_FISSURE       - 1] = gMoveDescription_Fissure,
-    [MOVE_DIG           - 1] = gMoveDescription_Dig,
-    [MOVE_TOXIC         - 1] = gMoveDescription_Toxic,
-    [MOVE_CONFUSION     - 1] = gMoveDescription_Confusion,
-    [MOVE_PSYCHIC       - 1] = gMoveDescription_Psychic,
-    [MOVE_HYPNOSIS      - 1] = gMoveDescription_Hypnosis,
-    [MOVE_MEDITATE      - 1] = gMoveDescription_Meditate,
-    [MOVE_AGILITY       - 1] = gMoveDescription_Agility,
-    [MOVE_QUICK_ATTACK  - 1] = gMoveDescription_QuickAttack,
-    [MOVE_RAGE          - 1] = gMoveDescription_Rage,
-    [MOVE_TELEPORT      - 1] = gMoveDescription_Teleport,
-    [MOVE_NIGHT_SHADE   - 1] = gMoveDescription_NightShade,
-    [MOVE_MIMIC         - 1] = gMoveDescription_Mimic,
-    [MOVE_SCREECH       - 1] = gMoveDescription_Screech,
-    [MOVE_DOUBLE_TEAM   - 1] = gMoveDescription_DoubleTeam,
-    [MOVE_RECOVER       - 1] = gMoveDescription_Recover,
-    [MOVE_HARDEN        - 1] = gMoveDescription_Harden,
-    [MOVE_MINIMIZE      - 1] = gMoveDescription_Minimize,
-    [MOVE_SMOKESCREEN   - 1] = gMoveDescription_Smokescreen,
-    [MOVE_CONFUSE_RAY   - 1] = gMoveDescription_ConfuseRay,
-    [MOVE_WITHDRAW      - 1] = gMoveDescription_Withdraw,
-    [MOVE_DEFENSE_CURL  - 1] = gMoveDescription_DefenseCurl,
-    [MOVE_BARRIER       - 1] = gMoveDescription_Barrier,
-    [MOVE_LIGHT_SCREEN  - 1] = gMoveDescription_LightScreen,
-    [MOVE_HAZE          - 1] = gMoveDescription_Haze,
-    [MOVE_REFLECT       - 1] = gMoveDescription_Reflect,
-    [MOVE_FOCUS_ENERGY  - 1] = gMoveDescription_FocusEnergy,
-    [MOVE_BIDE          - 1] = gMoveDescription_Bide,
-    [MOVE_METRONOME     - 1] = gMoveDescription_Metronome,
-    [MOVE_MIRROR_MOVE   - 1] = gMoveDescription_MirrorMove,
+    [MOVE_THUNDERBOLT - 1] = gMoveDescription_Thunderbolt,
+    [MOVE_THUNDER_WAVE - 1] = gMoveDescription_ThunderWave,
+    [MOVE_THUNDER - 1] = gMoveDescription_Thunder,
+    [MOVE_ROCK_THROW - 1] = gMoveDescription_RockThrow,
+    [MOVE_EARTHQUAKE - 1] = gMoveDescription_Earthquake,
+    [MOVE_FISSURE - 1] = gMoveDescription_Fissure,
+    [MOVE_DIG - 1] = gMoveDescription_Dig,
+    [MOVE_TOXIC - 1] = gMoveDescription_Toxic,
+    [MOVE_CONFUSION - 1] = gMoveDescription_Confusion,
+    [MOVE_PSYCHIC - 1] = gMoveDescription_Psychic,
+    [MOVE_HYPNOSIS - 1] = gMoveDescription_Hypnosis,
+    [MOVE_MEDITATE - 1] = gMoveDescription_Meditate,
+    [MOVE_AGILITY - 1] = gMoveDescription_Agility,
+    [MOVE_QUICK_ATTACK - 1] = gMoveDescription_QuickAttack,
+    [MOVE_RAGE - 1] = gMoveDescription_Rage,
+    [MOVE_TELEPORT - 1] = gMoveDescription_Teleport,
+    [MOVE_NIGHT_SHADE - 1] = gMoveDescription_NightShade,
+    [MOVE_MIMIC - 1] = gMoveDescription_Mimic,
+    [MOVE_SCREECH - 1] = gMoveDescription_Screech,
+    [MOVE_DOUBLE_TEAM - 1] = gMoveDescription_DoubleTeam,
+    [MOVE_RECOVER - 1] = gMoveDescription_Recover,
+    [MOVE_HARDEN - 1] = gMoveDescription_Harden,
+    [MOVE_MINIMIZE - 1] = gMoveDescription_Minimize,
+    [MOVE_SMOKESCREEN - 1] = gMoveDescription_Smokescreen,
+    [MOVE_CONFUSE_RAY - 1] = gMoveDescription_ConfuseRay,
+    [MOVE_WITHDRAW - 1] = gMoveDescription_Withdraw,
+    [MOVE_DEFENSE_CURL - 1] = gMoveDescription_DefenseCurl,
+    [MOVE_BARRIER - 1] = gMoveDescription_Barrier,
+    [MOVE_LIGHT_SCREEN - 1] = gMoveDescription_LightScreen,
+    [MOVE_HAZE - 1] = gMoveDescription_Haze,
+    [MOVE_REFLECT - 1] = gMoveDescription_Reflect,
+    [MOVE_FOCUS_ENERGY - 1] = gMoveDescription_FocusEnergy,
+    [MOVE_BIDE - 1] = gMoveDescription_Bide,
+    [MOVE_METRONOME - 1] = gMoveDescription_Metronome,
+    [MOVE_MIRROR_MOVE - 1] = gMoveDescription_MirrorMove,
     [MOVE_SELF_DESTRUCT - 1] = gMoveDescription_SelfDestruct,
-    [MOVE_EGG_BOMB      - 1] = gMoveDescription_EggBomb,
-    [MOVE_LICK          - 1] = gMoveDescription_Lick,
-    [MOVE_SMOG          - 1] = gMoveDescription_Smog,
-    [MOVE_SLUDGE        - 1] = gMoveDescription_Sludge,
-    [MOVE_BONE_CLUB     - 1] = gMoveDescription_BoneClub,
-    [MOVE_FIRE_BLAST    - 1] = gMoveDescription_FireBlast,
-    [MOVE_WATERFALL     - 1] = gMoveDescription_Waterfall,
-    [MOVE_CLAMP         - 1] = gMoveDescription_Clamp,
-    [MOVE_SWIFT         - 1] = gMoveDescription_Swift,
-    [MOVE_SKULL_BASH    - 1] = gMoveDescription_SkullBash,
-    [MOVE_SPIKE_CANNON  - 1] = gMoveDescription_SpikeCannon,
-    [MOVE_CONSTRICT     - 1] = gMoveDescription_Constrict,
-    [MOVE_AMNESIA       - 1] = gMoveDescription_Amnesia,
-    [MOVE_KINESIS       - 1] = gMoveDescription_Kinesis,
-    [MOVE_SOFT_BOILED   - 1] = gMoveDescription_SoftBoiled,
-    [MOVE_HI_JUMP_KICK  - 1] = gMoveDescription_HiJumpKick,
-    [MOVE_GLARE         - 1] = gMoveDescription_Glare,
-    [MOVE_DREAM_EATER   - 1] = gMoveDescription_DreamEater,
-    [MOVE_POISON_GAS    - 1] = gMoveDescription_PoisonGas,
-    [MOVE_BARRAGE       - 1] = gMoveDescription_Barrage,
-    [MOVE_LEECH_LIFE    - 1] = gMoveDescription_LeechLife,
-    [MOVE_LOVELY_KISS   - 1] = gMoveDescription_LovelyKiss,
-    [MOVE_SKY_ATTACK    - 1] = gMoveDescription_SkyAttack,
-    [MOVE_TRANSFORM     - 1] = gMoveDescription_Transform,
-    [MOVE_BUBBLE        - 1] = gMoveDescription_Bubble,
-    [MOVE_DIZZY_PUNCH   - 1] = gMoveDescription_DizzyPunch,
-    [MOVE_SPORE         - 1] = gMoveDescription_Spore,
-    [MOVE_FLASH         - 1] = gMoveDescription_Flash,
-    [MOVE_PSYWAVE       - 1] = gMoveDescription_Psywave,
-    [MOVE_SPLASH        - 1] = gMoveDescription_Splash,
-    [MOVE_ACID_ARMOR    - 1] = gMoveDescription_AcidArmor,
-    [MOVE_CRABHAMMER    - 1] = gMoveDescription_Crabhammer,
-    [MOVE_EXPLOSION     - 1] = gMoveDescription_Explosion,
-    [MOVE_FURY_SWIPES   - 1] = gMoveDescription_FurySwipes,
-    [MOVE_BONEMERANG    - 1] = gMoveDescription_Bonemerang,
-    [MOVE_REST          - 1] = gMoveDescription_Rest,
-    [MOVE_ROCK_SLIDE    - 1] = gMoveDescription_RockSlide,
-    [MOVE_HYPER_FANG    - 1] = gMoveDescription_HyperFang,
-    [MOVE_SHARPEN       - 1] = gMoveDescription_Sharpen,
-    [MOVE_CONVERSION    - 1] = gMoveDescription_Conversion,
-    [MOVE_TRI_ATTACK    - 1] = gMoveDescription_TriAttack,
-    [MOVE_SUPER_FANG    - 1] = gMoveDescription_SuperFang,
-    [MOVE_SLASH         - 1] = gMoveDescription_Slash,
-    [MOVE_SUBSTITUTE    - 1] = gMoveDescription_Substitute,
-    [MOVE_STRUGGLE      - 1] = gMoveDescription_Struggle,
-    [MOVE_SKETCH        - 1] = gMoveDescription_Sketch,
-    [MOVE_TRIPLE_KICK   - 1] = gMoveDescription_TripleKick,
-    [MOVE_THIEF         - 1] = gMoveDescription_Thief,
-    [MOVE_SPIDER_WEB    - 1] = gMoveDescription_SpiderWeb,
-    [MOVE_MIND_READER   - 1] = gMoveDescription_MindReader,
-    [MOVE_NIGHTMARE     - 1] = gMoveDescription_Nightmare,
-    [MOVE_FLAME_WHEEL   - 1] = gMoveDescription_FlameWheel,
-    [MOVE_SNORE         - 1] = gMoveDescription_Snore,
-    [MOVE_CURSE         - 1] = gMoveDescription_Curse,
-    [MOVE_FLAIL         - 1] = gMoveDescription_Flail,
-    [MOVE_CONVERSION_2  - 1] = gMoveDescription_Conversion2,
-    [MOVE_AEROBLAST     - 1] = gMoveDescription_Aeroblast,
-    [MOVE_COTTON_SPORE  - 1] = gMoveDescription_CottonSpore,
-    [MOVE_REVERSAL      - 1] = gMoveDescription_Reversal,
-    [MOVE_SPITE         - 1] = gMoveDescription_Spite,
-    [MOVE_POWDER_SNOW   - 1] = gMoveDescription_PowderSnow,
-    [MOVE_PROTECT       - 1] = gMoveDescription_Protect,
-    [MOVE_MACH_PUNCH    - 1] = gMoveDescription_MachPunch,
-    [MOVE_SCARY_FACE    - 1] = gMoveDescription_ScaryFace,
-    [MOVE_FAINT_ATTACK  - 1] = gMoveDescription_FaintAttack,
-    [MOVE_SWEET_KISS    - 1] = gMoveDescription_SweetKiss,
-    [MOVE_BELLY_DRUM    - 1] = gMoveDescription_BellyDrum,
-    [MOVE_SLUDGE_BOMB   - 1] = gMoveDescription_SludgeBomb,
-    [MOVE_MUD_SLAP      - 1] = gMoveDescription_MudSlap,
-    [MOVE_OCTAZOOKA     - 1] = gMoveDescription_Octazooka,
-    [MOVE_SPIKES        - 1] = gMoveDescription_Spikes,
-    [MOVE_ZAP_CANNON    - 1] = gMoveDescription_ZapCannon,
-    [MOVE_FORESIGHT     - 1] = gMoveDescription_Foresight,
-    [MOVE_DESTINY_BOND  - 1] = gMoveDescription_DestinyBond,
-    [MOVE_PERISH_SONG   - 1] = gMoveDescription_PerishSong,
-    [MOVE_ICY_WIND      - 1] = gMoveDescription_IcyWind,
-    [MOVE_DETECT        - 1] = gMoveDescription_Detect,
-    [MOVE_BONE_RUSH     - 1] = gMoveDescription_BoneRush,
-    [MOVE_LOCK_ON       - 1] = gMoveDescription_LockOn,
-    [MOVE_OUTRAGE       - 1] = gMoveDescription_Outrage,
-    [MOVE_SANDSTORM     - 1] = gMoveDescription_Sandstorm,
-    [MOVE_GIGA_DRAIN    - 1] = gMoveDescription_GigaDrain,
-    [MOVE_ENDURE        - 1] = gMoveDescription_Endure,
-    [MOVE_CHARM         - 1] = gMoveDescription_Charm,
-    [MOVE_ROLLOUT       - 1] = gMoveDescription_Rollout,
-    [MOVE_FALSE_SWIPE   - 1] = gMoveDescription_FalseSwipe,
-    [MOVE_SWAGGER       - 1] = gMoveDescription_Swagger,
-    [MOVE_MILK_DRINK    - 1] = gMoveDescription_MilkDrink,
-    [MOVE_SPARK         - 1] = gMoveDescription_Spark,
-    [MOVE_FURY_CUTTER   - 1] = gMoveDescription_FuryCutter,
-    [MOVE_STEEL_WING    - 1] = gMoveDescription_SteelWing,
-    [MOVE_MEAN_LOOK     - 1] = gMoveDescription_MeanLook,
-    [MOVE_ATTRACT       - 1] = gMoveDescription_Attract,
-    [MOVE_SLEEP_TALK    - 1] = gMoveDescription_SleepTalk,
-    [MOVE_HEAL_BELL     - 1] = gMoveDescription_HealBell,
-    [MOVE_RETURN        - 1] = gMoveDescription_Return,
-    [MOVE_PRESENT       - 1] = gMoveDescription_Present,
-    [MOVE_FRUSTRATION   - 1] = gMoveDescription_Frustration,
-    [MOVE_SAFEGUARD     - 1] = gMoveDescription_Safeguard,
-    [MOVE_PAIN_SPLIT    - 1] = gMoveDescription_PainSplit,
-    [MOVE_SACRED_FIRE   - 1] = gMoveDescription_SacredFire,
-    [MOVE_MAGNITUDE     - 1] = gMoveDescription_Magnitude,
+    [MOVE_EGG_BOMB - 1] = gMoveDescription_EggBomb,
+    [MOVE_LICK - 1] = gMoveDescription_Lick,
+    [MOVE_SMOG - 1] = gMoveDescription_Smog,
+    [MOVE_SLUDGE - 1] = gMoveDescription_Sludge,
+    [MOVE_BONE_CLUB - 1] = gMoveDescription_BoneClub,
+    [MOVE_FIRE_BLAST - 1] = gMoveDescription_FireBlast,
+    [MOVE_WATERFALL - 1] = gMoveDescription_Waterfall,
+    [MOVE_CLAMP - 1] = gMoveDescription_Clamp,
+    [MOVE_SWIFT - 1] = gMoveDescription_Swift,
+    [MOVE_SKULL_BASH - 1] = gMoveDescription_SkullBash,
+    [MOVE_SPIKE_CANNON - 1] = gMoveDescription_SpikeCannon,
+    [MOVE_CONSTRICT - 1] = gMoveDescription_Constrict,
+    [MOVE_AMNESIA - 1] = gMoveDescription_Amnesia,
+    [MOVE_KINESIS - 1] = gMoveDescription_Kinesis,
+    [MOVE_SOFT_BOILED - 1] = gMoveDescription_SoftBoiled,
+    [MOVE_HI_JUMP_KICK - 1] = gMoveDescription_HiJumpKick,
+    [MOVE_GLARE - 1] = gMoveDescription_Glare,
+    [MOVE_DREAM_EATER - 1] = gMoveDescription_DreamEater,
+    [MOVE_POISON_GAS - 1] = gMoveDescription_PoisonGas,
+    [MOVE_BARRAGE - 1] = gMoveDescription_Barrage,
+    [MOVE_LEECH_LIFE - 1] = gMoveDescription_LeechLife,
+    [MOVE_LOVELY_KISS - 1] = gMoveDescription_LovelyKiss,
+    [MOVE_SKY_ATTACK - 1] = gMoveDescription_SkyAttack,
+    [MOVE_TRANSFORM - 1] = gMoveDescription_Transform,
+    [MOVE_BUBBLE - 1] = gMoveDescription_Bubble,
+    [MOVE_DIZZY_PUNCH - 1] = gMoveDescription_DizzyPunch,
+    [MOVE_SPORE - 1] = gMoveDescription_Spore,
+    [MOVE_FLASH - 1] = gMoveDescription_Flash,
+    [MOVE_PSYWAVE - 1] = gMoveDescription_Psywave,
+    [MOVE_SPLASH - 1] = gMoveDescription_Splash,
+    [MOVE_ACID_ARMOR - 1] = gMoveDescription_AcidArmor,
+    [MOVE_CRABHAMMER - 1] = gMoveDescription_Crabhammer,
+    [MOVE_EXPLOSION - 1] = gMoveDescription_Explosion,
+    [MOVE_FURY_SWIPES - 1] = gMoveDescription_FurySwipes,
+    [MOVE_BONEMERANG - 1] = gMoveDescription_Bonemerang,
+    [MOVE_REST - 1] = gMoveDescription_Rest,
+    [MOVE_ROCK_SLIDE - 1] = gMoveDescription_RockSlide,
+    [MOVE_HYPER_FANG - 1] = gMoveDescription_HyperFang,
+    [MOVE_SHARPEN - 1] = gMoveDescription_Sharpen,
+    [MOVE_CONVERSION - 1] = gMoveDescription_Conversion,
+    [MOVE_TRI_ATTACK - 1] = gMoveDescription_TriAttack,
+    [MOVE_SUPER_FANG - 1] = gMoveDescription_SuperFang,
+    [MOVE_SLASH - 1] = gMoveDescription_Slash,
+    [MOVE_SUBSTITUTE - 1] = gMoveDescription_Substitute,
+    [MOVE_STRUGGLE - 1] = gMoveDescription_Struggle,
+    [MOVE_SKETCH - 1] = gMoveDescription_Sketch,
+    [MOVE_TRIPLE_KICK - 1] = gMoveDescription_TripleKick,
+    [MOVE_THIEF - 1] = gMoveDescription_Thief,
+    [MOVE_SPIDER_WEB - 1] = gMoveDescription_SpiderWeb,
+    [MOVE_MIND_READER - 1] = gMoveDescription_MindReader,
+    [MOVE_NIGHTMARE - 1] = gMoveDescription_Nightmare,
+    [MOVE_FLAME_WHEEL - 1] = gMoveDescription_FlameWheel,
+    [MOVE_SNORE - 1] = gMoveDescription_Snore,
+    [MOVE_CURSE - 1] = gMoveDescription_Curse,
+    [MOVE_FLAIL - 1] = gMoveDescription_Flail,
+    [MOVE_CONVERSION_2 - 1] = gMoveDescription_Conversion2,
+    [MOVE_AEROBLAST - 1] = gMoveDescription_Aeroblast,
+    [MOVE_COTTON_SPORE - 1] = gMoveDescription_CottonSpore,
+    [MOVE_REVERSAL - 1] = gMoveDescription_Reversal,
+    [MOVE_SPITE - 1] = gMoveDescription_Spite,
+    [MOVE_POWDER_SNOW - 1] = gMoveDescription_PowderSnow,
+    [MOVE_PROTECT - 1] = gMoveDescription_Protect,
+    [MOVE_MACH_PUNCH - 1] = gMoveDescription_MachPunch,
+    [MOVE_SCARY_FACE - 1] = gMoveDescription_ScaryFace,
+    [MOVE_FAINT_ATTACK - 1] = gMoveDescription_FaintAttack,
+    [MOVE_SWEET_KISS - 1] = gMoveDescription_SweetKiss,
+    [MOVE_BELLY_DRUM - 1] = gMoveDescription_BellyDrum,
+    [MOVE_SLUDGE_BOMB - 1] = gMoveDescription_SludgeBomb,
+    [MOVE_MUD_SLAP - 1] = gMoveDescription_MudSlap,
+    [MOVE_OCTAZOOKA - 1] = gMoveDescription_Octazooka,
+    [MOVE_SPIKES - 1] = gMoveDescription_Spikes,
+    [MOVE_ZAP_CANNON - 1] = gMoveDescription_ZapCannon,
+    [MOVE_FORESIGHT - 1] = gMoveDescription_Foresight,
+    [MOVE_DESTINY_BOND - 1] = gMoveDescription_DestinyBond,
+    [MOVE_PERISH_SONG - 1] = gMoveDescription_PerishSong,
+    [MOVE_ICY_WIND - 1] = gMoveDescription_IcyWind,
+    [MOVE_DETECT - 1] = gMoveDescription_Detect,
+    [MOVE_BONE_RUSH - 1] = gMoveDescription_BoneRush,
+    [MOVE_LOCK_ON - 1] = gMoveDescription_LockOn,
+    [MOVE_OUTRAGE - 1] = gMoveDescription_Outrage,
+    [MOVE_SANDSTORM - 1] = gMoveDescription_Sandstorm,
+    [MOVE_GIGA_DRAIN - 1] = gMoveDescription_GigaDrain,
+    [MOVE_ENDURE - 1] = gMoveDescription_Endure,
+    [MOVE_CHARM - 1] = gMoveDescription_Charm,
+    [MOVE_ROLLOUT - 1] = gMoveDescription_Rollout,
+    [MOVE_FALSE_SWIPE - 1] = gMoveDescription_FalseSwipe,
+    [MOVE_SWAGGER - 1] = gMoveDescription_Swagger,
+    [MOVE_MILK_DRINK - 1] = gMoveDescription_MilkDrink,
+    [MOVE_SPARK - 1] = gMoveDescription_Spark,
+    [MOVE_FURY_CUTTER - 1] = gMoveDescription_FuryCutter,
+    [MOVE_STEEL_WING - 1] = gMoveDescription_SteelWing,
+    [MOVE_MEAN_LOOK - 1] = gMoveDescription_MeanLook,
+    [MOVE_ATTRACT - 1] = gMoveDescription_Attract,
+    [MOVE_SLEEP_TALK - 1] = gMoveDescription_SleepTalk,
+    [MOVE_HEAL_BELL - 1] = gMoveDescription_HealBell,
+    [MOVE_RETURN - 1] = gMoveDescription_Return,
+    [MOVE_PRESENT - 1] = gMoveDescription_Present,
+    [MOVE_FRUSTRATION - 1] = gMoveDescription_Frustration,
+    [MOVE_SAFEGUARD - 1] = gMoveDescription_Safeguard,
+    [MOVE_PAIN_SPLIT - 1] = gMoveDescription_PainSplit,
+    [MOVE_SACRED_FIRE - 1] = gMoveDescription_SacredFire,
+    [MOVE_MAGNITUDE - 1] = gMoveDescription_Magnitude,
     [MOVE_DYNAMIC_PUNCH - 1] = gMoveDescription_DynamicPunch,
-    [MOVE_MEGAHORN      - 1] = gMoveDescription_Megahorn,
+    [MOVE_MEGAHORN - 1] = gMoveDescription_Megahorn,
     [MOVE_DRAGON_BREATH - 1] = gMoveDescription_DragonBreath,
-    [MOVE_BATON_PASS    - 1] = gMoveDescription_BatonPass,
-    [MOVE_ENCORE        - 1] = gMoveDescription_Encore,
-    [MOVE_PURSUIT       - 1] = gMoveDescription_Pursuit,
-    [MOVE_RAPID_SPIN    - 1] = gMoveDescription_RapidSpin,
-    [MOVE_SWEET_SCENT   - 1] = gMoveDescription_SweetScent,
-    [MOVE_IRON_TAIL     - 1] = gMoveDescription_IronTail,
-    [MOVE_METAL_CLAW    - 1] = gMoveDescription_MetalClaw,
-    [MOVE_VITAL_THROW   - 1] = gMoveDescription_VitalThrow,
-    [MOVE_MORNING_SUN   - 1] = gMoveDescription_MorningSun,
-    [MOVE_SYNTHESIS     - 1] = gMoveDescription_Synthesis,
-    [MOVE_MOONLIGHT     - 1] = gMoveDescription_Moonlight,
-    [MOVE_HIDDEN_POWER  - 1] = gMoveDescription_HiddenPower,
-    [MOVE_CROSS_CHOP    - 1] = gMoveDescription_CrossChop,
-    [MOVE_TWISTER       - 1] = gMoveDescription_Twister,
-    [MOVE_RAIN_DANCE    - 1] = gMoveDescription_RainDance,
-    [MOVE_SUNNY_DAY     - 1] = gMoveDescription_SunnyDay,
-    [MOVE_CRUNCH        - 1] = gMoveDescription_Crunch,
-    [MOVE_MIRROR_COAT   - 1] = gMoveDescription_MirrorCoat,
-    [MOVE_PSYCH_UP      - 1] = gMoveDescription_PsychUp,
+    [MOVE_BATON_PASS - 1] = gMoveDescription_BatonPass,
+    [MOVE_ENCORE - 1] = gMoveDescription_Encore,
+    [MOVE_PURSUIT - 1] = gMoveDescription_Pursuit,
+    [MOVE_RAPID_SPIN - 1] = gMoveDescription_RapidSpin,
+    [MOVE_SWEET_SCENT - 1] = gMoveDescription_SweetScent,
+    [MOVE_IRON_TAIL - 1] = gMoveDescription_IronTail,
+    [MOVE_METAL_CLAW - 1] = gMoveDescription_MetalClaw,
+    [MOVE_VITAL_THROW - 1] = gMoveDescription_VitalThrow,
+    [MOVE_MORNING_SUN - 1] = gMoveDescription_MorningSun,
+    [MOVE_SYNTHESIS - 1] = gMoveDescription_Synthesis,
+    [MOVE_MOONLIGHT - 1] = gMoveDescription_Moonlight,
+    [MOVE_HIDDEN_POWER - 1] = gMoveDescription_HiddenPower,
+    [MOVE_CROSS_CHOP - 1] = gMoveDescription_CrossChop,
+    [MOVE_TWISTER - 1] = gMoveDescription_Twister,
+    [MOVE_RAIN_DANCE - 1] = gMoveDescription_RainDance,
+    [MOVE_SUNNY_DAY - 1] = gMoveDescription_SunnyDay,
+    [MOVE_CRUNCH - 1] = gMoveDescription_Crunch,
+    [MOVE_MIRROR_COAT - 1] = gMoveDescription_MirrorCoat,
+    [MOVE_PSYCH_UP - 1] = gMoveDescription_PsychUp,
     [MOVE_EXTREME_SPEED - 1] = gMoveDescription_ExtremeSpeed,
     [MOVE_ANCIENT_POWER - 1] = gMoveDescription_AncientPower,
-    [MOVE_SHADOW_BALL   - 1] = gMoveDescription_ShadowBall,
-    [MOVE_FUTURE_SIGHT  - 1] = gMoveDescription_FutureSight,
-    [MOVE_ROCK_SMASH    - 1] = gMoveDescription_RockSmash,
-    [MOVE_WHIRLPOOL     - 1] = gMoveDescription_Whirlpool,
-    [MOVE_BEAT_UP       - 1] = gMoveDescription_BeatUp,
-    [MOVE_FAKE_OUT      - 1] = gMoveDescription_FakeOut,
-    [MOVE_UPROAR        - 1] = gMoveDescription_Uproar,
-    [MOVE_STOCKPILE     - 1] = gMoveDescription_Stockpile,
-    [MOVE_SPIT_UP       - 1] = gMoveDescription_SpitUp,
-    [MOVE_SWALLOW       - 1] = gMoveDescription_Swallow,
-    [MOVE_HEAT_WAVE     - 1] = gMoveDescription_HeatWave,
-    [MOVE_HAIL          - 1] = gMoveDescription_Hail,
-    [MOVE_TORMENT       - 1] = gMoveDescription_Torment,
-    [MOVE_FLATTER       - 1] = gMoveDescription_Flatter,
-    [MOVE_WILL_O_WISP   - 1] = gMoveDescription_WillOWisp,
-    [MOVE_MEMENTO       - 1] = gMoveDescription_Memento,
-    [MOVE_FACADE        - 1] = gMoveDescription_Facade,
-    [MOVE_FOCUS_PUNCH   - 1] = gMoveDescription_FocusPunch,
+    [MOVE_SHADOW_BALL - 1] = gMoveDescription_ShadowBall,
+    [MOVE_FUTURE_SIGHT - 1] = gMoveDescription_FutureSight,
+    [MOVE_ROCK_SMASH - 1] = gMoveDescription_RockSmash,
+    [MOVE_WHIRLPOOL - 1] = gMoveDescription_Whirlpool,
+    [MOVE_BEAT_UP - 1] = gMoveDescription_BeatUp,
+    [MOVE_FAKE_OUT - 1] = gMoveDescription_FakeOut,
+    [MOVE_UPROAR - 1] = gMoveDescription_Uproar,
+    [MOVE_STOCKPILE - 1] = gMoveDescription_Stockpile,
+    [MOVE_SPIT_UP - 1] = gMoveDescription_SpitUp,
+    [MOVE_SWALLOW - 1] = gMoveDescription_Swallow,
+    [MOVE_HEAT_WAVE - 1] = gMoveDescription_HeatWave,
+    [MOVE_HAIL - 1] = gMoveDescription_Hail,
+    [MOVE_TORMENT - 1] = gMoveDescription_Torment,
+    [MOVE_FLATTER - 1] = gMoveDescription_Flatter,
+    [MOVE_WILL_O_WISP - 1] = gMoveDescription_WillOWisp,
+    [MOVE_MEMENTO - 1] = gMoveDescription_Memento,
+    [MOVE_FACADE - 1] = gMoveDescription_Facade,
+    [MOVE_FOCUS_PUNCH - 1] = gMoveDescription_FocusPunch,
     [MOVE_SMELLING_SALT - 1] = gMoveDescription_SmellingSalt,
-    [MOVE_FOLLOW_ME     - 1] = gMoveDescription_FollowMe,
-    [MOVE_NATURE_POWER  - 1] = gMoveDescription_NaturePower,
-    [MOVE_CHARGE        - 1] = gMoveDescription_Charge,
-    [MOVE_TAUNT         - 1] = gMoveDescription_Taunt,
-    [MOVE_HELPING_HAND  - 1] = gMoveDescription_HelpingHand,
-    [MOVE_TRICK         - 1] = gMoveDescription_Trick,
-    [MOVE_ROLE_PLAY     - 1] = gMoveDescription_RolePlay,
-    [MOVE_WISH          - 1] = gMoveDescription_Wish,
-    [MOVE_ASSIST        - 1] = gMoveDescription_Assist,
-    [MOVE_INGRAIN       - 1] = gMoveDescription_Ingrain,
-    [MOVE_SUPERPOWER    - 1] = gMoveDescription_Superpower,
-    [MOVE_MAGIC_COAT    - 1] = gMoveDescription_MagicCoat,
-    [MOVE_RECYCLE       - 1] = gMoveDescription_Recycle,
-    [MOVE_REVENGE       - 1] = gMoveDescription_Revenge,
-    [MOVE_BRICK_BREAK   - 1] = gMoveDescription_BrickBreak,
-    [MOVE_YAWN          - 1] = gMoveDescription_Yawn,
-    [MOVE_KNOCK_OFF     - 1] = gMoveDescription_KnockOff,
-    [MOVE_ENDEAVOR      - 1] = gMoveDescription_Endeavor,
-    [MOVE_ERUPTION      - 1] = gMoveDescription_Eruption,
-    [MOVE_SKILL_SWAP    - 1] = gMoveDescription_SkillSwap,
-    [MOVE_IMPRISON      - 1] = gMoveDescription_Imprison,
-    [MOVE_REFRESH       - 1] = gMoveDescription_Refresh,
-    [MOVE_GRUDGE        - 1] = gMoveDescription_Grudge,
-    [MOVE_SNATCH        - 1] = gMoveDescription_Snatch,
-    [MOVE_SECRET_POWER  - 1] = gMoveDescription_SecretPower,
-    [MOVE_DIVE          - 1] = gMoveDescription_Dive,
-    [MOVE_ARM_THRUST    - 1] = gMoveDescription_ArmThrust,
-    [MOVE_CAMOUFLAGE    - 1] = gMoveDescription_Camouflage,
-    [MOVE_TAIL_GLOW     - 1] = gMoveDescription_TailGlow,
-    [MOVE_LUSTER_PURGE  - 1] = gMoveDescription_LusterPurge,
-    [MOVE_MIST_BALL     - 1] = gMoveDescription_MistBall,
+    [MOVE_FOLLOW_ME - 1] = gMoveDescription_FollowMe,
+    [MOVE_NATURE_POWER - 1] = gMoveDescription_NaturePower,
+    [MOVE_CHARGE - 1] = gMoveDescription_Charge,
+    [MOVE_TAUNT - 1] = gMoveDescription_Taunt,
+    [MOVE_HELPING_HAND - 1] = gMoveDescription_HelpingHand,
+    [MOVE_TRICK - 1] = gMoveDescription_Trick,
+    [MOVE_ROLE_PLAY - 1] = gMoveDescription_RolePlay,
+    [MOVE_WISH - 1] = gMoveDescription_Wish,
+    [MOVE_ASSIST - 1] = gMoveDescription_Assist,
+    [MOVE_INGRAIN - 1] = gMoveDescription_Ingrain,
+    [MOVE_SUPERPOWER - 1] = gMoveDescription_Superpower,
+    [MOVE_MAGIC_COAT - 1] = gMoveDescription_MagicCoat,
+    [MOVE_RECYCLE - 1] = gMoveDescription_Recycle,
+    [MOVE_REVENGE - 1] = gMoveDescription_Revenge,
+    [MOVE_BRICK_BREAK - 1] = gMoveDescription_BrickBreak,
+    [MOVE_YAWN - 1] = gMoveDescription_Yawn,
+    [MOVE_KNOCK_OFF - 1] = gMoveDescription_KnockOff,
+    [MOVE_ENDEAVOR - 1] = gMoveDescription_Endeavor,
+    [MOVE_ERUPTION - 1] = gMoveDescription_Eruption,
+    [MOVE_SKILL_SWAP - 1] = gMoveDescription_SkillSwap,
+    [MOVE_IMPRISON - 1] = gMoveDescription_Imprison,
+    [MOVE_REFRESH - 1] = gMoveDescription_Refresh,
+    [MOVE_GRUDGE - 1] = gMoveDescription_Grudge,
+    [MOVE_SNATCH - 1] = gMoveDescription_Snatch,
+    [MOVE_SECRET_POWER - 1] = gMoveDescription_SecretPower,
+    [MOVE_DIVE - 1] = gMoveDescription_Dive,
+    [MOVE_ARM_THRUST - 1] = gMoveDescription_ArmThrust,
+    [MOVE_CAMOUFLAGE - 1] = gMoveDescription_Camouflage,
+    [MOVE_TAIL_GLOW - 1] = gMoveDescription_TailGlow,
+    [MOVE_LUSTER_PURGE - 1] = gMoveDescription_LusterPurge,
+    [MOVE_MIST_BALL - 1] = gMoveDescription_MistBall,
     [MOVE_FEATHER_DANCE - 1] = gMoveDescription_FeatherDance,
-    [MOVE_TEETER_DANCE  - 1] = gMoveDescription_TeeterDance,
-    [MOVE_BLAZE_KICK    - 1] = gMoveDescription_BlazeKick,
-    [MOVE_MUD_SPORT     - 1] = gMoveDescription_MudSport,
-    [MOVE_ICE_BALL      - 1] = gMoveDescription_IceBall,
-    [MOVE_NEEDLE_ARM    - 1] = gMoveDescription_NeedleArm,
-    [MOVE_SLACK_OFF     - 1] = gMoveDescription_SlackOff,
-    [MOVE_HYPER_VOICE   - 1] = gMoveDescription_HyperVoice,
-    [MOVE_POISON_FANG   - 1] = gMoveDescription_PoisonFang,
-    [MOVE_CRUSH_CLAW    - 1] = gMoveDescription_CrushClaw,
-    [MOVE_BLAST_BURN    - 1] = gMoveDescription_BlastBurn,
-    [MOVE_HYDRO_CANNON  - 1] = gMoveDescription_HydroCannon,
-    [MOVE_METEOR_MASH   - 1] = gMoveDescription_MeteorMash,
-    [MOVE_ASTONISH      - 1] = gMoveDescription_Astonish,
-    [MOVE_WEATHER_BALL  - 1] = gMoveDescription_WeatherBall,
-    [MOVE_AROMATHERAPY  - 1] = gMoveDescription_Aromatherapy,
-    [MOVE_FAKE_TEARS    - 1] = gMoveDescription_FakeTears,
-    [MOVE_AIR_CUTTER    - 1] = gMoveDescription_AirCutter,
-    [MOVE_OVERHEAT      - 1] = gMoveDescription_Overheat,
-    [MOVE_ODOR_SLEUTH   - 1] = gMoveDescription_OdorSleuth,
-    [MOVE_ROCK_TOMB     - 1] = gMoveDescription_RockTomb,
-    [MOVE_SILVER_WIND   - 1] = gMoveDescription_SilverWind,
-    [MOVE_METAL_SOUND   - 1] = gMoveDescription_MetalSound,
+    [MOVE_TEETER_DANCE - 1] = gMoveDescription_TeeterDance,
+    [MOVE_BLAZE_KICK - 1] = gMoveDescription_BlazeKick,
+    [MOVE_MUD_SPORT - 1] = gMoveDescription_MudSport,
+    [MOVE_ICE_BALL - 1] = gMoveDescription_IceBall,
+    [MOVE_NEEDLE_ARM - 1] = gMoveDescription_NeedleArm,
+    [MOVE_SLACK_OFF - 1] = gMoveDescription_SlackOff,
+    [MOVE_HYPER_VOICE - 1] = gMoveDescription_HyperVoice,
+    [MOVE_POISON_FANG - 1] = gMoveDescription_PoisonFang,
+    [MOVE_CRUSH_CLAW - 1] = gMoveDescription_CrushClaw,
+    [MOVE_BLAST_BURN - 1] = gMoveDescription_BlastBurn,
+    [MOVE_HYDRO_CANNON - 1] = gMoveDescription_HydroCannon,
+    [MOVE_METEOR_MASH - 1] = gMoveDescription_MeteorMash,
+    [MOVE_ASTONISH - 1] = gMoveDescription_Astonish,
+    [MOVE_WEATHER_BALL - 1] = gMoveDescription_WeatherBall,
+    [MOVE_AROMATHERAPY - 1] = gMoveDescription_Aromatherapy,
+    [MOVE_FAKE_TEARS - 1] = gMoveDescription_FakeTears,
+    [MOVE_AIR_CUTTER - 1] = gMoveDescription_AirCutter,
+    [MOVE_OVERHEAT - 1] = gMoveDescription_Overheat,
+    [MOVE_ODOR_SLEUTH - 1] = gMoveDescription_OdorSleuth,
+    [MOVE_ROCK_TOMB - 1] = gMoveDescription_RockTomb,
+    [MOVE_SILVER_WIND - 1] = gMoveDescription_SilverWind,
+    [MOVE_METAL_SOUND - 1] = gMoveDescription_MetalSound,
     [MOVE_GRASS_WHISTLE - 1] = gMoveDescription_GrassWhistle,
-    [MOVE_TICKLE        - 1] = gMoveDescription_Tickle,
-    [MOVE_COSMIC_POWER  - 1] = gMoveDescription_CosmicPower,
-    [MOVE_WATER_SPOUT   - 1] = gMoveDescription_WaterSpout,
-    [MOVE_SIGNAL_BEAM   - 1] = gMoveDescription_SignalBeam,
-    [MOVE_SHADOW_PUNCH  - 1] = gMoveDescription_ShadowPunch,
-    [MOVE_EXTRASENSORY  - 1] = gMoveDescription_Extrasensory,
-    [MOVE_SKY_UPPERCUT  - 1] = gMoveDescription_SkyUppercut,
-    [MOVE_SAND_TOMB     - 1] = gMoveDescription_SandTomb,
-    [MOVE_SHEER_COLD    - 1] = gMoveDescription_SheerCold,
-    [MOVE_MUDDY_WATER   - 1] = gMoveDescription_MuddyWater,
-    [MOVE_BULLET_SEED   - 1] = gMoveDescription_BulletSeed,
-    [MOVE_AERIAL_ACE    - 1] = gMoveDescription_AerialAce,
-    [MOVE_ICICLE_SPEAR  - 1] = gMoveDescription_IcicleSpear,
-    [MOVE_IRON_DEFENSE  - 1] = gMoveDescription_IronDefense,
-    [MOVE_BLOCK         - 1] = gMoveDescription_Block,
-    [MOVE_HOWL          - 1] = gMoveDescription_Howl,
-    [MOVE_DRAGON_CLAW   - 1] = gMoveDescription_DragonClaw,
-    [MOVE_FRENZY_PLANT  - 1] = gMoveDescription_FrenzyPlant,
-    [MOVE_BULK_UP       - 1] = gMoveDescription_BulkUp,
-    [MOVE_BOUNCE        - 1] = gMoveDescription_Bounce,
-    [MOVE_MUD_SHOT      - 1] = gMoveDescription_MudShot,
-    [MOVE_POISON_TAIL   - 1] = gMoveDescription_PoisonTail,
-    [MOVE_COVET         - 1] = gMoveDescription_Covet,
-    [MOVE_VOLT_TACKLE   - 1] = gMoveDescription_VoltTackle,
-    [MOVE_MAGICAL_LEAF  - 1] = gMoveDescription_MagicalLeaf,
-    [MOVE_WATER_SPORT   - 1] = gMoveDescription_WaterSport,
-    [MOVE_CALM_MIND     - 1] = gMoveDescription_CalmMind,
-    [MOVE_LEAF_BLADE    - 1] = gMoveDescription_LeafBlade,
-    [MOVE_DRAGON_DANCE  - 1] = gMoveDescription_DragonDance,
-    [MOVE_ROCK_BLAST    - 1] = gMoveDescription_RockBlast,
-    [MOVE_SHOCK_WAVE    - 1] = gMoveDescription_ShockWave,
-    [MOVE_WATER_PULSE   - 1] = gMoveDescription_WaterPulse,
-    [MOVE_DOOM_DESIRE   - 1] = gMoveDescription_DoomDesire,
-    [MOVE_PSYCHO_BOOST  - 1] = gMoveDescription_PsychoBoost,
+    [MOVE_TICKLE - 1] = gMoveDescription_Tickle,
+    [MOVE_COSMIC_POWER - 1] = gMoveDescription_CosmicPower,
+    [MOVE_WATER_SPOUT - 1] = gMoveDescription_WaterSpout,
+    [MOVE_SIGNAL_BEAM - 1] = gMoveDescription_SignalBeam,
+    [MOVE_SHADOW_PUNCH - 1] = gMoveDescription_ShadowPunch,
+    [MOVE_EXTRASENSORY - 1] = gMoveDescription_Extrasensory,
+    [MOVE_SKY_UPPERCUT - 1] = gMoveDescription_SkyUppercut,
+    [MOVE_SAND_TOMB - 1] = gMoveDescription_SandTomb,
+    [MOVE_SHEER_COLD - 1] = gMoveDescription_SheerCold,
+    [MOVE_MUDDY_WATER - 1] = gMoveDescription_MuddyWater,
+    [MOVE_BULLET_SEED - 1] = gMoveDescription_BulletSeed,
+    [MOVE_AERIAL_ACE - 1] = gMoveDescription_AerialAce,
+    [MOVE_ICICLE_SPEAR - 1] = gMoveDescription_IcicleSpear,
+    [MOVE_IRON_DEFENSE - 1] = gMoveDescription_IronDefense,
+    [MOVE_BLOCK - 1] = gMoveDescription_Block,
+    [MOVE_HOWL - 1] = gMoveDescription_Howl,
+    [MOVE_DRAGON_CLAW - 1] = gMoveDescription_DragonClaw,
+    [MOVE_FRENZY_PLANT - 1] = gMoveDescription_FrenzyPlant,
+    [MOVE_BULK_UP - 1] = gMoveDescription_BulkUp,
+    [MOVE_BOUNCE - 1] = gMoveDescription_Bounce,
+    [MOVE_MUD_SHOT - 1] = gMoveDescription_MudShot,
+    [MOVE_POISON_TAIL - 1] = gMoveDescription_PoisonTail,
+    [MOVE_COVET - 1] = gMoveDescription_Covet,
+    [MOVE_VOLT_TACKLE - 1] = gMoveDescription_VoltTackle,
+    [MOVE_MAGICAL_LEAF - 1] = gMoveDescription_MagicalLeaf,
+    [MOVE_WATER_SPORT - 1] = gMoveDescription_WaterSport,
+    [MOVE_CALM_MIND - 1] = gMoveDescription_CalmMind,
+    [MOVE_LEAF_BLADE - 1] = gMoveDescription_LeafBlade,
+    [MOVE_DRAGON_DANCE - 1] = gMoveDescription_DragonDance,
+    [MOVE_ROCK_BLAST - 1] = gMoveDescription_RockBlast,
+    [MOVE_SHOCK_WAVE - 1] = gMoveDescription_ShockWave,
+    [MOVE_WATER_PULSE - 1] = gMoveDescription_WaterPulse,
+    [MOVE_DOOM_DESIRE - 1] = gMoveDescription_DoomDesire,
+    [MOVE_PSYCHO_BOOST - 1] = gMoveDescription_PsychoBoost,
 };
