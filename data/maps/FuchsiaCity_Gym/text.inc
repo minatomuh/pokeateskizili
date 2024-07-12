@@ -20,7 +20,7 @@ FuchsiaCity_Gym_Text_KogaDefeat::
     .string "Hmph!\n"
     .string "Değerini gösterdin!\p"
     .string "İşte!\n"
-    .string "SOULBADGE senin olsun!$"
+    .string "RUH ROZETİ senin olsun!$"
 
 FuchsiaCity_Gym_Text_KogaPostBattle::
     .string "TOXIC'e maruz kalan bir\n"
@@ -32,7 +32,7 @@ FuchsiaCity_Gym_Text_KogaPostBattle::
     .string "korkutacak!$"
 
 FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
-    .string "Şimdi SOULBADGE'e sahipsin,\n"
+    .string "Şimdi RUH ROZETİ'ne sahipsin,\n"
     .string "POKéMON'larının SAVUNMA'sı\n"
     .string "artacak.\p"
     .string "Ayrıca savaş dışında\n"

@@ -15,7 +15,7 @@ VermilionCity_Gym_Text_LtSurgePostBattle::
     .string "işe yaramaz!$"
 
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
-    .string "THUNDERBADGE, POKéMON'unun\n"
+    .string "YILDIRIM ROZETİ, POKéMON'unun\n"
     .string "HIZINI arttırır!\p"
     .string "Ayrıca POKéMON'un yıldırım hızıyla\n"
     .string "UÇ kullanmasını sağlar, çocuk!\p"
@@ -36,7 +36,8 @@ VermilionCity_Gym_Text_MakeRoomInYourBag::
 VermilionCity_Gym_Text_LtSurgeDefeat::
     .string "Bu gerçekten şaşırtıcı!\p"
     .string "Sen gerçekten iyisin, çocuk!\p"
-    .string "Tamam, o zaman THUNDERBADGE'i al!$"
+    .string "Tamam, o zaman YILDIRIM ROZETİ'ni\n"
+    .string "al!$"
 
 VermilionCity_Gym_Text_TuckerIntro::
     .string "Ordudayken TĞM. SURGE\n"

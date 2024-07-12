@@ -11,7 +11,7 @@ CinnabarIsland_Gym_Text_BlaineIntro::
 CinnabarIsland_Gym_Text_BlaineDefeat::
 .string "Kül oldum, kül!\n"
 .string "Hiçbir şey kalmadı!\n"
-.string "VOLCANOBADGE'i hak ettin.$"
+.string "VOLKAN ROZETİ'ni hak ettin.$"
 
 CinnabarIsland_Gym_Text_FireBlastIsUltimateFireMove::
 .string "FIRE BLAST en güçlü ateş\n"
@@ -20,7 +20,7 @@ CinnabarIsland_Gym_Text_FireBlastIsUltimateFireMove::
 
 CinnabarIsland_Gym_Text_ExplainVolcanoBadge::
 .string "Hah!\p"
-.string "VOLCANOBADGE, POKéMON'larının\n"
+.string "VOLKAN ROZETİ, POKéMON'larının\n"
 .string "ÖZEL istatistiklerini artırır.\p"
 .string "İşte, bunu da sana veriyorum!$"
 

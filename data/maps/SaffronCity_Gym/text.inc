@@ -14,7 +14,8 @@ SaffronCity_Gym_Text_SabrinaDefeat::
     .string "Ama yenilgi, yenilgidir.\p"
     .string "Kabul ediyorum, kazanmak\n"
     .string "için yeterince çalışmadım.\p"
-    .string "Zaferinle MARSHBADGE'i hak ettin.$"
+    .string "Zaferinle BATAKLIK ROZETİ'ni\n"
+    .string "hak ettin.$"
 
 SaffronCity_Gym_Text_SabrinaPostBattle::
     .string "Psişik güç, sadece birkaç kişinin\n"
@@ -24,9 +25,9 @@ SaffronCity_Gym_Text_SabrinaPostBattle::
     .string "değiller.$"
 
 SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
-    .string "MARSHBADGE, SV. 70'e kadar\n"
-    .string "POKéMON'un size itaat etmesini\l"
-    .string "sağlar.\p"
+    .string "BATAKLIK ROZETİ, SV. 70'e kadar\n"
+    .string "olan POKéMON'ların size itaat\l"
+    .string "etmesini sağlar.\p"
     .string "Daha güçlü POKéMON'lar vahşi hale\n"
     .string "gelebilir ve savaş sırasında\l"
     .string "emirlerinizi dinlemeyebilir.\p"
