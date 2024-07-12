@@ -12,9 +12,9 @@ ViridianCity_Gym_Text_GiovanniIntro::
 
 ViridianCity_Gym_Text_GiovanniDefeat::
 .string "Ha!\n"
-.string "Gerçekten yoğun bir savaş\l"
+.string "Gerçekten haşin bir savaş\l"
 .string "oldu. Kazandın!\p"
-.string "Kanıt olarak, sana EARTHBADGE'i\n"
+.string "Kanıt olarak, sana DÜNYA ROZETİ'ni\n"
 .string "veriyorum!\p"
 .string "{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}$"
 
@@ -30,7 +30,7 @@ ViridianCity_Gym_Text_GiovanniPostBattle::
 .string "Hoşça kal!$"
 
 ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
-.string "EARTHBADGE, tüm POKéMON'ların\n"
+.string "DÜNYA ROZETİ, tüm POKéMON'ların\n"
 .string "körü körüne itaat etmesini sağlar.\p"
 .string "Bu, bir POKéMON EĞİTMENİ\n"
 .string "olarak ustalığının kanıtıdır.\p"
@@ -45,14 +45,14 @@ ViridianCity_Gym_Text_ReceivedTM26FromGiovanni::
 .string "aldı.$"
 
 ViridianCity_Gym_Text_ExplainTM26::
-.string "TM26, DEPREM içerir.\p"
+.string "TM26, DEPREM'i içerir.\p"
 .string "Bu, güçlü bir saldırıdır ve\n"
 .string "büyük bir sarsıntıya neden olur.\p"
 .string "Bu, çok uzun zaman önce buradaki\n"
 .string "SALONU çalıştırdığımda yapıldı…$"
 
 ViridianCity_Gym_Text_YouDoNotHaveSpace::
-.string "Bunu almak için yerin yok!$"
+.string "Bunu almak için alanın yok!$"
 
 ViridianCity_Gym_Text_YujiIntro::
 .string "Heh!\p"
@@ -67,11 +67,11 @@ ViridianCity_Gym_Text_YujiPostBattle::
 .string "için güce ihtiyacın olacak.$"
 
 ViridianCity_Gym_Text_AtsushiIntro::
-.string "Rrrroar!\n"
+.string "Rrrrooaa!\n"
 .string "Kendimi öfkeye kaptırıyorum!$"
 
 ViridianCity_Gym_Text_AtsushiDefeat::
-.string "Wargh!$"
+.string "Waaahh!$"
 
 ViridianCity_Gym_Text_AtsushiPostBattle::
 .string "Hala yeterli değilim!$"
@@ -99,8 +99,8 @@ ViridianCity_Gym_Text_KiyoPostBattle::
 .string "benim kadar iyi bilseydi…$"
 
 ViridianCity_Gym_Text_WarrenIntro::
-.string "Gerçekten yetenekliler stil ile\n"
-.string "kazanır.$"
+.string "Gerçekten yetenekli olanlar stil\n"
+.string "ile kazanır.$"
 
 ViridianCity_Gym_Text_WarrenDefeat::
 .string "Kontrolümü kaybettim!$"
@@ -111,7 +111,7 @@ ViridianCity_Gym_Text_WarrenPostBattle::
 
 ViridianCity_Gym_Text_TakashiIntro::
 .string "Ben KARATE KRALI'yım!\n"
-.string "Kaderin bende!$"
+.string "Kaderin benimle!$"
 
 ViridianCity_Gym_Text_TakashiDefeat::
 .string "Ayah!$"
@@ -133,7 +133,7 @@ ViridianCity_Gym_Text_ColePostBattle::
 .string "Sadece dikkatsizdim!$"
 
 ViridianCity_Gym_Text_SamuelIntro::
-.string "VIRIDIAN SALONU uzun süredir\n"
+.string "VİRİDİAN SALONU uzun süredir\n"
 .string "kapalıydı.\p"
 .string "Ama şimdi, LİDER'imiz geri\n"
 .string "döndü!$"
@@ -159,17 +159,17 @@ ViridianCity_Gym_Text_GymGuyAdvice::
 
 ViridianCity_Gym_Text_GymGuyPostVictory::
 .string "Aklımı başımdan alıyorsun!\n"
-.string "VIRIDIAN'ın SALON LİDERİ\l"
+.string "VİRİDİAN'ın SALON LİDERİ\l"
 .string "GIOVANNI miydi?$"
 
 ViridianCity_Gym_Text_GymStatue::
-.string "VIRIDIAN POKéMON GYM\n"
-.string "LEADER: ?\p"
+.string "VİRİDİAN POKéMON SALONU\n"
+.string "LİDER: ?\p"
 .string "KAZANAN ANTRENÖRLER:\n"
 .string "{RIVAL}$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
-.string "VIRIDIAN POKéMON GYM\n"
-.string "LEADER: GIOVANNI\p"
+.string "VIRIDIAN POKéMON SALONU\n"
+.string "LİDER: GIOVANNI\p"
 .string "KAZANAN ANTRENÖRLER:\n"
 .string "{RIVAL}, {PLAYER}$"
