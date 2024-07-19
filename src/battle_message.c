@@ -512,7 +512,7 @@ const u8 gText_LoweringStats[] = _("OAK: Rakibinin güçlerini düşürmek\nseni
 const u8 gText_KeepAnEyeOnHP[] = _("OAK: POKéMON'unun CAN'ına dikkat et.\pEğer sıfırlanırsa bayılacaktır\p");
 const u8 gText_OakNoRunningFromATrainer[] = _("OAK: Hayır! Bir POKéMON savaşından\nasla kaçamazsın!\p");
 const u8 gText_WinEarnsPrizeMoney[] = _("OAK: Hm! Mükemmel!\pKazanırsan, para ödülü alırsın\nve POKéMON'ların gelişir!\pDiğer EĞİTMENLER ile savaş\nve POKéMON'larını güçlendir!\p");
-const u8 gText_HowDissapointing[] = _("OAK: Hm…\nNe hayal kırıklığı…\pKazanırsan, para ödülü alırsın ve\nPOKéMON'ların gelişir.\pAma kaybedersen {B_PLAYER_NAME},\npara ödülünü sen ödersin…\pAma bilmediğin için şimdilik\nparayı ben ödeyeceğim.\pAma bu kapıdan çıktığın an\nişler böyle olmayacak.\pBu yüzden vahşi POKéMON'lar ile savaşarak\nkendi POKéMON'larını geliştirmelisin.\p");
+const u8 gText_HowDissapointing[] = _("OAK: Hm…\nNe hayal kırıklığı…\pKazanırsan, para ödülü alırsın ve\nPOKéMON'ların gelişir.\pAma kaybedersen {B_PLAYER_NAME},\npara ödülünü sen ödersin…\pAma bilmediğin için şimdilik\nparayı ben ödeyeceğim.\pAma bu kapıdan çıktığın an\nişler böyle olmayacak.\pBu yüzden vahşi POKéMON'lar ile\nsavaşarak kendi POKéMON'larını\lgeliştirmelisin.\p");
 
 const u8 *const gBattleStringsTable[BATTLESTRINGS_COUNT - BATTLESTRINGS_TABLE_START] = {
     [STRINGID_TRAINER1LOSETEXT - BATTLESTRINGS_TABLE_START]              = sText_Trainer1LoseText,

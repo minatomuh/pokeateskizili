@@ -41,7 +41,7 @@ Text_Blueprints::
   .string "Bir çeşit plan. Şemalar ve metinlerle\ndolu.$"
 
 Text_Painting::
-  .string "Bu bir POKéMON'un güzel bir resmi. İyi\nhissediyor gibi görünüyor.$"
+  .string "Bu bir POKéMON'un güzel bir resmi.\nİyi hissediyor gibi görünüyor.$"
 
 Text_PowerPlantMachine::
   .string "Bu makine ne olabilir? Onunla\nuğraşmasan iyi olur!$"
