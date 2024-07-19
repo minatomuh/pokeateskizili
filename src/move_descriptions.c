@@ -1,1421 +1,360 @@
 #include "global.h"
 #include "constants/moves.h"
 
-const u8 gMoveDescription_Pound[] = _(
-    "Düşmanı ön ayaklarıyla ya\n"
-    "da kuyruğuyla döver.");
-
-const u8 gMoveDescription_KarateChop[] = _(
-    "Yüksek kritik oranına\n"
-    "sahip bir saldırı.");
-
-const u8 gMoveDescription_DoubleSlap[] = _(
-    "Düşmana 2 ila 5 kez\n"
-    "tokat atar.");
-
-const u8 gMoveDescription_CometPunch[] = _(
-    "Düşmana 2 ila 5 kez tekrar\n"
-    "tekrar yumruk atar.");
-
-const u8 gMoveDescription_MegaPunch[] = _(
-    "İnanılmaz bir güçle atılan\n"
-    "güçlü bir yumruk.");
-
-const u8 gMoveDescription_PayDay[] = _(
-    "Düşmana para fırlatır.\n"
-    "Para daha sonra alınır.");
-
-const u8 gMoveDescription_FirePunch[] = _(
-    "Düşmanı yakabilecek ateşli\n"
-    "bir yumruk.");
-
-const u8 gMoveDescription_IcePunch[] = _(
-    "Düşmanı dondurabilecek buz\n"
-    "gibi bir yumruk.");
-
-const u8 gMoveDescription_ThunderPunch[] = _(
-    "Düşmanı felç edebilecek\n"
-    "elektrikli bir yumruk.");
-
-const u8 gMoveDescription_Scratch[] = _(
-    "Düşmanı keskin\n"
-    "pençeleriyle tırmalar.");
-
-const u8 gMoveDescription_ViceGrip[] = _(
-    "Düşmanı büyük ve güçlü\n"
-    "kıskaçlarla kavrar.");
-
-const u8 gMoveDescription_Guillotine[] = _(
-    "Bayıltabilen bir kıskaç\n"
-    "saldırısı.");
-
-const u8 gMoveDescription_RazorWind[] = _(
-    "Düşmanı 2. turda vuran 2\n"
-    "turluk bir hamle.");
-
-const u8 gMoveDescription_SwordsDance[] = _(
-    "SALDIRIYI çokça yükselten\n"
-    "bir dövüş dansı.");
-
-const u8 gMoveDescription_Cut[] = _(
-    "Düşmanı keskin tırpanlarla,\n"
-    "pençelerle vb. keser.");
-
-const u8 gMoveDescription_Gust[] = _(
-    "Düşmana kanatlarından\n"
-    "çıkan bir rüzgarla vurur.");
-
-const u8 gMoveDescription_WingAttack[] = _(
-    "Düşmana kanatlarını\n"
-    "açarak saldırır.");
-
-const u8 gMoveDescription_Whirlwind[] = _(
-    "Düşmanı rüzgarla savurur\n"
-    "ve savaşı bitirir.");
-
-const u8 gMoveDescription_Fly[] = _(
-    "İlk dönüşte uçar, sonraki\n"
-    "dönüşte vurur.");
-
-const u8 gMoveDescription_Bind[] = _(
-    "Düşmanı 2 ila 5 tur boyunca\n"
-    "bağlar ve sıkıştırır.");
-
-const u8 gMoveDescription_Slam[] = _(
-    "Düşmanı uzun bir kuyruk,\n"
-    "asma vb. ile vurur.");
-
-const u8 gMoveDescription_VineWhip[] = _(
-    "Düşmana ince, kırbaç gibi\n"
-    "sarmaşıklarla vurur.");
-
-const u8 gMoveDescription_Stomp[] = _(
-    "Düşmanı büyük bir ayakla\n"
-    "ezer. Düşman ürkebilir.");
-
-const u8 gMoveDescription_DoubleKick[] = _(
-    "Düşmana iki kez vuran çift\n"
-    "tekme saldırısı.");
-
-const u8 gMoveDescription_MegaKick[] = _(
-    "Yoğun kuvvete sahip son\n"
-    "derece güçlü bir tekme.");
-
-const u8 gMoveDescription_JumpKick[] = _(
-    "Güçlü bir zıplama tekmesi.\n"
-    "Iskalayabilir.");
-
-const u8 gMoveDescription_RollingKick[] = _(
-    "Hızlı bir dönüşle atılan\n"
-    "hızlı bir tekme.");
-
-const u8 gMoveDescription_SandAttack[] = _(
-    "Düşmanın yüzüne kum fırlatır\n"
-    "ve kesinliği azaltır.");
-
-const u8 gMoveDescription_Headbutt[] = _(
-    "İrkilmeye neden olabilecek\n"
-    "bir vuruş saldırısı.");
-
-const u8 gMoveDescription_HornAttack[] = _(
-    "Düşmana keskin boynuzlarla\n"
-    "vurur.");
-
-const u8 gMoveDescription_FuryAttack[] = _(
-    "Düşmana keskin boynuzlarla\n"
-    "2 ila 5 kez vurur, vb.");
-
-const u8 gMoveDescription_HornDrill[] = _(
-    "Tek vuruşta nakavt edebilen\n"
-    "bir boynuz saldırısı.");
-
-const u8 gMoveDescription_Tackle[] = _(
-    "Düşmana tüm vücudu\n"
-    "kullanarak saldırır.");
-
-const u8 gMoveDescription_BodySlam[] = _(
-    "Felce neden olabilecek bir\n"
-    "tüm vücut vuruşu.");
-
-const u8 gMoveDescription_Wrap[] = _(
-    "Düşmanı sarmaşıklar ile\n"
-    "2 ila 5 kez sıkıştırır.");
-
-const u8 gMoveDescription_TakeDown[] = _(
-    "Kullanıcıya da zarar veren\n"
-    "bir hücum saldırısı.");
-
-const u8 gMoveDescription_Thrash[] = _(
-    "Kullanıcı kafasını karıştıran\n"
-    "2 ila 3 turluk bir saldırı.");
-
-const u8 gMoveDescription_DoubleEdge[] = _(
-    "Kullanıcıya da zarar veren,\n"
-    "riskli bir saldırı.");
-
-const u8 gMoveDescription_TailWhip[] = _(
-    "Düşmanın SAVUNMASINI\n"
-    "düşürmek için kuyruk sallar.");
-
-const u8 gMoveDescription_PoisonSting[] = _(
-    "Zehirleyebilecek dikenler\n"
-    "ile zehirli bir saldırı.");
-
-const u8 gMoveDescription_Twineedle[] = _(
-    "Ön ayaklardaki iğneler\n"
-    "düşmana iki kez vurur.");
-
-const u8 gMoveDescription_PinMissile[] = _(
-    "Keskin iğneler 2 ila 5 kez\n"
-    "vurulmak üzere ateşlenir.");
-
-const u8 gMoveDescription_Leer[] = _(
-    "SAVUNMAYI düşürmek için bir\n"
-    "bakışla düşmanı korkutur.");
-
-const u8 gMoveDescription_Bite[] = _(
-    "Vahşi dişlerle ısırır.\n"
-    "İrkilmeye neden olabilir.");
-
-const u8 gMoveDescription_Growl[] = _(
-    "Düşman SALDIRISI azaltmak\n"
-    "için sevimli şekilde hırlar.");
-
-const u8 gMoveDescription_Roar[] = _(
-    "Düşmanın savaşı bitirmek\n"
-    "için kaçmasını sağlar.");
-
-const u8 gMoveDescription_Sing[] = _(
-    "Sakinleştirici şarkısı,\n"
-    "düşmanı uykuya daldırır.");
-
-const u8 gMoveDescription_Supersonic[] = _(
-    "Kafa karıştırabilecek tuhaf\n"
-    "ses dalgaları yayar.");
-
-const u8 gMoveDescription_SonicBoom[] = _(
-    "Her zaman 20 CAN hasar veren\n"
-    "şok dalgaları fırlatır.");
-
-const u8 gMoveDescription_Disable[] = _(
-    "Düşman saldırılarından birini\n"
-    "psişik olarak engeller.");
-
-const u8 gMoveDescription_Acid[] = _(
-    "Deriyi eriten bir asit\n"
-    "püskürtür. SVN düşürebilir.");
-
-const u8 gMoveDescription_Ember[] = _(
-    "Yanıklara yol açabilen\n"
-    "zayıf bir ateş saldırısı.");
-
-const u8 gMoveDescription_Flamethrower[] = _(
-    "Yanıklara neden olabilen\n"
-    "güçlü bir ateş saldırısı.");
-
-const u8 gMoveDescription_Mist[] = _(
-    "Yeteneklerin azalmasını\n"
-    "durduran bir sis yaratır.");
-
-const u8 gMoveDescription_WaterGun[] = _(
-    "Düşmana saldırmak için su\n"
-    "fışkırtır.");
-
-const u8 gMoveDescription_HydroPump[] = _(
-    "Düşmana saldırmak için\n"
-    "yüksek güçte su püskürtür.");
-
-const u8 gMoveDescription_Surf[] = _(
-    "Büyük bir dalga yaratır,\n"
-    "sonra düşman üzerine çökertir.");
-
-const u8 gMoveDescription_IceBeam[] = _(
-    "Düşmanı dondurabilecek\n"
-    "buzlu bir ışınla patlatır.");
-
-const u8 gMoveDescription_Blizzard[] = _(
-    "Düşmana onu dondurabilecek\n"
-    "buzlu bir fırtına ile vurur.");
-
-const u8 gMoveDescription_Psybeam[] = _(
-    "Kafa karıştırabilen özel\n"
-    "bir ışın yayar.");
-
-const u8 gMoveDescription_BubbleBeam[] = _(
-    "HIZI düşürebilen baloncuk\n"
-    "püskürtür.");
-
-const u8 gMoveDescription_AuroraBeam[] = _(
-    "SALDIRI azaltabilen gökkuşağı\n"
-    "renginde bir ışın fırlatır.");
-
-const u8 gMoveDescription_HyperBeam[] = _(
-    "Güçlüdür ama bir sonraki\n"
-    "turda hareketsiz bırakır.");
-
-const u8 gMoveDescription_Peck[] = _(
-    "Düşmana saplanan bir gaga\n"
-    "ile saldırır.");
-
-const u8 gMoveDescription_DrillPeck[] = _(
-    "Gaga, matkap görevi görerek\n"
-    "düşmana saplanır.");
-
-const u8 gMoveDescription_Submission[] = _(
-    "Kullanıcısına da zarar\n"
-    "veren bir vücut darbesi.");
-
-const u8 gMoveDescription_LowKick[] = _(
-    "Düşman ne kadar ağırsa o\n"
-    "kadar hasar veren bir saldırı.");
-
-const u8 gMoveDescription_Counter[] = _(
-    "Gelen fiziksel saldırılara\n"
-    "iki kat güçle karşılık verir.");
-
-const u8 gMoveDescription_SeismicToss[] = _(
-    "Kullanıcının seviyesine\n"
-    "eşit hasar verir.");
-
-const u8 gMoveDescription_Strength[] = _(
-    "Muazzam bir güç oluşturur,\n"
-    "sonra düşmanı çarpar.");
-
-const u8 gMoveDescription_Absorb[] = _(
-    "Verilen hasarın yarısını\n"
-    "emen bir saldırı.");
-
-const u8 gMoveDescription_MegaDrain[] = _(
-    "Verilen hasarın yarısını\n"
-    "emen bir saldırı.");
-
-const u8 gMoveDescription_LeechSeed[] = _(
-    "Her turda can çalmak için\n"
-    "düşmana bir tohum eker.");
-
-const u8 gMoveDescription_Growth[] = _(
-    "Vücudu büyümeye zorlar ve\n"
-    "ÖZ. SLD yükseltir.");
-
-const u8 gMoveDescription_RazorLeaf[] = _(
-    "Düşmanı yapraklarla keser.\n"
-    "Yüksek kritik vuruş oranı var.");
-
-const u8 gMoveDescription_SolarBeam[] = _(
-    "Bir turda ışığı emer,\n"
-    "sonraki turda saldırır.");
-
-const u8 gMoveDescription_PoisonPowder[] = _(
-    "Düşmanı zehirleyebilecek\n"
-    "zehirli bir toz saçar.");
-
-const u8 gMoveDescription_StunSpore[] = _(
-    "Düşmanı felç edebilecek bir\n"
-    "toz saçar.");
-
-const u8 gMoveDescription_SleepPowder[] = _(
-    "Düşmanın uyumasına neden\n"
-    "olabilecek bir toz saçar.");
-
-const u8 gMoveDescription_PetalDance[] = _(
-    "Kafa karıştıran 2 ila 3\n"
-    "turluk bir saldırı.");
-
-const u8 gMoveDescription_StringShot[] = _(
-    "Hızını azaltmak için\n"
-    "düşmanı iple bağlar.");
-
-const u8 gMoveDescription_DragonRage[] = _(
-    "Her zaman 40 can hasar veren\n"
-    "şok dalgaları fırlatır.");
-
-const u8 gMoveDescription_FireSpin[] = _(
-    "Düşmanı 2 ila 5 tur boyunca\n"
-    "ateş çemberi içine hapseder.");
-
-const u8 gMoveDescription_ThunderShock[] = _(
-    "Düşmanı felç edebilen bir\n"
-    "elektrik saldırısı.");
-
-const u8 gMoveDescription_Thunderbolt[] = _(
-    "Düşmanı felç edebilen güçlü\n"
-    "bir elektrik saldırısı.");
-
-const u8 gMoveDescription_ThunderWave[] = _(
-    "Düşmanı felç eden zayıf bir\n"
-    "elektrik sarsıntısı.");
-
-const u8 gMoveDescription_Thunder[] = _(
-    "Felce neden olabilecek bir\n"
-    "yıldırım saldırısı.");
-
-const u8 gMoveDescription_RockThrow[] = _(
-    "Düşmana vurmak için küçük\n"
-    "taşlar fırlatır.");
-
-const u8 gMoveDescription_Earthquake[] = _(
-    "Güçlü bir sarsıntı, ancak\n"
-    "havadakilere hiçbir etkisi yok.");
-
-const u8 gMoveDescription_Fissure[] = _(
-    "Düşmanı yarık içine düşüren\n"
-    "tek vuruşluk nakavt hareketi.");
-
-const u8 gMoveDescription_Dig[] = _(
-    "İlk turda yeraltını kazar\n"
-    "ve sonraki turda saldırır.");
-
-const u8 gMoveDescription_Toxic[] = _(
-    "Düşmanı zararlı bir\n"
-    "toksinle zehirler.");
-
-const u8 gMoveDescription_Confusion[] = _(
-    "Kafa karışıklığına neden\n"
-    "olabilecek bir saldırı.");
-
-const u8 gMoveDescription_Psychic[] = _(
-    "ÖZ. SVN'yı düşürebilen güçlü\n"
-    "bir psişik saldırı.");
-
-const u8 gMoveDescription_Hypnosis[] = _(
-    "Uykuya neden olabilecek\n"
-    "hipnotize edici bir hareket.");
-
-const u8 gMoveDescription_Meditate[] = _(
-    "SALDIRI'yı artırmak için\n"
-    "meditasyon yapar.");
-
-const u8 gMoveDescription_Agility[] = _(
-    "HIZI çokça artırmak için\n"
-    "vücudu rahatlatır.");
-
-const u8 gMoveDescription_QuickAttack[] = _(
-    "Her zaman ilk vuruşu yapan\n"
-    "hızlı bir saldırı.");
-
-const u8 gMoveDescription_Rage[] = _(
-    "Her vurulduğunda kullananın\n"
-    "SALDIRI gücünü artırır.");
-
-const u8 gMoveDescription_Teleport[] = _(
-    "Savaştan anında kaçmak\n"
-    "için psişik bir hareket.");
-
-const u8 gMoveDescription_NightShade[] = _(
-    "Kullanıcının seviyesine\n"
-    "eşit hasar verir.");
-
-const u8 gMoveDescription_Mimic[] = _(
-    "Savaş sırasında düşman\n"
-    "hareketini kopyalar.");
-
-const u8 gMoveDescription_Screech[] = _(
-    "Düşmanın SAVUNMASINI\n"
-    "azaltan bir çığlık yayar.");
-
-const u8 gMoveDescription_DoubleTeam[] = _(
-    "Kesinliği artırmak için\n"
-    "hayali kopyalar yaratır.");
-
-const u8 gMoveDescription_Recover[] = _(
-    "Kullananın maks. canının\n"
-    "yarısını iyileştirir.");
-
-const u8 gMoveDescription_Harden[] = _(
-    "Kasları sertleştirerek SAVUNMA\n"
-    "artırır.");
-
-const u8 gMoveDescription_Minimize[] = _(
-    "Kaçış kabiliyetini artırmak\n"
-    "için kullanıcıyı küçültür.");
-
-const u8 gMoveDescription_Smokescreen[] = _(
-    "Duman, mürekkep vb. ile\n"
-    "düşmanın isabetini düşürür.");
-
-const u8 gMoveDescription_ConfuseRay[] = _(
-    "Düşman kafasını karıştıran\n"
-    "bir ışın.");
-
-const u8 gMoveDescription_Withdraw[] = _(
-    "SAVUNMAYI artırmak için\n"
-    "vücudu kabuk içine çeker.");
-
-const u8 gMoveDescription_DefenseCurl[] = _(
-    "Zayıflığını gizlemek için\n"
-    "SVN artırır ve büzülür.");
-
-const u8 gMoveDescription_Barrier[] = _(
-    "SAVUNMAYI çokça yükselten\n"
-    "bir bariyer oluşturur.");
-
-const u8 gMoveDescription_LightScreen[] = _(
-    "ÖZ. SLD'yı düşüren bir ışık\n"
-    "duvarı oluşturur.");
-
-const u8 gMoveDescription_Haze[] = _(
-    "Tüm durum değişikliklerini\n"
-    "kaldıran bir pus yaratır.");
-
-const u8 gMoveDescription_Reflect[] = _(
-    "Fiziksel saldırıları\n"
-    "zayıflatan duvar yaratır.");
-
-const u8 gMoveDescription_FocusEnergy[] = _(
-    "Kritik oranını yükseltmek\n"
-    "için odaklanır.");
-
-const u8 gMoveDescription_Bide[] = _(
-    "İsabeti iki kat artırmak\n"
-    "için 2 tur dayanır.");
-
-const u8 gMoveDescription_Metronome[] = _(
-    "Parmak sallayarak rastgele\n"
-    "bir saldırı kullanır.");
-
-const u8 gMoveDescription_MirrorMove[] = _(
-    "Düşmanın saldırısını aynı\n"
-    "saldırı ile karşılar.");
-
-const u8 gMoveDescription_SelfDestruct[] = _(
-    "Ağır hasar verir ama\n"
-    "kullanıcıyı bayıltır.");
-
-const u8 gMoveDescription_EggBomb[] = _(
-    "Düşmana zorla bir yumurta\n"
-    "fırlatılır.");
-
-const u8 gMoveDescription_Lick[] = _(
-    "Uzun bir dille ısırır.\n"
-    "Felç edebilir.");
-
-const u8 gMoveDescription_Smog[] = _(
-    "Zehirleyebilecek bir egzoz\n"
-    "gazı saldırısı.");
-
-const u8 gMoveDescription_Sludge[] = _(
-    "Çamur fırlatır.\n"
-    "Ayrıca zehirleyebilir.");
-
-const u8 gMoveDescription_BoneClub[] = _(
-    "Düşmana bir kemikle vurur.\n"
-    "Ürkütebilir.");
-
-const u8 gMoveDescription_FireBlast[] = _(
-    "Vurduğu her şeyi yakar.\n"
-    "Yanıklara neden olabilir.");
-
-const u8 gMoveDescription_Waterfall[] = _(
-    "Şelalelere tırmanmak için\n"
-    "düşmana hızla hücum eder.");
-
-const u8 gMoveDescription_Clamp[] = _(
-    "Düşmanı 2 ila 5 tur boyunca\n"
-    "sıkıştırır.");
-
-const u8 gMoveDescription_Swift[] = _(
-    "Asla ıskalamayan yıldız\n"
-    "ışınları yağdırır.");
-
-const u8 gMoveDescription_SkullBash[] = _(
-    "Kafayı içeri sokar, sonra\n"
-    "bir sonraki turda saldırır.");
-
-const u8 gMoveDescription_SpikeCannon[] = _(
-    "2 ila 5 kez vuran keskin\n"
-    "sivri uçlar fırlatır.");
-
-const u8 gMoveDescription_Constrict[] = _(
-    "Acı vermek için daraltır.\n"
-    "Hızı düşürebilir.");
-
-const u8 gMoveDescription_Amnesia[] = _(
-    "Hafızasından bir şey siler\n"
-    "ve ÖZ. SVN yükseltir.");
-
-const u8 gMoveDescription_Kinesis[] = _(
-    "Dikkat dağıtarak isabet\n"
-    "oranını düşürebilir.");
-
-const u8 gMoveDescription_SoftBoiled[] = _(
-    "Maksimum canının yarısına\n"
-    "kadar can iyileştirir.");
-
-const u8 gMoveDescription_HiJumpKick[] = _(
-    "Zıplayan bir diz tekmesi.\n"
-    "Iskalarsa geri teper.");
-
-const u8 gMoveDescription_Glare[] = _(
-    "Düşmanı korkutur ve felce\n"
-    "uğratır.");
-
-const u8 gMoveDescription_DreamEater[] = _(
-    "Uyuyan bir düşmana verilen\n"
-    "hasarın yarısını alır.");
-
-const u8 gMoveDescription_PoisonGas[] = _(
-    "Düşmanı zehirleyebilecek\n"
-    "zehirli bir gazla sarar.");
-
-const u8 gMoveDescription_Barrage[] = _(
-    "Düşmana 2 ila 5 kez yuvarlak\n"
-    "nesneler fırlatır.");
-
-const u8 gMoveDescription_LeechLife[] = _(
-    "Verilen hasarın yarısını\n"
-    "çalan bir saldırı.");
-
-const u8 gMoveDescription_LovelyKiss[] = _(
-    "Uykuyu tetikleyen korkunç\n"
-    "bir öpücük ister.");
-
-const u8 gMoveDescription_SkyAttack[] = _(
-    "Zayıf noktaları araştırır,\n"
-    "sonraki turda saldırır.");
-
-const u8 gMoveDescription_Transform[] = _(
-    "Düşmanın hücrelerini\n"
-    "kopyalar ve ona dönüşür.");
-
-const u8 gMoveDescription_Bubble[] = _(
-    "Baloncuk fırlatan bir\n"
-    "saldırı. HIZ düşürebilir.");
-
-const u8 gMoveDescription_DizzyPunch[] = _(
-    "Kafa karıştırabilen ritmik\n"
-    "bir yumruk.");
-
-const u8 gMoveDescription_Spore[] = _(
-    "Her zaman uykuya neden\n"
-    "olan bir spor bulutu saçar.");
-
-const u8 gMoveDescription_Flash[] = _(
-    "İsabeti kesen güçlü bir\n"
-    "ışık patlaması yayar.");
-
-const u8 gMoveDescription_Psywave[] = _(
-    "Değişken yoğunlukta psişik\n"
-    "bir dalga ile saldırır.");
-
-const u8 gMoveDescription_Splash[] = _(
-    "Bu sadece bir sıçrama...\n"
-    "Hiçbir etkisi yok.");
-
-const u8 gMoveDescription_AcidArmor[] = _(
-    "Kullanıcının vücudunu\n"
-    "sıvılaştırarak SVN artırır.");
-
-const u8 gMoveDescription_Crabhammer[] = _(
-    "Kıskaçlı çekiç. Yüksek\n"
-    "kritik oranına sahiptir.");
-
-const u8 gMoveDescription_Explosion[] = _(
-    "Ağır hasar verir ama\n"
-    "kullanıcıyı bayıltır.");
-
-const u8 gMoveDescription_FurySwipes[] = _(
-    "Düşmanı keskin pençeler\n"
-    "ile 2-5 kez tırmıklar.");
-
-const u8 gMoveDescription_Bonemerang[] = _(
-    "İki kez vuran bir kemik\n"
-    "bumerangı fırlatır.");
-
-const u8 gMoveDescription_Rest[] = _(
-    "Kullanıcı 2 tur boyunca\n"
-    "uyur, canı yenilenir.");
-
-const u8 gMoveDescription_RockSlide[] = _(
-    "Büyük kayalar fırlatılır.\n"
-    "İrkilmeye neden olabilir.");
-
-const u8 gMoveDescription_HyperFang[] = _(
-    "Keskin dişlerle saldırır.\n"
-    "İrkilmeye neden olabilir.");
-
-const u8 gMoveDescription_Sharpen[] = _(
-    "Poligon sayısını azaltır ve\n"
-    "SALDIRIYI artırır.");
-
-const u8 gMoveDescription_Conversion[] = _(
-    "Kullanıcının türünü bilinen\n"
-    "bir saldırının türü yapar.");
-
-const u8 gMoveDescription_TriAttack[] = _(
-    "Aynı anda üç tür ışın\n"
-    "ateşler.");
-
-const u8 gMoveDescription_SuperFang[] = _(
-    "Keskin dişlerle saldırır ve\n"
-    "düşmanın canını yarılar.");
-
-const u8 gMoveDescription_Slash[] = _(
-    "Pençelerle keser. Yüksek\n"
-    "kritik oranına sahiptir.");
-
-const u8 gMoveDescription_Substitute[] = _(
-    "Kullananın maks. canının\n"
-    "1/4'ü ile yem oluşturur.");
-
-const u8 gMoveDescription_Struggle[] = _(
-    "Sadece tüm PP'ler bitmişse\n"
-    "kullanılabilir.");
-
-const u8 gMoveDescription_Sketch[] = _(
-    "Düşmanın son hamlesini\n"
-    "kalıcı olarak kopyalar.");
-
-const u8 gMoveDescription_TripleKick[] = _(
-    "Düşmanı artan bir şiddetle\n"
-    "3 kez tekmeler.");
-
-const u8 gMoveDescription_Thief[] = _(
-    "Saldırırken, düşmanın\n"
-    "elindeki eşyayı çalabilir.");
-
-const u8 gMoveDescription_SpiderWeb[] = _(
-    "Düşmanın kaçmasını\n"
-    "engeller.");
-
-const u8 gMoveDescription_MindReader[] = _(
-    "Bir sonraki saldırının\n"
-    "isabetini artırır.");
-
-const u8 gMoveDescription_Nightmare[] = _(
-    "Her tur uyuyan bir düşmana\n"
-    "1/4 hasar verir.");
-
-const u8 gMoveDescription_FlameWheel[] = _(
-    "Yanıklara neden olabilen\n"
-    "ateşli bir saldırı.");
-
-const u8 gMoveDescription_Snore[] = _(
-    "Yalnız uykuda kullanılabilen\n"
-    "yüksek sesli bir saldırı.");
-
-const u8 gMoveDescription_Curse[] = _(
-    "Hayaletler için farklı işlev\n"
-    "gören bir hareket.");
-
-const u8 gMoveDescription_Flail[] = _(
-    "Kullanıcının canı\n"
-    "azaldığında gücü artar.");
-
-const u8 gMoveDescription_Conversion2[] = _(
-    "Kullanıcıyı son saldırının\n"
-    "türüne dynklılığını artırır.");
-
-const u8 gMoveDescription_Aeroblast[] = _(
-    "Güçlü bir patlama yaratır.\n"
-    "Kritik oranı yüksektir.");
-
-const u8 gMoveDescription_CottonSpore[] = _(
-    "Sporlar düşmana yapışarak\n"
-    "HIZI çokça azaltır.");
-
-const u8 gMoveDescription_Reversal[] = _(
-    "Kullanıcının canı\n"
-    "azaldığında hasar artar.");
-
-const u8 gMoveDescription_Spite[] = _(
-    "Düşmanın son hamlesinin\n"
-    "PP'sini çokça keser.");
-
-const u8 gMoveDescription_PowderSnow[] = _(
-    "Düşmanı karlı bir rüzgarla\n"
-    "savurur. Dondurabilir.");
-
-const u8 gMoveDescription_Protect[] = _(
-    "Saldırıdan kaçar, ancak\n"
-    "üst üste tutmayabilir.");
-
-const u8 gMoveDescription_MachPunch[] = _(
-    "Saldırı önceliği olan\n"
-    "bir yumruk saldırısı.");
-
-const u8 gMoveDescription_ScaryFace[] = _(
-    "HIZI yüksek bir şekilde\n"
-    "azaltır.");
-
-const u8 gMoveDescription_FaintAttack[] = _(
-    "Düşmanı yakınına çeker,\n"
-    "sonra hatasız vurur.");
-
-const u8 gMoveDescription_SweetKiss[] = _(
-    "Sevimli bir bakışla öpücük\n"
-    "ister. Kafa karıştırabilir.");
-
-const u8 gMoveDescription_BellyDrum[] = _(
-    "Canı feda ederken SLD\n"
-    "çokça yükseltir.");
-
-const u8 gMoveDescription_SludgeBomb[] = _(
-    "Hasar vermek için çamur\n"
-    "fırlatır. Zehirleyebilir.");
-
-const u8 gMoveDescription_MudSlap[] = _(
-    "Çamur fırlatarak düşman\n"
-    "isabeti düşürülür.");
-
-const u8 gMoveDescription_Octazooka[] = _(
-    "İsabeti düşürmek için\n"
-    "mürekkep ateşler.");
-
-const u8 gMoveDescription_Spikes[] = _(
-    "Düşmana zarar veren sivri\n"
-    "uçları devreye sokar.");
-
-const u8 gMoveDescription_ZapCannon[] = _(
-    "Oldukça güçlüdür ve felç\n"
-    "eder.");
-
-const u8 gMoveDescription_Foresight[] = _(
-    "İsabet düşürme etkilerini\n"
-    "keser.");
-
-const u8 gMoveDescription_DestinyBond[] = _(
-    "Kullanıcı bayılırsa, düşman\n"
-    "da bayılır.");
-
-const u8 gMoveDescription_PerishSong[] = _(
-    "Bu şarkıyı duyan POKéMON\n"
-    "3 tur içinde bayılır.");
-
-const u8 gMoveDescription_IcyWind[] = _(
-    "Düşmanın HIZINI düşüren\n"
-    "korkunç bir saldırı.");
-
-const u8 gMoveDescription_Detect[] = _(
-    "Saldırıdan kaçar, ancak\n"
-    "üst üste tutmayabilir.");
-
-const u8 gMoveDescription_BoneRush[] = _(
-    "Elindeki kemikle düşmanına\n"
-    "2 ila 5 kez vurur.");
-
-const u8 gMoveDescription_LockOn[] = _(
-    "Bir sonraki hamlenin isabet\n"
-    "etmesi için kilitlenir.");
-
-const u8 gMoveDescription_Outrage[] = _(
-    "Kullananın kafa karıştıran\n"
-    "2-3 turluk saldırı.");
-
-const u8 gMoveDescription_Sandstorm[] = _(
-    "Birkaç tur boyunca süren\n"
-    "kum fırtınası Başlatır.");
-
-const u8 gMoveDescription_GigaDrain[] = _(
-    "Verilen hasarın yarısını\n"
-    "çalan bir saldırı.");
-
-const u8 gMoveDescription_Endure[] = _(
-    "En az 1 can bırakarak 1\n"
-    "tur saldırılara dayanır.");
-
-const u8 gMoveDescription_Charm[] = _(
-    "Düşmanı büyüler ve SLD.\n"
-    "çokça azaltır.");
-
-const u8 gMoveDescription_Rollout[] = _(
-    "Yoğunluğu artan ve 5 tur\n"
-    "süren bir saldırı.");
-
-const u8 gMoveDescription_FalseSwipe[] = _(
-    "Düşmanı en az 1 can ile\n"
-    "bırakan bir saldırı.");
-
-const u8 gMoveDescription_Swagger[] = _(
-    "Düşman kafası karıştırır\n"
-    "ama SLD çokça yükseltir.");
-
-const u8 gMoveDescription_MilkDrink[] = _(
-    "Kullanıcının maks canının\n"
-    "yarısını iyileştirir.");
-
-const u8 gMoveDescription_Spark[] = _(
-    "Düşmanı felç edebilecek\n"
-    "elektrikli bir saldırı.");
-
-const u8 gMoveDescription_FuryCutter[] = _(
-    "Art arda her vuruşta\n"
-    "şiddetlenen bir saldırı.");
-
-const u8 gMoveDescription_SteelWing[] = _(
-    "Düşmana sert kanatlarını\n"
-    "açarak saldırır.");
-
-const u8 gMoveDescription_MeanLook[] = _(
-    "Düşmanın kaçmasını\n"
-    "engelleyen sert bir bakış.");
-
-const u8 gMoveDescription_Attract[] = _(
-    "Karşı cinsin saldırma\n"
-    "olasılığını azaltır.");
-
-const u8 gMoveDescription_SleepTalk[] = _(
-    "Uykudayken rastgele bir\n"
-    "hareket kullanır.");
-
-const u8 gMoveDescription_HealBell[] = _(
-    "Tüm durum sorunlarını\n"
-    "ses ile iyileştirir.");
-
-const u8 gMoveDescription_Return[] = _(
-    "Arkadaşlıkla gücü artan bir\n"
-    "saldırı.");
-
-const u8 gMoveDescription_Present[] = _(
-    "Bomba şeklinde bir hediye.\n"
-    "Canı yenileyebilir.");
-
-const u8 gMoveDescription_Frustration[] = _(
-    "Eğitmen sevilmediğinde\n"
-    "daha güçlü olan bir saldırı.");
-
-const u8 gMoveDescription_Safeguard[] = _(
-    "Tüm durum sorunlarını\n"
-    "önleyen, mistik bir güç.");
-
-const u8 gMoveDescription_PainSplit[] = _(
-    "Kullanıcı ve düşman canı\n"
-    "eşit olarak paylaştırır.");
-
-const u8 gMoveDescription_SacredFire[] = _(
-    "Yanıklara neden olabilen\n"
-    "mistik bir ateş saldırısı.");
-
-const u8 gMoveDescription_Magnitude[] = _(
-    "Rastgele yoğunlukta, yeri\n"
-    "sarsan bir saldırı.");
-
-const u8 gMoveDescription_DynamicPunch[] = _(
-    "Kafa karıştırır ancak\n"
-    "isabeti düşüktür.");
-
-const u8 gMoveDescription_Megahorn[] = _(
-    "Acımasız bir boynuz\n"
-    "saldırısı.");
-
-const u8 gMoveDescription_DragonBreath[] = _(
-    "Düşmanı inanılmaz bir nefes\n"
-    "patlamasıyla vurur.");
-
-const u8 gMoveDescription_BatonPass[] = _(
-    "Efektleri oyunda tutarken\n"
-    "kullanıcıyı değiştirir.");
-
-const u8 gMoveDescription_Encore[] = _(
-    "Düşmana son hareketini\n"
-    "2-6 tur tekrarlatır.");
-
-const u8 gMoveDescription_Pursuit[] = _(
-    "Değişen bir düşman üzerinde\n"
-    "hasarı yükselir.");
-
-const u8 gMoveDescription_RapidSpin[] = _(
-    "Düşmana vurmak için vücudu\n"
-    "yüksek hızda döndürür.");
-
-const u8 gMoveDescription_SweetScent[] = _(
-    "Kaçamakları azaltmak için\n"
-    "düşmanı cezbeder.");
-
-const u8 gMoveDescription_IronTail[] = _(
-    "Kaya gibi sert bir kuyrukla\n"
-    "saldırır. SVN düşürebilir.");
-
-const u8 gMoveDescription_MetalClaw[] = _(
-    "Kullanıcının saldırısını\n"
-    "artırabilen bir saldırı.");
-
-const u8 gMoveDescription_VitalThrow[] = _(
-    "Kullanıcın saldırıyı en\n"
-    "son yapar ama ıskalamaz.");
-
-const u8 gMoveDescription_MorningSun[] = _(
-    "Canı iyileştirir. Miktar\n"
-    "havaya göre değişir.");
-
-const u8 gMoveDescription_Synthesis[] = _(
-    "Canı iyileştirir. Miktar\n"
-    "havaya göre değişir.");
-
-const u8 gMoveDescription_Moonlight[] = _(
-    "Canı iyileştirir. Miktar\n"
-    "havaya göre değişir.");
-
-const u8 gMoveDescription_HiddenPower[] = _(
-    "Türü kullanıcıya göre\n"
-    "değişir.");
-
-const u8 gMoveDescription_CrossChop[] = _(
-    "Çifte doğrama saldırısı.\n"
-    "Yüksek kritik vuruş oranı.");
-
-const u8 gMoveDescription_Twister[] = _(
-    "Düşmanı parçalamak için\n"
-    "güçlü bir hortum çıkarır.");
-
-const u8 gMoveDescription_RainDance[] = _(
-    "SU tipi saldırı gücünü\n"
-    "5 tur boyunca artırır.");
-
-const u8 gMoveDescription_SunnyDay[] = _(
-    "ATEŞ tipi saldırı gücünü\n"
-    "5 tur boyunca artırır.");
-
-const u8 gMoveDescription_Crunch[] = _(
-    "Keskin dişlerle saldırır.\n"
-    "ÖZ. SVN düşürebilir.");
-
-const u8 gMoveDescription_MirrorCoat[] = _(
-    "Düşmanın özel saldırısını\n"
-    "iki kat güçle karşılar.");
-
-const u8 gMoveDescription_PsychUp[] = _(
-    "Düşman etkilerini\n"
-    "kopyalar ve alır.");
-
-const u8 gMoveDescription_ExtremeSpeed[] = _(
-    "Son derece hızlı ve güçlü\n"
-    "bir saldırı.");
-
-const u8 gMoveDescription_AncientPower[] = _(
-    "Tüm özellikleri\n"
-    "yükseltebilen bir saldırı.");
-
-const u8 gMoveDescription_ShadowBall[] = _(
-    "Düşmana ÖZ SVN düşürebilen\n"
-    "kara bir top fırlatır.");
-
-const u8 gMoveDescription_FutureSight[] = _(
-    "2 tur sonra saldırmak için\n"
-    "içsel gücü artırır.");
-
-const u8 gMoveDescription_RockSmash[] = _(
-    "SAVUNMAYI düşürebilecek\n"
-    "kaya kırıcı bir saldırı.");
-
-const u8 gMoveDescription_Whirlpool[] = _(
-    "Düşmanı 2 ila 5 tur boyunca\n"
-    "bir girdaba hapseder.");
-
-const u8 gMoveDescription_BeatUp[] = _(
-    "Saldırıya katılmaları için\n"
-    "POKéMON takımını çağırır.");
-
-const u8 gMoveDescription_FakeOut[] = _(
-    "İlk turda kullanılabilen,\n"
-    "ürküten, hızlı bir saldırı.");
-
-const u8 gMoveDescription_Uproar[] = _(
-    "2 ila 5 tur boyunca ses\n"
-    "yapar ve uykuyu engeller.");
-
-const u8 gMoveDescription_Stockpile[] = _(
-    "Gücü 3 tura kadar şarj\n"
-    "eder.");
-
-const u8 gMoveDescription_SpitUp[] = _(
-    "Stoklanan gücü serbest\n"
-    "bırakır.");
-
-const u8 gMoveDescription_Swallow[] = _(
-    "Depolanan gücü emer ve\n"
-    "canı yeniler.");
-
-const u8 gMoveDescription_HeatWave[] = _(
-    "Düşmanın üzerine sıcak bir\n"
-    "nefes üfler. Yakabilir.");
-
-const u8 gMoveDescription_Hail[] = _(
-    "Her turda vuran bir dolu\n"
-    "fırtınası çağırır.");
-
-const u8 gMoveDescription_Torment[] = _(
-    "Eziyet edererek üst üste\n"
-    "kullanımı engeller.");
-
-const u8 gMoveDescription_Flatter[] = _(
-    "Düşman kafası karıştırır,\n"
-    "ancak ÖZ. SLD yükseltir.");
-
-const u8 gMoveDescription_WillOWisp[] = _(
-    "Düşmanı yoğun ateşle\n"
-    "yakar.");
-
-const u8 gMoveDescription_Memento[] = _(
-    "Kullanıcı bayılır ve\n"
-    "düşman özlk. azaltır.");
-
-const u8 gMoveDescription_Facade[] = _(
-    "Kötü bir durumda, SALDIRI\n"
-    "artırır.");
-
-const u8 gMoveDescription_FocusPunch[] = _(
-    "Güçlüdür ancak kullanıcı\n"
-    "hasar alırsa ürker.");
-
-const u8 gMoveDescription_SmellingSalt[] = _(
-    "Felçli düşmanlara karşı x2\n"
-    "vurur ancak iyileştirir.");
-
-const u8 gMoveDescription_FollowMe[] = _(
-    "Düşmanların sadece kendine\n"
-    "saldırması için dikkat çeker.");
-
-const u8 gMoveDescription_NaturePower[] = _(
-    "Saldırının türü bulunduğu\n"
-    "yere göre değişir.");
-
-const u8 gMoveDescription_Charge[] = _(
-    "Bir sonraki elektrik\n"
-    "saldırısı için güç toplar.");
-
-const u8 gMoveDescription_Taunt[] = _(
-    "Sadece hasar veren saldırı\n"
-    "kullanması için kızdırır.");
-
-const u8 gMoveDescription_HelpingHand[] = _(
-    "Dostun saldırılarının\n"
-    "gücünü artırır.");
-
-const u8 gMoveDescription_Trick[] = _(
-    "Düşmanı elindeki eşyaları\n"
-    "takas etmesi için kandırır.");
-
-const u8 gMoveDescription_RolePlay[] = _(
-    "Hedefi taklit eder ve özel\n"
-    "yeteneğini kopyalar.");
-
-const u8 gMoveDescription_Wish[] = _(
-    "Can iyileştiren bir\n"
-    "dilek. Zaman alır.");
-
-const u8 gMoveDescription_Assist[] = _(
-    "Ortağın hareketlerinden\n"
-    "biriyle rastgele saldırır.");
-
-const u8 gMoveDescription_Ingrain[] = _(
-    "Can yenileyen kökler salar.\n"
-    "Yer değiştiremez.");
-
-const u8 gMoveDescription_Superpower[] = _(
-    "Gücü çokça artırır ama\n"
-    "yetenekleri azaltır.");
-
-const u8 gMoveDescription_MagicCoat[] = _(
-    "Özel etkileri saldırgana\n"
-    "geri yansıtır.");
-
-const u8 gMoveDescription_Recycle[] = _(
-    "Kullanılmış eşyayı tekrar\n"
-    "kullanım için dönüştürür.");
-
-const u8 gMoveDescription_Revenge[] = _(
-    "Düşman tarafından hasar\n"
-    "alınınca güçlenir.");
-
-const u8 gMoveDescription_BrickBreak[] = _(
-    "YANSITMA gibi duvarları\n"
-    "yok eder hasar verir.");
-
-const u8 gMoveDescription_Yawn[] = _(
-    "Düşmanı esnetir ve bir\n"
-    "sonraki turda uyutur.");
-
-const u8 gMoveDescription_KnockOff[] = _(
-    "Düşmanın elindeki eşyayı\n"
-    "düşürerek engeller.");
-
-const u8 gMoveDescription_Endeavor[] = _(
-    "Kullanıcının canı düşman\n"
-    "canından düşükse güçlenir.");
-
-const u8 gMoveDescription_Eruption[] = _(
-    "Kullanıcının canı ne kadar\n"
-    "yüksekse, o kadar güçlüdür.");
-
-const u8 gMoveDescription_SkillSwap[] = _(
-    "Kullanıcı hedefle özel\n"
-    "yeteneklerini değiştirir.");
-
-const u8 gMoveDescription_Imprison[] = _(
-    "Düşmanların kendi bildiği\n"
-    "saldırılarını engeller.");
-
-const u8 gMoveDescription_Refresh[] = _(
-    "Zehirlenmeyi, felci ya da\n"
-    "yanığı iyileştirir.");
-
-const u8 gMoveDescription_Grudge[] = _(
-    "Bayılırsa düşmanın son\n"
-    "saldırısının PP'lerini siler.");
-
-const u8 gMoveDescription_Snatch[] = _(
-    "Hedefin bir sonraki\n"
-    "etkilerini çalar.");
-
-const u8 gMoveDescription_SecretPower[] = _(
-    "Etkileri konuma göre\n"
-    "değişen bir saldırı.");
-
-const u8 gMoveDescription_Dive[] = _(
-    "İlk turda su altına dalar ve\n"
-    "bir sonraki turda vurur.");
-
-const u8 gMoveDescription_ArmThrust[] = _(
-    "Düşmana 2 ila 5 kez vuran\n"
-    "düz kol yumrukları.");
-
-const u8 gMoveDescription_Camouflage[] = _(
-    "Bulunduğu yere göre\n"
-    "POKéMON türü değiştirir.");
-
-const u8 gMoveDescription_TailGlow[] = _(
-    "ÖZ. SLD çokça yükselten\n"
-    "bir ışık yakıp söndürür.");
-
-const u8 gMoveDescription_LusterPurge[] = _(
-    "Işık patlamasıyla saldırır.\n"
-    "ÖZ. SVN düşürebilir.");
-
-const u8 gMoveDescription_MistBall[] = _(
-    "Bir telaşla saldırır.\n"
-    "ÖZ. SLD düşürebilir.");
-
-const u8 gMoveDescription_FeatherDance[] = _(
-    "Düşmanın saldırısını iki\n"
-    "seviye düşürür.");
-
-const u8 gMoveDescription_TeeterDance[] = _(
-    "Savaştaki POKéMON'ların\n"
-    "kafasını karıştırır.");
-
-const u8 gMoveDescription_BlazeKick[] = _(
-    "Kritik oranı yüksektir.\n"
-    "Yanığa neden olabilir.");
-
-const u8 gMoveDescription_MudSport[] = _(
-    "Elektrik direncini artırmak\n"
-    "için çamurla kaplanır.");
-
-const u8 gMoveDescription_IceBall[] = _(
-    "Art arda vurunca güçlenen\n"
-    "5 turluk bir saldırı.");
-
-const u8 gMoveDescription_NeedleArm[] = _(
-    "Dikenli kollarla saldırır.\n"
-    "Ürkmeye neden olabilir.");
-
-const u8 gMoveDescription_SlackOff[] = _(
-    "Yavaşlar ve maksimum canın\n"
-    "yarısını yeniler.");
-
-const u8 gMoveDescription_HyperVoice[] = _(
-    "Ses dalgalarını kullanan\n"
-    "bir saldırı.");
-
-const u8 gMoveDescription_PoisonFang[] = _(
-    "Keskin dişli bir saldırı.\n"
-    "Ağır zehirleyebilir.");
-
-const u8 gMoveDescription_CrushClaw[] = _(
-    "Keskin pençelerle düşmanı\n"
-    "keser. SVN düşürebilir.");
-
-const u8 gMoveDescription_BlastBurn[] = _(
-    "Güçlüdür ama kullanıcıyı\n"
-    "hareketsiz bırakır.");
-
-const u8 gMoveDescription_HydroCannon[] = _(
-    "Güçlüdür ama kullanıcıyı\n"
-    "hareketsiz bırakır.");
-
-const u8 gMoveDescription_MeteorMash[] = _(
-    "Meteor benzeri bir yumruk\n"
-    "atar. SLD yükseltebilir.");
-
-const u8 gMoveDescription_Astonish[] = _(
-    "Düşmanı şok ederek\n"
-    "korkutabilecek bir saldırı.");
-
-const u8 gMoveDescription_WeatherBall[] = _(
-    "Hareketin türü ve gücü\n"
-    "hava durumuna göre değişir.");
-
-const u8 gMoveDescription_Aromatherapy[] = _(
-    "Yatıştırıcı kokusuyla tüm\n"
-    "sorunları iyileştirir.");
-
-const u8 gMoveDescription_FakeTears[] = _(
-    "Düşmanın ÖZ. SVN keskin bir\n"
-    "şekilde düşürür.");
-
-const u8 gMoveDescription_AirCutter[] = _(
-    "Jilet gibi bir rüzgarla\n"
-    "keser. Kritik oran yüksek.");
-
-const u8 gMoveDescription_Overheat[] = _(
-    "Tam güç saldırı yapar ama\n"
-    "ÖZ. SLD çokça düşer.");
-
-const u8 gMoveDescription_OdorSleuth[] = _(
-    "Düşmanın kaçınma çabalarını\n"
-    "boşa çıkarır.");
-
-const u8 gMoveDescription_RockTomb[] = _(
-    "Kayalarla hareketi engeller\n"
-    "Hızı düşürebilir.");
-
-const u8 gMoveDescription_SilverWind[] = _(
-    "Yetenekleri artırabilen\n"
-    "tozlu bir saldırı.");
-
-const u8 gMoveDescription_MetalSound[] = _(
-    "ÖZ. SVN'yı çokça düşüren\n"
-    "korkunç bir çığlık yayar.");
-
-const u8 gMoveDescription_GrassWhistle[] = _(
-    "Düşmanı hoş bir melodiyle\n"
-    "uyutur.");
-
-const u8 gMoveDescription_Tickle[] = _(
-    "SLD ve SVN düşürmek için\n"
-    "düşmanı güldürür.");
-
-const u8 gMoveDescription_CosmicPower[] = _(
-    "Savunmayı ve ÖZ. SVN'yı\n"
-    "mistik bir güçle yükseltir.");
-
-const u8 gMoveDescription_WaterSpout[] = _(
-    "Kullanıcının canı yüksek\n"
-    "ise daha fazla hasar verir.");
-
-const u8 gMoveDescription_SignalBeam[] = _(
-    "Düşman kafası karıştırabilen\n"
-    "bir ışın saldırısı.");
-
-const u8 gMoveDescription_ShadowPunch[] = _(
-    "Gölgelerden atılan\n"
-    "kaçınılmaz bir yumruk.");
-
-const u8 gMoveDescription_Extrasensory[] = _(
-    "Tuhaf bir güçle saldırır.\n"
-    "Ürkütmeye neden olabilir.");
-
-const u8 gMoveDescription_SkyUppercut[] = _(
-    "Gökyüzüne sıçrar gibi\n"
-    "atılan bir aparkat.");
-
-const u8 gMoveDescription_SandTomb[] = _(
-    "Düşmanı 2 ila 5 tur boyunca\n"
-    "bataklığa hapseder.");
-
-const u8 gMoveDescription_SheerCold[] = _(
-    "İsabet ettiğinde bayılmaya\n"
-    "neden olan bir saldırı.");
-
-const u8 gMoveDescription_MuddyWater[] = _(
-    "Çamurlu su ile saldırır.\n"
-    "İsabet oranı düşebilir.");
-
-const u8 gMoveDescription_BulletSeed[] = _(
-    "Düşmana saldırmak için arka\n"
-    "arkaya 2 ila 5 tohum atar.");
-
-const u8 gMoveDescription_AerialAce[] = _(
-    "Son derece hızlı ve\n"
-    "kaçınılmaz bir saldırı.");
-
-const u8 gMoveDescription_IcicleSpear[] = _(
-    "Arka arkaya 2 ila 5 buz\n"
-    "sarkıtını fırlatır.");
-
-const u8 gMoveDescription_IronDefense[] = _(
-    "Vücudu sertleştirerek savunma\n"
-    "çokça artırır.");
-
-const u8 gMoveDescription_Block[] = _(
-    "Kaçışı engellemek için\n"
-    "düşmanın yolunu keser.");
-
-const u8 gMoveDescription_Howl[] = _(
-    "Ruhu yükseltmek için ulur\n"
-    "ve SALDIRIYI artırır.");
-
-const u8 gMoveDescription_DragonClaw[] = _(
-    "Düşmanı keskin\n"
-    "pençeleriyle keser.");
-
-const u8 gMoveDescription_FrenzyPlant[] = _(
-    "Güçlüdür ama kullanıcıyı\n"
-    "sonraki turda felç eder.");
-
-const u8 gMoveDescription_BulkUp[] = _(
-    "Hem SALDIRI hem de\n"
-    "SAVUNMAYI artırır.");
-
-const u8 gMoveDescription_Bounce[] = _(
-    "Zıplar, bir sonraki turda\n"
-    "aşağı iner. Felç edebilir.");
-
-const u8 gMoveDescription_MudShot[] = _(
-    "Düşmana çamur fırlatır ve\n"
-    "HIZI azaltır.");
-
-const u8 gMoveDescription_PoisonTail[] = _(
-    "Yüksek kritik oranına\n"
-    "sahiptir. Zehirleyebilir.");
-
-const u8 gMoveDescription_Covet[] = _(
-    "Düşman elindeki eşyayı\n"
-    "şirin bir şekilde yalvarır.");
-
-const u8 gMoveDescription_VoltTackle[] = _(
-    "Kullanıcıya hafifçe zarar\n"
-    "veren, riskli bir saldırı.");
-
-const u8 gMoveDescription_MagicalLeaf[] = _(
-    "Kaçınılması mümkün olmayan\n"
-    "bir yaprakla saldırır.");
-
-const u8 gMoveDescription_WaterSport[] = _(
-    "Ateşe karşı direnç\n"
-    "artırmak için ıslanır.");
-
-const u8 gMoveDescription_CalmMind[] = _(
-    "ÖZ. SLD ve ÖZ. SVN'yı zihni\n"
-    "odaklayarak yükseltir.");
-
-const u8 gMoveDescription_LeafBlade[] = _(
-    "Keskin bir yaprakla keser.\n"
-    "Yüksek kritik vuruş oranı.");
-
-const u8 gMoveDescription_DragonDance[] = _(
-    "SALDIRI ve HIZI artıran\n"
-    "mistik bir dans.");
-
-const u8 gMoveDescription_RockBlast[] = _(
-    "Düşmana arka arkaya 2 ila 5\n"
-    "kez kaya fırlatır.");
-
-const u8 gMoveDescription_ShockWave[] = _(
-    "Hızlı ve kaçınılmaz bir\n"
-    "elektrik saldırısı.");
-
-const u8 gMoveDescription_WaterPulse[] = _(
-    "Ultrasonik dalga ile vurur.\n"
-    "Kafa karıştırabilir.");
-
-const u8 gMoveDescription_DoomDesire[] = _(
-    "2 tur sonra saldırmak için\n"
-    "güçlü güneş ışığı çağırır.");
-
-const u8 gMoveDescription_PsychoBoost[] = _(
-    "Tam güç saldırır ancak\n"
-    "ÖZ. SLD çokça düşürür.");
+const u8 gMoveDescription_Pound[] = _("Düşmanı ön\nayaklarıyla ya da\nkuyruğuyla döver.");
+const u8 gMoveDescription_KarateChop[] = _("Yüksek kritik\noranına sahip bir\nsaldırı.");
+const u8 gMoveDescription_DoubleSlap[] = _("Düşmana 2 ila 5\nkez tokat atar.");
+const u8 gMoveDescription_CometPunch[] = _("Düşmana 2 ila 5\nkez tekrar tekrar\nyumruk atar.");
+const u8 gMoveDescription_MegaPunch[] = _("İnanılmaz bir\ngüçle atılan güçlü\nbir yumruk.");
+const u8 gMoveDescription_PayDay[] = _("Düşmana para\nfırlatır. Para\ndaha sonra alınır.");
+const u8 gMoveDescription_FirePunch[] = _("Düşmanı\nyakabilecek ateşli\nbir yumruk.");
+const u8 gMoveDescription_IcePunch[] = _("Düşmanı\ndondurabilecek buz\ngibi bir yumruk.");
+const u8 gMoveDescription_ThunderPunch[] = _("Düşmanı felç\nedebilecek\nelektrikli bir\nyumruk.");
+const u8 gMoveDescription_Scratch[] = _("Düşmanı keskin\npençeleriyle\ntırmalar.");
+const u8 gMoveDescription_ViceGrip[] = _("Düşmanı büyük ve\ngüçlü kıskaçlarla\nkavrar.");
+const u8 gMoveDescription_Guillotine[] = _("Bayıltabilen bir\nkıskaç saldırısı.");
+const u8 gMoveDescription_RazorWind[] = _("Düşmanı 2. turda\nvuran 2 turluk bir\nhamle.");
+const u8 gMoveDescription_SwordsDance[] = _("SALDIRIYI çokça\nyükselten bir\ndövüş dansı.");
+const u8 gMoveDescription_Cut[] = _("Düşmanı keskin\ntırpanlarla,\npençelerle vb.\nkeser.");
+const u8 gMoveDescription_Gust[] = _("Düşmana\nkanatlarından\nçıkan bir rüzgarla\nvurur.");
+const u8 gMoveDescription_WingAttack[] = _("Düşmana\nkanatlarını açarak\nsaldırır.");
+const u8 gMoveDescription_Whirlwind[] = _("Düşmanı rüzgarla\nsavurur ve savaşı\nbitirir.");
+const u8 gMoveDescription_Fly[] = _("İlk dönüşte uçar,\nsonraki dönüşte\nvurur.");
+const u8 gMoveDescription_Bind[] = _("Düşmanı 2 ila 5\ntur boyunca bağlar\nve sıkıştırır.");
+const u8 gMoveDescription_Slam[] = _("Düşmanı uzun bir\nkuyruk, asma vb.\nile vurur.");
+const u8 gMoveDescription_VineWhip[] = _("Düşmana ince,\nkırbaç gibi\nsarmaşıklarla\nvurur.");
+const u8 gMoveDescription_Stomp[] = _("Düşmanı büyük bir\nayakla ezer.\nDüşman ürkebilir.");
+const u8 gMoveDescription_DoubleKick[] = _("Düşmana iki kez\nvuran çift tekme\nsaldırısı.");
+const u8 gMoveDescription_MegaKick[] = _("Yoğun kuvvete\nsahip son derece\ngüçlü bir tekme.");
+const u8 gMoveDescription_JumpKick[] = _("Güçlü bir zıplama\ntekmesi.\nIskalayabilir.");
+const u8 gMoveDescription_RollingKick[] = _("Hızlı bir dönüşle\natılan hızlı bir\ntekme.");
+const u8 gMoveDescription_SandAttack[] = _("Düşmanın yüzüne\nkum fırlatır ve\nkesinliği azaltır.");
+const u8 gMoveDescription_Headbutt[] = _("İrkilmeye neden\nolabilecek bir\nvuruş saldırısı.");
+const u8 gMoveDescription_HornAttack[] = _("Düşmana keskin\nboynuzlarla vurur.");
+const u8 gMoveDescription_FuryAttack[] = _("Düşmana keskin\nboynuzlarla 2 ila\n5 kez vurur, vb.");
+const u8 gMoveDescription_HornDrill[] = _("Tek vuruşta nakavt\nedebilen bir\nboynuz saldırısı.");
+const u8 gMoveDescription_Tackle[] = _("Düşmana tüm vücudu\nkullanarak\nsaldırır.");
+const u8 gMoveDescription_BodySlam[] = _("Felce neden\nolabilecek bir tüm\nvücut vuruşu.");
+const u8 gMoveDescription_Wrap[] = _("Düşmanı\nsarmaşıklar ile 2\nila 5 kez\nsıkıştırır.");
+const u8 gMoveDescription_TakeDown[] = _("Kullanıcıya da\nzarar veren bir\nhücum saldırısı.");
+const u8 gMoveDescription_Thrash[] = _("Kullanıcı kafasını\nkarıştıran 2 ila 3\nturluk bir\nsaldırı.");
+const u8 gMoveDescription_DoubleEdge[] = _("Kullanıcıya da\nzarar veren,\nriskli bir\nsaldırı.");
+const u8 gMoveDescription_TailWhip[] = _("Düşmanın\nSAVUNMASINI\ndüşürmek için\nkuyruk sallar.");
+const u8 gMoveDescription_PoisonSting[] = _("Zehirleyebilecek\ndikenler ile\nzehirli bir\nsaldırı.");
+const u8 gMoveDescription_Twineedle[] = _("Ön ayaklardaki\niğneler düşmana\niki kez vurur.");
+const u8 gMoveDescription_PinMissile[] = _("Keskin iğneler 2\nila 5 kez vurulmak\nüzere ateşlenir.");
+const u8 gMoveDescription_Leer[] = _("SAVUNMAYI düşürmek\niçin bir bakışla\ndüşmanı korkutur.");
+const u8 gMoveDescription_Bite[] = _("Vahşi dişlerle\nısırır. İrkilmeye\nneden olabilir.");
+const u8 gMoveDescription_Growl[] = _("Düşman SALDIRISI\nazaltmak için\nsevimli şekilde\nhırlar.");
+const u8 gMoveDescription_Roar[] = _("Düşmanın savaşı\nbitirmek için\nkaçmasını sağlar.");
+const u8 gMoveDescription_Sing[] = _("Sakinleştirici\nşarkısı, düşmanı\nuykuya daldırır.");
+const u8 gMoveDescription_Supersonic[] = _("Kafa\nkarıştırabilecek\ntuhaf ses\ndalgaları yayar.");
+const u8 gMoveDescription_SonicBoom[] = _("Her zaman 20 CAN\nhasar veren şok\ndalgaları\nfırlatır.");
+const u8 gMoveDescription_Disable[] = _("Düşman\nsaldırılarından\nbirini psişik\nolarak engeller.");
+const u8 gMoveDescription_Acid[] = _("Deriyi eriten bir\nasit püskürtür.\nSVN düşürebilir.");
+const u8 gMoveDescription_Ember[] = _("Yanıklara yol\naçabilen zayıf bir\nateş saldırısı.");
+const u8 gMoveDescription_Flamethrower[] = _("Yanıklara neden\nolabilen güçlü bir\nateş saldırısı.");
+const u8 gMoveDescription_Mist[] = _("Yeteneklerin\nazalmasını\ndurduran bir sis\nyaratır.");
+const u8 gMoveDescription_WaterGun[] = _("Düşmana saldırmak\niçin su fışkırtır.");
+const u8 gMoveDescription_HydroPump[] = _("Düşmana saldırmak\niçin yüksek güçte\nsu püskürtür.");
+const u8 gMoveDescription_Surf[] = _("Büyük bir dalga\nyaratır, sonra\ndüşman üzerine\nçökertir.");
+const u8 gMoveDescription_IceBeam[] = _("Düşmanı\ndondurabilecek\nbuzlu bir ışınla\npatlatır.");
+const u8 gMoveDescription_Blizzard[] = _("Düşmana onu\ndondurabilecek\nbuzlu bir fırtına\nile vurur.");
+const u8 gMoveDescription_Psybeam[] = _("Kafa\nkarıştırabilen\nözel bir ışın\nyayar.");
+const u8 gMoveDescription_BubbleBeam[] = _("HIZI düşürebilen\nbaloncuk\npüskürtür.");
+const u8 gMoveDescription_AuroraBeam[] = _("SALDIRI\nazaltabilen\ngökkuşağı renginde\nbir ışın fırlatır.");
+const u8 gMoveDescription_HyperBeam[] = _("Güçlüdür ama bir\nsonraki turda\nhareketsiz\nbırakır.");
+const u8 gMoveDescription_Peck[] = _("Düşmana saplanan\nbir gaga ile\nsaldırır.");
+const u8 gMoveDescription_DrillPeck[] = _("Gaga, matkap\ngörevi görerek\ndüşmana saplanır.");
+const u8 gMoveDescription_Submission[] = _("Kullanıcısına da\nzarar veren bir\nvücut darbesi.");
+const u8 gMoveDescription_LowKick[] = _("Düşman ne kadar\nağırsa o kadar\nhasar veren bir\nsaldırı.");
+const u8 gMoveDescription_Counter[] = _("Gelen fiziksel\nsaldırılara iki\nkat güçle karşılık\nverir.");
+const u8 gMoveDescription_SeismicToss[] = _("Kullanıcının\nseviyesine eşit\nhasar verir.");
+const u8 gMoveDescription_Strength[] = _("Muazzam bir güç\noluşturur, sonra\ndüşmanı çarpar.");
+const u8 gMoveDescription_Absorb[] = _("Verilen hasarın\nyarısını emen bir\nsaldırı.");
+const u8 gMoveDescription_MegaDrain[] = _("Verilen hasarın\nyarısını emen bir\nsaldırı.");
+const u8 gMoveDescription_LeechSeed[] = _("Her turda can\nçalmak için\ndüşmana bir tohum\neker.");
+const u8 gMoveDescription_Growth[] = _("Vücudu büyümeye\nzorlar ve ÖZ. SLD\nyükseltir.");
+const u8 gMoveDescription_RazorLeaf[] = _("Düşmanı\nyapraklarla keser.\nYüksek kritik\nvuruş oranı var.");
+const u8 gMoveDescription_SolarBeam[] = _("Bir turda ışığı\nemer, sonraki\nturda saldırır.");
+const u8 gMoveDescription_PoisonPowder[] = _("Düşmanı\nzehirleyebilecek\nzehirli bir toz\nsaçar.");
+const u8 gMoveDescription_StunSpore[] = _("Düşmanı felç\nedebilecek bir toz\nsaçar.");
+const u8 gMoveDescription_SleepPowder[] = _("Düşmanın uyumasına\nneden olabilecek\nbir toz saçar.");
+const u8 gMoveDescription_PetalDance[] = _("Kafa karıştıran 2\nila 3 turluk bir\nsaldırı.");
+const u8 gMoveDescription_StringShot[] = _("Hızını azaltmak\niçin düşmanı iple\nbağlar.");
+const u8 gMoveDescription_DragonRage[] = _("Her zaman 40 can\nhasar veren şok\ndalgaları\nfırlatır.");
+const u8 gMoveDescription_FireSpin[] = _("Düşmanı 2 ila 5\ntur boyunca ateş\nçemberi içine\nhapseder.");
+const u8 gMoveDescription_ThunderShock[] = _("Düşmanı felç\nedebilen bir\nelektrik\nsaldırısı.");
+const u8 gMoveDescription_Thunderbolt[] = _("Düşmanı felç\nedebilen güçlü bir\nelektrik\nsaldırısı.");
+const u8 gMoveDescription_ThunderWave[] = _("Düşmanı felç eden\nzayıf bir elektrik\nsarsıntısı.");
+const u8 gMoveDescription_Thunder[] = _("Felce neden\nolabilecek bir\nyıldırım\nsaldırısı.");
+const u8 gMoveDescription_RockThrow[] = _("Düşmana vurmak\niçin küçük taşlar\nfırlatır.");
+const u8 gMoveDescription_Earthquake[] = _("Güçlü bir\nsarsıntı, ancak\nhavadakilere\nhiçbir etkisi yok.");
+const u8 gMoveDescription_Fissure[] = _("Düşmanı yarık\niçine düşüren tek\nvuruşluk nakavt\nhareketi.");
+const u8 gMoveDescription_Dig[] = _("İlk turda\nyeraltını kazar ve\nsonraki turda\nsaldırır.");
+const u8 gMoveDescription_Toxic[] = _("Düşmanı zararlı\nbir toksinle\nzehirler.");
+const u8 gMoveDescription_Confusion[] = _("Kafa karışıklığına\nneden olabilecek\nbir saldırı.");
+const u8 gMoveDescription_Psychic[] = _("ÖZ. SVN'yı\ndüşürebilen güçlü\nbir psişik\nsaldırı.");
+const u8 gMoveDescription_Hypnosis[] = _("Uykuya neden\nolabilecek\nhipnotize edici\nbir hareket.");
+const u8 gMoveDescription_Meditate[] = _("SALDIRI'yı\nartırmak için\nmeditasyon yapar.");
+const u8 gMoveDescription_Agility[] = _("HIZI çokça\nartırmak için\nvücudu rahatlatır.");
+const u8 gMoveDescription_QuickAttack[] = _("Her zaman ilk\nvuruşu yapan hızlı\nbir saldırı.");
+const u8 gMoveDescription_Rage[] = _("Her vurulduğunda\nkullananın SALDIRI\ngücünü artırır.");
+const u8 gMoveDescription_Teleport[] = _("Savaştan anında\nkaçmak için psişik\nbir hareket.");
+const u8 gMoveDescription_NightShade[] = _("Kullanıcının\nseviyesine eşit\nhasar verir.");
+const u8 gMoveDescription_Mimic[] = _("Savaş sırasında\ndüşman hareketini\nkopyalar.");
+const u8 gMoveDescription_Screech[] = _("Düşmanın\nSAVUNMASINI\nazaltan bir çığlık\nyayar.");
+const u8 gMoveDescription_DoubleTeam[] = _("Kesinliği artırmak\niçin hayali\nkopyalar yaratır.");
+const u8 gMoveDescription_Recover[] = _("Kullananın maks.\ncanının yarısını\niyileştirir.");
+const u8 gMoveDescription_Harden[] = _("Kasları\nsertleştirerek\nSAVUNMA artırır.");
+const u8 gMoveDescription_Minimize[] = _("Kaçış kabiliyetini\nartırmak için\nkullanıcıyı\nküçültür.");
+const u8 gMoveDescription_Smokescreen[] = _("Duman, mürekkep\nvb. ile düşmanın\nisabetini düşürür.");
+const u8 gMoveDescription_ConfuseRay[] = _("Düşman kafasını\nkarıştıran bir\nışın.");
+const u8 gMoveDescription_Withdraw[] = _("SAVUNMAYI artırmak\niçin vücudu kabuk\niçine çeker.");
+const u8 gMoveDescription_DefenseCurl[] = _("Zayıflığını\ngizlemek için SVN\nartırır ve\nbüzülür.");
+const u8 gMoveDescription_Barrier[] = _("SAVUNMAYI çokça\nyükselten bir\nbariyer oluşturur.");
+const u8 gMoveDescription_LightScreen[] = _("ÖZ. SLD'yı düşüren\nbir ışık duvarı\noluşturur.");
+const u8 gMoveDescription_Haze[] = _("Tüm durum\ndeğişikliklerini\nkaldıran bir pus\nyaratır.");
+const u8 gMoveDescription_Reflect[] = _("Fiziksel\nsaldırıları\nzayıflatan duvar\nyaratır.");
+const u8 gMoveDescription_FocusEnergy[] = _("Kritik oranını\nyükseltmek için\nodaklanır.");
+const u8 gMoveDescription_Bide[] = _("İsabeti iki kat\nartırmak için 2\ntur dayanır.");
+const u8 gMoveDescription_Metronome[] = _("Parmak sallayarak\nrastgele bir\nsaldırı kullanır.");
+const u8 gMoveDescription_MirrorMove[] = _("Düşmanın\nsaldırısını aynı\nsaldırı ile\nkarşılar.");
+const u8 gMoveDescription_SelfDestruct[] = _("Ağır hasar verir\nama kullanıcıyı\nbayıltır.");
+const u8 gMoveDescription_EggBomb[] = _("Düşmana zorla bir\nyumurta\nfırlatılır.");
+const u8 gMoveDescription_Lick[] = _("Uzun bir dille\nısırır. Felç\nedebilir.");
+const u8 gMoveDescription_Smog[] = _("Zehirleyebilecek\nbir egzoz gazı\nsaldırısı.");
+const u8 gMoveDescription_Sludge[] = _("Çamur fırlatır.\nAyrıca\nzehirleyebilir.");
+const u8 gMoveDescription_BoneClub[] = _("Düşmana bir\nkemikle vurur.\nÜrkütebilir.");
+const u8 gMoveDescription_FireBlast[] = _("Vurduğu her şeyi\nyakar. Yanıklara\nneden olabilir.");
+const u8 gMoveDescription_Waterfall[] = _("Şelalelere\ntırmanmak için\ndüşmana hızla\nhücum eder.");
+const u8 gMoveDescription_Clamp[] = _("Düşmanı 2 ila 5\ntur boyunca\nsıkıştırır.");
+const u8 gMoveDescription_Swift[] = _("Asla ıskalamayan\nyıldız ışınları\nyağdırır.");
+const u8 gMoveDescription_SkullBash[] = _("Kafayı içeri\nsokar, sonra bir\nsonraki turda\nsaldırır.");
+const u8 gMoveDescription_SpikeCannon[] = _("2 ila 5 kez vuran\nkeskin sivri uçlar\nfırlatır.");
+const u8 gMoveDescription_Constrict[] = _("Acı vermek için\ndaraltır. Hızı\ndüşürebilir.");
+const u8 gMoveDescription_Amnesia[] = _("Hafızasından bir\nşey siler ve ÖZ.\nSVN yükseltir.");
+const u8 gMoveDescription_Kinesis[] = _("Dikkat dağıtarak\nisabet oranını\ndüşürebilir.");
+const u8 gMoveDescription_SoftBoiled[] = _("Maksimum canının\nyarısına kadar can\niyileştirir.");
+const u8 gMoveDescription_HiJumpKick[] = _("Zıplayan bir diz\ntekmesi. Iskalarsa\ngeri teper.");
+const u8 gMoveDescription_Glare[] = _("Düşmanı korkutur\nve felce uğratır.");
+const u8 gMoveDescription_DreamEater[] = _("Uyuyan bir düşmana\nverilen hasarın\nyarısını alır.");
+const u8 gMoveDescription_PoisonGas[] = _("Düşmanı\nzehirleyebilecek\nzehirli bir gazla\nsarar.");
+const u8 gMoveDescription_Barrage[] = _("Düşmana 2 ila 5\nkez yuvarlak\nnesneler fırlatır.");
+const u8 gMoveDescription_LeechLife[] = _("Verilen hasarın\nyarısını çalan bir\nsaldırı.");
+const u8 gMoveDescription_LovelyKiss[] = _("Uykuyu tetikleyen\nkorkunç bir öpücük\nister.");
+const u8 gMoveDescription_SkyAttack[] = _("Zayıf noktaları\naraştırır, sonraki\nturda saldırır.");
+const u8 gMoveDescription_Transform[] = _("Düşmanın\nhücrelerini\nkopyalar ve ona\ndönüşür.");
+const u8 gMoveDescription_Bubble[] = _("Baloncuk fırlatan\nbir saldırı. HIZ\ndüşürebilir.");
+const u8 gMoveDescription_DizzyPunch[] = _("Kafa\nkarıştırabilen\nritmik bir yumruk.");
+const u8 gMoveDescription_Spore[] = _("Her zaman uykuya\nneden olan bir\nspor bulutu saçar.");
+const u8 gMoveDescription_Flash[] = _("İsabeti kesen\ngüçlü bir ışık\npatlaması yayar.");
+const u8 gMoveDescription_Psywave[] = _("Değişken\nyoğunlukta psişik\nbir dalga ile\nsaldırır.");
+const u8 gMoveDescription_Splash[] = _("Bu sadece bir\nsıçrama... Hiçbir\netkisi yok.");
+const u8 gMoveDescription_AcidArmor[] = _("Kullanıcının\nvücudunu\nsıvılaştırarak SVN\nartırır.");
+const u8 gMoveDescription_Crabhammer[] = _("Kıskaçlı çekiç.\nYüksek kritik\noranına sahiptir.");
+const u8 gMoveDescription_Explosion[] = _("Ağır hasar verir\nama kullanıcıyı\nbayıltır.");
+const u8 gMoveDescription_FurySwipes[] = _("Düşmanı keskin\npençeler ile 2-5\nkez tırmıklar.");
+const u8 gMoveDescription_Bonemerang[] = _("İki kez vuran bir\nkemik bumerangı\nfırlatır.");
+const u8 gMoveDescription_Rest[] = _("Kullanıcı 2 tur\nboyunca uyur, canı\nyenilenir.");
+const u8 gMoveDescription_RockSlide[] = _("Büyük kayalar\nfırlatılır.\nİrkilmeye neden\nolabilir.");
+const u8 gMoveDescription_HyperFang[] = _("Keskin dişlerle\nsaldırır.\nİrkilmeye neden\nolabilir.");
+const u8 gMoveDescription_Sharpen[] = _("Poligon sayısını\nazaltır ve\nSALDIRIYI artırır.");
+const u8 gMoveDescription_Conversion[] = _("Kullanıcının\ntürünü bilinen bir\nsaldırının türü\nyapar.");
+const u8 gMoveDescription_TriAttack[] = _("Aynı anda üç tür\nışın ateşler.");
+const u8 gMoveDescription_SuperFang[] = _("Keskin dişlerle\nsaldırır ve\ndüşmanın canını\nyarılar.");
+const u8 gMoveDescription_Slash[] = _("Pençelerle keser.\nYüksek kritik\noranına sahiptir.");
+const u8 gMoveDescription_Substitute[] = _("Kullananın maks.\ncanının 1/4'ü ile\nyem oluşturur.");
+const u8 gMoveDescription_Struggle[] = _("Sadece tüm PP'ler\nbitmişse\nkullanılabilir.");
+const u8 gMoveDescription_Sketch[] = _("Düşmanın son\nhamlesini kalıcı\nolarak kopyalar.");
+const u8 gMoveDescription_TripleKick[] = _("Düşmanı artan bir\nşiddetle 3 kez\ntekmeler.");
+const u8 gMoveDescription_Thief[] = _("Saldırırken,\ndüşmanın elindeki\neşyayı çalabilir.");
+const u8 gMoveDescription_SpiderWeb[] = _("Düşmanın kaçmasını\nengeller.");
+const u8 gMoveDescription_MindReader[] = _("Bir sonraki\nsaldırının\nisabetini artırır.");
+const u8 gMoveDescription_Nightmare[] = _("Her tur uyuyan bir\ndüşmana 1/4 hasar\nverir.");
+const u8 gMoveDescription_FlameWheel[] = _("Yanıklara neden\nolabilen ateşli\nbir saldırı.");
+const u8 gMoveDescription_Snore[] = _("Yalnız uykuda\nkullanılabilen\nyüksek sesli bir\nsaldırı.");
+const u8 gMoveDescription_Curse[] = _("Hayaletler için\nfarklı işlev gören\nbir hareket.");
+const u8 gMoveDescription_Flail[] = _("Kullanıcının canı\nazaldığında gücü\nartar.");
+const u8 gMoveDescription_Conversion2[] = _("Kullanıcıyı son\nsaldırının türüne\ndynklılığını\nartırır.");
+const u8 gMoveDescription_Aeroblast[] = _("Güçlü bir patlama\nyaratır. Kritik\noranı yüksektir.");
+const u8 gMoveDescription_CottonSpore[] = _("Sporlar düşmana\nyapışarak HIZI\nçokça azaltır.");
+const u8 gMoveDescription_Reversal[] = _("Kullanıcının canı\nazaldığında hasar\nartar.");
+const u8 gMoveDescription_Spite[] = _("Düşmanın son\nhamlesinin PP'sini\nçokça keser.");
+const u8 gMoveDescription_PowderSnow[] = _("Düşmanı karlı bir\nrüzgarla savurur.\nDondurabilir.");
+const u8 gMoveDescription_Protect[] = _("Saldırıdan kaçar,\nancak üst üste\ntutmayabilir.");
+const u8 gMoveDescription_MachPunch[] = _("Saldırı önceliği\nolan bir yumruk\nsaldırısı.");
+const u8 gMoveDescription_ScaryFace[] = _("HIZI yüksek bir\nşekilde azaltır.");
+const u8 gMoveDescription_FaintAttack[] = _("Düşmanı yakınına\nçeker, sonra\nhatasız vurur.");
+const u8 gMoveDescription_SweetKiss[] = _("Sevimli bir\nbakışla öpücük\nister. Kafa\nkarıştırabilir.");
+const u8 gMoveDescription_BellyDrum[] = _("Canı feda ederken\nSLD çokça\nyükseltir.");
+const u8 gMoveDescription_SludgeBomb[] = _("Hasar vermek için\nçamur fırlatır.\nZehirleyebilir.");
+const u8 gMoveDescription_MudSlap[] = _("Çamur fırlatarak\ndüşman isabeti\ndüşürülür.");
+const u8 gMoveDescription_Octazooka[] = _("İsabeti düşürmek\niçin mürekkep\nateşler.");
+const u8 gMoveDescription_Spikes[] = _("Düşmana zarar\nveren sivri uçları\ndevreye sokar.");
+const u8 gMoveDescription_ZapCannon[] = _("Oldukça güçlüdür\nve felç eder.");
+const u8 gMoveDescription_Foresight[] = _("İsabet düşürme\netkilerini keser.");
+const u8 gMoveDescription_DestinyBond[] = _("Kullanıcı\nbayılırsa, düşman\nda bayılır.");
+const u8 gMoveDescription_PerishSong[] = _("Bu şarkıyı duyan\nPOKéMON 3 tur\niçinde bayılır.");
+const u8 gMoveDescription_IcyWind[] = _("Düşmanın HIZINI\ndüşüren korkunç\nbir saldırı.");
+const u8 gMoveDescription_Detect[] = _("Saldırıdan kaçar,\nancak üst üste\ntutmayabilir.");
+const u8 gMoveDescription_BoneRush[] = _("Elindeki kemikle\ndüşmanına 2 ila 5\nkez vurur.");
+const u8 gMoveDescription_LockOn[] = _("Bir sonraki\nhamlenin isabet\netmesi için\nkilitlenir.");
+const u8 gMoveDescription_Outrage[] = _("Kullananın kafa\nkarıştıran 2-3\nturluk saldırı.");
+const u8 gMoveDescription_Sandstorm[] = _("Birkaç tur boyunca\nsüren kum\nfırtınası\nBaşlatır.");
+const u8 gMoveDescription_GigaDrain[] = _("Verilen hasarın\nyarısını çalan bir\nsaldırı.");
+const u8 gMoveDescription_Endure[] = _("En az 1 can\nbırakarak 1 tur\nsaldırılara\ndayanır.");
+const u8 gMoveDescription_Charm[] = _("Düşmanı büyüler ve\nSLD. çokça\nazaltır.");
+const u8 gMoveDescription_Rollout[] = _("Yoğunluğu artan ve\n5 tur süren bir\nsaldırı.");
+const u8 gMoveDescription_FalseSwipe[] = _("Düşmanı en az 1\ncan ile bırakan\nbir saldırı.");
+const u8 gMoveDescription_Swagger[] = _("Düşman kafası\nkarıştırır ama SLD\nçokça yükseltir.");
+const u8 gMoveDescription_MilkDrink[] = _("Kullanıcının maks\ncanının yarısını\niyileştirir.");
+const u8 gMoveDescription_Spark[] = _("Düşmanı felç\nedebilecek\nelektrikli bir\nsaldırı.");
+const u8 gMoveDescription_FuryCutter[] = _("Art arda her\nvuruşta\nşiddetlenen bir\nsaldırı.");
+const u8 gMoveDescription_SteelWing[] = _("Düşmana sert\nkanatlarını açarak\nsaldırır.");
+const u8 gMoveDescription_MeanLook[] = _("Düşmanın kaçmasını\nengelleyen sert\nbir bakış.");
+const u8 gMoveDescription_Attract[] = _("Karşı cinsin\nsaldırma\nolasılığını\nazaltır.");
+const u8 gMoveDescription_SleepTalk[] = _("Uykudayken\nrastgele bir\nhareket kullanır.");
+const u8 gMoveDescription_HealBell[] = _("Tüm durum\nsorunlarını ses\nile iyileştirir.");
+const u8 gMoveDescription_Return[] = _("Arkadaşlıkla gücü\nartan bir saldırı.");
+const u8 gMoveDescription_Present[] = _("Bomba şeklinde bir\nhediye. Canı\nyenileyebilir.");
+const u8 gMoveDescription_Frustration[] = _("Eğitmen\nsevilmediğinde\ndaha güçlü olan\nbir saldırı.");
+const u8 gMoveDescription_Safeguard[] = _("Tüm durum\nsorunlarını\nönleyen, mistik\nbir güç.");
+const u8 gMoveDescription_PainSplit[] = _("Kullanıcı ve\ndüşman canı eşit\nolarak\npaylaştırır.");
+const u8 gMoveDescription_SacredFire[] = _("Yanıklara neden\nolabilen mistik\nbir ateş\nsaldırısı.");
+const u8 gMoveDescription_Magnitude[] = _("Rastgele\nyoğunlukta, yeri\nsarsan bir\nsaldırı.");
+const u8 gMoveDescription_DynamicPunch[] = _("Kafa karıştırır\nancak isabeti\ndüşüktür.");
+const u8 gMoveDescription_Megahorn[] = _("Acımasız bir\nboynuz saldırısı.");
+const u8 gMoveDescription_DragonBreath[] = _("Düşmanı inanılmaz\nbir nefes\npatlamasıyla\nvurur.");
+const u8 gMoveDescription_BatonPass[] = _("Efektleri oyunda\ntutarken\nkullanıcıyı\ndeğiştirir.");
+const u8 gMoveDescription_Encore[] = _("Düşmana son\nhareketini 2-6 tur\ntekrarlatır.");
+const u8 gMoveDescription_Pursuit[] = _("Değişen bir düşman\nüzerinde hasarı\nyükselir.");
+const u8 gMoveDescription_RapidSpin[] = _("Düşmana vurmak\niçin vücudu yüksek\nhızda döndürür.");
+const u8 gMoveDescription_SweetScent[] = _("Kaçamakları\nazaltmak için\ndüşmanı cezbeder.");
+const u8 gMoveDescription_IronTail[] = _("Kaya gibi sert bir\nkuyrukla saldırır.\nSVN düşürebilir.");
+const u8 gMoveDescription_MetalClaw[] = _("Kullanıcının\nsaldırısını\nartırabilen bir\nsaldırı.");
+const u8 gMoveDescription_VitalThrow[] = _("Kullanıcın\nsaldırıyı en son\nyapar ama\nıskalamaz.");
+const u8 gMoveDescription_MorningSun[] = _("Canı iyileştirir.\nMiktar havaya göre\ndeğişir.");
+const u8 gMoveDescription_Synthesis[] = _("Canı iyileştirir.\nMiktar havaya göre\ndeğişir.");
+const u8 gMoveDescription_Moonlight[] = _("Canı iyileştirir.\nMiktar havaya göre\ndeğişir.");
+const u8 gMoveDescription_HiddenPower[] = _("Türü kullanıcıya\ngöre değişir.");
+const u8 gMoveDescription_CrossChop[] = _("Çifte doğrama\nsaldırısı. Yüksek\nkritik vuruş\noranı.");
+const u8 gMoveDescription_Twister[] = _("Düşmanı parçalamak\niçin güçlü bir\nhortum çıkarır.");
+const u8 gMoveDescription_RainDance[] = _("SU tipi saldırı\ngücünü 5 tur\nboyunca artırır.");
+const u8 gMoveDescription_SunnyDay[] = _("ATEŞ tipi saldırı\ngücünü 5 tur\nboyunca artırır.");
+const u8 gMoveDescription_Crunch[] = _("Keskin dişlerle\nsaldırır. ÖZ. SVN\ndüşürebilir.");
+const u8 gMoveDescription_MirrorCoat[] = _("Düşmanın özel\nsaldırısını iki\nkat güçle\nkarşılar.");
+const u8 gMoveDescription_PsychUp[] = _("Düşman etkilerini\nkopyalar ve alır.");
+const u8 gMoveDescription_ExtremeSpeed[] = _("Son derece hızlı\nve güçlü bir\nsaldırı.");
+const u8 gMoveDescription_AncientPower[] = _("Tüm özellikleri\nyükseltebilen bir\nsaldırı.");
+const u8 gMoveDescription_ShadowBall[] = _("Düşmana ÖZ SVN\ndüşürebilen kara\nbir top fırlatır.");
+const u8 gMoveDescription_FutureSight[] = _("2 tur sonra\nsaldırmak için\niçsel gücü\nartırır.");
+const u8 gMoveDescription_RockSmash[] = _("SAVUNMAYI\ndüşürebilecek kaya\nkırıcı bir\nsaldırı.");
+const u8 gMoveDescription_Whirlpool[] = _("Düşmanı 2 ila 5\ntur boyunca bir\ngirdaba hapseder.");
+const u8 gMoveDescription_BeatUp[] = _("Saldırıya\nkatılmaları için\nPOKéMON takımını\nçağırır.");
+const u8 gMoveDescription_FakeOut[] = _("İlk turda\nkullanılabilen,\nürküten, hızlı bir\nsaldırı.");
+const u8 gMoveDescription_Uproar[] = _("2 ila 5 tur\nboyunca ses yapar\nve uykuyu\nengeller.");
+const u8 gMoveDescription_Stockpile[] = _("Gücü 3 tura kadar\nşarj eder.");
+const u8 gMoveDescription_SpitUp[] = _("Stoklanan gücü\nserbest bırakır.");
+const u8 gMoveDescription_Swallow[] = _("Depolanan gücü\nemer ve canı\nyeniler.");
+const u8 gMoveDescription_HeatWave[] = _("Düşmanın üzerine\nsıcak bir nefes\nüfler. Yakabilir.");
+const u8 gMoveDescription_Hail[] = _("Her turda vuran\nbir dolu fırtınası\nçağırır.");
+const u8 gMoveDescription_Torment[] = _("Eziyet edererek\nüst üste kullanımı\nengeller.");
+const u8 gMoveDescription_Flatter[] = _("Düşman kafası\nkarıştırır, ancak\nÖZ. SLD yükseltir.");
+const u8 gMoveDescription_WillOWisp[] = _("Düşmanı yoğun\nateşle yakar.");
+const u8 gMoveDescription_Memento[] = _("Kullanıcı bayılır\nve düşman özlk.\nazaltır.");
+const u8 gMoveDescription_Facade[] = _("Kötü bir durumda,\nSALDIRI artırır.");
+const u8 gMoveDescription_FocusPunch[] = _("Güçlüdür ancak\nkullanıcı hasar\nalırsa ürker.");
+const u8 gMoveDescription_SmellingSalt[] = _("Felçli düşmanlara\nkarşı x2 vurur\nancak iyileştirir.");
+const u8 gMoveDescription_FollowMe[] = _("Düşmanların sadece\nkendine saldırması\niçin dikkat çeker.");
+const u8 gMoveDescription_NaturePower[] = _("Saldırının türü\nbulunduğu yere\ngöre değişir.");
+const u8 gMoveDescription_Charge[] = _("Bir sonraki\nelektrik saldırısı\niçin güç toplar.");
+const u8 gMoveDescription_Taunt[] = _("Sadece hasar veren\nsaldırı kullanması\niçin kızdırır.");
+const u8 gMoveDescription_HelpingHand[] = _("Dostun\nsaldırılarının\ngücünü artırır.");
+const u8 gMoveDescription_Trick[] = _("Düşmanı elindeki\neşyaları takas\netmesi için\nkandırır.");
+const u8 gMoveDescription_RolePlay[] = _("Hedefi taklit eder\nve özel yeteneğini\nkopyalar.");
+const u8 gMoveDescription_Wish[] = _("Can iyileştiren\nbir dilek. Zaman\nalır.");
+const u8 gMoveDescription_Assist[] = _("Ortağın\nhareketlerinden\nbiriyle rastgele\nsaldırır.");
+const u8 gMoveDescription_Ingrain[] = _("Can yenileyen\nkökler salar. Yer\ndeğiştiremez.");
+const u8 gMoveDescription_Superpower[] = _("Gücü çokça artırır\nama yetenekleri\nazaltır.");
+const u8 gMoveDescription_MagicCoat[] = _("Özel etkileri\nsaldırgana geri\nyansıtır.");
+const u8 gMoveDescription_Recycle[] = _("Kullanılmış eşyayı\ntekrar kullanım\niçin dönüştürür.");
+const u8 gMoveDescription_Revenge[] = _("Düşman tarafından\nhasar alınınca\ngüçlenir.");
+const u8 gMoveDescription_BrickBreak[] = _("YANSITMA gibi\nduvarları yok eder\nhasar verir.");
+const u8 gMoveDescription_Yawn[] = _("Düşmanı esnetir ve\nbir sonraki turda\nuyutur.");
+const u8 gMoveDescription_KnockOff[] = _("Düşmanın elindeki\neşyayı düşürerek\nengeller.");
+const u8 gMoveDescription_Endeavor[] = _("Kullanıcının canı\ndüşman canından\ndüşükse güçlenir.");
+const u8 gMoveDescription_Eruption[] = _("Kullanıcının canı\nne kadar yüksekse,\no kadar güçlüdür.");
+const u8 gMoveDescription_SkillSwap[] = _("Kullanıcı hedefle\nözel yeteneklerini\ndeğiştirir.");
+const u8 gMoveDescription_Imprison[] = _("Düşmanların kendi\nbildiği\nsaldırılarını\nengeller.");
+const u8 gMoveDescription_Refresh[] = _("Zehirlenmeyi,\nfelci ya da yanığı\niyileştirir.");
+const u8 gMoveDescription_Grudge[] = _("Bayılırsa düşmanın\nson saldırısının\nPP'lerini siler.");
+const u8 gMoveDescription_Snatch[] = _("Hedefin bir\nsonraki etkilerini\nçalar.");
+const u8 gMoveDescription_SecretPower[] = _("Etkileri konuma\ngöre değişen bir\nsaldırı.");
+const u8 gMoveDescription_Dive[] = _("İlk turda su\naltına dalar ve\nbir sonraki turda\nvurur.");
+const u8 gMoveDescription_ArmThrust[] = _("Düşmana 2 ila 5\nkez vuran düz kol\nyumrukları.");
+const u8 gMoveDescription_Camouflage[] = _("Bulunduğu yere\ngöre POKéMON türü\ndeğiştirir.");
+const u8 gMoveDescription_TailGlow[] = _("ÖZ. SLD çokça\nyükselten bir ışık\nyakıp söndürür.");
+const u8 gMoveDescription_LusterPurge[] = _("Işık patlamasıyla\nsaldırır. ÖZ. SVN\ndüşürebilir.");
+const u8 gMoveDescription_MistBall[] = _("Bir telaşla\nsaldırır. ÖZ. SLD\ndüşürebilir.");
+const u8 gMoveDescription_FeatherDance[] = _("Düşmanın\nsaldırısını iki\nseviye düşürür.");
+const u8 gMoveDescription_TeeterDance[] = _("Savaştaki\nPOKéMON'ların\nkafasını\nkarıştırır.");
+const u8 gMoveDescription_BlazeKick[] = _("Kritik oranı\nyüksektir. Yanığa\nneden olabilir.");
+const u8 gMoveDescription_MudSport[] = _("Elektrik direncini\nartırmak için\nçamurla kaplanır.");
+const u8 gMoveDescription_IceBall[] = _("Art arda vurunca\ngüçlenen 5 turluk\nbir saldırı.");
+const u8 gMoveDescription_NeedleArm[] = _("Dikenli kollarla\nsaldırır. Ürkmeye\nneden olabilir.");
+const u8 gMoveDescription_SlackOff[] = _("Yavaşlar ve\nmaksimum canın\nyarısını yeniler.");
+const u8 gMoveDescription_HyperVoice[] = _("Ses dalgalarını\nkullanan bir\nsaldırı.");
+const u8 gMoveDescription_PoisonFang[] = _("Keskin dişli bir\nsaldırı. Ağır\nzehirleyebilir.");
+const u8 gMoveDescription_CrushClaw[] = _("Keskin pençelerle\ndüşmanı keser. SVN\ndüşürebilir.");
+const u8 gMoveDescription_BlastBurn[] = _("Güçlüdür ama\nkullanıcıyı\nhareketsiz\nbırakır.");
+const u8 gMoveDescription_HydroCannon[] = _("Güçlüdür ama\nkullanıcıyı\nhareketsiz\nbırakır.");
+const u8 gMoveDescription_MeteorMash[] = _("Meteor benzeri bir\nyumruk atar. SLD\nyükseltebilir.");
+const u8 gMoveDescription_Astonish[] = _("Düşmanı şok ederek\nkorkutabilecek bir\nsaldırı.");
+const u8 gMoveDescription_WeatherBall[] = _("Hareketin türü ve\ngücü hava durumuna\ngöre değişir.");
+const u8 gMoveDescription_Aromatherapy[] = _("Yatıştırıcı\nkokusuyla tüm\nsorunları\niyileştirir.");
+const u8 gMoveDescription_FakeTears[] = _("Düşmanın ÖZ. SVN\nkeskin bir şekilde\ndüşürür.");
+const u8 gMoveDescription_AirCutter[] = _("Jilet gibi bir\nrüzgarla keser.\nKritik oran\nyüksek.");
+const u8 gMoveDescription_Overheat[] = _("Tam güç saldırı\nyapar ama ÖZ. SLD\nçokça düşer.");
+const u8 gMoveDescription_OdorSleuth[] = _("Düşmanın kaçınma\nçabalarını boşa\nçıkarır.");
+const u8 gMoveDescription_RockTomb[] = _("Kayalarla hareketi\nengeller Hızı\ndüşürebilir.");
+const u8 gMoveDescription_SilverWind[] = _("Yetenekleri\nartırabilen tozlu\nbir saldırı.");
+const u8 gMoveDescription_MetalSound[] = _("ÖZ. SVN'yı çokça\ndüşüren korkunç\nbir çığlık yayar.");
+const u8 gMoveDescription_GrassWhistle[] = _("Düşmanı hoş bir\nmelodiyle uyutur.");
+const u8 gMoveDescription_Tickle[] = _("SLD ve SVN\ndüşürmek için\ndüşmanı güldürür.");
+const u8 gMoveDescription_CosmicPower[] = _("Savunmayı ve ÖZ.\nSVN'yı mistik bir\ngüçle yükseltir.");
+const u8 gMoveDescription_WaterSpout[] = _("Kullanıcının canı\nyüksek ise daha\nfazla hasar verir.");
+const u8 gMoveDescription_SignalBeam[] = _("Düşman kafası\nkarıştırabilen bir\nışın saldırısı.");
+const u8 gMoveDescription_ShadowPunch[] = _("Gölgelerden atılan\nkaçınılmaz bir\nyumruk.");
+const u8 gMoveDescription_Extrasensory[] = _("Tuhaf bir güçle\nsaldırır.\nÜrkütmeye neden\nolabilir.");
+const u8 gMoveDescription_SkyUppercut[] = _("Gökyüzüne sıçrar\ngibi atılan bir\naparkat.");
+const u8 gMoveDescription_SandTomb[] = _("Düşmanı 2 ila 5\ntur boyunca\nbataklığa\nhapseder.");
+const u8 gMoveDescription_SheerCold[] = _("İsabet ettiğinde\nbayılmaya neden\nolan bir saldırı.");
+const u8 gMoveDescription_MuddyWater[] = _("Çamurlu su ile\nsaldırır. İsabet\noranı düşebilir.");
+const u8 gMoveDescription_BulletSeed[] = _("Düşmana saldırmak\niçin arka arkaya 2\nila 5 tohum atar.");
+const u8 gMoveDescription_AerialAce[] = _("Son derece hızlı\nve kaçınılmaz bir\nsaldırı.");
+const u8 gMoveDescription_IcicleSpear[] = _("Arka arkaya 2 ila\n5 buz sarkıtını\nfırlatır.");
+const u8 gMoveDescription_IronDefense[] = _("Vücudu\nsertleştirerek\nsavunma çokça\nartırır.");
+const u8 gMoveDescription_Block[] = _("Kaçışı engellemek\niçin düşmanın\nyolunu keser.");
+const u8 gMoveDescription_Howl[] = _("Ruhu yükseltmek\niçin ulur ve\nSALDIRIYI artırır.");
+const u8 gMoveDescription_DragonClaw[] = _("Düşmanı keskin\npençeleriyle\nkeser.");
+const u8 gMoveDescription_FrenzyPlant[] = _("Güçlüdür ama\nkullanıcıyı\nsonraki turda felç\neder.");
+const u8 gMoveDescription_BulkUp[] = _("Hem SALDIRI hem de\nSAVUNMAYI artırır.");
+const u8 gMoveDescription_Bounce[] = _("Zıplar, bir\nsonraki turda\naşağı iner. Felç\nedebilir.");
+const u8 gMoveDescription_MudShot[] = _("Düşmana çamur\nfırlatır ve HIZI\nazaltır.");
+const u8 gMoveDescription_PoisonTail[] = _("Yüksek kritik\noranına sahiptir.\nZehirleyebilir.");
+const u8 gMoveDescription_Covet[] = _("Düşman elindeki\neşyayı şirin bir\nşekilde yalvarır.");
+const u8 gMoveDescription_VoltTackle[] = _("Kullanıcıya\nhafifçe zarar\nveren, riskli bir\nsaldırı.");
+const u8 gMoveDescription_MagicalLeaf[] = _("Kaçınılması mümkün\nolmayan bir\nyaprakla saldırır.");
+const u8 gMoveDescription_WaterSport[] = _("Ateşe karşı direnç\nartırmak için\nıslanır.");
+const u8 gMoveDescription_CalmMind[] = _("ÖZ. SLD ve ÖZ.\nSVN'yı zihni\nodaklayarak\nyükseltir.");
+const u8 gMoveDescription_LeafBlade[] = _("Keskin bir\nyaprakla keser.\nYüksek kritik\nvuruş oranı.");
+const u8 gMoveDescription_DragonDance[] = _("SALDIRI ve HIZI\nartıran mistik bir\ndans.");
+const u8 gMoveDescription_RockBlast[] = _("Düşmana arka\narkaya 2 ila 5 kez\nkaya fırlatır.");
+const u8 gMoveDescription_ShockWave[] = _("Hızlı ve\nkaçınılmaz bir\nelektrik\nsaldırısı.");
+const u8 gMoveDescription_WaterPulse[] = _("Ultrasonik dalga\nile vurur. Kafa\nkarıştırabilir.");
+const u8 gMoveDescription_DoomDesire[] = _("2 tur sonra\nsaldırmak için\ngüçlü güneş ışığı\nçağırır.");
+const u8 gMoveDescription_PsychoBoost[] = _("Tam güç saldırır\nancak ÖZ. SLD\nçokça düşürür.");
 
 const u8 *const gMoveDescriptionPointers[MOVES_COUNT - 1] =
 {
