@@ -2,7 +2,7 @@ Trade_Text_LookingForMonWannaTradeForMon::
   .string "POKéMON {STR_VAR_1} arıyorum!\pBenim {STR_VAR_2} ile takas etmek\nister misin?$"
 
 Trade_Text_AwwOhWell::
-  .string "Awww! Ah, şey...$"
+  .string "Awww! Ah, şey…$"
 
 Trade_Text_WhatThatsNoMon::
   .string "Ne? Bu {STR_VAR_1} değil!$"
@@ -35,7 +35,7 @@ Trade_Text_ThatsTooBad::
   .string "Bu çok kötü.$"
 
 Trade_Text_ThisIsNoMon::
-  .string "...Bu {STR_VAR_1} değil.\pEğer bir tane bulursan, benimle takas\net.$"
+  .string "…Bu {STR_VAR_1} değil.\pEğer bir tane bulursan, benimle takas\net.$"
 
 Trade_Text_ThanksYoureAPal::
   .string "Teşekkürler, sen bir dostsun!$"

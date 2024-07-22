@@ -2,13 +2,13 @@ VSSeeker_Text_BatteryNotChargedNeedXSteps::
   .string "Akü yeterince şarj edilmemiş.\pPili tamamen şarj etmek için gereken\nadım sayısı:\l{STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
 
 VSSeeker_Text_NoTrainersWithinRange::
-  .string "Menzil içinde savaşabilecek hiç eğitmen\nyok.\pVS SEEKER\nkapatıldı.{PAUSE_UNTIL_PRESS}$"
+  .string "Menzil içinde savaşabilecek hiç eğitmen\nyok.\pVS BULUCU\nkapatıldı.{PAUSE_UNTIL_PRESS}$"
 
 VSSeeker_Text_TrainersNotReady::
   .string "Diğer EĞİTMENLER savaşa hazır\ngörünmüyor.\pDaha sonraya kadar bekleyelim.\n{PAUSE_UNTIL_PRESS}$"
 
 Route3_Text_ColtonRematchIntro::
-  .string "Hey! Seni VIRIDIAN FOREST'ta gördüm!$"
+  .string "Hey! Seni VIRIDIAN ORMANI'nda\ngörmüştüm!$"
 
 Route3_Text_BenRematchIntro::
   .string "Merhaba! Şortları severim! Rahat ve\ngiymesi kolay!\pSen de şort giymelisin!$"
@@ -20,7 +20,7 @@ Route3_Text_GregRematchIntro::
   .string "Siz bir eğitmensiniz, değil mi? Hemen\nbaşlayalım!$"
 
 Route3_Text_SallyRematchIntro::
-  .string "Bana attığın o bakış... Çok ilgimi\nçekiyor!$"
+  .string "Bana attığın o bakış… Çok ilgimi\nçekiyor!$"
 
 Route3_Text_CalvinRematchIntro::
   .string "Hey! Neyin var senin? Hala şort\ngiymiyorsun!$"
@@ -32,7 +32,7 @@ Route3_Text_RobinRematchIntro::
   .string "Eek! Beni ittin mi?$"
 
 Route4_Text_CrissyRematchIntro::
-  .string "MT'de her zaman mantarlı POKéMON\nyakalarım. MOON.$"
+  .string "AY DAĞI'nda her zaman mantar\nPOKéMON'u yakalarım.$"
 
 Route6_Text_RickyRematchIntro::
   .string "Oh! Sen bizi gizlice dinleyen meraklı\nçocuksun!$"
@@ -41,7 +41,7 @@ Route6_Text_NancyRematchIntro::
   .string "Affedersiniz! Sana bunun özel bir\nkonuşma olduğunu söylemedim mi?\pDinlememelisin, seni kaba insan!$"
 
 Route6_Text_KeigoRematchIntro::
-  .string "BUG POKéMON olmayan iyi bir şey\nbulmaya çalışıyorum ama...$"
+  .string "BÖCEK POKéMON'u olmayan iyi bir şey\nbulmaya çalışıyorum ama…$"
 
 Route6_Text_JeffRematchIntro::
   .string "Ha? Yine benimle gelmek ister misin?$"
@@ -98,7 +98,7 @@ Route9_Text_ChrisRematchIntro::
   .string "O yakışıklı POKéMON'larla birlikte\nolduğunu unutmadım.$"
 
 Route9_Text_DrewRematchIntro::
-  .string "LAVENDER'a gitmek için ROCK TUNNEL'ı\nalıyorum.\pAma yol boyunca herkes tarafından\ndurduruluyorum.$"
+  .string "LAVENDER'a gitmek için KAYA TÜNELİ\niçinden geçeceğim.\pAma yol boyunca herkes tarafından\ndurduruluyorum.$"
 
 Route9_Text_CaitlinRematchIntro::
   .string "Sakın bugün bana patronluk taslamaya\nkalkma! Kalanlar için oynuyoruz!$"
@@ -116,10 +116,10 @@ Route9_Text_AlanRematchIntro::
   .string "Hahahaha! Bu sefer ben kazanacağım!$"
 
 Route9_Text_ConnerRematchIntro::
-  .string "Git kazan, benim süper BUG POKéMON'um!$"
+  .string "Git kazan, benim süper\nBÖCEK POKéMON'um!$"
 
 Route10_Text_MarkRematchIntro::
-  .string "Vay, yine mi buraya geldin? Belki sen de\nbir POKéMANIAC'sındır? Koleksiyonumu\lgörmek ister misin?$"
+  .string "Vay, yine mi buraya geldin? Belki sen de\nbir POKéMANYAK'sındır? Koleksiyonumu\lgörmek ister misin?$"
 
 Route10_Text_ClarkRematchIntro::
   .string "Ha-hahah-ah-ha! Hapşırmadan\nduramıyorum!$"
@@ -128,7 +128,7 @@ Route10_Text_HermanRematchIntro::
   .string "Selam, evlat! Sana POKéMON'umu\ngösterdim mi?$"
 
 Route10_Text_HeidiRematchIntro::
-  .string "Yine bir POKéMON GYM'e gittim.\p...Ama her zamanki gibi kaybettim.$"
+  .string "Yine bir POKéMON SALONU'na gittim.\p…Ama her zamanki gibi kaybettim.$"
 
 Route10_Text_TrentRematchIntro::
   .string "Ah! Bu dağ havası çok lezzetli! O kadar\ngüzel ki, ayrılamıyorum!$"
@@ -152,10 +152,10 @@ Route11_Text_DillonRematchIntro::
   .string "Bir süre önce eğitmen oldum. Ama sanırım\nkazanabilirim.$"
 
 Route11_Text_DirkRematchIntro::
-  .string "Fwahaha! Ben hiç kaybetmedim!\p...Ve eğer kaybettiysem, hepsini\nunuttum!$"
+  .string "Fwahaha! Ben hiç kaybetmedim!\p…Ve eğer kaybettiysem, hepsini\nunuttum!$"
 
 Route11_Text_DarianRematchIntro::
-  .string "Daha önce hiç kazanmamıştım.\pBelki de kaderimde böyle kalmak var...$"
+  .string "Daha önce hiç kazanmamıştım.\pBelki de kaderimde böyle kalmak var…$"
 
 Route11_Text_YasuRematchIntro::
   .string "Sınıfımın en iyisiyim. Her sabah ve\nakşam antrenman yapıyorum!$"
@@ -173,7 +173,7 @@ Route12_Text_ChipRematchIntro::
   .string "Sonunda geldin. Balık tutmak bir\nbekleme oyunudur.$"
 
 Route12_Text_JustinRematchIntro::
-  .string "Hala bir AY TAŞI bulamadım... Siz\nbuldunuz mu?$"
+  .string "Hala bir AY TAŞI bulamadım… Siz\nbuldunuz mu?$"
 
 Route12_Text_LucaRematchIntro::
   .string "Elektrik her zaman benim uzmanlık\nalanım olmuştur.\pYine de denizdeki POKemon hakkında\nhiçbir şey bilmiyorum.$"
@@ -182,7 +182,7 @@ Route12_Text_HankRematchIntro::
   .string "BALIKÇI APTAL, POKéMON ÇOCUĞA KARŞI!\nBir raunt daha, dövüş!$"
 
 Route12_Text_ElliotRematchIntro::
-  .string "Balık tutmayı seviyorum, beni yanlış\nanlamayın. Ama keşke daha fazla işim\lolsaydı... ...Balık tutmaktan vazgeçmek\lzor!$"
+  .string "Balık tutmayı seviyorum, beni yanlış\nanlamayın. Ama keşke daha fazla işim\lolsaydı… …Balık tutmaktan vazgeçmek\lzor!$"
 
 Route12_Text_AndrewRematchIntro::
   .string "Yakalamak nedir?\pBeni yenmedikçe asla bilemezsin!$"
@@ -191,7 +191,7 @@ Route12_Text_JesRematchIntro::
   .string "JES: Bugün burada kazanacağım ve\nGIA'ma evlenme teklif edeceğim.$"
 
 Route12_Text_GiaRematchIntro::
-  .string "Hey, JES... Uzun zamandır bekliyordum.\pEğer bugün kazanırsak, seninle\nevleneceğim!$"
+  .string "Hey, JES… Uzun zamandır bekliyordum.\pEğer bugün kazanırsak, seninle\nevleneceğim!$"
 
 Route13_Text_SebastianRematchIntro::
   .string "Kuşum POKéMON seni hatırlıyor!$"
@@ -206,7 +206,7 @@ Route13_Text_GwenRematchIntro::
   .string "Benim sevimli POKéMON'um seninle\nyeniden tanışmak istiyor.$"
 
 Route13_Text_AlmaRematchIntro::
-  .string "Birikimlerimi sıfırladım ve daha fazla\nCARBOS aldım.$"
+  .string "Birikimlerimi sıfırladım ve daha fazla\nKARBON aldım.$"
 
 Route13_Text_PerryRematchIntro::
   .string "Bu sefer kaybetmeyeceğim. Rüzgar bana\ndoğru esiyor!$"
@@ -230,13 +230,13 @@ Route14_Text_MitchRematchIntro::
   .string "Kuşum POKéMON bu sefer savaşa hazır\nolmalı.$"
 
 Route14_Text_BeckRematchIntro::
-  .string "PokéMON'da TM'leri mi kullanıyorsun?\nSadece onları tutmak işe yaramaz.$"
+  .string "TM'leri POKéMON'lar üstünde\nkullanıyor musun?\lOnları saklamak işe yaramaz.$"
 
 Route14_Text_MarlonRematchIntro::
   .string "Kuşunuz POKéMON'a nasıl UÇULACAĞINI\nöğrettiniz mi?\pOnunla birlikte gökyüzünde\nsüzülebileceksiniz! Bir dene bakalım.$"
 
 Route14_Text_DonaldRematchIntro::
-  .string "Kanatlı serap efsanesi...\nDuymuşsunuzdur, değil mi?$"
+  .string "Kanatlı serap efsanesi…\nDuymuşsunuzdur, değil mi?$"
 
 Route14_Text_BennyRematchIntro::
   .string "Pek ilgimi çekmiyor ama olsun. Hadi\ngidelim!$"
@@ -374,7 +374,7 @@ Route19_Text_DavidRematchIntro::
   .string "Tekrar POKéMON için dalmayı denedim\nama daha önce olduğu gibi olmadı.$"
 
 Route19_Text_TonyRematchIntro::
-  .string "Olan tüm kötü şeyleri unutmak için\ndenize bakıyorum.\p...Sana karşı son kez kaybetmek gibi!$"
+  .string "Olan tüm kötü şeyleri unutmak için\ndenize bakıyorum.\p…Sana karşı son kez kaybetmek gibi!$"
 
 Route19_Text_AnyaRematchIntro::
   .string "Her zaman POKéMON'una binebilirsin.\pÇok rahatlatıcı görünüyor. Kazanırsam\nalabilir miyim?$"
@@ -386,7 +386,7 @@ Route19_Text_AxleRematchIntro::
   .string "Bu sular tehlikeli! Buraya geri\ngelmemelisin!$"
 
 Route19_Text_ConnieRematchIntro::
-  .string "Burada arkadaşlarımla yüzdüm...\nYoruldum... Gerçekten tekrar savaşmak\lzorunda mıyız?$"
+  .string "Burada arkadaşlarımla yüzdüm…\nYoruldum… Gerçekten tekrar savaşmak\lzorunda mıyız?$"
 
 Route19_Text_LiaRematchIntro::
   .string "Kardeşimin daha yeni eğitmen olduğunu\nbiliyorsun, değil mi?\pOnu daha iyi hale getirmek istiyorum, bu\nyüzden yine yardımınıza ihtiyacım var.$"
@@ -461,7 +461,7 @@ Route25_Text_JoeyRematchIntro::
   .string "Buradayken kaybetmeyeceğim!$"
 
 Route25_Text_DanRematchIntro::
-  .string "Babam beni VERMILION CITY'deki S.S.\nANNE gemisinde harika bir partiye\lgötürdü.$"
+  .string "Babam beni VERMILION ŞEHRİ'ndeki\nS.S. ANNE gemisinde harika bir\lpartiye götürdü.$"
 
 Route25_Text_FlintRematchIntro::
   .string "Ben havalı bir adamım. Bir kız arkadaşım\nvar!\pBu sefer ona ne kadar havalı olduğumu\ngöstereceğim!$"
@@ -470,7 +470,7 @@ Route25_Text_KelseyRematchIntro::
   .string "Merhaba! Erkek arkadaşım harika!\nKondisyonum bugün iyi!$"
 
 Route25_Text_ChadRematchIntro::
-  .string "İçimde bir his vardı... Seninle tekrar\nsavaşmam gerektiğini biliyordum!$"
+  .string "İçimde bir his vardı… Seninle tekrar\nsavaşmam gerektiğini biliyordum!$"
 
 Route25_Text_HaleyRematchIntro::
   .string "Arkadaşımın bir sürü sevimli POKéMON'u\nvar. Çok kıskandım!$"
@@ -479,7 +479,7 @@ Route25_Text_FranklinRematchIntro::
   .string "MT'de yeni eğitim aldım. Ay, ama depoda\nhala benzin var!$"
 
 Route25_Text_NobRematchIntro::
-  .string "Cape'de bir POKéMANIAC yaşıyor.\nKoleksiyonunu gördünüz mü?$"
+  .string "Tepede bir POKéMANYAK yaşıyor.\nKoleksiyonunu gördünüz mü?$"
 
 Route25_Text_WayneRematchIntro::
   .string "BILL'i tekrar görmeye mi gidiyorsun?\nÖnce savaşacağız!$"
@@ -491,19 +491,19 @@ Route24_Text_EthanRematchIntro::
   .string "Tamam! Tamam! Seni ezeceğim!$"
 
 Route24_Text_ReliRematchIntro::
-  .string "Hep çok meşgul görünüyorsun...\nYorulmuyor musun?$"
+  .string "Hep çok meşgul görünüyorsun…\nYorulmuyor musun?$"
 
 Route24_Text_TimmyRematchIntro::
-  .string "NUGGET BRIDGE'e gelmeyi gerçekten\nseviyor olmalısınız.$"
+  .string "KÜLÇE KÖPRÜSÜ'ne gelmeyi gerçekten\nseviyor olmalısınız.$"
 
 Route24_Text_AliRematchIntro::
-  .string "Savaştığımız zaman...\pİkinci sırada olmama rağmen en iyisi\nbendim, değil mi?$"
+  .string "Savaştığımız zaman…\pİkinci sırada olmama rağmen en iyisi\nbendim, değil mi?$"
 
 Route24_Text_CaleRematchIntro::
-  .string "İnsanlar buna NUGGET BRIDGE diyor!\pBizi zaten yendiniz, bu yüzden meydan\nokumaya izniniz yok...\p...Ama, bizimle tekrar savaşabilirsiniz.$"
+  .string "İnsanlar buna KÜLÇE KÖPRÜSÜ diyor!\pBizi zaten yendiniz, bu yüzden meydan\nokumaya izniniz yok…\p…Ama, bizimle tekrar savaşabilirsiniz.$"
 
 OneIsland_TreasureBeach_Text_AmaraRematchIntro::
-  .string "Sırt üstü uzanmış, dalgalarla\nsallanıyorum... Zamanın akıp gittiğini\lfark etmiyorum...$"
+  .string "Sırt üstü uzanmış, dalgalarla\nsallanıyorum… Zamanın akıp gittiğini\lfark etmiyorum…$"
 
 OneIsland_KindleRoad_Text_MariaRematchIntro::
   .string "Hava muhteşem! Bunu bozmamaya\nçalışacağım.$"
@@ -512,7 +512,7 @@ OneIsland_KindleRoad_Text_AbigailRematchIntro::
   .string "Güneş yanığım acımaya başladı.$"
 
 OneIsland_KindleRoad_Text_FinnRematchIntro::
-  .string "Ateş kuşunun dağı büyük bir gölge\noluşturuyor...$"
+  .string "Ateş kuşunun dağı büyük bir gölge\noluşturuyor…$"
 
 OneIsland_KindleRoad_Text_GarrettRematchIntro::
   .string "Bu sefer kazanabileceğime dair güçlü\nbir his var içimde!$"
@@ -527,7 +527,7 @@ OneIsland_KindleRoad_Text_TanyaRematchIntro::
   .string "Henüz tek bir eğitim gününü bile\nkaçırmadık!$"
 
 OneIsland_KindleRoad_Text_SheaRematchIntro::
-  .string "Her sabah kahvaltıdan önce bu adanın\netrafında yüzüyorum... Üç kez!$"
+  .string "Her sabah kahvaltıdan önce bu adanın\netrafında yüzüyorum… Üç kez!$"
 
 OneIsland_KindleRoad_Text_HughRematchIntro::
   .string "Savaş için uygun giyin! Şu anlamsız\nkıyafetten kurtulun dedim!$"
@@ -560,7 +560,7 @@ ThreeIsland_BondBridge_Text_TishaRematchIntro::
   .string "Ah, hayır, sana daha önce söylemedim\nmi? Lütfen, benden uzak dur!$"
 
 ThreeIsland_BondBridge_Text_JoyRematchIntro::
-  .string "SEVINÇ: Daha da güçlendik! Hem de\nçok!$"
+  .string "JOY: Daha da güçlendik! Hem de\nçok!$"
 
 ThreeIsland_BondBridge_Text_MegRematchIntro::
   .string "Bugün bizi yenemezsiniz!$"
@@ -575,7 +575,7 @@ FiveIsland_ResortGorgeous_Text_CelinaRematchIntro::
   .string "Tekrarlamak zorunda mıyım? Resim\nyapmaya çalışıyorum. Lütfen gözüme\lgörünme!$"
 
 FiveIsland_ResortGorgeous_Text_RaynaRematchIntro::
-  .string "Hiç ilerleme kaydedemedim... Hala\ndoğru açıyı yakalayamıyorum...$"
+  .string "Hiç ilerleme kaydedemedim… Hala\ndoğru açıyı yakalayamıyorum…$"
 
 FiveIsland_ResortGorgeous_Text_JackiRematchIntro::
   .string "Seninle zeka yarıştırmam için bana bir\nfırsat daha mı vereceksin?$"
@@ -590,10 +590,10 @@ FiveIsland_ResortGorgeous_Text_TobyRematchIntro::
   .string "Diyorum ki, dostum! Birlikte\ngeçirdiğimiz zamanın tadını çıkaralım!$"
 
 FiveIsland_MemorialPillar_Text_MiloRematchIntro::
-  .string "Ben BIRD BROTHERS'ın en büyüğüyüm.\nBeni hatırladınız mı?\pDoğru, kuşları gagaları için seven\nbenim!$"
+  .string "Ben KUŞ KARDEŞLER'in en büyüğüyüm.\nBeni hatırladın mı?\pDoğru, kuşları gagaları için seven\nbenim!$"
 
 FiveIsland_MemorialPillar_Text_ChazRematchIntro::
-  .string "Ben BIRD BROTHERS'ın ortanca\nçocuğuyum.\pKanatları seven benim. Hadi tekrar\nsavaşalım!$"
+  .string "Ben KUŞ KARDEŞLER'in ortanca\nçocuğuyum.\pKanatları seven benim. Hadi tekrar\nsavaşalım!$"
 
 FiveIsland_MemorialPillar_Text_HaroldRematchIntro::
   .string "Ben KUŞ KARDEŞLER'in en küçüğüyüm.\pKuşları tüyleri için severim. Seni bir\ndaha göreceğimi sanmıyordum!$"
@@ -602,7 +602,7 @@ SixIsland_OutcastIsland_Text_TylorRematchIntro::
   .string "Hala hiç şansım yok. Bir savaş hız\ndeğişikliği olurdu!$"
 
 SixIsland_OutcastIsland_Text_MymoRematchIntro::
-  .string "Gasp... Gasp...\pSIX ISLAND'ın limanından buraya yine\ntek seferde yüzdüm.$"
+  .string "Gasp… Gasp…\pALTINCI ADA'nın limanından buraya\nyine tek seferde yüzdüm.$"
 
 SixIsland_OutcastIsland_Text_NicoleRematchIntro::
   .string "Ben yüzerken hep yanıma geliyorsun.$"
@@ -614,7 +614,7 @@ SixIsland_OutcastIsland_Text_GebRematchIntro::
   .string "GEB: Ablam ve ben eskisinden çok daha\ngüçlüyüz!$"
 
 SixIsland_GreenPath_Text_JaclynRematchIntro::
-  .string "...Ha?\pEvimi hayal ediyorum ama TELEPORT beni\nhep buraya getiriyor!$"
+  .string "…Ha?\pEvimi hayal ediyorum ama IŞINLANMA\nbeni hep buraya getiriyor!$"
 
 SixIsland_WaterPath_Text_RoseRematchIntro::
   .string "Ah, merhaba. Yine hoş bir meltem esiyor.$"
@@ -665,7 +665,7 @@ SevenIsland_SevaultCanyon_Entrance_Text_MasonRematchIntro::
   .string "Merhaba! Sen benim hayran kulübümün\nbir üyesisin, değil mi?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasRematchIntro::
-  .string "Bu ada çok dağınık... Devriye gezmek\nçok sıkıcı...$"
+  .string "Bu ada çok dağınık… Devriye gezmek\nçok sıkıcı…$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineRematchIntro::
   .string "POKéMON'u kötüye kullanan insanları\naffetmiyorum!$"
@@ -680,7 +680,7 @@ SevenIsland_SevaultCanyon_Text_CyndyRematchIntro::
   .string "Bir savaş daha yapalım. Kondisyonum en\nüst seviyede!$"
 
 SevenIsland_SevaultCanyon_Text_EvanRematchIntro::
-  .string "En güçlü POKéMON'a sahip olmanızın bir\nönemi yok...\pOnları nasıl doğru kullanacağınızı\nbilmiyorsanız hiçbir şey ifade etmez!$"
+  .string "En güçlü POKéMON'a sahip olmanızın bir\nönemi yok…\pOnları nasıl doğru kullanacağınızı\nbilmiyorsanız hiçbir şey ifade etmez!$"
 
 SevenIsland_SevaultCanyon_Text_JacksonRematchIntro::
   .string "Çevreyi korumak için çalışıyorum.\nKarşılığında doğa da beni koruyor!$"

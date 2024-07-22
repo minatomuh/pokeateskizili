@@ -21,16 +21,16 @@ SevenIsland_SevaultCanyon_Entrance_Text_MasonDefeat::
 .string "Sana şarkı söyleyeyim!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonPostBattle::
-.string "Lalalah...\n"
+.string "Lalalah…\n"
 .string "POKéMON'larımı salarım,\l"
 .string "Kızlar çığlık atar, bayılırlar!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasIntro::
-.string "Bu ada çok dağınık...\n"
+.string "Bu ada çok dağınık…\n"
 .string "Devriye gezmek kolay değil.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasDefeat::
-.string "Evet...$"
+.string "Evet…$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasPostBattle::
 .string "Senin gibi şehirli EĞİTMENLER…\n"

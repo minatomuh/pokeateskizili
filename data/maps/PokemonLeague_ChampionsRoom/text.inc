@@ -9,7 +9,7 @@ PokemonLeague_ChampionsRoom_Text_Intro::
 .string "Sadece bununla kalmadım,\n"
 .string "her POKéMON türünü yenecek\l"
 .string "takımlar kurdum.\p"
-.string "Ve şimdi...\p"
+.string "Ve şimdi…\p"
 .string "Ben POKéMON LİGİ ŞAMPİYONUYUM!\p"
 .string "{PLAYER}!\n"
 .string "Bunun ne anlama geldiğini\l"
@@ -29,7 +29,7 @@ PokemonLeague_ChampionsRoom_Text_RematchIntro::
 .string "Sadece bununla kalmadım,\n"
 .string "her POKéMON türünü yenecek\l"
 .string "takımlar kurdum.\p"
-.string "Ve şimdi...\p"
+.string "Ve şimdi…\p"
 .string "Ben POKéMON LİGİ ŞAMPİYONUYUM!\p"
 .string "{PLAYER}!\n"
 .string "Bunun ne anlama geldiğini\l"
@@ -81,7 +81,7 @@ PokemonLeague_ChampionsRoom_Text_OakCongratulations::
 .string "{PLAYER}, çok yol kat ettin!$"
 
 PokemonLeague_ChampionsRoom_Text_OakImDisappointedRival::
-.string "OAK: {RIVAL}...\n"
+.string "OAK: {RIVAL}…\n"
 .string "Hayal kırıklığına uğradım.\p"
 .string "ELİT DÖRTLÜ'yü yendiğini\n"
 .string "duyduğumda buraya geldim.\p"

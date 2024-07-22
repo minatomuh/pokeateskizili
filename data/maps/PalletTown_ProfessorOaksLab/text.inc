@@ -172,12 +172,12 @@ PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak::
     .string "{PLAYER}, PROF. OAK'tan POKéDEX aldı.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
-    .string "OAK: sadece onları görerek\n"
+    .string "OAK: Sadece onları görerek\n"
     .string "POKéMON'lar hakkında ayrıntılı\l"
-    .string "veri elde edemezsin\p"
+    .string "veri elde edemezsin.\p"
     .string "Tam veriyi elde etmek için onları\n"
     .string "yakalamalısın.\p"
-    .string "İşte burada vahşi POKéMON'ları\n"
+    .string "İşte bunlar vahşi POKéMON'ları\n"
     .string "yakalamak için bazı araçlar.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedFivePokeBalls::
@@ -213,10 +213,10 @@ PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex::
     .string "Ah, {PLAYER}!\n"
     .string "POKéDEX'in nasıl şekilleniyor?\p"
     .string "{RIVAL} bazı POKéMON'ları\n"
-    .string "zaten yakaladı ve veri ekledi.\p"
+    .string "çoktan yakaladı ve verisini ekledi.\p"
     .string "Peki, {PLAYER}, senin POKéDEX'ine\n"
     .string "bir bakalım.\p"
-    .string "…Ne oldu?\n"
+    .string "…O da ne?\n"
     .string "Hiç yeni veri eklememişsin.\p"
     .string "Sana bunları veriyorum, biraz daha\n"
     .string "çaba göster.$"
@@ -257,8 +257,8 @@ PalletTown_ProfessorOaksLab_Text_EmailMessage::
     .string "En iyi POKéMON'larını getir ve\n"
     .string "bir EĞİTMEN olarak ne derece\l"
     .string "güçlü olduğunu gör!\p"
-    .string "POKéMON LİGİ HQ\n"
-    .string "INDIGO PLATEAU\p"
+    .string "POKéMON LİG MERKEZİ\n"
+    .string "INDIGO PLATOSU\p"
     .string "PROF. OAK, lütfen bizi ziyaret\n"
     .string "edin! …$"
 

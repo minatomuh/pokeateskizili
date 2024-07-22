@@ -108,70 +108,72 @@ EventScript_GiveProfile:
 	goto_if_eq VAR_RESULT, TRUE, EventScript_GaveProfile
 	end
 
-Text_IdLoveToHearYourProfile:
-	.string "Hi, glad to meet you!\p"
-	.string "…That's unfriendly of you.\n"
-	.string "How about saying hi back?\p"
-	.string "So, come on, tell me about\n"
-	.string "yourself.\p"
-	.string "I'd love to hear your profile!$"
+Text_IdLoveToHearYourProfile::
+    .string "Merhaba, tanıştığımıza memnun\n"
+	.string "oldum!\p"
+    .string "…Bu pek dostça bir davranış değil.\n"
+    .string "Geri selam vermez misin?\p"
+    .string "Yani, hadi bakalım, kendinden\n"
+    .string "bahset.\p"
+    .string "Profilini duymak isterim!$"
 
-Text_TellMeWhatsYourProfile:
-	.string "Tell me something good about\n"
-	.string "yourself. What's your profile?$"
+Text_TellMeWhatsYourProfile::
+    .string "Kendinle ilgili güzel bir şeyler\n"
+    .string "söyle bana. Profilin nedir?$"
 
-Text_ExplainProfile:
-	.string "A profile is written using four\n"
-	.string "words or phrases.\p"
-	.string "There're plenty of words to choose\n"
-	.string "from for your profile.\p"
-	.string "The words and phrases are placed\n"
-	.string "in several convenient groups.\p"
-	.string "First, choose a group, then choose\n"
-	.string "a word or phrase.\p"
-	.string "…It's easier than it sounds.\n"
-	.string "Why don't you try it?$"
+Text_ExplainProfile::
+    .string "Bir profil dört kelime veya cümle\n"
+    .string "kullanılarak yazılır.\p"
+    .string "Profilin için seçilecek pek çok\n"
+    .string "kelime var.\p"
+    .string "Kelime ve cümleler birkaç uygun\n"
+    .string "grupta yer alır.\p"
+    .string "Önce bir grup seç, sonra bir\n"
+    .string "kelime veya cümle seç.\p"
+    .string "…Göründüğü kadar zor değil.\n"
+    .string "Neden denemiyorsun?$"
 
-Text_WhatsYourProfile:
-	.string "What's your profile?$"
+Text_WhatsYourProfile::
+    .string "Profilin nedir?$"
 
-Text_DontBeLikeThat:
-	.string "Aww… Don't be like that.\n"
-	.string "You can tell me your profile.$"
+Text_DontBeLikeThat::
+    .string "Aww… Böyle davranma.\n"
+    .string "Profilini bana söyleyebilirsin.$"
 
-Text_DecidedNotTo:
-	.string "Oh, you've decided not to?\n"
-	.string "You're fickle, aren't you?$"
+Text_DecidedNotTo::
+    .string "Oh, söylememeye mi karar verdin?\n"
+    .string "Dengesizsin, değil mi?$"
 
-Text_HiWeMeetAgain:
-	.string "Hi!\n"
-	.string "We meet again!$"
+Text_HiWeMeetAgain::
+    .string "Merhaba!\n"
+    .string "Tekrar karşılaştık!$"
 
-Text_ChangeYourProfile:
-	.string "Would you like to change your\n"
-	.string "profile?$"
+Text_ChangeYourProfile::
+    .string "Profilini değiştirmek ister\n"
+    .string "misin?$"
 
-Text_WhatAreYouLikeNow:
-	.string "What are you like now?\n"
-	.string "I'd really like to know.$"
+Text_WhatAreYouLikeNow::
+    .string "Şu anda nasıl birisin?\n"
+    .string "Gerçekten merak ediyorum.$"
 
-Text_LikeProfileWayItIs:
-	.string "Okay, you like your profile the\n"
-	.string "way it is.\p"
-	.string "I think so, too.$"
+Text_LikeProfileWayItIs::
+    .string "Tamam, profilini olduğu gibi\n"
+    .string "seviyorsun.\p"
+    .string "Ben de öyle düşünüyorum.$"
 
-Text_ProfileSaysSomethingAboutYou:
-	.string "Hmhm…\p"
-	.string "Your profile really says something\n"
-	.string "about who you are.\p"
-	.string "Now that I know you better, it \n"
-	.string "makes us better friends than ever!$"
+Text_ProfileSaysSomethingAboutYou::
+    .string "Hmm…\p"
+    .string "Profilin gerçekten kim olduğunu\n"
+    .string "anlatıyor.\p"
+    .string "Seni daha iyi tanıdım, bu da\n"
+    .string "bizi daha iyi arkadaşlar yaptı!$"
 
-Text_HeardThatBefore:
-	.string "Oh, I've heard that before…\p"
-	.string "My cousin, who lives far away,\n"
-	.string "always used to say that, I think.$"
+Text_HeardThatBefore::
+    .string "Oh, bunu daha önce duydum…\p"
+    .string "Uzakta yaşayan kuzenim\n"
+    .string "bunu hep söylerdi, sanırım.$"
 
-Text_TellMoreNextTime:
-	.string "Please tell me more about\n"
-	.string "yourself next time!$"
+Text_TellMoreNextTime::
+    .string "Lütfen bir dahaki sefere\n"
+    .string "kendin hakkında daha fazla bilgi\n"
+    .string "ver.$"

@@ -60,7 +60,7 @@ Route25_SeaCottage_Text_ThanksBudTakeThis::
     .string "görmeye mi geldin?\p"
     .string "Hayır mı?\n"
     .string "Bu kötü.\p"
-    .string "Sana teşekkür borçluyum...\n"
+    .string "Sana teşekkür borçluyum…\n"
     .string "Oh, burada, belki bu işi görür.$"
 
 Route25_SeaCottage_Text_ThanksLadyTakeThis::

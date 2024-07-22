@@ -56,7 +56,7 @@ VermilionCity_Gym_Text_TuckerPostBattle::
 VermilionCity_Gym_Text_BailyIntro::
     .string "Hafifim, ama elektrikle\n"
     .string "iyi anlaşırım!\p"
-    .string "Bu yüzden bu GYM'e katıldım.$"
+    .string "Bu yüzden bu SALON'a katıldım.$"
 
 VermilionCity_Gym_Text_BailyDefeat::
     .string "Kızartıldı!$"

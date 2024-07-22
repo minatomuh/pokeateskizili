@@ -50,7 +50,7 @@ Text_Telephone::
   .string "Bu bir telefon. Kullanmasan iyi olur.$"
 
 Text_Computer::
-  .string "Hiçbir anlam ifade etmeyen karmaşık\nkelimeler ve sayılar...$"
+  .string "Hiçbir anlam ifade etmeyen karmaşık\nkelimeler ve sayılar…$"
 
 Text_AdvertisingPoster::
   .string "Her türlü ürün hakkında bir reklam\nafişi.$"
@@ -59,7 +59,7 @@ Text_TastyFood::
   .string "Çok lezzetli kokuyor! Mideniz\nguruldayabilir!$"
 
 Text_TrashBin::
-  .string "Bunun içinde... ......\pBurada hiçbir şey yok!$"
+  .string "Bunun içinde…\n……\pBurada hiçbir şey yok!$"
 
 Text_Cup::
   .string "Üzerinde POKéMON işareti olan bir\nfincan.$"

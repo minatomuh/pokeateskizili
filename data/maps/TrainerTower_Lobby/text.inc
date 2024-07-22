@@ -8,7 +8,7 @@ TrainerTower_Lobby_Text_WelcomeToTrainerTower::
 TrainerTower_Lobby_Text_TrainersUpToFloorNum::
 .string "Dünyanın dört bir yanından gelen\n"
 .string "eğitmenler burada savaşmak için\p"
-.string "bekliyorlar. Bir bakalım...\p"
+.string "bekliyorlar. Bir bakalım…\p"
 .string "Şu anda, eğitmenler sadece\n"
 .string "{STR_VAR_1}. kata kadar var.$"
 
@@ -23,8 +23,8 @@ TrainerTower_Lobby_Text_LikeToChallengeTrainers::
 TrainerTower_Lobby_Text_StartClockGetSetGo::
 .string "Tamam, saati başlatacağım,\n"
 .string "bunun için hazır ol.\p"
-.string "Hazır ol...\p"
-.string "Durumuna bak...\p"
+.string "Hazır ol…\p"
+.string "Durumuna bak…\p"
 .string "Hadi!$"
 
 TrainerTower_Lobby_Text_PleaseVisitUsAgain::
@@ -48,16 +48,16 @@ TrainerTower_Lobby_Text_MoveCounterHereWhenTrainersSwitch::
 .string "dileriz.$"
 
 TrainerTower_Roof_Text_ImOwnerBattledPerfectly::
-.string "Merhaba...\p"
-.string "Bu KULE'nin sahibiyim...\p"
+.string "Merhaba…\p"
+.string "Bu KULE'nin sahibiyim…\p"
 .string "Bakın, gökyüzü bu çatıdan nasıl\n"
-.string "yükseliyor...\p"
-.string "Rüzgarın okşamaları burada...\p"
-.string "Her şey o kadar mükemmel...\p"
-.string "Savaşın da mükemmeldi...$"
+.string "yükseliyor…\p"
+.string "Rüzgarın okşamaları burada…\p"
+.string "Her şey o kadar mükemmel…\p"
+.string "Savaşın da mükemmeldi…$"
 
 TrainerTower_Roof_Text_ThisIsForYou::
-.string "Bu senin için...$"
+.string "Bu senin için…$"
 
 TrainerTower_Roof_Text_DoneItInRecordTime::
 .string "Oh!\n"
@@ -65,7 +65,7 @@ TrainerTower_Roof_Text_DoneItInRecordTime::
 .string "Buraya bu kadar hızlı gelmeniz\n"
 .string "gerçekten harika.\p"
 .string "Gerçek şu ki, bunu rekor bir\n"
-.string "zamanda başardınız...\p"
+.string "zamanda başardınız…\p"
 .string "Rekorunuzu resepsiyon\n"
 .string "kontuarına yazdıracağım.$"
 
@@ -75,9 +75,9 @@ TrainerTower_Roof_Text_TookSweetTimeGettingHere::
 
 TrainerTower_Roof_Text_IdLikeToSeeBetterTime::
 .string "Senden daha iyi bir zaman\n"
-.string "görmek istiyorum...\p"
+.string "görmek istiyorum…\p"
 .string "Sana güveniyorum.\p"
-.string "O zamana kadar, hoşça kal...$"
+.string "O zamana kadar, hoşça kal…$"
 
 TrainerTower_Text_XMinYZSec::
 .string "{STR_VAR_1} dk. {STR_VAR_2}.{STR_VAR_3} sn.$"
@@ -114,8 +114,8 @@ TrainerTower_Lobby_Text_WonderWhatKindsOfTrainers::
 .string "Gerçekten heyecan verici!$"
 
 TrainerTower_Lobby_Text_StairsTougherThanAnyBattle::
-.string "Of, of...\n"
-.string "Of...\p"
+.string "Of, of…\n"
+.string "Of…\p"
 .string "Savaşmayı bir kenara bırakın! Bu\n"
-.string "merdivenler... Onlardan daha zor\n"
+.string "merdivenler… Onlardan daha zor\n"
 .string "bir savaş yok!$"

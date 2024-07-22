@@ -1,6 +1,6 @@
 FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
     .string "LORELEI: Aklımı kurcalayan bir şey var.\n"
-    .string "Doğduğum adaya bir şey olursa...\p"
+    .string "Doğduğum adaya bir şey olursa…\p"
     .string "POKéMON LİGİ'nde olsam haberim olmaz.\p"
     .string "Acaba bu beni sorumsuz mu yapar?\p"
     .string "Bu beni evime karşı sorumsuz mu yapar?$"

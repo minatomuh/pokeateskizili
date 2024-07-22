@@ -168,6 +168,7 @@ const u8 gTeachyTvText_TMsScript2[] = _(
     "Haydi, sonra görüşmek üzere!\p"
     "Unutmayın, eğitmenler, her gün\n"
     "bir iyilik, mutluluk getirir!");
+    
 const u8 gTeachyTvText_RegisterScript1[] = _(
     "EĞİTMEN ÇANTASI, bir sürü\n"
     "kullanışlı özelliğe sahiptir!\p"

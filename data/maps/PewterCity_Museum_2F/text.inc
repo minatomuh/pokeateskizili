@@ -1,10 +1,10 @@
 Text_SeismicTossTeach::
-    .string "Uzayın sırları...\n"
-    .string "Yerin gizemleri...\p"
+    .string "Uzayın sırları…\n"
+    .string "Yerin gizemleri…\p"
     .string "Bilmediğimiz o kadar çok şey var ki.\n"
     .string "Ama bu bizi çalışmaya itmeli,\p"
     .string "havlu atmaya değil.\p"
-    .string "Tek atman gereken şey...\p"
+    .string "Tek atman gereken şey…\p"
     .string "SİSMİK ATMA?\n"
     .string "Bir POKéMON'a öğreteyim mi?$"
 

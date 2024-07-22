@@ -25,7 +25,7 @@ FiveIsland_RocketWarehouse_Text_Grunt1Intro::
 .string "Savaşmak mı istiyorsun?$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1Defeat::
-.string "Ama...\n"
+.string "Ama…\n"
 .string "Çok fazla!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1PostBattle::

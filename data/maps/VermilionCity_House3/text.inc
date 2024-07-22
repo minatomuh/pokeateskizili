@@ -16,5 +16,5 @@ VermilionCity_House3_Text_SendMyPidgeyToUnionRoom::
     .string "Farklı insanlarla mektup\n"
     .string "alışverişi yapmak istiyorum.\p"
     .string "Mektuplarımı taşımaları için\n"
-    .string "PIDGEY'lerimi UNION ROOM'a\l"
+    .string "PIDGEY'lerimi BİRLİK ODASI'na\l"
     .string "gönderiyorum.$"

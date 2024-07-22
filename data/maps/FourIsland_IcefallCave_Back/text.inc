@@ -60,10 +60,10 @@ FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland::
     .string "Vay canına! Tamam!\n"
     .string "Konuşacağım!\p"
     .string "POKéMON'lar BEŞİNCİ ADA'da\n"
-    .string "ROKET AMBARINDA.\p"
+    .string "ROKET DEPOSU'nda.\p"
     .string "İşte bu! Bunu söyledim!\n"
     .string "Şimdi gidiyoruz!\p"
-    .string "…Ama asla ROKET AMBARI'na\n"
+    .string "…Ama asla ROKET DEPOSU'na\n"
     .string "giremeyeceğinizi düşünüyorum!\p"
     .string "Heheheheh!$"
 
