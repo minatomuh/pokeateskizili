@@ -76,7 +76,7 @@ CeruleanCity_Text_MakeRoomForThisCantRun::
     .string "Gitmem için bunu sana vermem lazım!$"
 
 CeruleanCity_Text_TrainerLifeIsToughIsntIt::
-    .string "Sen de bir EĞİTMEN müsün?\p"
+    .string "Sen de mi bir EĞİTMEN'sin?\p"
     .string "Toplamak, savaşmak…\n"
     .string "Zor bir yaşam, değil mi?$"
 

@@ -27,7 +27,7 @@ SaffronCity_Text_WeCanExploitMonsAroundWorld::
 .string "Pis zengin olacağız, evet!$"
 
 SaffronCity_Text_YouBeatTeamRocket::
-.string "ROKET TAKIMI'nı tek başına yendin mi?\n"
+.string "ROKET TAKIMI'nı tek başına mı yendin?\n"
 .string "Bu inanılmaz!$"
 
 SaffronCity_Text_SafeToGoOutAgain::
@@ -66,7 +66,7 @@ SaffronCity_Text_CitySign::
 .string "Parlayan, Altın Ticaret Ülkesi$"
 
 SaffronCity_Text_FightingDojo::
-.string "FIGHTING DOJO$"
+.string "DÖVÜŞ DOJOSU$"
 
 SaffronCity_Text_GymSign::
 .string "SAFFRON ŞEHRİ POKéMON SALONU\n"

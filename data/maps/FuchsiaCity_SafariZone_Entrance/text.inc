@@ -5,7 +5,7 @@ FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500::
     .string "Sadece 500¥ karşılığında,\n"
     .string "SAFARİ OYUNU'nu oynayabilirsin.\p"
     .string "Geniş safari alanında gezip\n"
-    .string "dilediğin Pokémon'u\l"
+    .string "dilediğin POKéMON'u\l"
     .string "yakalayabilirsin.\p"
     .string "Oyunu oynamak ister misin?$"
 

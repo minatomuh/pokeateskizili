@@ -1,26 +1,26 @@
 Text_MonSentToBoxInSomeonesPC::
-    .string "{STR_VAR_2} transfer edildi\n"
-    .string "Birinin bilgisayarına.\p"
+    .string "{STR_VAR_2}, birinin bilgisayarına\n"
+    .string "transfer edildi.\p"
     .string "{STR_VAR_1} KUTUSU'na\n"
     .string "yerleştirildi.$"
 
 Text_MonSentToBoxInBillsPC::
-    .string "{STR_VAR_2} transfer edildi\n"
-    .string "BILL'in bilgisayarına.\p"
+    .string "{STR_VAR_2} BILL'in bilgisayarına\n"
+    .string "transfer edildi.\p"
     .string "{STR_VAR_1} KUTUSU'na\n"
     .string "yerleştirildi.$"
 
 Text_MonSentToBoxSomeonesBoxFull::
     .string "Birinin bilgisayarındaki\n"
     .string "{STR_VAR_3} KUTUSU doluydu.\p"
-    .string "{STR_VAR_2} transfer edildi\n"
-    .string "{STR_VAR_1} KUTUSU'na.$"
+    .string "{STR_VAR_2}, {STR_VAR_1} KUTUSU'na\n"
+    .string "transfer edildi.$"
 
 Text_MonSentToBoxBillsBoxFull::
     .string "BILL'in bilgisayarındaki\n"
     .string "{STR_VAR_3} KUTUSU doluydu.\p"
-    .string "{STR_VAR_2} transfer edildi\n"
-    .string "{STR_VAR_1} KUTUSU'na.$"
+    .string "{STR_VAR_2}, {STR_VAR_1} KUTUSU'na\n"
+    .string "transfer edildi.$"
 
 Text_PlayerObtainedTheMon::
     .string "{PLAYER}, {STR_VAR_1}\n"
