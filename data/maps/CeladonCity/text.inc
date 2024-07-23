@@ -15,9 +15,10 @@ CeladonCity_Text_GameCornerIsBadForCitysImage::
 
 CeladonCity_Text_BlewItAllAtSlots::
     .string "Ah…\n"
-    .string "Tüm paramı slot\l"
-    .string "makinelerine yatırdım!\p"
-    .string "Paraları hediyelere çevirmeliydim!$"
+    .string "Hepsini slotlarda harcadım!\l"
+    .string "yatırdım!\p"
+    .string "Keşke JETON'ları hediyelere\n"
+    .string "çevirseydim!$"
 
 CeladonCity_Text_MyTrustedPalPoliwrath::
     .string "Bu, güvenilir dostum POLIWRATH.\p"
