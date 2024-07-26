@@ -305,7 +305,7 @@
       "secondaryId": 0
     },
     {
-      "english": "TAM YENİLENME",
+      "english": "TAM YENİLEME",
       "itemId": "ITEM_FULL_RESTORE",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1489,7 +1489,7 @@
       "secondaryId": 0
     },
     {
-      "english": "GÜNEŞ TAŞIS",
+      "english": "GÜNEŞ TAŞI",
       "itemId": "ITEM_SUN_STONE",
       "price": 2100,
       "holdEffect": "HOLD_EFFECT_NONE",
