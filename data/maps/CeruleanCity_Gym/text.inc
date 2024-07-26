@@ -1,7 +1,7 @@
 CeruleanCity_Gym_Text_MistyIntro::
     .string "Merhaba, burada yenisin!\p"
     .string "Sadece POKéMON hakkında bir\l"
-    .string "politikası olan EĞİTMENLER\n"
+    .string "politikası olan EĞİTMENLER\l"
     .string "profesyonel olabilir.\p"
     .string "POKéMON'u yakalayıp eğitirken\n"
     .string "yaklaşımın nedir?\p"
@@ -38,7 +38,7 @@ CeruleanCity_Gym_Text_MistyDefeat::
     .string "Çok iyisin!\p"
     .string "Tamam!\p"
     .string "Çok iyi performans gösterdin, o\n"
-    .string "yüzden ÇAĞLAYAN ROZETİ'ni sana\n"
+    .string "yüzden ÇAĞLAYAN ROZETİ'ni sana\l"
     .string "veriyorum.$"
 
 CeruleanCity_Gym_Text_DianaIntro::

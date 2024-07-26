@@ -1,9 +1,9 @@
 Text_DoubleEdgeTeach::
-    .string "Kendini gururla kutla,\n"
-    .string "ZAFER YOLU'nda cesurca\l"
-    .string "savaşarak. P\n"
+    .string "Kendinle gurur duymalısın.\p"
+    .string "ZAFER YOLU'nu savaşarak\n"
+    .string "cesurca geçtin.\p"
     .string "Bu başarını takdir ederek,\n"
-    .string "DOUBLE-EDGE öğretmek isterim.\p"
+    .string "RİSKLİ VURUŞ öğretmek isterim.\p"
     .string "Bu tekniği öğretmemi ister misin?$"
 
 Text_DoubleEdgeDeclined::
@@ -11,7 +11,7 @@ Text_DoubleEdgeDeclined::
     .string "öğretmeye hazırım.$"
 
 Text_DoubleEdgeWhichMon::
-    .string "Hangi POKéMON'a DOUBLE-EDGE\n"
+    .string "Hangi POKéMON'a RİSKLİ VURUŞ\n"
     .string "öğretmemi istersin?$"
 
 Text_DoubleEdgeTaught::
@@ -79,8 +79,8 @@ VictoryRoad_3F_Text_RayPostBattle::
 VictoryRoad_3F_Text_RayNotEnoughMons::
     .string "RAY: Birlikte zirveye ulaşmak için\n"
     .string "çalışıyoruz.\p"
-    .string "Bize katılmak için iki POKéMON'a\n"
-    .string "ihtiyacın var.$"
+    .string "Bizimle savaşmak için iki\n"
+    .string "POKéMON'a ihtiyacın var.$"
 
 VictoryRoad_3F_Text_TyraIntro::
     .string "TYRA: Birlikte şampiyon olmak için\n"
@@ -94,6 +94,6 @@ VictoryRoad_3F_Text_TyraPostBattle::
     .string "şekilde var olabileceğini gösterdin.$"
 
 VictoryRoad_3F_Text_TyraNotEnoughMons::
-    .string "TYRA: Sadece bir POKéMON'la bizimle\n"
-    .string "savaşamazsın.$"
+    .string "TYRA: Sadece bir POKéMON ile\n"
+    .string "bizimle savaşamazsın.$"
 

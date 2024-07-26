@@ -206,8 +206,8 @@ PalletTown_ProfessorOaksLab_Text_OakCompleteMonGuideWasMyDream::
     .string "girişim!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMonsAroundWorldWait::
-    .string "Dünyadaki POKéMON'lar seni bekliyor,\n"
-    .string "{PLAYER}!$"
+    .string "Dünyadaki POKéMON'lar seni\n"
+    .string "bekliyor, {PLAYER}!$"
 
 PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex::
     .string "Ah, {PLAYER}!\n"
@@ -317,9 +317,8 @@ PalletTown_ProfessorOaksLab_Text_RivalJustLetMeHandleEverything::
 
 PalletTown_ProfessorOaksLab_Text_OakNeedYourHelpTooNeedToSeePokedexes::
     .string "OAK: Biliyorum, biliyorum.\n"
-    .string "Tabi ki yardımınıza\l"
-    .string "ihtiyacım var.\p"
-    .string "Şimdi, her iki POKéDEX'e de\l"
+    .string "Tabi ki yardımınıza ihtiyacım var.\p"
+    .string "Şimdi, her iki POKéDEX'e de\n"
     .string "bakmalıyım.$"
 
 PalletTown_ProfessorOaksLab_Text_OakTookBothPokedexUnits::

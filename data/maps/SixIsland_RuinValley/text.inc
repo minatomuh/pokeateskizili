@@ -80,4 +80,4 @@ SixIsland_RuinValley_Text_HectorDefeat::
 SixIsland_RuinValley_Text_HectorPostBattle::
 .string "Enkazın kapısı…\n"
 .string "Dışında garip desenler var.\l"
-.string "Anlamını bilmiyorum ama.$"
+.string "Ama anlamını bilmiyorum.$"

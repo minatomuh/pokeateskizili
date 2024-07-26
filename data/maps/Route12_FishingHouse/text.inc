@@ -1,5 +1,5 @@
 Route12_FishingHouse_Text_DoYouLikeToFish::
-    .string "Ben BALIKÇI GURU'nun küçük\n"
+    .string "Ben BALIK GURUSU'nun küçük\n"
     .string "kardeşiyim.\p"
     .string "Balık tutmaya bayılıyorum!\n"
     .string "Söyle, sen de sever misin?$"
@@ -10,7 +10,7 @@ Route12_FishingHouse_Text_TakeThisAndFish::
     .string "Bunu al ve balık tut, genç dostum!$"
 
 Route12_FishingHouse_Text_ReceivedSuperRod::
-    .string "{PLAYER}, BALIKÇI GURU'nun\n"
+    .string "{PLAYER}, BALIK GURUSU'nun\n"
     .string "kardeşinden bir SÜPER OLTA aldı.$"
 
 Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::

@@ -3,7 +3,7 @@ SaffronCity_Gym_Text_SabrinaIntro::
     .string "Çocukluğumdan beri psişik\n"
     .string "güçlere sahibim.\p"
     .string "Bir kaşığı dikkatsizce\n"
-    .string "fırlattığımda büküldüğünü\n"
+    .string "fırlattığımda büküldüğünü\l"
     .string "görmemle başladı.\p"
     .string "Dövüşmeyi sevmiyorum,\n"
     .string "ama istersen güçlerimi göstermeye\l"
@@ -43,7 +43,7 @@ SaffronCity_Gym_Text_ExplainTM04::
     .string "TM04, SAKİNLEŞ içerir.\p"
     .string "POKéMON'un konsantre olmasını\n"
     .string "sağlar ve hem ÖZ. SLD hem de\l"
-    .string "ÖZ. SVN'i arttırır.$"
+    .string "ÖZ. SVN'yı arttırır.$"
 
 SaffronCity_Gym_Text_BagFullOfOtherItems::
     .string "Çantanız diğer öğelerle dolu.$"

@@ -24,7 +24,7 @@ ViridianCity_Gym_Text_GiovanniPostBattle::
 .string "Güvenlerini boşa çıkardım.\p"
 .string "Bugünden itibaren, ROKET TAKIMI\n"
 .string "sonsuza dek bitti!\p"
-.string "Kendimi tekrar antrenman\l"
+.string "Kendimi tekrar antrenman\n"
 .string "yapmaya adadım.\p"
 .string "Bir gün tekrar görüşelim!\n"
 .string "Hoşça kal!$"

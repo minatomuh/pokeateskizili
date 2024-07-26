@@ -1,6 +1,6 @@
 CeruleanCity_House2_Text_RocketsStoleTMForDig::
     .string "O acınası ROKET TAKIMI!\p"
-    .string "Bak neler yapmışlar evime!\n"
+    .string "Bak neler yapmışlar evime!\p"
     .string "Bir POKéMON'a çukur KAZMAYI\n"
     .string "öğreten TM çaldılar!\p"
     .string "Bir MANKEY veya SANDSHREW'de\n"

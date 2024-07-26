@@ -14,9 +14,9 @@ CeladonCity_Text_GameCornerIsBadForCitysImage::
     .string "imajını zedeliyor.$"
 
 CeladonCity_Text_BlewItAllAtSlots::
-    .string "Ah…\n"
-    .string "Hepsini slotlarda harcadım!\l"
-    .string "yatırdım!\p"
+    .string "Ah…\p"
+    .string "Hepsini slot makinelerinde\n"
+    .string "harcadım!\p"
     .string "Keşke JETON'ları hediyelere\n"
     .string "çevirseydim!$"
 

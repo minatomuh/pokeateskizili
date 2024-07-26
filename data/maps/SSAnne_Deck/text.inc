@@ -3,7 +3,7 @@ SSAnne_Deck_Text_ShipDepartingSoon::
     .string "Gemi yakında ayrılacak.$"
 
 SSAnne_Deck_Text_ScrubbingDecksHardWork::
-    .string "Of!$\n"
+    .string "Of!\n"
     .string "Güverteleri temizlemek zor iş!$"
 
 SSAnne_Deck_Text_FeelSeasick::

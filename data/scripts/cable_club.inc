@@ -1431,7 +1431,7 @@ CableClub_Text_HopeToSeeYouAgain::
 CableClub_Text_NotSetUpForFarAwayRegion::
     .string "Çok özür dilerim.\p"
     .string "Henüz uzak bir bölgede bulunan\n"
-    .string "EĞİTMENLER ile ticaret yapabilecek\l"
+    .string "EĞİTMENLER ile takas yapabilecek\l"
     .string "şekilde ayarlı değiliz…$"
 
 CableClub_Text_OtherTrainerNotReady::
@@ -1551,7 +1551,7 @@ Text_TalkToManToPlay::
 
 Text_WelcomeCanYouWait::
     .string "Merhaba, hoş geldiniz!\n"
-    .string "Oyunları Kablosuz İletişim Sistemi\n"
+    .string "Oyunları Kablosuz İletişim Sistemi\l"
     .string "üzerinden oynayabilirsiniz.\p"
     .string "Biraz bekleyebilir misiniz?$"
 
@@ -1736,12 +1736,12 @@ CableClub_Text_ExplainWirelessClub::
     .string "yapan diğer EĞİTMENLER ile\n"
     .string "bağlantı kurabilirsiniz.\p"
     .string "Onlarla sohbet edebilir,\n"
-    .string "savaşabilir ve ticaret\l"
+    .string "savaşabilir ve takas\l"
 	.string "yapabilirsiniz.\p"
     .string "İkincisi, sağdaki oda ise\n"
     .string "DİREKT KÖŞE'dir.\p"
     .string "Bu odada arkadaşlarınızla POKéMON\n"
-    .string "ticareti yapabilir veya\l"
+    .string "takası yapabilir veya\l"
 	.string "savaşabilirsiniz.\p"
     .string "Bazen BİRLİK ODASI veya DİREKT\n"
     .string "KÖŞE'de arkadaşlarınızı\l"

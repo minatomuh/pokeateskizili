@@ -40,23 +40,21 @@ ThreeIsland_Text_JustGotHerePal::
 ThreeIsland_Text_FollowersRaisingHavoc::
     .string "Takipçilerinin motosikletleriyle\n"
     .string "fesatlık çıkardığını biliyor musun?\p"
-    .string "Adada bize ne kadar\n"
-    .string "sorun çıkardıklarının\l"
-    .string "farkında mısın?$"
+    .string "Adada bize ne kadar sorun\n"
+    .string "çıkardıklarının farkında mısın?$"
 
 ThreeIsland_Text_OughtToBeThankingUs::
     .string "Hayır, hiç anlamıyorum.\p"
-    .string "Bu yere bak.\n"
-    .string "Eğlence için ne yapıyorsun?\p"
+    .string "Şu yere bir bak.\n"
+    .string "Eğlenmek için ne yapıyorsun?\p"
     .string "Bu uyuşuk köyü canlandırdığımız\n"
     .string "için bize teşekkür etmelisin.\p"
-    .string "Ama eğer ısrar ediyorsan,\n"
-    .string "gitmemizi sağlamak\l"
-    .string "için deneyebilirsin.$"
+    .string "Ama eğer ısrar ediyorsan, bizi\n"
+    .string "kovmayı dene de görelim.$"
 
 ThreeIsland_Text_YouCowardsToughInPack::
-    .string "Grr… Sen korkak…\n"
-    .string "Bir grupken çok güçlüsün…$"
+    .string "Grr… Sizi korkaklar…\n"
+    .string "Anca grupça güçlüsünüz…$"
 
 ThreeIsland_Text_WannaMakeSomethingOfYourStaring::
     .string "Sen, neye bakıyorsun?\n"
@@ -69,32 +67,32 @@ ThreeIsland_Text_ThatsSmart::
     .string "Burnun bu işlere sokma.$"
 
 ThreeIsland_Text_Biker1Intro::
-    .string "Heh, cesaretini seviyorum.\n"
-    .string "Bana para kaybedeceksin, ama…$"
+    .string "Heh, cesaretini sevdim.\n"
+    .string "Biraz para kaybedeceksin, ama…$"
 
 ThreeIsland_Text_Biker1Defeat::
     .string "Nee…\n"
-    .string "Bu çocuk ne!?$"
+    .string "Bu çocuk da ne!?$"
 
 ThreeIsland_Text_Biker1PostBattle::
-    .string "Ayy, adamım…\n"
-    .string "Gülme, tamam mı?$"
+    .string "Aww, adamım…\n"
+    .string "Sakın gülmeye cüret etme!$"
 
 ThreeIsland_Text_Biker2Intro::
     .string "Sen KANTO'dan değil misin?\n"
-    .string "Sen bizim tarafımızda olmalısın!$"
+    .string "Bizim tarafımızda olmalısın!$"
 
 ThreeIsland_Text_Biker2Defeat::
     .string "Dalga geçmeyi kes!$"
 
 ThreeIsland_Text_Biker2PostBattle::
-    .string "Seninle ne oluyor,\n"
-    .string "öyle kızmak nedir?\p"
-    .string "Tamamen cool değil, adamım!$"
+    .string "Sana ne oluyor, bu kadar\n"
+    .string "kızmak?\p"
+    .string "Hiç cool değil, adamım!$"
 
 ThreeIsland_Text_Biker3Intro::
-    .string "Patronu dışarı çağırdık,\n"
-    .string "ama sen karıştırdın!\p"
+    .string "Patronu buraya çağırdık,\n"
+    .string "ama sen ortalığı karıştırdın!\p"
     .string "Bizi utandırdın, adamım!$"
 
 ThreeIsland_Text_Biker3Defeat::
@@ -106,12 +104,12 @@ ThreeIsland_Text_Biker3PostBattle::
     .string "yapmalısın!$"
 
 ThreeIsland_Text_PaxtonIntro::
-    .string "Seni izledim ve yeterince yaptığını\n"
-    .string "söylerdim.\p"
-    .string "Sen onların arkadaşı mısın, yoksa\n"
-    .string "bir şey mi?\p"
-    .string "O zaman onların yerine seninle\n"
-    .string "savaşacağım.$"
+    .string "Seni izledim ve diyorum ki bu\n"
+    .string "kadarı artık yeter.\p"
+    .string "Kimsin sen, onların dostu\n"
+    .string "falan mı?\p"
+    .string "O zaman onların adına benimle\n"
+    .string "savaşacaksın.$"
 
 ThreeIsland_Text_PaxtonDefeat::
     .string "Tamam, yeter!\n"
@@ -120,12 +118,12 @@ ThreeIsland_Text_PaxtonDefeat::
     .string "bizi mutlu edecek!$"
 
 ThreeIsland_Text_PaxtonPostBattle::
-    .string "Hımf! Evet, doğru, bu köylüleri\n"
-    .string "dolaşmaya devam et!$"
+    .string "Hımf! Evet, doğru, bu köylülerle\n"
+    .string "takılmaya devam et!$"
 
 ThreeIsland_Text_ThankYouOhYourMonGotHurt::
     .string "Teşekkürler! O serseriler\n"
-    .string "sadece kötü bir sorundu.\p"
+    .string "sadece bela arıyordu.\p"
     .string "Ah, bak, POKéMON'ların biraz\n"
     .string "yaralanmış.$"
 
@@ -138,24 +136,25 @@ ThreeIsland_Text_OhYourBagIsFull::
 
 ThreeIsland_Text_YouveGotImpressiveMons::
     .string "Ciddi anlamda etkileyici\n"
-    .string "POKéMON'lar var.$"
+    .string "POKéMON'ların var.$"
 
 ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
     .string "Senin gibi güçlü birinin burada\n"
     .string "yaşaması harika olurdu.\p"
     .string "Umarım en azından bir süre\n"
     .string "burada kalırsın.\p"
-    .string "…İzin verir misiniz?\n"
-    .string "LOSTELLE'yi mi arıyorsun?\p"
+    .string "…Şey pardon?\n"
+    .string "LOSTELLE'i mi arıyorsunuz?\p"
     .string "LOSTELLE bir süre önce\n"
-    .string "BAĞ KÖPRÜSÜ'e doğru gitti.$"
+    .string "BAĞ KÖPRÜSÜ'ne doğru gitti.$"
 
 ThreeIsland_Text_WouldntWantToSeeBikersHereAgain::
     .string "ÜÇÜNCÜ aslında burada en kalabalık\n"
     .string "adalardan biridir.\p"
     .string "Yine de, daha az uyuşuk olabilir.\p"
-    .string "Ama o MOTOR ÇETESİ gibi serserileri\n"
-    .string "burada tekrar görmek istemezdim.$"
+    .string "Ama yine de o MOTOR ÇETESİ gibi\n"
+    .string "serserileri burada tekrar görmek\l"
+    .string "istemezdim.$"
 
 ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame::
     .string "DODUO'yu MEYVE ORMANI'nda\n"

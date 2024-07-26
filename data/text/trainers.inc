@@ -284,7 +284,7 @@ Route15_Text_AlexRematchIntro::
   .string "Bana yenildiğinde tüm paranı ver evlat!$"
 
 Route15_Text_CeliaRematchIntro::
-  .string "Ne var ne yok? POKéMON ticareti tabii\nki.$"
+  .string "Ne var ne yok? POKéMON takası tabii\nki.$"
 
 Route15_Text_YazminRematchIntro::
   .string "POKéMON'umla tekrar oynamak ister\nmisin?$"

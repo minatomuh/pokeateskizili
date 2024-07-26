@@ -117,5 +117,5 @@ TrainerTower_Lobby_Text_StairsTougherThanAnyBattle::
 .string "Of, of…\n"
 .string "Of…\p"
 .string "Savaşmayı bir kenara bırakın! Bu\n"
-.string "merdivenler… Onlardan daha zor\n"
+.string "merdivenler… Onlardan daha zor\l"
 .string "bir savaş yok!$"

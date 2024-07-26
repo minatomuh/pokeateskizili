@@ -17,13 +17,13 @@ FourIsland_House2_Text_WishICouldShowOffStickers::
   .string "Kıkırdama… Bir sürü çıkartma topladım.\nKeşke onları gösterebilseydim.$"
 
 FourIsland_House2_Text_GiveYouStickerIfYouBrag::
-  .string "Ah, mükemmel! Doğru yere geldiniz!\pBak, bak! Gördün mü? Gördünüz mü?\nBunlar benim çıkartmalarım! Bak ne\lkadar çok var!\pEminim biraz istersin. Eminim\nistiyorsundur!\pBana kendin hakkında harika bir şey\nsöylersen sana bir ÇIKARTMA vereceğim.\pNe hakkında övüneceksin?$"
+  .string "Ah, mükemmel! Doğru yere geldiniz!\pBak, bak! Gördün mü? Gördünüz mü?\nBunlar benim çıkartmalarım! Bak ne\lkadar çok var!\pEminim biraz istersin. Eminim\nistiyorsundur!\pBana kendin hakkında harika bir şey\nsöylersen sana bir ÇIKARTMA\lvereceğim.\pNe hakkında övüneceksin?$"
 
 FourIsland_House2_Text_BragAboutSomethingForMe::
   .string "Benim için bir şeyle övün. Sana bir\nçıkartma vereceğim.$"
 
 FourIsland_House2_Text_BragAboutWhatToday::
-  .string "Ah, merhaba! İşte palavracı geliyor.\pBugün ne hakkında övüneceksin?$"
+  .string "Ah, merhaba! İşte palavracı\ngeliyor.\pBugün ne hakkında övüneceksin?$"
 
 FourIsland_House2_Text_WowHoFLowest::
   .string "Vay canına, ŞÖHRET SALONU'na\ngirmişsin.\pBu oldukça iyi, evet! Sana bunlardan\nbir tane vereceğim.$"

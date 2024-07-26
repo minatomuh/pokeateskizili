@@ -4,9 +4,9 @@ CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
     .string "CAN ARTTIR, bir POKéMON'un\n"
     .string "MAKS CAN'ını arttırır.\p"
     .string "KALSİYUM, bir POKéMON'un\n"
-    .string "ÖZ. ATK'ını arttırır.\p"
+    .string "ÖZ. SLD'sını arttırır.\p"
     .string "ÇİNKO, bir POKéMON'un\n"
-    .string "ÖZ. DEF'ını yükseltir.\p"
+    .string "ÖZ. SVN'sını yükseltir.\p"
     .string "KARBON, taban HIZ statülerini\n"
     .string "geliştirir.$"
 

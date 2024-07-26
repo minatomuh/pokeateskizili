@@ -19,7 +19,7 @@ Route24_Text_JoinTeamRocket::
     .string "Gel, bize katıl!\p"
     .string "Katılmanı söylüyorum!\p"
     .string "…Tamam, ikna etmem gerek!\p"
-    .string "Reddedemeyeceğin bir\n"
+    .string "Sana reddedemeyeceğin bir\n"
     .string "teklif sunacağım!$"
 
 Route24_Text_RocketDefeat::
@@ -87,7 +87,7 @@ Route24_Text_AliPostBattle::
     .string "pişman değilim!$"
 
 Route24_Text_CaleIntro::
-    .string "İnsanlar buna KÜLÇE\n"
+    .string "İnsanlar buraya KÜLÇE\n"
     .string "KÖPRÜSÜ diyor!\p"
     .string "Beş EĞİTMEN'i yen ve muhteşem\n"
     .string "bir ödül kazan!\p"

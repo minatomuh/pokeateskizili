@@ -1,12 +1,12 @@
 FiveIsland_Text_IslandSign::
-    .string "BEŞ ADA\n"
+    .string "BEŞİNCİ ADA\n"
     .string "Zamanın Geçtiği Ada: Chrono Adası$"
 
 FiveIsland_Text_WeirdBuildingInMeadow::
-    .string "Oh, bu berbattı. ÇAYIR'da\n"
+    .string "Oh, bu berbat. ÇAYIR'da\n"
     .string "oynamak istiyordum.\p"
-    .string "Ama garip bir bina yaptılar\n"
-    .string "orada, artık oynayamıyorum.$"
+    .string "Ama oraya garip bir bina\n"
+    .string "yaptılar, artık oynayamıyorum.$"
 
 FiveIsland_Text_BeenGettingBusierAroundHere::
     .string "Son zamanlarda bu taraflar daha da\n"

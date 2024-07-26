@@ -9,7 +9,7 @@ CeladonCity_DepartmentStore_Roof_Text_GiveWhichDrink::
 CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThis::
     .string "Hahay!\p"
     .string "TAZE SU!\p"
-    .string "Teşekkürler!\l"
+    .string "Teşekkürler!\n"
     .string "Bunun karşılığında sana\l"
     .string "bu hediyeyi verebilirim!$"
 

@@ -49,7 +49,8 @@ Help_Text_Greetings::
 	.string "Merhaba! Burası YARDIM sistemi.\n"
 	.string "Ne zaman ihtiyacın olursa L veya R\l"
 	.string "tuşuna basarak gelebilirsin.\l"
-	.string "Yardım mesajları duruma göre değişebilir.\l"
+	.string "Yardım mesajları duruma göre\l"
+	.string "değişebilir.\l"
 	.string "Bu yüzden lütfen sık sık kontrol edin.$"
 
 Help_Text_PlayingForFirstTime::
@@ -571,7 +572,7 @@ Help_Text_UsingPokeBall::
 	.string "  POKé TOPU kullanmak$"
 
 Help_Text_UsingPlayer::
-	.string " “{PLAYER}”'ı yönetmek$"
+	.string " “{PLAYER}”ı yönetmek$"
 
 Help_Text_UsingSave::
 	.string " “KAYIT” kullanımı$"

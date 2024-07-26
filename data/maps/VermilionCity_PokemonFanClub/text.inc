@@ -25,9 +25,9 @@ VermilionCity_PokemonFanClub_Text_Seel::
 
 VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons::
     .string "POKéMON FAN KULÜBÜ'nün başkanıyım!\p"
-    .string "100'den fazla POKéMON'a sahibim!\p"
-    .string "POKéMON konusunda çok seçicidir!\n"
-    .string "Gerçekten öyleyim!\p"
+    .string "100'den fazla POKéMON yetiştirdim!\p"
+    .string "POKéMON konusunda çok\n"
+    .string "seçiciyimdir! Gerçekten öyleyim!\p"
     .string "Öyleyse…\p"
     .string "POKéMON'larım hakkında konuşmak\n"
     .string "için mi geldin?$"
@@ -71,8 +71,8 @@ VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgain::
     .string "Merhaba, {PLAYER}!\p"
     .string "POKéMON'larım hakkında bilgi\n"
     .string "almak için mi geldin?\p"
-    .string "Hayır?\n"
-    .string "Yazık!$"
+    .string "Hayır mı?\n"
+    .string "Ne yazık!$"
 
 VermilionCity_PokemonFanClub_Text_MakeRoomForThis::
     .string "Buna yer açın!$"

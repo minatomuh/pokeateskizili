@@ -1,6 +1,6 @@
 RocketHideout_B3F_Text_Grunt1Intro::
     .string "ROKET TAKIMI işlerine\n"
-    .string "karışmayı kes yoksa!$"
+    .string "karışmayı kes, yoksa!$"
 
 RocketHideout_B3F_Text_Grunt1Defeat::
     .string "Of!\n"
@@ -8,8 +8,8 @@ RocketHideout_B3F_Text_Grunt1Defeat::
 
 RocketHideout_B3F_Text_Grunt1PostBattle::
     .string "SILPH GÖZLÜK?\n"
-    .string "Ah, patronun çaldığı\p"
-    .string "o makine. Buralarda bir yerde.$"
+    .string "Ah, patronun çaldığı o alet.\p"
+    .string "Buralarda bir yerde.$"
 
 RocketHideout_B3F_Text_Grunt2Intro::
     .string "Yukarıdan senin gelmekte\n"

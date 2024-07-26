@@ -1,10 +1,11 @@
 TwoIsland_House_Text_TeachMonMoveForMushroom::
-    .string "Merhaba, POKéMON Hamle Manyağıyım.\p"
+    .string "Merhaba, ben POKéMON Hamle\n"
+    .string "Manyağıyım.\p"
     .string "Her POKéMON'un büyürken öğrendiği\n"
     .string "her hareketi biliyorum.\p"
     .string "Ayrıca bir mantar delisiyim.\p"
-    .string "Bana iki KÜÇÜK MANTAR getir,\n"
-    .string "ya da bir BÜYÜK MANTAR.\p"
+    .string "Bana iki KÜÇÜK MANTAR ya da,\n"
+    .string "bir BÜYÜK MANTAR getir.\p"
     .string "Bunu yaparsanız, bir POKéMON'a\n"
     .string "bir hamle öğretirim.$"
 

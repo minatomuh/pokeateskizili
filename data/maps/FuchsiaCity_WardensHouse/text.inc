@@ -39,7 +39,7 @@ FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
     .string "istiyorum.$"
 
 FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWarden::
-    .string "{PLAYER} BEKÇİ'dan\n"
+    .string "{PLAYER} BEKÇİ'den\n"
     .string "HM04'ü aldı.$"
 
 FuchsiaCity_WardensHouse_Text_ExplainStrength::

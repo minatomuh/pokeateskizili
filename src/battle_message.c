@@ -429,8 +429,8 @@ static const u8 sText_HP2[] = _("CAN");
 static const u8 sText_Attack2[] = _("SALDIRI");
 static const u8 sText_Defense2[] = _("SAVUNMA");
 static const u8 sText_Speed[] = _("HIZ");
-static const u8 sText_SpAtk2[] = _("ÖZ. ATK");
-static const u8 sText_SpDef2[] = _("ÖZ. DEF");
+static const u8 sText_SpAtk2[] = _("ÖZ. SLD");
+static const u8 sText_SpDef2[] = _("ÖZ. SVN");
 static const u8 sText_Accuracy[] = _("kesinlik");
 static const u8 sText_Evasiveness[] = _("savuşturma");
 

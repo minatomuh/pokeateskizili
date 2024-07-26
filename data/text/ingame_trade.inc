@@ -1,5 +1,5 @@
 Trade_Text_LookingForMonWannaTradeForMon::
-  .string "POKéMON {STR_VAR_1} arıyorum!\pBenim {STR_VAR_2} ile takas etmek\nister misin?$"
+  .string "Bir {STR_VAR_1} arıyorum!\pBenim {STR_VAR_2}'m ile takas etmek\nister misin?$"
 
 Trade_Text_AwwOhWell::
   .string "Awww! Ah, şey…$"

@@ -1,8 +1,9 @@
 VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish::
-    .string "Ben BALIK GURU'suyum!\p"
+    .string "Ben BALIK GURUSU'yum!\p"
     .string "Balık tutmayı çok seviyorum!\n"
     .string "Onsuz yapamam.\p"
-    .string "Söyle, sen de balık tutmayı sever misin?$"
+    .string "Söyle, sen de balık tutmayı sever\n"
+    .string "misin?$"
 
 VermilionCity_House1_Text_TakeThisAndFish::
     .string "Harika! Tarzını beğendim.\n"
@@ -10,14 +11,14 @@ VermilionCity_House1_Text_TakeThisAndFish::
     .string "Bunu al ve balık tut, genç dostum!$"
 
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
-    .string "{PLAYER}, BALIK GURU'sundan\n"
+    .string "{PLAYER}, BALIK GURUSU'ndan\n"
     .string "bir ESKİ OLTA aldı.$"
 
 VermilionCity_House1_Text_FishingIsAWayOfLife::
     .string "Balık tutmak bir yaşam tarzıdır!\n"
     .string "Güzel bir şiire benzer.\p"
-    .string "Denizlerden nehirlerden bahsedelim,\n"
-    .string "ve büyük balığı yakala, dostum.$"
+    .string "Denizlerden nehirlere, git ve\n"
+    .string "büyük balığı yakala dostum.$"
 
 VermilionCity_House1_Text_OhThatsSoDisappointing::
     .string "Ah…\n"

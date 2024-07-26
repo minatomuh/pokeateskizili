@@ -78,7 +78,7 @@ CeladonCity_GameCorner_Text_WantSomeCoins::
     .string "Biraz JETON ister misin?$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromNiceGuy::
-    .string "{PLAYER} iyi adamdan 20 JETON aldı$"
+    .string "{PLAYER} iyi adamdan 20 JETON aldı.$"
 
 CeladonCity_GameCorner_Text_YouHaveLotsOfCoins::
     .string "Çok fazla JETON'un var!$"
@@ -93,8 +93,7 @@ CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
     .string "Al sana biraz JETON, şimdi defol!$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromMan::
-    .string "{PLAYER} adamdan 20 JETON aldı\n"
-    .string "$"
+    .string "{PLAYER} adamdan 20 JETON aldı.$"
 
 CeladonCity_GameCorner_Text_YouveGotPlentyCoins::
     .string "Zaten yeterince JETON'un var!$"
@@ -117,7 +116,7 @@ CeladonCity_GameCorner_Text_GruntPostBattle::
 
 CeladonCity_GameCorner_Text_SwitchBehindPosterPushIt::
     .string "Hey!\p"
-    .string "Posterin arkasındaki bir düğme!?\n"
+    .string "Posterin arkasında bir düğme!?\n"
     .string "Hadi basayım!$"
 
 CeladonCity_GameCorner_Text_CoinCaseIsRequired::

@@ -1,8 +1,9 @@
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
     .string "{PLAYER}: Merhaba!\n"
     .string "POKéMON'ları sever misin?\p"
-    .string "{PLAYER}: Eh, hayır, ben sadece sordum.\p"
-    .string "{PLAYER}: Hmm?\n"
+    .string "{PLAYER}: Eh, hayır, ben sadece\n"
+    .string "sana sormuştum.\p"
+    .string "{PLAYER}: Ha?\n"
     .string "Çok garipsin!\p"
     .string "TAKLİTÇİ: Hmm? Taklit etmeyi\n"
     .string "bırakmamı mı istiyorsun?\p"

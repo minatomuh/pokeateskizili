@@ -29,10 +29,10 @@ Text_PokecenterSign::
   .string "POKéMON'unuzu İyileştirin!\nPOKéMON MERKEZİ$"
 
 Text_Indigo_UltimateGoal::
-  .string "INDIGO PLATOSU\pEĞİTMENLERİN nihai hedefi! POKéMON\nLİG MERKEZİ$"
+  .string "INDIGO PLATOSU\pEĞİTMENLERİN nihai hedefi!\nPOKéMON LİG MERKEZİ$"
 
 Text_Indigo_HighestAuthority::
-  .string "INDIGO PLATOSU\pEn yüksek POKéMON otoritesi! POKéMON\nLİG MERKEZİ$"
+  .string "INDIGO PLATOSU\pEn yüksek POKéMON otoritesi!\nPOKéMON LİG MERKEZİ$"
 
 Text_Food::
   .string "Yiyecek her türlü lezzetli şeyle dolu\nolmalıdır.$"

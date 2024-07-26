@@ -3,9 +3,9 @@ SixIsland_Text_IslandSign::
     .string "Bilgelik Adası, Şans Adası$"
 
 SixIsland_Text_ThatWayToWaterPathRuinValley::
-    .string "Bu yolda ilerlemeye devam et ve\n"
+    .string "Bu yolda ilerlemeye edince\n"
     .string "SU YOLU'na ulaşacaksın.\p"
-    .string "Orada kal ve HARABE VADİ'ye\n"
+    .string "Devam edersen HARABE VADİ'ye\n"
     .string "ulaşacaksın.$"
 
 SixIsland_Text_SkyAtNightIsFantastic::

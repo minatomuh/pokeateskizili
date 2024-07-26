@@ -37,7 +37,7 @@ Text_TaughtMove::
 
 Text_MakeBestUseOfMove::
     .string "Senden bu hareketi en iyi şekilde\n"
-    .string "kullanmanı ve güçlenmeni rica\n"
+    .string "kullanmanı ve güçlenmeni rica\l"
     .string "ediyorum!$"
 
 Text_PassedOnEverythingIKnow::

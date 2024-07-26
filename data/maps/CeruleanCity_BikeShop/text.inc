@@ -16,7 +16,7 @@ CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGo::
 
 CeruleanCity_BikeShop_Text_ExchangedVoucherForBicycle::
     .string "{PLAYER} BİSİKLET KUPONU vererek\n"
-    .string "yenibir BİSİKLET aldı.$"
+    .string "yeni bir BİSİKLET aldı.$"
 
 CeruleanCity_BikeShop_Text_ThankYouComeAgain::
     .string "Teşekkürler!\n"

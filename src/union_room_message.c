@@ -280,7 +280,7 @@ ALIGNED(4) static const u8 sText_DoneWaitingBattleMale[] = _("Beklediğin için 
 ALIGNED(4) static const u8 sText_DoneWaitingChatMale[] = _("Tamam!\nSohbet edelim!{PAUSE 60}");
 ALIGNED(4) static const u8 sText_DoneWaitingBattleFemale[] = _("Beklettiğim için üzgünüm!\nHadi başlayalım!{PAUSE 60}");
 ALIGNED(4) static const u8 sText_DoneWaitingChatFemale[] = _("Beklettiğim için üzgünüm!\nHadi sohbet edelim.{PAUSE 60}");
-ALIGNED(4) static const u8 sText_TradeWillBeStarted[] = _("Ticaret başlayacak.{PAUSE 60}");
+ALIGNED(4) static const u8 sText_TradeWillBeStarted[] = _("Takas başlayacak.{PAUSE 60}");
 ALIGNED(4) static const u8 sText_BattleWillBeStarted[] = _("Savaş başlayacak.{PAUSE 60}");
 ALIGNED(4) static const u8 sText_EnteringChat[] = _("Sohbete giriliyor…{PAUSE 60}");
 

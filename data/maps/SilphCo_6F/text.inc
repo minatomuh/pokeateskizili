@@ -51,9 +51,9 @@ SilphCo_6F_Text_Grunt1PostBattle::
 SilphCo_6F_Text_TaylorIntro::
     .string "O berbat BAŞKAN!\p"
     .string "Beni TIKSI ŞUBESİ'ne gönderdiği\n"
-    .string "için hak etti, o yüzden ROKET\l"
-    .string "TAKIMI peşimize düştü,\l"
-    .string "bundan eminim!$"
+    .string "için bunu hak etti!\p"
+    .string "O yüzden ROKET TAKIMI peşimize\n"
+    .string "düştü, bundan eminim!$"
 
 SilphCo_6F_Text_TaylorDefeat::
     .string "Vuruldum!$"

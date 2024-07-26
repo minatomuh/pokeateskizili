@@ -6,8 +6,8 @@ LavenderTown_PokemonCenter_1F_Text_RocketsDoAnythingForMoney::
 
 LavenderTown_PokemonCenter_1F_Text_CubonesMotherKilledByRockets::
     .string "CUBONE'un annesini\n"
-    .string "ROKET TAKIMI'ndan\l"
-    .string "kaçmaya çalışırken gördüm.\p"
+    .string "ROKET TAKIMI'ndan kaçmaya\l"
+    .string "çalışırken gördüm.\p"
     .string "Ne yazık ki kaçarken öldürüldü…$"
 
 LavenderTown_PokemonCenter_1F_Text_PeoplePayForCuboneSkulls::

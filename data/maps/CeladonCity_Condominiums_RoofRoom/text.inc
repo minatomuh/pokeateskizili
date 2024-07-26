@@ -29,12 +29,12 @@ CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub::
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner::
     .string "Sadece bir arkadaşla bağlantı\n"
-    .string "kurmak için, DOĞRUDAN KÖŞE'ye\n"
+    .string "kurmak için, DİREKT KÖŞE'ye\n"
     .string "gitmelisin.\p"
     .string "Bu, POKéMON KABLOSUZ KULÜBÜ'ndeki\n"
     .string "sağ taraftaki bankodur.\p"
-    .string "Arkadaşınızla birlikte TİCARET\n"
-    .string "KÖŞESİ'ne veya COLOSSEUM'a gidin.$"
+    .string "Arkadaşınızla birlikte TAKAS\n"
+    .string "KÖŞESİ'ne veya KOLEZYUM'a gidin.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom::
     .string "Herhangi biriyle bağlantı kurmak\n"
@@ -50,6 +50,6 @@ CeladonCity_Condominiums_RoofRoom_Text_PamphletOnTMs::
     .string "… …\p"
     .string "Toplamda elli tane TM var.\p"
     .string "Ayrıca, tekrar tekrar\n"
-    .string "kullanılabilen\l"
-    .string "yedi tane HM de var.\p"
+    .string "kullanılabilen yedi tane\l"
+    .string "HM de var.\p"
     .string "SILPH ŞTİ.$"

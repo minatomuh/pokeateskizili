@@ -18,10 +18,10 @@ CeruleanCity_Text_RivalPostBattle::
     .string "nadir POKéMON'larını gösterdi.\p"
     .string "Bu, POKéDEX'ime bir sürü\n" 
     .string "sayfa ekledi!\p"
-    .string "Çünkü BILL, dünya çapında ünlü.\n"
+    .string "Çünkü BILL, dünya çapında ünlü\n"
     .string "bir POKéMANYAK.\p"
     .string "Ayrıca, PC'deki\n"
-    .string "POKéMON Saklama Sistemini de\l"
+    .string "POKéMON Depolama Sistemini de\l"
     .string "icat etti.\p"
     .string "Sen de sistemini kullandığın için\n"
     .string "ona teşekkür etmelisin.\p"
@@ -29,8 +29,8 @@ CeruleanCity_Text_RivalPostBattle::
     .string "Hadi bay bay!$"
 
 CeruleanCity_Text_OhRightLittlePresentAsFavor::
-    .string "Evet, doğru.\p"
-    .string "Senin için üzgünüm. Gerçekten.\p"
+    .string "Ah evet, doğru.\p"
+    .string "Senin için üzgünüm. Gerçekten.\n"
     .string "Her zaman arkamdan geliyorsun.\p"
     .string "İşte sana küçük bir hediye,\n"
     .string "bir iyilik olarak.$"

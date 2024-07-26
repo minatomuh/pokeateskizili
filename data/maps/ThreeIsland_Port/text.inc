@@ -1,5 +1,5 @@
 ThreeIsland_Port_Text_WereKantoRiderFederation::
-    .string "KANTO MOTOSİKLETLİLERİYİZ!\n"
+    .string "KANTO MOTOSİKLET FEDERASYONUYUZ!\n"
     .string "Vrooom! Vavaaavroom! Vrooom!\p"
     .string "Motorum güçsüz, o yüzden\n"
     .string "egzoz sesini ben çıkarmalıyım!$"

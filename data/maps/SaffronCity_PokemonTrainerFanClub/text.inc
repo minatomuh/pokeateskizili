@@ -153,7 +153,7 @@ SaffronCity_PokemonTrainerFanClub_Text_EveryoneButMeStoppedBeingYourFan::
 SaffronCity_PokemonTrainerFanClub_Text_WantToBeLikeSabrina::
     .string "Biliyor musun?\n"
     .string "SABRINA gibi olmak istiyorum!\p"
-    .string "O gibi bir psişik kız olmak\n"
+    .string "Onun gibi bir psişik kız olmak\n"
     .string "istiyorum!$"
 
 SaffronCity_PokemonTrainerFanClub_Text_WontStopBeingSabrinasFan::
@@ -242,7 +242,7 @@ SaffronCity_PokemonTrainerFanClub_Text_ImYourOnlyFan::
     .string "gözüne giremez misin?$"
 
 SaffronCity_PokemonTrainerFanClub_Text_WhyCantOthersSeeMastersDignity::
-    .string "Usta {STR_VAR_1} çok asil\n"
+    .string "Usta {STR_VAR_1} çok asil.\n"
     .string "Tam benim tipimden.\p"
     .string "Neden başkaları da onun akan\n"
     .string "asaletini göremiyor?$"

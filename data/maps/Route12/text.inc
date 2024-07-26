@@ -1,5 +1,6 @@
 Route12_Text_MonSprawledOutInSlumber::
-.string "Bir POKéMON derin ve rahat bir uykuda uyukluyor.$"
+.string "Bir POKéMON derin ve rahat bir\n"
+.string "uykuda uyukluyor.$"
 
 Text_SnorlaxWokeUp::
 .string "SNORLAX uyandı!\p"
@@ -18,7 +19,7 @@ Text_PlayedPokeFlute::
 
 Route12_Text_NedIntro::
 .string "Evet!\n"
-.string "Burada bir ısırık geldi!$"
+.string "İşte oltaya takıldı!$"
 
 Route12_Text_NedDefeat::
 .string "Tch!\n"

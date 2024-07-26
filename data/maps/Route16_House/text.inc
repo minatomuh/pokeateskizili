@@ -1,8 +1,8 @@
 Route16_House_Text_FoundMySecretRetreat::
     .string "Aman Tanrım!\n"
     .string "Gizli sığınağımı bulmuşsun.\p"
-    .string "Lütfen kimseye burada olduğumu söyleme.\n"
-    .string "Bunu sana telafi edeceğim!$"
+    .string "Lütfen kimseye burada olduğumu\n"
+    .string "söyleme. Bunu sana telafi edeceğim!$"
 
 Route16_House_Text_ReceivedHM02FromGirl::
     .string "{PLAYER}, kızdan\n"

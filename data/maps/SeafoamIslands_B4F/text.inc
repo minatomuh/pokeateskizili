@@ -6,13 +6,13 @@ Text_RockSlideTeach::
     .string "Waaaaaaaaaaah, çok korkutucu!\n"
     .string "Tam bir dehşet!\p"
     .string "Korkmuş gibi görünmüyorsun.\n"
-    .string "ROCK SLIDE'ı denemek ister misin?$"
+    .string "KAYA DÜŞÜŞÜ'nü denemek ister misin?$"
 
 Text_RockSlideDeclined::
     .string "Öyleyse sonunda korkuyorsun.$"
 
 Text_RockSlideWhichMon::
-    .string "Hangi POKéMON'a ROCK SLIDE\n"
+    .string "Hangi POKéMON'a KAYA DÜŞÜŞÜ\n"
     .string "öğretmeliyim?$"
 
 Text_RockSlideTaught::

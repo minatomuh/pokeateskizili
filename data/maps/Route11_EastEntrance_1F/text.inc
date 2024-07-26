@@ -9,8 +9,8 @@ Route11_EastEntrance_1F_Text_ManInLavenderRatesNames::
     .string "LAVENDER KASABASI'nda, POKéMON\n"
     .string "takma adları değerlendiren\l"
     .string "bir adam var.\p"
-    .string "Ayrıca POKéMON'unu yeniden\nadlandırmana\l"
-    .string "yardımcı olabilir.$"
+    .string "Ayrıca POKéMON'unu yeniden\n"
+    .string "adlandırmana yardımcı olabilir.$"
 
 Route11_EastEntrance_1F_Text_RockTunnelToReachLavender::
     .string "LAVENDER KASABASI'na ulaşmayı\n"

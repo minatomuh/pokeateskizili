@@ -32,11 +32,11 @@ Route11_Text_EddiePostBattle::
     .string "Pişman değilim.$"
 
 Route11_Text_BraxtonIntro::
-    .string "Dikkat!\n"
-    .string "Kablolar döşüyorum!$"
+    .string "Dikkat et!\n"
+    .string "Kablo döşüyorum!$"
 
 Route11_Text_BraxtonDefeat::
-    .string "O elektrik gibiydi!$"
+    .string "Elektrik çarptı!$"
 
 Route11_Text_BraxtonPostBattle::
     .string "Enerji tasarrufu yapın!$"
