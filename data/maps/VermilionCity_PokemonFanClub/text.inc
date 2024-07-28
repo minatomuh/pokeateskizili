@@ -90,8 +90,8 @@ VermilionCity_PokemonFanClub_Text_SomeoneBragsBragBack::
     .string "övün!$"
 
 VermilionCity_PokemonFanClub_Text_ChairmanReallyAdoresHisMons::
-    .string "BAŞKANımız POKéMON'larını\n"
-    .string "gerçekten seviyor.\p"
+    .string "BAŞKAN POKéMON'larını\n"
+    .string "gerçekten çok seviyor.\p"
     .string "Ama POKéMON'lar tarafından\n"
-    .string "en çok sevilen kişi DAISY, diye\n"
+    .string "en çok sevilen kişi DAISY diye\l"
     .string "düşünüyorum.$"

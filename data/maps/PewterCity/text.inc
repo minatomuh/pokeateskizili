@@ -4,7 +4,7 @@ Text_DreamEaterTeach::
     .string "DROWZEE'nin rüyamı yediği\n"
     .string "garip bir rüya gördüm.\p"
     .string "Ve…\n"
-    .string "Rüya yemeyi öğrendim… Brr,\n"
+    .string "Rüya yemeyi öğrendim… Brr,\l"
     .string "çok ürkütücü!\p"
     .string "Lütfen bir POKéMON'una öğreteyim ki\n"
     .string "bunu unutabileyim!$"
@@ -74,14 +74,14 @@ PewterCity_Text_GoTakeOnBrock::
 
 PewterCity_Text_TrainerTipsEarningEXP::
     .string "EĞİTMEN İPUCU\n"
-    .string "Tüm POKéMON'lar, ne kadar kısa süre\n"
-    .string "savaşırlarsa savaşsın\l"
-    .string "hepsi EXP Puanları kazanırlar.$"
+    .string "Tüm POKéMON'lar, ne kadar kısa süre\l"
+    .string "savaşırlarsa savaşsın hepsi\l"
+    .string "EXP. Puanı kazanırlar.$"
 
 PewterCity_Text_CallPoliceIfInfoOnThieves::
     .string "DİKKAT!\p"
     .string "Hırsızlar AY DAĞI'dan POKéMON\n"
-    .string "fosilleri çalıyorlar. Eğer bilginiz\n"
+    .string "fosilleri çalıyorlar. Eğer bilginiz\l"
     .string "varsa lütfen PEWTER POLİSİ'ni arayın.$"
 
 PewterCity_Text_MuseumOfScience::

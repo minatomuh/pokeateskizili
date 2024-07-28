@@ -10,11 +10,11 @@ PokemonLeague_LoreleisRoom_Text_Intro::
     .string "Hazır mısın?{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_LoreleisRoom_Text_RematchIntro::
-    .string "POKéMON LİGİne tekrar hoş geldin.\p"
+    .string "POKéMON LİGİ'ne tekrar hoş geldin.\p"
     .string "Ben, ELİT DÖRTLÜ'nden LORELEI,\n"
     .string "geri döndüm!\p"
     .string "Bildiğin gibi,\n"
-    .string "BUZ POKéMON'ları konusunda\n"
+    .string "BUZ POKéMON'ları konusunda\l"
     .string "beni kimse geçemez.\p"
     .string "Dondurucu saldırılar çok güçlü.\p"
     .string "POKéMON'ların donduğunda\n"

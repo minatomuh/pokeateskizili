@@ -52,7 +52,7 @@ PokemonLeague_ChampionsRoom_Text_Victory::
     .string "{PLAYER} gibi birine\n"
     .string "yenilmem ben!\p"
     .string "Ama! Pokemonların\n"
-    .string "dehasının {RIVAL} gibi bir rakibe\n"
+    .string "dehasının {RIVAL} gibi bir rakibe\l"
     .string "karşı burada durması bile harika!\l"
     .string "Çok iyi savaştın!\p"
     .string "Tebrikler!\n"

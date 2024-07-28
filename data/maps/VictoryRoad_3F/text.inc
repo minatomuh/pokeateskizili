@@ -42,7 +42,7 @@ VictoryRoad_3F_Text_AlexaPostBattle::
     .string "daha da güçlendirir.$"
 
 VictoryRoad_3F_Text_CarolineIntro::
-    .string "Sana ne kadar iyi olduğumu.\n"
+    .string "Sana ne kadar iyi olduğumu\n"
     .string "gösterceğim!$"
 
 VictoryRoad_3F_Text_CarolineDefeat::

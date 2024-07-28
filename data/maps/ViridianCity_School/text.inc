@@ -40,7 +40,7 @@ ViridianCity_School_Text_NotebookFourthPage::
     .string "İlk sekiz POKéMON SALONU\n"
     .string "LİDERLERİNİ yenmelisiniz.\p"
     .string "Böylece… POKéMON LİGİ'nin ELİT\n"
-    .string "DÖRTLÜSÜ ile savaşmaya hak\n"
+    .string "DÖRTLÜSÜ ile savaşmaya hak\l"
     .string "kazanırsınız!$"
 
 ViridianCity_School_Text_TurnThePage::
@@ -69,14 +69,14 @@ ViridianCity_School_Text_ExplainBurn::
     .string "YANIK, SALDIRI gücünü azaltır ve\n"
     .string "CAN kaybına yol açar.\p"
     .string "YANIK savaştan sonra da kalır.\n"
-    .string "YANIK İLACI kullanarak tedavi\n"
+    .string "YANIK İLACI kullanarak tedavi\l"
     .string "edebilirsin.$"
 
 ViridianCity_School_Text_ExplainPoison::
     .string "Zehirlenince, bir POKéMON'un\n"
     .string "sağlığı sürekli düşer.\p"
     .string "Zehir, savaşlardan sonra da kalır.\n"
-    .string "Bir PANZEHİR kullanarak zehiri\n"
+    .string "Bir PANZEHİR kullanarak zehiri\l"
     .string "tedavi et!$"
 
 ViridianCity_School_Text_ExplainFreeze::

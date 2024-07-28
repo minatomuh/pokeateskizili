@@ -175,5 +175,5 @@ Text_HeardThatBefore::
 
 Text_TellMoreNextTime::
     .string "Lütfen bir dahaki sefere\n"
-    .string "kendin hakkında daha fazla bilgi\n"
+    .string "kendin hakkında daha fazla bilgi\l"
     .string "ver.$"

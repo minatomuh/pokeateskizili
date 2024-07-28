@@ -15,7 +15,7 @@ CeruleanCity_Gym_Text_ExplainTM03::
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
     .string "ÇAĞLAYAN ROZETİ, tüm POKéMON'ların\n"
-    .string "SV. 30'a kadar itaat etmesini\n"
+    .string "SV. 30'a kadar itaat etmesini\l"
     .string "sağlar.\p"
     .string "Buna takas yoluyla elde ettiğin\n"
     .string "yabancı POKéMON'lar da dahil.\p"

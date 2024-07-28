@@ -151,7 +151,7 @@ SaffronCity_Gym_Text_GymGuyAdvice::
     .string "yok olurlar!$"
 
 SaffronCity_Gym_Text_GymGuyPostVictory::
-    .string "Psişik güç mü?$\n"
+    .string "Psişik güç mü?$\p"
     .string "Eğer psişik güçlere sahip olsaydım\n"
     .string "slot makinelerinde bir servet\l"
     .string "kazanırdım!$"

@@ -329,7 +329,7 @@ OneIsland_PokemonCenter_1F_Text_TradedWithFarAwayBoyfriend::
     .string "Uzakta olan erkek arkadaşımla\n"
     .string "POKéMON takas ettim!\p"
     .string "Herkes bunun için sana\n"
-    .string "ve CELIO'ya teşekkür etmemiz\n"
+    .string "ve CELIO'ya teşekkür etmemiz\l"
     .string "gerektiğini söylüyor.\p"
     .string "Gerçekten çok teşekkür ederim!$"
 

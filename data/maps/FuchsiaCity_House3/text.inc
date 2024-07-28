@@ -30,6 +30,6 @@ FuchsiaCity_House3_Text_ComeAgainToForgetOtherMoves::
     .string "istersen tekrar gel.$"
 
 FuchsiaCity_House3_Text_NoEggShouldKnowMoves::
-    .string "Ne?\n"
-    .string "Hiçbir YUMURTANIN hamle bilmesi\n"
-    .string "gerekmiyor.$"
+    .string "Ne?\p"
+    .string "Bir YUMURTANIN hiçbir hamle\n"
+    .string "bilmemesi gerekir.$"

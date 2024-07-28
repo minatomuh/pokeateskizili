@@ -32,11 +32,11 @@ SaffronCity_PokemonTrainerFanClub_Text_IllAlwaysBelieveInYou::
 
 SaffronCity_PokemonTrainerFanClub_Text_WasYourFanNotAnymore::
     .string "Üzgünüm.\n"
-    .string "Önceden senin hayranındım\p"
+    .string "Önceden senin hayranındım.\p"
     .string "Ama şimdi, eskiden sahip\n"
-    .string "olduğun etkiyi kaybettiğini\n"
+    .string "olduğun etkiyi kaybettiğini\l"
     .string "düşünüyorum.\p"
-    .string "Son zamanlarda, {STR_VAR_1}ın daha\n"
+    .string "Son zamanlarda, {STR_VAR_1}'in daha\n"
     .string "havalı olduğunu düşünüyorum.$"
 
 SaffronCity_PokemonTrainerFanClub_Text_EveryonesYourFanButICantBe::

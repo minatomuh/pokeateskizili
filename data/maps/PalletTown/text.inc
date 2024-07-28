@@ -55,8 +55,8 @@ PalletTown_Text_CaughtXImpressiveFollowMe::
 PalletTown_Text_OakYouEnjoyingTraveling::
     .string "OAK: Ah, {PLAYER}!\n"
     .string "Seyahat etmeyi sevmiş gözüküyorsun.\p"
-    .string "Bilerek söylüyorum ki, {PLAYER},\n"
-    .string "Daha egzotik yerler keşfettiğini\n"
+    .string "Emin olarak diyorum ki {PLAYER},\n"
+    .string "Daha egzotik yerler keşfettiğini\l"
     .string "kolayca hayal edebiliyorum.\p"
     .string "İyi, iyi.\n"
     .string "Hohoho.$"

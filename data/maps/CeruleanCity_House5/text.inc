@@ -51,21 +51,19 @@ CeruleanCity_House1_Text_YoullExchangeBerryPowderForItem::
     .string "{STR_VAR_1} ile değiştireceksin.$"
 
 CeruleanCity_House1_Text_DontHaveEnoughBerryPowder::
-    .string "Hmm? Yeterli MEYVE\n"
-    .string "TOZU yok.$"
+    .string "Hmm?\n"
+    .string "Yeterli MEYVE TOZU yok.$"
 
 CeruleanCity_House1_Text_TradeMoreBerryPowder::
-    .string "Bu gerçekten iyi bir MEYVE\n"
-    .string "TOZU. Mükemmel bir ilaç\n"
-    .string "yapacağım. Daha fazla\n"
-    .string "MEYVE TOZU değiş-tokuş\n"
-    .string "etmek ister misin?$"
+    .string "Bu gerçekten iyi bir MEYVE TOZU.\n"
+    .string "Mükemmel bir ilaç yapacağım.\p"
+    .string "Daha fazla MEYVE TOZU\n"
+    .string "değiş-tokuş etmek ister misin?$"
 
 CeruleanCity_House1_Text_HopeToSeeYouAgain::
-    .string "Tamam, öyleyse. Seni\n"
-    .string "tekrar görmeyi umuyorum.$"
+    .string "Tamam öyleyse.\n"
+    .string "Seni tekrar görmeyi umuyorum.$"
 
 CeruleanCity_House1_Text_SeeMeIfYoudLikeToTradePowder::
-    .string "Eğer MEYVE TOZU\n"
-    .string "değiştirmek istersen,\n"
-    .string "beni gör.$"
+    .string "Eğer MEYVE TOZU değiştirmek\n"
+    .string "istersen, beni gör.$"

@@ -31,5 +31,5 @@ FuchsiaCity_House2_Text_HowAreTheFishBiting::
 
 FuchsiaCity_House2_Text_YouHaveNoRoomForGift::
     .string "Aman Tanrım!\n"
-    .string "Sana bir hediyem vardı, ama\n"
-    .string "yerin yok!$"
+    .string "Sana bir hediyem vardı,\l"
+    .string "ama yerin yok!$"

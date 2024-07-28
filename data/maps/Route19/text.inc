@@ -125,7 +125,7 @@ Route19_Text_LiaDefeat::
     .string "davranamazsın!$"
 
 Route19_Text_LiaPostBattle::
-    .string "LIA: Küçük kardeşin var mı?\n"
+    .string "LIA: Küçük kardeşin var mı?\p"
     .string "Umarım ona bir şeyler\n"
     .string "öğretmeye çalışıyorsundur.$"
 
