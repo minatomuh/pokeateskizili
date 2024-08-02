@@ -3,7 +3,7 @@ VermilionCity_PokemonCenter_1F_Text_TrainerMonsStrongerThanWild::
     .string "POKéMON'ların özellikleri\l"
     .string "çok farklı olabilir.\p"
     .string "Bir EĞİTMEN tarafından eğitilen\n"
-    .string "POKéMON'lar, vahşi olandan\l"
+    .string "POKéMON'lar, vahşi olanlardan\l"
     .string "daha güçlüdür.$"
 
 VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalking::
@@ -35,11 +35,11 @@ VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches::
     .string "şarj etmelisin.$"
 
 VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker::
-    .string "VS BULUCU'yu nasıl mı kullanıyorsun?\n"
-    .string "Çok basit.\p"
+    .string "VS BULUCU'yu nasıl kullanacağını\n"
+    .string "mı soruyorsun? Çok basit.\p"
     .string "Tuşlara bip-bip basarak kullan ve\n"
-    .string "çevrendeki EĞİTMENLER gelecek.\p"
+    .string "çevrendeki EĞİTMENLER gelsin.\p"
     .string "Eğer bir EĞİTMEN savaş isterse,\n"
-    .string "hemen haber verecek.\p"
+    .string "sana hemen haber verir.\p"
     .string "Bataryasını şarj et ve yolda\n"
     .string "yürürken kullan.$"

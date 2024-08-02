@@ -9,7 +9,7 @@ VermilionCity_PokemonFanClub_Text_PikachuTwiceAsCute::
 VermilionCity_PokemonFanClub_Text_AdoreMySeel::
     .string "SEEL'imi çok seviyorum!\n"
     .string "Çok tatlı!\p"
-    .string "Sarıldığımda, “Kyuuuh” diye\n"
+    .string "Sarıldığımda, “Kiyuuuh” diye\n"
     .string "ses çıkarıyor!$"
 
 VermilionCity_PokemonFanClub_Text_SeelFarMoreAttractive::
@@ -18,10 +18,10 @@ VermilionCity_PokemonFanClub_Text_SeelFarMoreAttractive::
     .string "Hem de iki kat!$"
 
 VermilionCity_PokemonFanClub_Text_Pikachu::
-    .string "PIKACHU: Pi! Pikachu!$"
+    .string "PIKACHU: Pi! Pikaçuu!$"
 
 VermilionCity_PokemonFanClub_Text_Seel::
-    .string "SEEL: Kyuoo!$"
+    .string "SEEL: Kiyoo!$"
 
 VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons::
     .string "POKéMON FAN KULÜBÜ'nün başkanıyım!\p"

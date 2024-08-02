@@ -22,14 +22,14 @@ ViridianCity_Text_ExplainCaterpieWeedle::
     .string "CATERPIE zehirsizdir,\n"
     .string "ama WEEDLE zehirlidir.\p"
     .string "POKéMON'unuzun WEEDLE'ın\n"
-    .string "ZEHİR İĞNE'si ile\l"
+    .string "ZEHİRLİ İĞNE'si ile\l"
     .string "yaralanmadığından emin olun.$"
 
 ViridianCity_Text_GrandpaHasntHadCoffeeYet::
-    .string "Oh, Dede!\n"
-    .string "Bu kadar sert olma!\p"
+    .string "Of, Dede!\n"
+    .string "Bu kadar kaba olma!\p"
     .string "Üzgünüm.\n"
-    .string "O hala kahvesini içemedi.$"
+    .string "O kahvesini henüz içemedi.$"
 
 ViridianCity_Text_GoShoppingInPewterOccasionally::
     .string "Bazen PEWTER ŞEHRİ'nde alışverişe\n"
@@ -38,9 +38,9 @@ ViridianCity_Text_GoShoppingInPewterOccasionally::
     .string "dönemeçli yolu kullanmam gerekiyor.$"
 
 ViridianCity_Text_ThisIsPrivateProperty::
-    .string "Buradan geçmeni kesinlikle\n"
+    .string "Buradan geçmeni katiyen\n"
     .string "yasaklıyorum!\p"
-    .string "Bu özel mülktür!$"
+    .string "Burası özel mülktür!$"
 
 ViridianCity_Text_ShowYouHowToCatchMons::
     .string "Eh, şimdi, kahvemi içtim ve\n"
@@ -79,7 +79,7 @@ ViridianCity_Text_HowsTeachyTVHelping::
     .string "bunu yapmak için hazırım!\p"
     .string "Ama çok koyu oldu.\n"
     .string "Başım ağrıyor…\p"
-    .string "Bu arada, eski TEACHY TV'imin\n"
+    .string "Bu arada, eski REHBER TV'imin\n"
     .string "yardımı dokunuyor mu?$"
 
 ViridianCity_Text_MyGrandsonOnTheShow::
@@ -89,7 +89,7 @@ ViridianCity_Text_MyGrandsonOnTheShow::
     .string "kesin öğrenirsin.$"
 
 ViridianCity_Text_TooBusyForTeachyTV::
-    .string "Hm… TEACHY TV'ye bile\n"
+    .string "Hm… REHBER TV'ye bile\n"
     .string "zaman ayıramayacak\l"
     .string "kadar meşgulsün…\p"
     .string "Zaman para demektir ve ikisi de\n"
@@ -108,7 +108,7 @@ ViridianCity_Text_CatchMonsForEasierBattles::
 ViridianCity_Text_MovesLimitedByPP::
     .string "EĞİTMEN İPUCU\p"
     .string "POKéMON savaş hareketleri\n"
-    .string "POWER POINTS, PP\l"
+    .string "GÜÇ PUANLARI, PP\l"
     .string "ile sınırlıdır.\p"
     .string "PP'yi yenilemek için yorgun\n"
     .string "POKéMON'larını bir\l"

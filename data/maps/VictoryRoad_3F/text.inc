@@ -90,7 +90,7 @@ VictoryRoad_3F_Text_TyraDefeat::
     .string "TYRA: Ah, ama…$"
 
 VictoryRoad_3F_Text_TyraPostBattle::
-    .string "TYRA: Bana güç ve gücün sonsuz\n"
+    .string "TYRA: Bana gücü ve gücün sonsuz\n"
     .string "şekilde var olabileceğini gösterdin.$"
 
 VictoryRoad_3F_Text_TyraNotEnoughMons::

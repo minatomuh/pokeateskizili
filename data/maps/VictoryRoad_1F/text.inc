@@ -17,6 +17,6 @@ VictoryRoad_1F_Text_RolandoDefeat::
     .string "Bir şansım vardı…$"
 
 VictoryRoad_1F_Text_RolandoPostBattle::
-    .string "Tch!\n"
+    .string "Cık!\n"
     .string "Kabul ediyorum, benden daha iyisin!$"
 

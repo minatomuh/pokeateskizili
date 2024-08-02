@@ -19,7 +19,7 @@ VermilionCity_Text_BuildingOnThisLand::
     .string "toprağı eziyor.$"
 
 VermilionCity_Text_Machop::
-    .string "MACHOP: Guoh! Gogogoh!$"
+    .string "MACHOP: Guooh! Goh goh!$"
 
 VermilionCity_Text_MachopStompingLandFlat::
     .string "Bir MACHOP toprağı düzleştiriyor.$"
@@ -47,7 +47,7 @@ VermilionCity_Text_PokemonFanClubSign::
 VermilionCity_Text_GymSign::
     .string "VERMILION POKéMON SALONU\n"
     .string "LİDER: TEĞMEN SURGE\l"
-    .string "Şimşek Amerikalı!$"
+    .string "Yıldırım Amerikalı!$"
 
 VermilionCity_Text_VermilionHarbor::
     .string "VERMILION LİMANI$"
@@ -80,24 +80,24 @@ VermilionCity_Text_BoardSeagallopTriPass::
 
 VermilionCity_Text_Seagallop7Departing::
     .string "Tamam, her şey yolunda.\p"
-    .string "SEAGALLOP HI-SPEED 7 hemen\n"
+    .string "SEAGALLOP YÜKSEK-HIZ 7 hemen\n"
     .string "ayrılacak.$"
 
 VermilionCity_Text_BoardSeagallopRainbowPass::
-    .string "Ah, PRİZMA BİLET'e sahipsin.\p"
+    .string "Ah, PRİZMA BİLETine sahipsin.\p"
     .string "SEAGALLOP feribotuna binmek ister\n"
     .string "misiniz?$"
 
 VermilionCity_Text_OhMysticTicketTakeYouToNavelRock::
     .string "Oh! O bir MİSTİK BİLET!\n"
     .string "Bu gerçekten nadir.\p"
-    .string "Sizi her zaman NAVEL ROCK'a\n"
+    .string "Sizi her zaman NAVEL KAYASINA\n"
     .string "götürmekten mutluluk duyarız.$"
 
 VermilionCity_Text_OhAuroraTicketTakeYouToBirthIsland::
-    .string "Oh! O bir AURORA BİLET!\n"
+    .string "Oh! O bir AURORA BİLETİ!\n"
     .string "Bu gerçekten nadir.\p"
-    .string "Sizi her zaman BIRTH ADASI'na\n"
+    .string "Sizi her zaman DOĞUM ADASI'na\n"
     .string "götürmekten mutluluk duyarız.$"
 
 VermilionCity_Text_BoardSeagallopFerry::
@@ -107,13 +107,13 @@ VermilionCity_Text_BoardSeagallopFerry::
 VermilionCity_Text_Seagallop10Departing::
     .string "Tamam, özel bir feribota binmek\n"
     .string "için her şey yolunda.\p"
-    .string "SEAGALLOP HI-SPEED 10 hemen\n"
+    .string "SEAGALLOP YÜKSEK-HIZ 10 hemen\n"
     .string "ayrılacak.$"
 
 VermilionCity_Text_Seagallop12Departing::
     .string "Tamam, özel bir feribota binmek\n"
     .string "için her şey yolunda.\p"
-    .string "SEAGALLOP HI-SPEED 12 hemen\n"
+    .string "SEAGALLOP YÜKSEK-HIZ 12 hemen\n"
     .string "ayrılacak.$"
 
 VermilionCity_Text_Route2AideHasPackageForYou::
