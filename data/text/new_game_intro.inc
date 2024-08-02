@@ -161,10 +161,10 @@ gOakSpeech_Text_AskPlayerGender::
 gPikachuIntro_Text_Page1::
     .string "Pokémon AteşKızılı ve YaprakYeşili\n"
     .string "Çeviri Yönetmeni: Gökhan Perçem\n"
-    .string "Yardımcı Çevirmen: Emirhan Yılmaz\n"
+    .string "Çevirmen: Muhammed Emin Karakaya\n"
+    .string "Çevirmen: Emirhan Yılmaz\n"
     .string "\n"
-    .string "Çeviriden memnun kaldıysanız veya\n"
-    .string "bir sorunla karşılaştıysanız\n"
+    .string "Yamada bir sorunla karşılaşırsanız\n"
     .string "Discord kanalımıza uğrayabilirsiniz.\n"
     .string "Link: discord.gg/aHJMKXkafz$"
 
