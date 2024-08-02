@@ -1716,7 +1716,6 @@ Help_Text_TypeMatchupOwnMoveDark::
 Help_Text_TypeMatchupOwnPokemonDark::
 	.string "Düşman hamlesinin kendi POKéMON'una\p"
 	.string "etkisi:\p"
-	
 	.string "   {CIRCLE_DOT}: DÖVÜŞ, BÖCEK\p"
 	.string "   {TRIANGLE}: HAYALET, KARA\p"
 	.string "   {BIG_MULT_X}: PSİŞİK$"
