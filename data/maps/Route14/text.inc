@@ -105,7 +105,7 @@ Route14_Text_GeraldDefeat::
     .string "Çakıldım!$"
 
 Route14_Text_GeraldPostBattle::
-    .string "POKéMON'unu güçlü yapman güzel.\n"
+    .string "POKéMON'unu güçlendirmen güzel.\n"
     .string "Güç her şeydir, biliyorsun!$"
 
 Route14_Text_MalikIntro::
