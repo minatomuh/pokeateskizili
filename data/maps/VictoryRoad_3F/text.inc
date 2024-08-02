@@ -3,7 +3,7 @@ Text_DoubleEdgeTeach::
     .string "ZAFER YOLU'nda cesurca\l"
     .string "savaşarak. P\n"
     .string "Bu başarını takdir ederek,\n"
-    .string "DOUBLE-EDGE öğretmek isterim.\p"
+    .string "ÇİFT-KENAR öğretmek isterim.\p"
     .string "Bu tekniği öğretmemi ister misin?$"
 
 Text_DoubleEdgeDeclined::
@@ -11,7 +11,7 @@ Text_DoubleEdgeDeclined::
     .string "öğretmeye hazırım.$"
 
 Text_DoubleEdgeWhichMon::
-    .string "Hangi POKéMON'a DOUBLE-EDGE\n"
+    .string "Hangi POKéMON'a ÇİFT-KENAR\n"
     .string "öğretmemi istersin?$"
 
 Text_DoubleEdgeTaught::
@@ -90,7 +90,7 @@ VictoryRoad_3F_Text_TyraDefeat::
     .string "TYRA: Ah, ama…$"
 
 VictoryRoad_3F_Text_TyraPostBattle::
-    .string "TYRA: Bana güç ve gücün sonsuz\n"
+    .string "TYRA: Bana gücü ve gücün sonsuz\n"
     .string "şekilde var olabileceğini gösterdin.$"
 
 VictoryRoad_3F_Text_TyraNotEnoughMons::

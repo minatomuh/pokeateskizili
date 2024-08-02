@@ -16,7 +16,7 @@ VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
 VermilionCity_House1_Text_FishingIsAWayOfLife::
     .string "Balık tutmak bir yaşam tarzıdır!\n"
     .string "Güzel bir şiire benzer.\p"
-    .string "Denizlerden nehirlerden bahsedelim,\n"
+    .string "Denizlerden nehirlerden bahset,\n"
     .string "ve büyük balığı yakala, dostum.$"
 
 VermilionCity_House1_Text_OhThatsSoDisappointing::

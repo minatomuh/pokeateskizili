@@ -3,7 +3,7 @@ VermilionCity_PokemonCenter_1F_Text_TrainerMonsStrongerThanWild::
     .string "POKéMON'ların özellikleri\l"
     .string "çok farklı olabilir.\p"
     .string "Bir EĞİTMEN tarafından eğitilen\n"
-    .string "POKéMON'lar, vahşi olandan\l"
+    .string "POKéMON'lar, vahşi olanlardan\l"
     .string "daha güçlüdür.$"
 
 VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalking::
@@ -37,7 +37,7 @@ VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches::
 VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker::
     .string "VS BULUCU nasıl mı kullanıyorsun?\n"
     .string "Çok basit.\p"
-    .string "Beep-beep-beep gibi kullan ve\n"
+    .string "Bip-bip-biip gibi kullan ve\n"
     .string "çevrendeki eğitmenler gelecek.\p"
     .string "Eğer bir eğitmen savaş isterse,\n"
     .string "hemen haber verecek.\p"

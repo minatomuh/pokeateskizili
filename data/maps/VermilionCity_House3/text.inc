@@ -1,6 +1,6 @@
 VermilionCity_House3_Text_PidgeyFlyLetterToSaffron::
-    .string "PIDGEY'ime kuzeydeki\n"
-    .string "SAFFRON'a bir mektup götürüyorum.$"
+    .string "PIDGEY'im ile kuzeydeki\n"
+    .string "SAFFRON'a bir mektup gönderiyorum.$"
 
 VermilionCity_House3_Text_Pidgey::
     .string "PIDGEY: Ciuuuv!$"
@@ -16,5 +16,5 @@ VermilionCity_House3_Text_SendMyPidgeyToUnionRoom::
     .string "Farklı insanlarla mektup\n"
     .string "alışverişi yapmak istiyorum.\p"
     .string "Mektuplarımı taşımaları için\n"
-    .string "PIDGEY'lerimi UNION ROOM'a\l"
+    .string "PIDGEY'lerimi BİRLİK ODASINA\l"
     .string "gönderiyorum.$"

@@ -1,7 +1,7 @@
 VermilionCity_Gym_Text_LtSurgeIntro::
     .string "Hey, çocuk! Burada ne yaptığını\n"
     .string "sanıyorsun?\p"
-    .string "Savaşta uzun süre duramazsın!\n"
+    .string "Savaşta uzun süre dayanamazsın!\n"
     .string "Gücün çok zayıf!\p"
     .string "Sana söylüyorum, çocuk, ELEKTRİK\n"
     .string "POKéMON'ları savaşta beni kurtardı!\p"
@@ -15,7 +15,7 @@ VermilionCity_Gym_Text_LtSurgePostBattle::
     .string "işe yaramaz!$"
 
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
-    .string "THUNDERBADGE, POKéMON'unun\n"
+    .string "YILDIRIM ROZETİ, POKéMON'unun\n"
     .string "HIZINI arttırır!\p"
     .string "Ayrıca POKéMON'un yıldırım hızıyla\n"
     .string "UÇ kullanmasını sağlar, çocuk!\p"
@@ -23,7 +23,7 @@ VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
     .string "Bunu al!$"
 
 VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
-    .string "{PLAYER} TĞM. SURGE'dan TM34\n"
+    .string "{PLAYER} TĞM. SURGE'den TM34\n"
     .string "aldı.$"
 
 VermilionCity_Gym_Text_ExplainTM34::
@@ -36,12 +36,12 @@ VermilionCity_Gym_Text_MakeRoomInYourBag::
 VermilionCity_Gym_Text_LtSurgeDefeat::
     .string "Bu gerçekten şaşırtıcı!\p"
     .string "Sen gerçekten iyisin, çocuk!\p"
-    .string "Tamam, o zaman THUNDERBADGE'i al!$"
+    .string "Tamam, o zaman YILDIRIM ROZETİNİ al!$"
 
 VermilionCity_Gym_Text_TuckerIntro::
     .string "Ordudayken TĞM. SURGE\n"
     .string "benim komutanımdı.\p"
-    .string "Çok zorlu eğitim verirdi.$"
+    .string "Çok zorlu eğitimler verirdi.$"
 
 VermilionCity_Gym_Text_TuckerDefeat::
     .string "Dur!\n"
@@ -55,10 +55,10 @@ VermilionCity_Gym_Text_TuckerPostBattle::
 VermilionCity_Gym_Text_BailyIntro::
     .string "Hafifim, ama elektrikle\n"
     .string "iyi anlaşırım!\p"
-    .string "Bu yüzden bu GYM'e katıldım.$"
+    .string "Bu yüzden bu SALON'a katıldım.$"
 
 VermilionCity_Gym_Text_BailyDefeat::
-    .string "Kızartıldı!$"
+    .string "Kızartıldım!$"
 
 VermilionCity_Gym_Text_BailyPostBattle::
     .string "Tamam, konuşacağım!\p"
@@ -66,7 +66,7 @@ VermilionCity_Gym_Text_BailyPostBattle::
     .string "bir şeyin içine sakladığını söyledi.$"
 
 VermilionCity_Gym_Text_DwayneIntro::
-    .string "Bu çocuklar için yer değil!\n"
+    .string "Burası çocuklar için bir yer değil!\n"
     .string "Ne kadar iyi olursan ol!$"
 
 VermilionCity_Gym_Text_DwayneDefeat::
@@ -98,7 +98,7 @@ VermilionCity_Gym_Text_GymGuyAdvice::
 
 VermilionCity_Gym_Text_GymGuyPostVictory::
     .string "Vay!\n"
-    .string "Maç elektrikliydi!$"
+    .string "Maç şok ediciydi!$"
 
 VermilionCity_Gym_Text_GymStatue::
     .string "VERMILION POKéMON SALONU\n"
@@ -118,7 +118,7 @@ VermilionCity_Gym_Text_NopeOnlyTrashHere::
 
 VermilionCity_Gym_Text_SwitchUnderTrashFirstLockOpened::
     .string "Hey! Çöpün altında bir düğme var!\n"
-    .string "Aç! İlk elektrikli kilit açıldı!$"
+    .string "Tıkla! İlk elektrikli kilit açıldı!$"
 
 VermilionCity_Gym_Text_AnotherSwitchInTrash::
     .string "ガサゴソ‥！\n"
