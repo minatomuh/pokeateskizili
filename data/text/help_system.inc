@@ -1561,7 +1561,8 @@ Help_Text_DescTheGame::
 
 Help_Text_DescWirelessAdapter::
 	.string "Bu oyun, Kablosuz Adaptör kullanarak\n"
-	.string "kablosuz bağlantı üzerinden iletişim kurar.\p"
+	.string "kablosuz bağlantı üzerinden iletişim\p"
+	.string "kurar.\p"
 	.string "Her yerde, her zaman ve herkesle\l"
 	.string "kablosuz oynayın!\p"
 	.string "Kablosuz Adaptör'ü daima bağlı tutarak\l"

@@ -16,7 +16,7 @@ PokemonLeague_LoreleisRoom_Text_RematchIntro::
     .string "Bildiğin gibi,\n"
     .string "BUZ POKéMON'ları konusunda\l"
     .string "beni kimse geçemez.\p"
-    .string "Dondurucu saldırılar çok güçlü.\p"
+    .string "Dondurucu saldırılar çok güçlüdür.\p"
     .string "POKéMON'ların donduğunda\n"
     .string "acımasızca saldırırım.\p"
     .string "Hahaha!\n"
@@ -26,7 +26,7 @@ PokemonLeague_LoreleisRoom_Text_Defeat::
     .string "…Bu böyle olmamalıydı!$"
 
 PokemonLeague_LoreleisRoom_Text_PostBattle::
-    .string "Senden beklediğimden iyisin.\n"
+    .string "Sen beklediğimden iyisin.\n"
     .string "Yoluna devam et.\p"
     .string "POKéMON LİGİ'nin gücünü\n"
     .string "tatmış oldun.$"

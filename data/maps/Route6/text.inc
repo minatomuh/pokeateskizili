@@ -49,7 +49,7 @@ Route6_Text_IsabelleIntro::
     .string "Tamam, oynayalım!$"
 
 Route6_Text_IsabelleDefeat::
-    .string "Şeyler yolunda gitmedi…$"
+    .string "Bir şeyler yolunda gitmedi…$"
 
 Route6_Text_IsabellePostBattle::
     .string "Güçlenmek istiyorum.\n"

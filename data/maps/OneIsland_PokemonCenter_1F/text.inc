@@ -171,7 +171,7 @@ OneIsland_PokemonCenter_1F_Text_YoullBeTradingFromTrainersFarAway::
     .string "takasları yapabilecek şekilde\l"
     .string "değiştiriyorum.\p"
     .string "Bittiğinde, uzaklardaki\n"
-    .string "EĞİTİCİLERDEN egzotik POKéMON\l"
+    .string "EĞİTMENLERDEN egzotik POKéMON\l"
     .string "takas edeceksin.$"
 
 OneIsland_PokemonCenter_1F_Text_NeedsSpecialGemstone::
@@ -265,7 +265,7 @@ OneIsland_PokemonCenter_1F_Text_ManagedToLinkWithHoennThankYou::
     .string "{PLAYER}…\n"
     .string "{PLAYER}, başardım!\p"
     .string "HOENN bölgesindeki\n"
-    .string "EĞİTİCİLER ile bağlantı kurdum!\p"
+    .string "EĞİTMENLER ile bağlantı kurdum!\p"
     .string "Sonunda, Ağ Makinesi tamamen\n"
     .string "çalışır hale geldi!\p"
     .string "{PLAYER}, hepsi senin sayende!\p"
