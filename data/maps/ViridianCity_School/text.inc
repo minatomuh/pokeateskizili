@@ -15,7 +15,7 @@ ViridianCity_School_Text_NotebookFirstPage::
     .string "Partinize en fazla altı POKéMON\n"
     .string "alabilirsiniz.\p"
     .string "POKéMON yetiştirip savaşanlara\n"
-    .string "TRAINER denir.$"
+    .string "EĞİTMEN denir.$"
 
 ViridianCity_School_Text_NotebookSecondPage::
     .string "İkinci sayfa…\p"
@@ -26,9 +26,9 @@ ViridianCity_School_Text_NotebookSecondPage::
 
 ViridianCity_School_Text_NotebookThirdPage::
     .string "Üçüncü sayfa…\p"
-    .string "POKéMON TRAINER'ları savaşmak için\n"
+    .string "POKéMON EĞİTMEN'leri savaşmak için\n"
     .string "birbirlerini ararlar.\p"
-    .string "TRAINER'lar için zaferin tadı\n"
+    .string "EĞİTMENLER için zaferin tadı\n"
     .string "gerçekten tatlıdır.\p"
     .string "Her yerdeki POKéMON SALONLARI'nda\n"
     .string "sürekli savaşlar yapılır.$"
@@ -38,7 +38,7 @@ ViridianCity_School_Text_NotebookFourthPage::
     .string "Tüm POKéMON EĞİTMEN'lerinin\n"
     .string "hedefi basittir.\p"
     .string "İlk sekiz POKéMON SALONU\n"
-    .string "LİDER'ini yenmelisiniz.\p"
+    .string "LİDERLERİNİ yenmelisiniz.\p"
     .string "Böylece… POKéMON LİGİ'nin ELİT\n"
     .string "DÖRTLÜSÜ ile savaşmaya hak\n"
     .string "kazanırsınız!$"
@@ -67,7 +67,7 @@ ViridianCity_School_Text_ExplainSleep::
 
 ViridianCity_School_Text_ExplainBurn::
     .string "YANIK, SALDIRI gücünü azaltır ve\n"
-    .string "HP kaybına yol açar.\p"
+    .string "CAN kaybına yol açar.\p"
     .string "YANIK savaştan sonra da kalır.\n"
     .string "YANIK İLACI kullanarak tedavi\n"
     .string "edebilirsin.$"
@@ -84,7 +84,7 @@ ViridianCity_School_Text_ExplainFreeze::
     .string "edemez hale gelir.\p"
     .string "Savaş bittikten sonra da donuk\n"
     .string "kalır.\p"
-    .string "BUZ ÇÖZÜCÜ kullanarak POKéMON'u\n"
+    .string "BUZ ÇÖZÜCÜ kullanarak POKéMON'unu\n"
     .string "çözebilirsin.$"
 
 ViridianCity_School_Text_ExplainParalysis::

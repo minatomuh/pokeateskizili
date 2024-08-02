@@ -5,10 +5,10 @@ ViridianCity_House_Text_NicknamingIsFun::
     .string "daha kolay hatırlanır.$"
 
 ViridianCity_House_Text_MyDaddyLovesMonsToo::
-    .string "Babam da POKéMON seviyor.$"
+    .string "Babam da POKéMONLARI seviyor.$"
 
 ViridianCity_House_Text_Speary::
-    .string "SPEARY: Tetweet!$"
+    .string "SPEARY: CİK CİK!$"
 
 ViridianCity_House_Text_SpearowNameSpeary::
     .string "SPEAROW\n"
