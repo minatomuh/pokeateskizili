@@ -1,188 +1,188 @@
 Help_Text_WhatShouldIDo::
-	.string "What should I do in this situation?$"
+	.string "Şu durumda ne yaparım?$"
 
 Help_Text_HowDoIDoThis::
-	.string "How do I do this?$"
+	.string "Şunu nasıl yapacağım?$"
 
 Help_Text_WhatDoesThisTermMean::
-	.string "What does this term mean?$"
+	.string "Bu terimin anlamı ne?$"
 
 Help_Text_AboutThisGame::
-	.string "About this game$"
+	.string "Oyun hakkında$"
 
 Help_Text_TypeMatchupList::
-	.string "Type Matchup List$"
+	.string "Türlerin güçlü-zayıf yanları$"
 
 Help_Text_Exit::
-	.string "EXIT$"
+	.string "ÇIKIŞ$"
 
 Help_Text_Cancel::
-	.string "CANCEL$"
+	.string "İPTAL$"
 
 Help_Text_TryDoingItOnYourOwn::
 	.string "じぶんの ちからで やってみよう！$"
 
 Help_Text_DescWhatShouldIDo::
-	.string "Select to obtain hints for getting\n"
-	.string "over challenging situations.$"
+	.string "Belirli durumlarda ne yapacağını\n"
+	.string "öğrenmek için birini seç.$"
 
 Help_Text_DescHowDoIDoThis::
-	.string "Detailed instructions are given for\n"
-	.string "various operations.$"
+	.string "Kullanabileceğin seçeneklerin\n"
+	.string "detaylı açıklamaları.$"
 
 Help_Text_DescWhatDoesThisTermMean::
-	.string "Detailed descriptions are given for\n"
-	.string "terms that appear in the game.$"
+	.string "Oyunun içinde çok kullanılan\n"
+	.string "terimlerin açıklamaları.$"
 
 Help_Text_DescAboutThisGame::
-	.string "Detailed descriptions are given\n"
-	.string "about this game.$"
+	.string "Oyun hakkında genel detaylar ve\n"
+	.string "bilgiler.$"
 
 Help_Text_DescTypeMatchupList::
-	.string "The matchups of  POKéMON types\n"
-	.string "and moves are listed.$"
+	.string "POKéMON türlerinin hangi türlere\n"
+	.string "karşı güçlü-zayıf olduğu bilgisi.$"
 
 Help_Text_DescExit::
-	.string "Select to exit the HELP System.$"
+	.string "YARDIM sisteminden çık.$"
 
 Help_Text_Greetings::
-	.string "Greetings! This is the HELP System.\n"
-	.string "Call me up whenever and wherever you\l"
-	.string "need by pressing the L or R Button.\l"
-	.string "The help messages change to suit the\l"
-	.string "situation, so check them often, please.$"
+	.string "Merhaba! Burası YARDIM sistemi.\n"
+	.string "L veya R tuşlarına basarak istediğin\l"
+	.string "zaman burayı açabilirsin.\l"
+	.string "Yardım mesajları durumdan duruma\l"
+	.string "değişir, bu yüzden buraya sık sık\luğramayı unutma.$"
 
 Help_Text_PlayingForFirstTime::
-	.string "I'm playing for the first time. Help!$"
+	.string "İlk kez oynuyorum. Yardım lazım!$"
 
 Help_Text_WhatShouldIBeDoing::
-	.string "What should I be doing?$"
+	.string "Ne yapmam gerekiyor?$"
 
 Help_Text_CantGetOutOfRoom::
-	.string "I can't get out of a room!$"
+	.string "Odadan dışarı çıkamıyorum!$"
 
 Help_Text_CantFindPersonIWant::
-	.string "I can't find the person I want.$"
+	.string "Aradığım kişiyi bulamıyorum.$"
 
 Help_Text_TalkedToEveryoneNowWhat::
-	.string "I've talked to everyone. Now what?$"
+	.string "Herkesle konuştum. Peki şimdi?$"
 
 Help_Text_SomeoneBlockingMyWay::
-	.string "There's someone blocking my way!$"
+	.string "Birisi yolumu kapatıyor!$"
 
 Help_Text_ICantGoOn::
-	.string "I can't go on!$"
+	.string "Devam edemiyorum!$"
 
 Help_Text_OutOfThingsToDo::
-	.string "I'm out of things to do.$"
+	.string "Yapacak bir şey bulamıyorum.$"
 
 Help_Text_WhatHappenedToItemIGot::
-	.string "What happened to the item I got?$"
+	.string "Aldığım eşya nereye gitti?$"
 
 Help_Text_WhatAreMyAdventureBasics::
-	.string "What are the basics of my adventure?$"
+	.string "Maceramda ne yapmalıyım?$"
 
 Help_Text_HowAreRoadsForestsDifferent::
-	.string "How are roads and forests different?$"
+	.string "Yollar ve ormanların farkı ne?$"
 
 Help_Text_HowAreCavesDifferent::
-	.string "How are caves different?$"
+	.string "Mağaraların ne yönden farklı?$"
 
 Help_Text_HowDoIProgress::
-	.string "How do I progress?$"
+	.string "Nasıl ilerleyeceğim?$"
 
 Help_Text_WhenCanIUseItem::
-	.string "When can I use items?$"
+	.string "Eşyalarımı ne zaman kullanabilirim?$"
 
 Help_Text_WhatsABattle::
-	.string "What's a battle?$"
+	.string "Savaş nedir?$"
 
 Help_Text_HowDoIPrepareForBattle::
-	.string "How do I prepare for battle?$"
+	.string "Savaşa nasıl hazırlanabilirim?$"
 
 Help_Text_WhatIsAMonsVitality::
-	.string "What is a POKéMON's vitality?$"
+	.string "POKéMON'un sağlığı nasıl çalışır?$"
 
 Help_Text_MyMonsAreHurt::
-	.string "My POKéMON are hurt!$"
+	.string "POKéMON'um yaralandı!$"
 
 Help_Text_WhatIsStatusProblem::
-	.string "What is a status problem?$"
+	.string "Durum sorunları nelerdir?$"
 
 Help_Text_WhatHappensIfAllMyMonsFaint::
-	.string "What happens if all my POKéMON faint?$"
+	.string "Ya tüm POKéMON'larım bayılırsa?$"
 
 Help_Text_CantCatchMons::
-	.string "I can't catch POKéMON!$"
+	.string "POKéMON yakalayamıyorum!$"
 
 Help_Text_RanOutOfPotions::
-	.string "I ran out of POTIONS.$"
+	.string "İksirim kalmadı.$"
 
 Help_Text_CanIBuyPokeBalls::
-	.string "Can I buy POKé BALLS?$"
+	.string "POKé TOPU alabilir miyim?$"
 
 Help_Text_WhatsATrainer::
-	.string "What's a TRAINER?$"
+	.string "EĞİTMEN nedir?$"
 
 Help_Text_HowDoIWinAgainstTrainer::
-	.string "How do I win against a TRAINER?$"
+	.string "Bir eğitmeni nasıl yenerim?$"
 
 Help_Text_WhereDoMonsAppear::
-	.string "Where do POKéMON appear?$"
+	.string "POKéMON'lar nerede çıkar?$"
 
 Help_Text_WhatAreMoves::
-	.string "What are POKéMON moves?$"
+	.string "POKéMON hamleleri nedir?$"
 
 Help_Text_WhatAreHiddenMoves::
-	.string "What are HIDDEN moves?$"
+	.string "GİZLİ hamle nedir?$"
 
 Help_Text_WhatMovesShouldIUse::
-	.string "What moves should I use?$"
+	.string "Hangi hamleleri kullansam?$"
 
 Help_Text_WantToAddMoreMoves::
-	.string "I want to add more moves.$"
+	.string "Yeni hamleler istiyorum.$"
 
 Help_Text_WantToMakeMonStronger::
-	.string "I want to make my POKéMON stronger.$"
+	.string "POKéMON'um güçlensin istiyorum.$"
 
 Help_Text_FoeMonsTooStrong::
-	.string "The foe POKéMON are too strong!$"
+	.string "Düşman POKéMON'lar çok güçlü!$"
 
 Help_Text_WhatDoIDoInCave::
-	.string "What do I do in a cave?$"
+	.string "Mağaralarda ne yapmalıyım?$"
 
 Help_Text_NothingIWantToKnow::
-	.string "There's nothing that I want to know!$"
+	.string "Hiçbir şey öğrenmek istemiyorum!$"
 
 Help_Text_WhatsPokemonCenter::
-	.string "What's a POKéMON CENTER?$"
+	.string "POKéMON MERKEZİ nedir?$"
 
 Help_Text_WhatsPokemonMart::
-	.string "What's a POKéMON MART?$"
+	.string "POKéMON MART nedir?$"
 
 Help_Text_WantToEndGame::
-	.string "I want to end the game.$"
+	.string "Oyunu kapatmak istiyorum.$"
 
 Help_Text_WhatsAMon::
-	.string "What's a POKéMON?$"
+	.string "POKéMON nedir?$"
 
 Help_Text_WhatIsThatPersonLike::
-	.string "What is that person like?$"
+	.string "Şu kişi nasıl biri?$"
 
 Help_Text_WhatDoesHiddenMoveDo::
-	.string "What does a HIDDEN move do?$"
+	.string "GİZLİ hamle ne işe yarıyor?$"
 
 Help_Text_WhatDoIDoInSafari::
-	.string "What do I do in a SAFARI GAME?$"
+	.string "SAFARİ OYUNU'nda ne yaparım?$"
 
 Help_Text_WhatAreSafariRules::
-	.string "What are the SAFARI GAME rules?$"
+	.string "SAFARİ OYUNU kuralları nelerdir?$"
 
 Help_Text_WantToEndSafari::
-	.string "I want to end this SAFARI GAME!$"
+	.string "SAFARİ OYUNU'ndan çıkmak istiyorum!$"
 
 Help_Text_WhatIsAGym::
-	.string "What is a GYM?$"
+	.string "Salon nedir?$"
 
 Help_Text_AnswerPlayingForFirstTime::
 	.string "You become the main character,\n"
@@ -1061,52 +1061,52 @@ Help_Text_HowToUseHallOfFame::
 	.string "   HALL OF FAME can be examined.$"
 
 Help_Text_HP::
-	.string "HP$"
+	.string "CAN$"
 
 Help_Text_EXP::
-	.string "EXP. {LEFT_PAREN}EXP. Points{RIGHT_PAREN}$"
+	.string "EXP. {LEFT_PAREN}EXP. Puanı{RIGHT_PAREN}$"
 
 Help_Text_Moves::
-	.string "MOVES$"
+	.string "HAMLELER$"
 
 Help_Text_Attack::
-	.string "ATTACK$"
+	.string "SALDIRI$"
 
 Help_Text_Defense::
-	.string "DEFENSE$"
+	.string "SAVUNMA$"
 
 Help_Text_SpAtk::
-	.string "SP. ATK$"
+	.string "ÖZ. SLD$"
 
 Help_Text_SpDef::
-	.string "SP. DEF$"
+	.string "ÖZ. SVN$"
 
 Help_Text_Speed::
-	.string "SPEED$"
+	.string "HIZ$"
 
 Help_Text_Level::
-	.string "Lv. {LEFT_PAREN}Level{RIGHT_PAREN}$"
+	.string "Sv. {LEFT_PAREN}Seviye{RIGHT_PAREN}$"
 
 Help_Text_Type::
-	.string "TYPE$"
+	.string "TÜR$"
 
 Help_Text_OT::
-	.string "OT$"
+	.string "OE {LEFT_PAREN}OT{RIGHT_PAREN}$"
 
 Help_Text_Item::
-	.string "ITEM$"
+	.string "EŞYA$"
 
 Help_Text_Ability::
-	.string "ABILITY$"
+	.string "YETENEK$"
 
 Help_Text_Money::
-	.string "MONEY$"
+	.string "PARA$"
 
 Help_Text_MoveType::
-	.string "MOVE TYPE$"
+	.string "HAMLE TÜRÜ$"
 
 Help_Text_Nature::
-	.string "NATURE$"
+	.string "DOĞA$"
 
 Help_Text_IDNo::
 	.string "ID No.$"
@@ -1115,22 +1115,22 @@ Help_Text_PP::
 	.string "PP$"
 
 Help_Text_Power::
-	.string "POWER$"
+	.string "GÜÇ$"
 
 Help_Text_Accuracy::
-	.string "ACCURACY$"
+	.string "İSABET$"
 
 Help_Text_FNT::
-	.string "FNT$"
+	.string "BYL$"
 
 Help_Text_Items::
-	.string "ITEMS$"
+	.string "EŞYA$"
 
 Help_Text_KeyItems::
-	.string "KEY ITEMS$"
+	.string "ANAHTAR EŞYA$"
 
 Help_Text_PokeBalls::
-	.string "POKé BALLS$"
+	.string "POKé TOPLARI$"
 
 Help_Text_Pokedex::
 	.string "POKéDEX$"
@@ -1139,28 +1139,28 @@ Help_Text_PlayTime::
 	.string "PLAY TIME$"
 
 Help_Text_Badges::
-	.string "BADGES$"
+	.string "ROZET$"
 
 Help_Text_TextSpeed::
-	.string "TEXT SPEED$"
+	.string "YAZI HIZI$"
 
 Help_Text_BattleScene::
-	.string "BATTLE SCENE$"
+	.string "ANİMASYON$"
 
 Help_Text_BattleStyle::
-	.string "BATTLE STYLE$"
+	.string "SAVAŞ STİLİ$"
 
 Help_Text_Sound::
-	.string "SOUND$"
+	.string "SES$"
 
 Help_Text_ButtonMode::
-	.string "BUTTON MODE$"
+	.string "TUŞ MODU$"
 
 Help_Text_Frame::
-	.string "FRAME$"
+	.string "ÇERÇEVE$"
 
 Help_Text_Cancel2::
-	.string "CANCEL$"
+	.string "İPTAL$"
 
 Help_Text_TM::
 	.string "TM$"
@@ -1169,13 +1169,13 @@ Help_Text_HM::
 	.string "HM$"
 
 Help_Text_HMMove::
-	.string "HM MOVE$"
+	.string "HM HAMLESİ$"
 
 Help_Text_Evolution::
-	.string "EVOLUTION$"
+	.string "EVRİM$"
 
 Help_Text_StatusProblem::
-	.string "STATUS PROBLEM$"
+	.string "DURUM SORUNU$"
 
 Help_Text_Pokemon::
 	.string "POKéMON$"
@@ -1184,10 +1184,10 @@ Help_Text_IDNo2::
 	.string "ID No.$"
 
 Help_Text_Money2::
-	.string "MONEY$"
+	.string "PARA$"
 
 Help_Text_Badges2::
-	.string "BADGES$"
+	.string "ROZET$"
 
 Help_Text_DefineHP::
 	.string "HP indicates a POKéMON's vitality.\n"
@@ -1221,9 +1221,9 @@ Help_Text_DefineAttack::
 	.string "offensive move. The higher this stat,\l"
 	.string "the more powerful the move.\l"
 	.string "It is applied for the following move\l"
-	.string "types: NORMAL, POISON, GROUND,\l"
-	.string "FLYING, BUG, FIGHTING, ROCK, GHOST,\l"
-	.string "and STEEL.$"
+	.string "types: NORMAL, ZEHİR, YER,\l"
+	.string "UÇUŞ, BÖCEK, DÖVÜŞ, KAYA, HAYALET,\l"
+	.string "and ÇELİK.$"
 
 Help_Text_DefineDefense::
 	.string "DEFENSE indicates the resistance a\n"
@@ -1237,8 +1237,8 @@ Help_Text_DefineSpAtk::
 	.string "The higher this stat, the more powerful\l"
 	.string "the special attack move.\l"
 	.string "It is applied for the following move\l"
-	.string "types: FIRE, WATER, ELECTRIC, GRASS,\l"
-	.string "ICE, PSYCHIC, DRAGON, and DARK.$"
+	.string "types: ATEŞ, SU, ELEKTRİK, ÇİMEN,\l"
+	.string "BUZ, PSİŞİK, EJDERHA, and KARANLIK.$"
 
 Help_Text_DefineSpDef::
 	.string "SP. DEF (Special Defense) indicates\n"
@@ -1267,9 +1267,9 @@ Help_Text_DefineType::
 	.string "type. Every type has advantageous and\l"
 	.string "disadvantageous matchups against\l"
 	.string "other types. For example, like a rock-\l"
-	.string "paper-scissors game, the WATER type is\l"
-	.string "strong against the FIRE type and weak\l"
-	.string "against the GRASS type.$"
+	.string "paper-scissors game, the SU type is\l"
+	.string "strong against the ATEŞ type and weak\l"
+	.string "against the ÇİMEN type.$"
 
 Help_Text_DefineOT::
 	.string "OT stands for “Original TRAINER,”\n"
@@ -1579,303 +1579,303 @@ Help_Text_DescWhatArePokemon::
 	.string "TRAINERS that caught them.$"
 
 Help_Text_UsingTypeMatchupList::
-	.string "Using the Type Matchup List$"
+	.string "Tür güçlü-zayıf yönleri (Matchup List)$"
 
 Help_Text_OwnMoveDark::
-	.string "Own move type: DARK$"
+	.string "Hamle türü: KARANLIK$"
 
 Help_Text_OwnPokemonDark::
-	.string "Own POKéMON type: DARK$"
+	.string "POKéMON türü: KARANLIK$"
 
 Help_Text_OwnMoveRock::
-	.string "Own move type: ROCK$"
+	.string "Hamle türü: KAYA$"
 
 Help_Text_OwnPokemonRock::
-	.string "Own POKéMON type: ROCK$"
+	.string "POKéMON türü: KAYA$"
 
 Help_Text_OwnMovePsychic::
-	.string "Own move type: PSYCHIC$"
+	.string "Hamle türü: PSİŞİK$"
 
 Help_Text_OwnPokemonPsychic::
-	.string "Own POKéMON type: PSYCHIC$"
+	.string "POKéMON türü: PSİŞİK$"
 
 Help_Text_OwnMoveFighting::
-	.string "Own move type: FIGHTING$"
+	.string "Hamle türü: DÖVÜŞ$"
 
 Help_Text_OwnPokemonFighting::
-	.string "Own POKéMON type: FIGHTING$"
+	.string "POKéMON türü: DÖVÜŞ$"
 
 Help_Text_OwnMoveGrass::
-	.string "Own move type: GRASS$"
+	.string "Hamle türü: ÇİMEN$"
 
 Help_Text_OwnPokemonGrass::
-	.string "Own POKéMON type: GRASS$"
+	.string "POKéMON türü: ÇİMEN$"
 
 Help_Text_OwnMoveGhost::
-	.string "Own move type: GHOST$"
+	.string "Hamle türü: HAYALET$"
 
 Help_Text_OwnPokemonGhost::
-	.string "Own POKéMON type: GHOST$"
+	.string "POKéMON türü: HAYALET$"
 
 Help_Text_OwnMoveIce::
-	.string "Own move type: ICE$"
+	.string "Hamle türü: BUZ$"
 
 Help_Text_OwnPokemonIce::
-	.string "Own POKéMON type: ICE$"
+	.string "POKéMON türü: BUZ$"
 
 Help_Text_OwnMoveGround::
-	.string "Own move type: GROUND$"
+	.string "Hamle türü: YER$"
 
 Help_Text_OwnPokemonGround::
-	.string "Own POKéMON type: GROUND$"
+	.string "POKéMON türü: YER$"
 
 Help_Text_OwnMoveElectric::
-	.string "Own move type: ELECTRIC$"
+	.string "Hamle türü: ELEKTRİK$"
 
 Help_Text_OwnPokemonElectric::
-	.string "Own POKéMON type: ELECTRIC$"
+	.string "POKéMON türü: ELEKTRİK$"
 
 Help_Text_OwnMovePoison::
-	.string "Own move type: POISON$"
+	.string "Hamle türü: ZEHİR$"
 
 Help_Text_OwnPokemonPoison::
-	.string "Own POKéMON type: POISON$"
+	.string "POKéMON türü: ZEHİR$"
 
 Help_Text_OwnMoveDragon::
-	.string "Own move type: DRAGON$"
+	.string "Hamle türü: EJDERHA$"
 
 Help_Text_OwnPokemonDragon::
-	.string "Own POKéMON type: DRAGON$"
+	.string "POKéMON türü: EJDERHA$"
 
 Help_Text_OwnMoveNormal::
-	.string "Own move type: NORMAL$"
+	.string "Hamle türü: NORMAL$"
 
 Help_Text_OwnPokemonNormal::
-	.string "Own POKéMON type: NORMAL$"
+	.string "POKéMON türü: NORMAL$"
 
 Help_Text_OwnMoveSteel::
-	.string "Own move type: STEEL$"
+	.string "Hamle türü: ÇELİK$"
 
 Help_Text_OwnPokemonSteel::
-	.string "Own POKéMON type: STEEL$"
+	.string "POKéMON türü: ÇELİK$"
 
 Help_Text_OwnMoveFlying::
-	.string "Own move type: FLYING$"
+	.string "Hamle türü: UÇUŞ$"
 
 Help_Text_OwnPokemonFlying::
-	.string "Own POKéMON type: FLYING$"
+	.string "POKéMON türü: UÇUŞ$"
 
 Help_Text_OwnMoveFire::
-	.string "Own move type: FIRE$"
+	.string "Hamle türü: ATEŞ$"
 
 Help_Text_OwnPokemonFire::
-	.string "Own POKéMON type: FIRE$"
+	.string "POKéMON türü: ATEŞ$"
 
 Help_Text_OwnMoveWater::
-	.string "Own move type: WATER$"
+	.string "Hamle türü: SU$"
 
 Help_Text_OwnPokemonWater::
-	.string "Own POKéMON type: WATER$"
+	.string "POKéMON türü: SU$"
 
 Help_Text_OwnMoveBug::
-	.string "Own move type: BUG$"
+	.string "Hamle türü: BÖCEK$"
 
 Help_Text_OwnPokemonBug::
-	.string "Own POKéMON type: BUG$"
+	.string "POKéMON türü: BÖCEK$"
 
 Help_Text_HowToUseTypeMatchupList::
-	.string "Depending on the matchup of the\n"
-	.string "move type and the target POKéMON's\l"
-	.string "type, the move's effectiveness varies:\l"
-	.string "{CIRCLE_DOT}: Super effective!\l"
-	.string "{TRIANGLE}: Not very effective\l"
-	.string "{BIG_MULT_X}: Not effective at all\l"
-	.string "(No changes for other matchups.)$"
+	.string "Hamlenin türü ve hedef POKéMON\n"
+	.string "türüne bağlı olarak hamlenin hedef\l"
+	.string "üzerindei etkisi değişir:\l"
+	.string "{CIRCLE_DOT}: Süper etkili! (x2)\l"
+	.string "{TRIANGLE}: Pek etkili değil (x0.5)\l"
+	.string "{BIG_MULT_X}: Hiç etkili değil (x0)\l"
+	.string "(Diğer türler için etki değişmez.)$"
 
 Help_Text_TypeMatchupOwnMoveDark::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: PSYCHIC, GHOST\p"
-	.string "   {TRIANGLE}: FIGHTING, DARK, STEEL$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: PSİŞİK, HAYALET\p"
+	.string "   {TRIANGLE}: DÖVÜŞ, KARANLIK, ÇELİK$"
 
 Help_Text_TypeMatchupOwnPokemonDark::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIGHTING, BUG\p"
-	.string "   {TRIANGLE}: GHOST, DARK\p"
-	.string "   {BIG_MULT_X}: PSYCHIC$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: DÖVÜŞ, BÖCEK\p"
+	.string "   {TRIANGLE}: HAYALET, KARANLIK\p"
+	.string "   {BIG_MULT_X}: PSİŞİK$"
 
 Help_Text_TypeMatchupOwnMoveRock::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, ICE, FLYING, BUG\p"
-	.string "   {TRIANGLE}: FIGHTING, GROUND, STEEL$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: ATEŞ, BUZ, UÇUŞ, BÖCEK\p"
+	.string "   {TRIANGLE}: DÖVÜŞ, YER, ÇELİK$"
 
 Help_Text_TypeMatchupOwnPokemonRock::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: WATER, GRASS, FIGHTING,\n"
-	.string "       GROUND, STEEL\p"
-	.string "   {TRIANGLE}: NORMAL, FIRE, POISON, FLYING$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: SU, ÇİMEN, DÖVÜŞ,\n"
+	.string "       YER, ÇELİK\p"
+	.string "   {TRIANGLE}: NORMAL, ATEŞ, ZEHİR, UÇUŞ$"
 
 Help_Text_TypeMatchupOwnMovePsychic::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIGHTING, POISON\p"
-	.string "   {TRIANGLE}: PSYCHIC, STEEL\p"
-	.string "   {BIG_MULT_X}: DARK$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: DÖVÜŞ, ZEHİR\p"
+	.string "   {TRIANGLE}: PSİŞİK, ÇELİK\p"
+	.string "   {BIG_MULT_X}: KARANLIK$"
 
 Help_Text_TypeMatchupOwnPokemonPsychic::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: BUG, GHOST, DARK\p"
-	.string "   {TRIANGLE}: FIGHTING, PSYCHIC$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: BÖCEK, HAYALET, KARANLIK\p"
+	.string "   {TRIANGLE}: DÖVÜŞ, PSİŞİK$"
 
 Help_Text_TypeMatchupOwnMoveFighting::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: NORMAL, ICE, ROCK, DARK, STEEL\p"
-	.string "   {TRIANGLE}: POISON, FLYING, PSYCHIC, BUG\p"
-	.string "   {BIG_MULT_X}: GHOST$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: NORMAL, BUZ, KAYA, KARANLIK, ÇELİK\p"
+	.string "   {TRIANGLE}: ZEHİR, UÇUŞ, PSİŞİK, BÖCEK\p"
+	.string "   {BIG_MULT_X}: HAYALET$"
 
 Help_Text_TypeMatchupOwnPokemonFighting::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FLYING, PSYCHIC\p"
-	.string "   {TRIANGLE}: BUG, ROCK, DARK$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: UÇUŞ, PSİŞİK\p"
+	.string "   {TRIANGLE}: BÖCEK, KAYA, KARANLIK$"
 
 Help_Text_TypeMatchupOwnMoveGrass::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: WATER, GROUND, ROCK\p"
-	.string "   {TRIANGLE}: FIRE, GRASS, POISON, FLYING,\n"
-	.string "       BUG, DRAGON, STEEL$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: SU, YER, KAYA\p"
+	.string "   {TRIANGLE}: ATEŞ, ÇİMEN, ZEHİR, UÇUŞ,\n"
+	.string "       BÖCEK, EJDERHA, ÇELİK$"
 
 Help_Text_TypeMatchupOwnPokemonGrass::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, ICE, POISON, FLYING, BUG\p"
-	.string "   {TRIANGLE}: WATER, ELECTRIC, GRASS, GROUND$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: ATEŞ, BUZ, ZEHİR, UÇUŞ, BÖCEK\p"
+	.string "   {TRIANGLE}: SU, ELEKTRİK, ÇİMEN, YER$"
 
 Help_Text_TypeMatchupOwnMoveGhost::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: PSYCHIC, GHOST\p"
-	.string "   {TRIANGLE}: DARK, STEEL\p"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: PSİŞİK, HAYALET\p"
+	.string "   {TRIANGLE}: KARANLIK, ÇELİK\p"
 	.string "   {BIG_MULT_X}: NORMAL$"
 
 Help_Text_TypeMatchupOwnPokemonGhost::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GHOST, DARK\p"
-	.string "   {TRIANGLE}: POISON, BUG\p"
-	.string "   {BIG_MULT_X}: NORMAL, FIGHTING$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: HAYALET, KARANLIK\p"
+	.string "   {TRIANGLE}: ZEHİR, BÖCEK\p"
+	.string "   {BIG_MULT_X}: NORMAL, DÖVÜŞ$"
 
 Help_Text_TypeMatchupOwnMoveIce::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GRASS, GROUND, FLYING, DRAGON\p"
-	.string "   {TRIANGLE}: FIRE, WATER, ICE, STEEL$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: ÇİMEN, YER, UÇUŞ, EJDERHA\p"
+	.string "   {TRIANGLE}: ATEŞ, SU, BUZ, ÇELİK$"
 
 Help_Text_TypeMatchupOwnPokemonIce::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, FIGHTING, ROCK, STEEL\p"
-	.string "   {TRIANGLE}: ICE$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: ATEŞ, DÖVÜŞ, KAYA, ÇELİK\p"
+	.string "   {TRIANGLE}: BUZ$"
 
 Help_Text_TypeMatchupOwnMoveGround::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, ELECTRIC, POISON, ROCK,\n"
-	.string "       STEEL\p"
-	.string "   {TRIANGLE}: GRASS, BUG\n"
-	.string "   {BIG_MULT_X}: FLYING$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: ATEŞ, ELEKTRİK, ZEHİR, KAYA,\n"
+	.string "       ÇELİK\p"
+	.string "   {TRIANGLE}: ÇİMEN, BÖCEK\n"
+	.string "   {BIG_MULT_X}: UÇUŞ$"
 
 Help_Text_TypeMatchupOwnPokemonGround::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: WATER, GRASS, ICE\p"
-	.string "   {TRIANGLE}: POISON, ROCK\p"
-	.string "   {BIG_MULT_X}: ELECTRIC$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: SU, ÇİMEN, BUZ\p"
+	.string "   {TRIANGLE}: ZEHİR, KAYA\p"
+	.string "   {BIG_MULT_X}: ELEKTRİK$"
 
 Help_Text_TypeMatchupOwnMoveElectric::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: WATER, FLYING\p"
-	.string "   {TRIANGLE}: ELECTRIC, GRASS, DRAGON\p"
-	.string "   {BIG_MULT_X}: GROUND$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: SU, UÇUŞ\p"
+	.string "   {TRIANGLE}: ELEKTRİK, ÇİMEN, EJDERHA\p"
+	.string "   {BIG_MULT_X}: YER$"
 
 Help_Text_TypeMatchupOwnPokemonElectric::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GROUND\p"
-	.string "   {TRIANGLE}: ELECTRIC, FLYING, STEEL$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: YER\p"
+	.string "   {TRIANGLE}: ELEKTRİK, UÇUŞ, ÇELİK$"
 
 Help_Text_TypeMatchupOwnMovePoison::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GRASS\p"
-	.string "   {TRIANGLE}: POISON, GROUND, ROCK, GHOST\p"
-	.string "   {BIG_MULT_X}: STEEL$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: ÇİMEN\p"
+	.string "   {TRIANGLE}: ZEHİR, YER, KAYA, HAYALET\p"
+	.string "   {BIG_MULT_X}: ÇELİK$"
 
 Help_Text_TypeMatchupOwnPokemonPoison::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GROUND, PSYCHIC\p"
-	.string "   {TRIANGLE}: GRASS, FIGHTING, POISON, BUG$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: YER, PSİŞİK\p"
+	.string "   {TRIANGLE}: ÇİMEN, DÖVÜŞ, ZEHİR, BÖCEK$"
 
 Help_Text_TypeMatchupOwnMoveDragon::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: DRAGON\p"
-	.string "   {TRIANGLE}: STEEL$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: EJDERHA\p"
+	.string "   {TRIANGLE}: ÇELİK$"
 
 Help_Text_TypeMatchupOwnPokemonDragon::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: ICE, DRAGON\p"
-	.string "   {TRIANGLE}: FIRE, WATER, ELECTRIC, GRASS$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: BUZ, EJDERHA\p"
+	.string "   {TRIANGLE}: ATEŞ, SU, ELEKTRİK, ÇİMEN$"
 
 Help_Text_TypeMatchupOwnMoveNormal::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {TRIANGLE}: ROCK, STEEL\p"
-	.string "   {BIG_MULT_X}: GHOST$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {TRIANGLE}: KAYA, ÇELİK\p"
+	.string "   {BIG_MULT_X}: HAYALET$"
 
 Help_Text_TypeMatchupOwnPokemonNormal::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIGHTING\p"
-	.string "   {BIG_MULT_X}: GHOST$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: DÖVÜŞ\p"
+	.string "   {BIG_MULT_X}: HAYALET$"
 
 Help_Text_TypeMatchupOwnMoveSteel::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: ICE, ROCK\p"
-	.string "   {TRIANGLE}: FIRE, WATER, ELECTRIC, STEEL$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: BUZ, KAYA\p"
+	.string "   {TRIANGLE}: ATEŞ, SU, ELEKTRİK, ÇELİK$"
 
 Help_Text_TypeMatchupOwnPokemonSteel::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, FIGHTING, GROUND\n"
-	.string "   {TRIANGLE}: NORMAL, GRASS, ICE, FLYING,\l"
-	.string "       PSYCHIC, BUG, ROCK, GHOST,\l"
-	.string "       DRAGON, DARK, STEEL\l"
-	.string "   {BIG_MULT_X}: POISON$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: ATEŞ, DÖVÜŞ, YER\n"
+	.string "   {TRIANGLE}: NORMAL, ÇİMEN, BUZ, UÇUŞ,\l"
+	.string "       PSİŞİK, BÖCEK, KAYA, HAYALET,\l"
+	.string "       EJDERHA, KARANLIK, ÇELİK\l"
+	.string "   {BIG_MULT_X}: ZEHİR$"
 
 Help_Text_TypeMatchupOwnMoveFlying::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GRASS, FIGHTING, BUG\p"
-	.string "   {TRIANGLE}: ELECTRIC, ROCK, STEEL$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: ÇİMEN, DÖVÜŞ, BÖCEK\p"
+	.string "   {TRIANGLE}: ELEKTRİK, KAYA, ÇELİK$"
 
 Help_Text_TypeMatchupOwnPokemonFlying::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: ELECTRIC, ICE, ROCK\p"
-	.string "   {TRIANGLE}: GRASS, FIGHTING, BUG\p"
-	.string "   {BIG_MULT_X}: GROUND$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: ELEKTRİK, BUZ, KAYA\p"
+	.string "   {TRIANGLE}: ÇİMEN, DÖVÜŞ, BÖCEK\p"
+	.string "   {BIG_MULT_X}: YER$"
 
 Help_Text_TypeMatchupOwnMoveFire::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GRASS, ICE, BUG, STEEL\p"
-	.string "   {TRIANGLE}: FIRE, WATER, ROCK, DRAGON$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: ÇİMEN, BUZ, BÖCEK, ÇELİK\p"
+	.string "   {TRIANGLE}: ATEŞ, SU, KAYA, EJDERHA$"
 
 Help_Text_TypeMatchupOwnPokemonFire::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: WATER, GROUND, ROCK\p"
-	.string "   {TRIANGLE}: FIRE, GRASS, ICE, BUG, STEEL$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: SU, YER, KAYA\p"
+	.string "   {TRIANGLE}: ATEŞ, ÇİMEN, BUZ, BÖCEK, ÇELİK$"
 
 Help_Text_TypeMatchupOwnMoveWater::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, GROUND, ROCK\p"
-	.string "   {TRIANGLE}: WATER, GRASS, DRAGON$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: ATEŞ, YER, KAYA\p"
+	.string "   {TRIANGLE}: SU, ÇİMEN, EJDERHA$"
 
 Help_Text_TypeMatchupOwnPokemonWater::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: ELECTRIC, GRASS\p"
-	.string "   {TRIANGLE}: FIRE, WATER, ICE, STEEL$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: ELEKTRİK, ÇİMEN\p"
+	.string "   {TRIANGLE}: ATEŞ, SU, BUZ, ÇELİK$"
 
 Help_Text_TypeMatchupOwnMoveBug::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: GRASS, PSYCHIC, DARK\p"
-	.string "   {TRIANGLE}: FIRE, FIGHTING, POISON,\n"
-	.string "       FLYING, GHOST, STEEL$"
+	.string "Karşı POKéMON üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: ÇİMEN, PSİŞİK, KARANLIK\p"
+	.string "   {TRIANGLE}: ATEŞ, DÖVÜŞ, ZEHİR,\n"
+	.string "       UÇUŞ, HAYALET, ÇELİK$"
 
 Help_Text_TypeMatchupOwnPokemonBug::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, FLYING, ROCK\p"
-	.string "   {TRIANGLE}: GRASS, FIGHTING, GROUND$"
+	.string "Düşman saldırısının üzerinde etkisi:\p"
+	.string "   {CIRCLE_DOT}: ATEŞ, UÇUŞ, KAYA\p"
+	.string "   {TRIANGLE}: ÇİMEN, DÖVÜŞ, YER$"
 
