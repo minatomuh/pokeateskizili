@@ -91,7 +91,7 @@ VermilionCity_Text_BoardSeagallopRainbowPass::
 VermilionCity_Text_OhMysticTicketTakeYouToNavelRock::
     .string "Oh! O bir MİSTİK BİLET!\n"
     .string "Bu gerçekten nadir.\p"
-    .string "Sizi her zaman NAVEL KAYASINA\n"
+    .string "Sizi her zaman GÖBEKLİ KAYA'ya\n"
     .string "götürmekten mutluluk duyarız.$"
 
 VermilionCity_Text_OhAuroraTicketTakeYouToBirthIsland::
