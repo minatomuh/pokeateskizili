@@ -1,6 +1,6 @@
 ThreeIsland_House2_Text_CantMakeThisSpoonBend::
-    .string "Urrrrrrrrgggghhhh…\n"
-    .string "Kwaaaaah!\p"
+    .string "UUUUAAAAAĞĞĞĞHHH…\n"
+    .string "KIAAAHH!\p"
     .string "…İşe yaramıyor! Bu kaşığı\n"
     .string "zihnimle bükemiyorum.\p"
     .string "Belki de gerçekten psişik\n"
@@ -13,6 +13,6 @@ ThreeIsland_House2_Text_IAdmireSabrina::
     .string "değil mi?\p"
     .string "Ona gerçekten hayranım.\p"
     .string "Duydum ki çok havalı ve\n"
-    .string "güzel bir müşteriymiş.$"
+    .string "güzel bir lidermiş.$"
 
 

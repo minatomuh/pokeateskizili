@@ -48,14 +48,14 @@ ThreeIsland_Text_OughtToBeThankingUs::
     .string "Hayır, hiç anlamıyorum.\p"
     .string "Bu yere bak.\n"
     .string "Eğlence için ne yapıyorsun?\p"
-    .string "Bu uyuşuk köyü canlandırdığımız\n"
+    .string "Bu sıkıcı köyü canlandırdığımız\n"
     .string "için bize teşekkür etmelisin.\p"
     .string "Ama eğer ısrar ediyorsan,\n"
     .string "gitmemizi sağlamak\l"
     .string "için deneyebilirsin.$"
 
 ThreeIsland_Text_YouCowardsToughInPack::
-    .string "Grr… Sen korkak…\n"
+    .string "Grr… Seni korkak…\n"
     .string "Bir grupken çok güçlüsün…$"
 
 ThreeIsland_Text_WannaMakeSomethingOfYourStaring::
@@ -66,7 +66,7 @@ ThreeIsland_Text_WannaMakeSomethingOfYourStaring::
 
 ThreeIsland_Text_ThatsSmart::
     .string "Bu akıllıca.\n"
-    .string "Burnun bu işlere sokma.$"
+    .string "Burnunu bu işlere sokma.$"
 
 ThreeIsland_Text_Biker1Intro::
     .string "Heh, cesaretini seviyorum.\n"
@@ -88,9 +88,9 @@ ThreeIsland_Text_Biker2Defeat::
     .string "Dalga geçmeyi kes!$"
 
 ThreeIsland_Text_Biker2PostBattle::
-    .string "Seninle ne oluyor,\n"
+    .string "Sana ne oluyor,\n"
     .string "öyle kızmak nedir?\p"
-    .string "Tamamen cool değil, adamım!$"
+    .string "Hiç şekil değil, adamım!$"
 
 ThreeIsland_Text_Biker3Intro::
     .string "Patronu dışarı çağırdık,\n"
@@ -106,10 +106,10 @@ ThreeIsland_Text_Biker3PostBattle::
     .string "yapmalısın!$"
 
 ThreeIsland_Text_PaxtonIntro::
-    .string "Seni izledim ve yeterince yaptığını\n"
-    .string "söylerdim.\p"
+    .string "Seni izledim ve yeterince fazla\n"
+    .string "olmaya başladın.\p"
     .string "Sen onların arkadaşı mısın, yoksa\n"
-    .string "bir şey mi?\p"
+    .string "bir şeyi mi?\p"
     .string "O zaman onların yerine seninle\n"
     .string "savaşacağım.$"
 
@@ -120,12 +120,12 @@ ThreeIsland_Text_PaxtonDefeat::
     .string "bizi mutlu edecek!$"
 
 ThreeIsland_Text_PaxtonPostBattle::
-    .string "Hımf! Evet, doğru, bu köylüleri\n"
+    .string "Hımf! Evet, doğru, bu köylülerle\n"
     .string "dolaşmaya devam et!$"
 
 ThreeIsland_Text_ThankYouOhYourMonGotHurt::
     .string "Teşekkürler! O serseriler\n"
-    .string "sadece kötü bir sorundu.\p"
+    .string "sadece bir sorundu.\p"
     .string "Ah, bak, POKéMON'ların biraz\n"
     .string "yaralanmış.$"
 
@@ -153,9 +153,9 @@ ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
 ThreeIsland_Text_WouldntWantToSeeBikersHereAgain::
     .string "ÜÇÜNCÜ aslında burada en kalabalık\n"
     .string "adalardan biridir.\p"
-    .string "Yine de, daha az uyuşuk olabilir.\p"
+    .string "Yine de, daha az sıkıcı olabilir.\p"
     .string "Ama o MOTOR ÇETESİ gibi serserileri\n"
-    .string "burada tekrar görmek istemezdim.$"
+    .string "burada tekrar görmek istemem.$"
 
 ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame::
     .string "DODUO'yu MEYVE ORMANI'nda\n"
@@ -164,4 +164,4 @@ ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame::
     .string "bir oyun oynayacağım.$"
 
 ThreeIsland_Text_Doduo::
-    .string "DODUO: Gigiih!$"
+    .string "DODUO: Cicikk!$"

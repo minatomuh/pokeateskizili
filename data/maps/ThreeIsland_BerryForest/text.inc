@@ -1,5 +1,5 @@
 ThreeIsland_BerryForest_Text_HelpScaryPokemon::
-    .string "LOSTELLE: Hıçkı… Kokla…\n"
+    .string "LOSTELLE: *Hıçk*… *Burun çek*…\n"
     .string "Ah! Lütfen yardım edin!\p"
     .string "Biraz önce orada ürkütücü\n"
     .string "bir POKéMON belirdi.\l"
@@ -10,7 +10,7 @@ ThreeIsland_BerryForest_Text_HelpScaryPokemon::
 
 ThreeIsland_BerryForest_Text_HereItComesAgain::
     .string "Ah! Tekrar geldi!\n"
-    .string "Hayır! Gitti! Beni korkutuyor!\p"
+    .string "Hayır! Git! Beni korkutuyor!\p"
     .string "Waaaaaaah!\n"
     .string "Babamı istiyorum!$"
 

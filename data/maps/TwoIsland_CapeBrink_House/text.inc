@@ -13,7 +13,7 @@ Text_JustMistaken::
 
 Text_AllowMeToTeachMonUltimateMove::
     .string "Oh! İşte bu!\n"
-    .string "Bu POKéMON!\p"
+    .string "Bu o POKéMON!\p"
     .string "Bu {STR_VAR_1} en iyi hareketimi\n"
     .string "öğrenmeye değer!\p"
     .string "Buna izin verir misin?\p"
