@@ -1,14 +1,14 @@
 PewterCity_Gym_Text_BrockIntro::
     .string "Merhaba, ben BROCK.\n"
-    .string "PEWTER Spor Salonunun Lideriyim.\p"
+    .string "PEWTER Salonunun Lideriyim.\p"
     .string "Çelik gibi iradem,\n" 
-    .string "POKéMONlarımdan da belli.\p"
-    .string "POKéMONlarımın hepsi kaya gibi sert\n"
-    .string "ve azimli. Hepsi KAYA tipi!\p"
-    .string "Hahaha! Kaybedeceğini bile bile mi\n"
-    .string "meydan okuyorsun? Bu bir EĞİTMEN\l"
-    .string "onurudur, seni bana karşı\l"
-    .string "meydan okumaya zorlayan.\p"
+    .string "POKéMON'larımdan da bellidir.\p"
+    .string "POKéMON'larımın hepsi kaya gibi\n"
+    .string "sert ve azimlidir. Hepsi KAYA tipi!\p"
+    .string "Hahaha! Kaybedeceğini bile bile\n"
+    .string "meydan mı okuyorsun? Sende bir\l"
+    .string "EĞİTMEN onuru görüyorum. Seni bana\l"
+    .string "meydan okumaya zorlayan şey bu.\p"
     .string "Öyleyse, en iyini göster!\n"
     .string "{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
@@ -19,39 +19,39 @@ PewterCity_Gym_Text_BrockDefeat::
     .string "Seni hafife aldım ve yenildim.\p"
     .string "Zaferinin kanıtı olarak sana bunu\n"
     .string "veriyorum… Resmi POKéMON LİGİ\l"
-    .string "BOULDERBADGE.\p"
-    .string "{FONT_NORMAL}{PLAYER} BROCK'tan BOULDERBADGE\n"
+    .string "KAYA ROZETİ.\p"
+    .string "{FONT_NORMAL}{PLAYER}, BROCK'tan KAYA ROZETİ\n"
     .string "aldı!{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}\p"
-    .string "{FONT_MALE}BOULDERBADGE'e sahip olmak bile\n"
+    .string "{FONT_MALE}KAYA ROZETİ'ne sahip olmak bile\n"
     .string "POKéMON'ları daha güçlü hale\l"
     .string "getirir.\p"
-    .string "Ayrıca, FLAŞ hareketinin savaş dışı\n"
+    .string "Ayrıca, FLAŞ hamlesinin savaş dışı\n"
     .string "kullanılmasını sağlar.\p"
     .string "Tabii ki, bir POKéMON'un FLAŞ\n"
-    .string "hareketini kullanabilmek için\l"
-    .string "onu bilmeleri gerekir.$"
+    .string "hareketini kullanabilmesi için\l"
+    .string "onu bilmesi gerekir.$"
 
 PewterCity_Gym_Text_TakeThisWithYou::
     .string "Dur!\n"
     .string "Bunu yanında götür.$"
 
 PewterCity_Gym_Text_ReceivedTM39FromBrock::
-    .string "{PLAYER} BROCK'tan TM39 aldı.\n"
+    .string "{PLAYER} BROCK'tan TM39 aldı."
     .string "$"
 
 PewterCity_Gym_Text_ExplainTM39::
-    .string "TM, Teknik Makine, POKéMON için bir\n"
-    .string "hamle içerir.\p"
+    .string "TM, Teknik Makine, POKéMON'lar için\n"
+    .string "bir hamle içerir.\p"
     .string "Bir TM kullanmak, içinde bulunan\n"
-    .string "hamleyi bir POKéMON'a öğretir.\p"
+    .string "hamleyi POKéMON'lara öğretir.\p"
     .string "Bir TM yalnızca bir kez\n"
     .string "kullanılabilir.\p"
-    .string "Bu nedenle, lütfen kullandığınız\n"
-    .string "POKéMON'u dikkatli seçin.\p"
+    .string "Bu nedenle, lütfen kullandığın\n"
+    .string "POKéMON'u dikkatli seç.\p"
     .string "Her neyse…\n"
     .string "TM39 KAYA MEZAR içerir.\p"
-    .string "Rakibe kaya fırlatır\n"
-    .string "ve HIZINI düşürür.$"
+    .string "Rakibe kaya fırlatır ve HIZINI\n"
+    .string "düşürür.$"
 
 PewterCity_Gym_Text_BrockPostBattle::
     .string "Bu devasa dünyamızda her türden\n"
@@ -60,7 +60,7 @@ PewterCity_Gym_Text_BrockPostBattle::
     .string "yetenekli görünüyorsun.\p"
     .string "Öyleyse sana bir tavsiye vereyim.\p"
     .string "CERULEAN'daki SALON'a git ve\n"
-    .string "yeteneklerini test et.$"
+    .string "yeteneklerini orada test et.$"
 
 PewterCity_Gym_Text_DontHaveRoomForThis::
     .string "Bunun için yerin yok.$"
@@ -84,21 +84,21 @@ PewterCity_Gym_Text_LetMeTakeYouToTheTop::
     .string "Büyük hayallerin var mı?\p"
     .string "POKéMON şampiyonu olmayı hayal\n"
     .string "ediyor musun? EĞİTMEN değilim,\l"
-    .string "ama sana nasıl\l"
-    .string "kazanacağını söyleyebilirim.\p"
-    .string "Seni zirveye taşıyayım!$"
+    .string "ama sana nasıl şampiyon olacağını\l"
+    .string "gösterebilirim.\p"
+    .string "Seni zirveye taşımak istiyorum!$"
 
 PewterCity_Gym_Text_LetsGetHappening::
     .string "Tamam!\n"
-    .string "Hadi başlayalım!$"
+    .string "Hadi tavsiyelere başlayalım!$"
 
 PewterCity_Gym_Text_TryDifferentPartyOrders::
     .string "Bir maçta ilk çıkan POKéMON, POKéMON\n"
-    .string "LISTESİ'nin solundadır.\p"
+    .string "LİSTESİ'nin solundadır.\p"
     .string "POKéMONların sırasını değiştirerek\n"
     .string "avantaj elde edebilirsin.\p"
-    .string "Rakibinizin partisine uygun farklı\n"
-    .string "sıralamalar deneyin.$"
+    .string "Rakibinin takımına uygun farklı\n"
+    .string "sıralamalar deneyebilirsin.$"
 
 PewterCity_Gym_Text_ItsFreeLetsGetHappening::
     .string "Bu ücretsiz bir hizmet!\n"
@@ -107,16 +107,16 @@ PewterCity_Gym_Text_ItsFreeLetsGetHappening::
 PewterCity_Gym_Text_YoureChampMaterial::
     .string "Düşündüğüm gibi!\n"
     .string "Sen POKéMON şampiyonu olabilecek\l"
-    .string "birisin!$"
+    .string "kapasiteye sahip birisin!$"
 
 PewterCity_Gym_Text_GymStatue::
     .string "PEWTER POKéMON SALONU\n"
     .string "LİDER: BROCK\p"
-    .string "KAZANAN ANTRENÖRLER:\n"
+    .string "KAZANAN EĞİTMENLER:\n"
     .string "{RIVAL}$"
 
 PewterCity_Gym_Text_GymStatuePlayerWon::
     .string "PEWTER POKéMON SALONU\n"
     .string "LİDER: BROCK\p"
-    .string "KAZANAN ANTRENÖRLER:\n"
+    .string "KAZANAN EĞİTMENLER:\n"
     .string "{RIVAL}, {PLAYER}$"

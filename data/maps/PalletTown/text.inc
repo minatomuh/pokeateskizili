@@ -4,15 +4,15 @@ PalletTown_Text_OakDontGoOut::
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
     .string "OAK: Orası güvenli değil!\n"
-    .string "Vahşi POKéMONlar çimenlerde yaşar!\p"
-    .string "Güvenliğin için kendi\n"
-    .string "POKéMON'una ihtiyacın var.\p"
+    .string "Vahşi POKéMON'lar çimenlerde yaşar!\p"
+    .string "Güvenliğin için kendi POKéMON'una\n"
+    .string "ihtiyacın var.\p"
     .string "Bir fikrim var!\n"
     .string "Gel, beni takip et!$"
 
 PalletTown_Text_RaisingMonsToo::
-    .string "Ben de POKéMON yetiştiriyorum.\p"
-    .string "Güçlendiklerinde beni koruyabilirler.$"
+    .string "Ben de POKéMON yetiştiriyorum.\n"
+    .string "Böylece güçlendiklerinde beni\lkoruyabilirler.$"
 
 PalletTown_Text_CanStoreItemsAndMonsInPC::
     .string "Teknoloji bir harika!\p"
@@ -30,14 +30,14 @@ PalletTown_Text_RivalsHouse::
 
 PalletTown_Text_TownSign::
     .string "PALLET KASABASI\n"
-    .string "Yolculuğun için bekle!$"
+    .string "Maceran seni bekliyor!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
     .string "OAK: Ah, {PLAYER}!\n"
     .string "Dönmüş olmalısın?\p"
     .string "POKéDEX'ini ne kadar doldurdun?\p"
     .string "Bakabilir miyim?\p"
-    .string "Gelin bakalım…$"
+    .string "Bir bakalım…$"
 
 PalletTown_Text_CaughtXPuttingInHonestEffort::
     .string "{STR_VAR_2} yakalamışsın…\p"
@@ -55,8 +55,6 @@ PalletTown_Text_CaughtXImpressiveFollowMe::
 PalletTown_Text_OakYouEnjoyingTraveling::
     .string "OAK: Ah, {PLAYER}!\n"
     .string "Seyahat etmeyi sevmiş gözüküyorsun.\p"
-    .string "Bilerek söylüyorum ki, {PLAYER},\n"
-    .string "Daha egzotik yerler keşfettiğini\n"
-    .string "kolayca hayal edebiliyorum.\p"
-    .string "İyi, iyi.\n"
+    .string "Çok daha egzotik yerler keşfedeceğine\n"
+    .string "inancım tam, {PLAYER}.\p"
     .string "Hohoho.$"

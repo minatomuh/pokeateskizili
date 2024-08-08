@@ -4,12 +4,12 @@ Text_DreamEaterTeach::
 .string "DROWZEE'nin rüyamı yediği\n"
 .string "garip bir rüya gördüm.\p"
 .string "Ve…\n"
-.string "Rüya yemeyi öğrendim… Brr, çok ürkütücü!\p"
+.string "Rüya yemeyi öğrendim…\nBrr, çok ürkütücü!\p"
 .string "Lütfen bir POKéMON'una öğreteyim ki\n"
 .string "bunu unutabileyim!$"
 
 Text_DreamEaterDeclined::
-.string "ZZZ. Horr…$"
+.string "ZZZ.\nHorr…$"
 
 Text_DreamEaterWhichMon::
 .string "Hangi POKéMON RÜYA YİYEN\n"
@@ -17,27 +17,27 @@ Text_DreamEaterWhichMon::
 
 Text_DreamEaterTaught::
 .string "ZZZ…\n"
-.string "Artık… daha fazla…yiyemem…$"
+.string "Artık… Daha fazla… Yiyemem…$"
 
 PewterCity_Text_ClefairyCameFromMoon::
 .string "CLEFAIRY'nin aydan geldiği söyleniyor.\n"
 .string "Bu, dolaşan bir rivayet.\p"
 .string "AY DAĞI'dan AY TAŞLARI düştükten\n"
-.string "sonra göründüler.$"
+.string "sonra ortaya çıkmışlar.$"
 
 PewterCity_Text_BrockOnlySeriousTrainerHere::
-.string "Burada pek çok ciddi\n"
-.string "POKéMON EĞİTMENLERİ yok.\p"
-.string "Hepsi BÖCEK AVCILARI vesaire\p"
-.string "Biliyorsun, sadece hobiciler.\p"
-.string "Ama PEWTER SALONU'nun BROCK'u hiç\n"
-.string "değilse onlardan farklı.$"
+.string "Burada çok fazla ciddi POKéMON\n"
+.string "EĞİTMENLERİ yok.\p"
+.string "Hepsi BÖCEK AVCILARI vesaire.\n"
+.string "Bilirsin, sadece hobiciler.\p"
+.string "Ama PEWTER SALONU'nun BROCK'u\n"
+.string "onlardan çok farklı.$"
 
 PewterCity_Text_DidYouCheckOutMuseum::
-.string "MÜZE'ye baktınız mı?$"
+.string "MÜZE'ye baktın mı?$"
 
 PewterCity_Text_WerentThoseFossilsAmazing::
-.string "AY DAĞI'dan çıkan o fosiller\n"
+.string "AY DAĞI'ndan çıkan o fosiller\n"
 .string "harika değil miydi?$"
 
 PewterCity_Text_ReallyYouHaveToGo::
@@ -45,7 +45,7 @@ PewterCity_Text_ReallyYouHaveToGo::
 .string "Kesinlikle gitmelisin!$"
 
 PewterCity_Text_ThisIsTheMuseum::
-.string "İşte bu, MÜZE.\p"
+.string "İşte geldik, MÜZE burası.\p"
 .string "İçeri girmek için ücret ödemen\n"
 .string "gerekiyor, ama buna değer.\l"
 .string "Görüşürüz!$"
@@ -59,8 +59,8 @@ PewterCity_Text_ThatsRightItsHardWork::
 .string "Bu çok zorlu bir iş!$"
 
 PewterCity_Text_SprayingRepelToKeepWildMonsOut::
-.string "Bahçeme vahşi POKéMON\n"
-.string "girmesin diye SPREY sıkıyorum!$"
+.string "Bahçeme vahşi POKéMON girmesin\n"
+.string "diye SPREY sıkıyorum!$"
 
 PewterCity_Text_BrocksLookingForChallengersFollowMe::
 .string "Sen bir EĞİTMEN'sin, değil mi?\p"
@@ -80,7 +80,7 @@ PewterCity_Text_TrainerTipsEarningEXP::
 PewterCity_Text_CallPoliceIfInfoOnThieves::
 .string "DİKKAT!\p"
 .string "Hırsızlar AY DAĞI'dan POKéMON\n"
-.string "fosilleri çalıyorlar. Eğer bilginiz\n"
+.string "fosilleri çalıyorlar. Eğer bilginiz\l"
 .string "varsa lütfen PEWTER POLİSİ'ni arayın.$"
 
 PewterCity_Text_MuseumOfScience::
@@ -93,7 +93,7 @@ PewterCity_Text_GymSign::
 
 PewterCity_Text_CitySign::
 .string "PEWTER ŞEHRİ\n"
-.string "Bir Taş Gri Şehri$"
+.string "Taştan Gri Şehir$"
 
 @ Aşağıdaki 3 JP metni kullanılmıyor. Muhtemelen oyuncuya Berry Pouch vermesi için kesilen bir NPC
 PewterCity_Text_DefeatedBrockYouCanHaveTreasure::
@@ -119,25 +119,25 @@ PewterCity_Text_MonsWillUseHeldBerriesOnTheirOwn::
 .string "daha kolay ve kullanışlı, değil mi?$"
 
 PewterCity_Text_OhPlayer::
-.string "Oh, {PLAYER}{KUN}!$"
+.string "Hey, {PLAYER}{KUN}!$"
 
 PewterCity_Text_AskedToDeliverThis::
 .string "Seni yakaladığıma memnun oldum.\n"
-.string "PROF. OAK'ın YARDIMCISIYIM.\p"
-.string "Bunu teslim etmem istendi,\n"
-.string "bunu sana veriyorum.$"
+.string "Ben, PROF. OAK'ın YARDIMCISIYIM.\p"
+.string "Bunu teslim etmemi istedi. Bu\n"
+.string "yüzden bunu sana veriyorum.$"
 
 PewterCity_Text_ReceivedRunningShoesFromAide::
-.string "{PLAYER} YARDIMCI'dan.\n"
-.string "KOŞU AYAKKABISI aldı.$"
+.string "{PLAYER}, YARDIMCI'dan KOŞU\n"
+.string "AYAKKABISI aldı.$"
 
 PewterCity_Text_SwitchedShoesWithRunningShoes::
-.string "{PLAYER}, KOŞU AYAKKABI'larını.\n"
+.string "{PLAYER}, KOŞU AYAKKABI'larını\n"
 .string "giydi.$"
 
 PewterCity_Text_ExplainRunningShoes::
 .string "Koşmak için B düğmesine basın.\n"
-.string "Ama sadece koşabileceğin yerlerde!$"
+.string "Ama sadece koşabileceğiniz yerlerde\lkoşabilirsiniz!$"
 
 PewterCity_Text_MustBeGoingBackToLab::
 .string "Eh, ben laboratuvara geri dönmeliyim.\n"
@@ -145,9 +145,9 @@ PewterCity_Text_MustBeGoingBackToLab::
 
 PewterCity_Text_RunningShoesLetterFromMom::
 .string "Bir mektup ekli…\p"
-.string "Sevgili {PLAYER},\p"
-.string "Benim küçük şampiyon adayım\n"
-.string "için bir çift KOŞU AYAKKABISI\p"
-.string "Unutma, her zaman sana destek olacağım!\n"
-.string "Asla pes etme!\p"
+.string "Sevgili {PLAYER},\n"
+.string "Benim küçük şampiyon adayım!\p"
+.string "Sana bir çift KOŞU AYAKKABISI\ngönderiyorum.\p"
+.string "Unutma, her zaman yanındayım!\n"
+.string "Asla pes etme!\l"
 .string "İmza: Annen$"

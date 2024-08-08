@@ -61,14 +61,14 @@ PalletTown_ProfessorOaksLab_Text_RivalLeaveItToMeGramps::
 
 PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap::
 .string "{PLAYER}, söylemek zorundayım, ama bu\n"
-.string "görevde lazım değilsin.\p"
-.string "Biliyorum! Kardeşimden bir HARİTA\n"
-.string "ödünç alacağım.\p"
-.string "Ona sana ödünç vermemesi\n"
+.string "görevde bize lazım değilsin.\p"
+.string "Aklıma bir fikir geldi! Kardeşimden\n"
+.string "bir HARİTA ödünç alacağım.\p"
+.string "Bir de sana da ödünç vermemesi\n"
 .string "için uyaracağım, {PLAYER}!\l"
 .string "Hahaha!\p"
-.string "Şimdi bizim eve gelmekle\n"
-.string "sakın uğraşma!$"
+.string "Şimdi bizim eve gelmekle sakın\n"
+.string "uğraşma!$"
 
 PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne::
 .string "OAK: {RIVAL}?\n"
@@ -158,11 +158,11 @@ PalletTown_ProfessorOaksLab_Text_OakHaveRequestForYouTwo::
 .string "Siz ikiniz için bir ricam var.$"
 
 PalletTown_ProfessorOaksLab_Text_OakPokedexOnDesk::
-.string "Masada POKéDEX, benim icadım\n"
-.string "O, gördüğün veya yakaladığın\l"
+.string "Masanın üstünde gördüğün makine,\n"
+.string "bir POKéDEX. Bu makine, gördüğün\l"
 .string "POKéMON'lar hakkında otomatik\l"
 .string "olarak veri kaydeder.\p"
-.string "Bu yüksek teknoloji bir ansiklopedi!$"
+.string "Yüksek teknoloji bir ansiklopedidir!$"
 
 PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYou::
     .string "OAK: {PLAYER} ve {RIVAL}.\n"
@@ -172,21 +172,21 @@ PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak::
     .string "{PLAYER}, PROF. OAK'tan POKéDEX aldı.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
-    .string "OAK: sadece onları görerek\n"
+    .string "OAK: Sadece onları görerek\n"
     .string "POKéMON'lar hakkında ayrıntılı\l"
-    .string "veri elde edemezsin\p"
+    .string "veri elde edemezsin.\p"
     .string "Tam veriyi elde etmek için onları\n"
     .string "yakalamalısın.\p"
-    .string "İşte burada vahşi POKéMON'ları\n"
-    .string "yakalamak için bazı araçlar.$"
+    .string "İşte sana vahşi POKéMON'ları\n"
+    .string "yakalamak için birkaç araç.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedFivePokeBalls::
     .string "{PLAYER} beş POKé TOPU aldı.$"
 
 PalletTown_ProfessorOaksLab_Text_OakExplainCatching::
     .string "Bir vahşi POKéMON göründüğünde,\n"
-    .string "o serbest oyun alanındadır.\p"
-    .string "Sadece bir POKé TOPU at ve onu\n"
+    .string "savaş başlar.\p"
+    .string "Bir POKé TOPU at ve onu\n"
     .string "yakalamayı dene!\p"
     .string "Ancak bu her zaman işe yaramaz.\p"
     .string "Sağlıklı bir POKéMON kaçabilir.\n"
@@ -196,14 +196,14 @@ PalletTown_ProfessorOaksLab_Text_OakCompleteMonGuideWasMyDream::
     .string "Dünyadaki tüm POKéMON'ların\n"
     .string "tam bir rehberini yapmak…\p"
     .string "Bu benim hayalimdi!\p"
-    .string "Ama, çok yaşlıyım.\n"
-    .string "İşi bitiremiyorum.\p"
+    .string "Ama çok yaşlandım.\n"
+    .string "Artık hiçbir işi bitiremiyorum.\p"
     .string "Bu yüzden, birinin bu hayalimi\n"
     .string "benim yerime gerçekleştirmesini\l"
     .string "istiyorum.\p"
     .string "Hadi, harekete geçin.\p"
     .string "Bu POKéMON tarihinde büyük bir\n"
-    .string "girişim!$"
+    .string "girişim olacak!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMonsAroundWorldWait::
     .string "Dünyadaki POKéMON'lar seni bekliyor,\n"
@@ -211,7 +211,7 @@ PalletTown_ProfessorOaksLab_Text_OakMonsAroundWorldWait::
 
 PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex::
     .string "Ah, {PLAYER}!\n"
-    .string "POKéDEX'in nasıl şekilleniyor?\p"
+    .string "POKéDEX'in nasıl gidiyor?\p"
     .string "{RIVAL} bazı POKéMON'ları\n"
     .string "zaten yakaladı ve veri ekledi.\p"
     .string "Peki, {PLAYER}, senin POKéDEX'ine\n"
@@ -237,11 +237,11 @@ PalletTown_ProfessorOaksLab_Text_OaksLastMon::
     .string "Bu, PROF. OAK'ın son POKéMON'u.$"
 
 PalletTown_ProfessorOaksLab_Text_PressStartToOpenMenu::
-    .string "MENÜ'yü açmak için START'a bas!$"
+    .string "MENÜ'yü açmak için START'a basın!$"
 
 PalletTown_ProfessorOaksLab_Text_SaveOptionInMenu::
     .string "KAYDET seçeneği MENÜ'dedir.\n"
-    .string "Düzenli olarak kullan.$"
+    .string "Düzenli olarak kullanın.$"
 
 PalletTown_ProfessorOaksLab_Text_AllMonTypesHaveStrongAndWeakPoints::
     .string "Tüm POKéMON türlerinin diğerlerine\n"
