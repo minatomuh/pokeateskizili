@@ -136,13 +136,13 @@ CinnabarIsland_Gym_Text_GymGuyPostVictory::
 CinnabarIsland_Gym_Text_GymStatue::
     .string "CİNNABAR POKéMON SALONU\n"
     .string "LİDER: BLAINE\p"
-    .string "KAZANAN ANTRENÖRLER:\n"
+    .string "KAZANAN EĞİTMENLER:\n"
     .string "{RIVAL}$"
 
 CinnabarIsland_Gym_Text_GymStatuePlayerWon::
     .string "CİNNABAR POKéMON SALONU\n"
     .string "LİDER: BLAINE\p"
-    .string "KAZANAN ANTRENÖRLER:\n"
+    .string "KAZANAN EĞİTMENLER:\n"
     .string "{RIVAL}, {PLAYER}$"
 
 CinnabarIsland_Gym_Text_PokemonQuizRules::

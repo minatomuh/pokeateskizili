@@ -10,8 +10,9 @@ TwoIsland_JoyfulGameCorner_Text_PleaseHelpFindLostelle::
     .string "Nerede olduğunu bilmiyorum.\l"
     .string "Çoktan burada olmalıydı.\p"
     .string "LOSTELLE pek tatlıdır - tıpkı\n"
-    .string "benim gibi - öyle tabii…\p"
-    .string "LOSTELLE'e bir şeyler mi oldu?\n"
+    .string "benim gibi - ya birileri…\p"
+    .string "Ya LOSTELLE'in başına bir şey\n"
+    .string "geldiyse?!\p"
     .string "Lütfen, onu bulmama yardım et!\n"
     .string "Lütfen ÜÇÜNCÜ ADA'ya git ve ara!$"
 
@@ -22,15 +23,15 @@ TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIsland::
     .string "Adada bekleyeceklerini söylediler,\n"
     .string "o zaman nerede olabilirler ki?\l"
     .string "Neredeler?\p"
-    .string "Hey, sen! Burada sadece ÜÇ\n"
-    .string "ADA mı var?$"
+    .string "Hey, sen! Yoksa buradan başka bir\n"
+    .string "ÜÇÜNCÜ ADA daha mı var?$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsTwoIslandMoveIt::
     .string "Konuşmadan önce gözlerini aç ve\n"
     .string "uyan, sersem.\p"
     .string "Burası İKİNCİ ADA'dır!\p"
-    .string "Kaybol buradan! Kirli motosikletini\n"
-    .string "yerimden çıkar!$"
+    .string "Kaybol buradan! Kirli\n"
+    .string "motosikletini mekanımdan çıkar!$"
 
 TwoIsland_JoyfulGameCorner_Text_TheseIslandsAreConfusing::
     .string "Ha…\n"
@@ -45,11 +46,11 @@ TwoIsland_JoyfulGameCorner_Text_PunkScuffedUpMyFloor::
 TwoIsland_JoyfulGameCorner_Text_PleaseGoToThreeIsland::
     .string "Hey, ama dinle! Yalvarıyorum sana,\n"
     .string "ÜÇÜNCÜ ADA'ya gitmelisin.\p"
-    .string "Ya LOSTELLE'e bir şey olursa!?\n"
-    .string "Benim kırmızı çatılı evim,\l"
-    .string "ÜÇÜNCÜ ADA'da.\p"
-    .string "O her an buraya gelebilir, bu yüzden\n"
-    .string "hiçbir yere gidemem.\p"
+    .string "Ya LOSTELLE'e bir şey olursa!?\p"
+    .string "Evim ÜÇÜNCÜ ADA'daki kırmızı\n"
+    .string "çatılı bina.\p"
+    .string "O her an buraya gelebilir,\n"
+    .string "bu yüzden hiçbir yere gidemem.\p"
     .string "Bana büyük bir iyilik yapman\n"
     .string "gerekiyor.$"
 
@@ -99,7 +100,8 @@ TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag::
 TwoIsland_JoyfulGameCorner_Text_IllGetGameCornerRunning::
     .string "Tamam, OYUN KÖŞESİ'ni hemen\n"
     .string "çalıştıracağım.\p"
-    .string "Bir ara arkadaşlarınla gelip\noynamalasın.$"
+    .string "Bir ara arkadaşlarınla gelip\n"
+    .string "oynamalısın.$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseShowMeYouBeingCool::
     .string "Dinle, dinle!\p"
