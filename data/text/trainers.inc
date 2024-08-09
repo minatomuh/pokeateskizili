@@ -176,7 +176,7 @@ Route12_Text_JustinRematchIntro::
   .string "Hala bir AY TAŞI bulamadım… Siz\nbuldunuz mu?$"
 
 Route12_Text_LucaRematchIntro::
-  .string "Elektrik her zaman benim uzmanlık\nalanım olmuştur.\pYine de denizdeki POKemon hakkında\nhiçbir şey bilmiyorum.$"
+  .string "Elektrik her zaman benim uzmanlık\nalanım olmuştur.\pYine de denizdeki POKéMON'lar\nhakkında hiçbir şey bilmiyorum.$"
 
 Route12_Text_HankRematchIntro::
   .string "BALIKÇI APTAL, POKéMON ÇOCUĞA KARŞI!\nBir raunt daha, dövüş!$"

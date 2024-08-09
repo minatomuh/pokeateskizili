@@ -55,7 +55,7 @@ Pokedude_Text_CantDoubleUpOnStatus::
   .string "Bu, POKéMON'u yakalamayı çok\nkolay hale getirecek!\pAh, evet. Bir POKéMON'u felç ederseniz,\nfelcin üstüne uykuya dalmasını\lsağlayamazsınız.\pBaşka bir deyişle, durum sorunlarını\nikiye katlayamazsınız, tamam mı?$"
 
 Pokedude_Text_LetMeThrowBall::
-  .string "Tamam!\nPoke topumu atayım!$"
+  .string "Tamam!\nPOKé topumu atayım!$"
 
 Pokedude_Text_PickBestKindOfBall::
   .string "Bir POKé TOPU atmadan önce,\n"

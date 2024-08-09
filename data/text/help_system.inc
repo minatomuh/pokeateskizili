@@ -120,7 +120,7 @@ Help_Text_RanOutOfPotions::
 	.string "Hiç İKSİR'im kalmadı.$"
 
 Help_Text_CanIBuyPokeBalls::
-	.string "POKE TOPLARI alabilir miyim?$"
+	.string "POKé TOPLARI alabilir miyim?$"
 
 Help_Text_WhatsATrainer::
 	.string "EĞİTMEN nedir?$"

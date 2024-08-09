@@ -39,7 +39,7 @@ LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
 
 LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
     .string "{PLAYER}, BAY FUJİ'den bir\n"
-    .string "POKE FLÜT aldı.$"
+    .string "POKé FLÜT aldı.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
     .string "POKé FLÜT'ü duyduğunda, uyuyan\n"
