@@ -557,7 +557,7 @@ const u8 *const gTexts_UR_GladToMeetYou[GENDER_COUNT] = {
     sText_GladToMeetYouFemale
 };
 
-ALIGNED(4) const u8 gText_UR_FinishedCheckingPlayersTrainerCard[] = _("{DYNAMIC 1}'ın\nANTRENÖR KARTINI kontrol etmeyi bitirdin.{PAUSE 60}");
+ALIGNED(4) const u8 gText_UR_FinishedCheckingPlayersTrainerCard[] = _("{DYNAMIC 1}'ın\nEĞİTMEN KARTINI kontrol etmeyi bitirdin.{PAUSE 60}");
 ALIGNED(4) static const u8 sText_CanceledReadingCard[] = _("Kartı okumayı iptal ettin.");
 
 static const struct MysteryGiftClientCmd sClientScript_DynamicError[] = {
