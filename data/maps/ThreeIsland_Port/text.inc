@@ -1,12 +1,12 @@
 ThreeIsland_Port_Text_WereKantoRiderFederation::
-    .string "KANTO MOTOSİKLET FEDERASYONUYUZ!\n"
-    .string "Vrooom! Vavaaavroom! Vrooom!\p"
-    .string "Motorum güçsüz, o yüzden\n"
-    .string "egzoz sesini ben çıkarmalıyım!$"
+    .string "KANTO MOTORCULARIYIZ!\n"
+    .string "VIN! VIIIINN! VINNN!\p"
+    .string "Motorum güçsüz, bu yüzden\n"
+    .string "egzoz sesini ben çıkarıyorum!$"
 
 ThreeIsland_Port_Text_ForkOverMoney::
     .string "Hey, hanımefendi!\n"
-    .string "Harcamak için biraz para ver bana!$"
+    .string "Harcamam için biraz para ver bana!$"
 
 ThreeIsland_Port_Text_IllCallThePolice::
     .string "Ayy!\p"
@@ -21,5 +21,5 @@ ThreeIsland_Port_Text_ThankGoodnessBikersGone::
 
 ThreeIsland_Port_Text_EverythingTurnedOutForBest::
     .string "O MOTOSİKLETLİLER kaçtı ve\n"
-    .string "LOSTELLE güvende bulundu.\p"
+    .string "LOSTELLE şuan güvende.\p"
     .string "Her şey yoluna girdi!$"

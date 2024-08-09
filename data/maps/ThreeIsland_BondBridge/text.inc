@@ -12,7 +12,7 @@ ThreeIsland_BondBridge_Text_NikkiPostBattle::
 
 ThreeIsland_BondBridge_Text_VioletIntro::
     .string "Aceleyle nereye gidiyorsun?\n"
-    .string "Acele etmeyin!$"
+    .string "Acele etme!$"
 
 ThreeIsland_BondBridge_Text_VioletDefeat::
     .string "Harika POKéMON'lar yetiştirmişsin.\n"
@@ -27,7 +27,7 @@ ThreeIsland_BondBridge_Text_AmiraIntro::
     .string "için simidime ihtiyacım var.$"
 
 ThreeIsland_BondBridge_Text_AmiraDefeat::
-    .string "Vaaay!\n"
+    .string "Aaağh!\n"
     .string "Ağlıyorum!$"
 
 ThreeIsland_BondBridge_Text_AmiraPostBattle::
@@ -54,7 +54,7 @@ ThreeIsland_BondBridge_Text_TishaDefeat::
     .string "Şimdi lütfen gidin!$"
 
 ThreeIsland_BondBridge_Text_TishaPostBattle::
-    .string "Bir POKéMON mayoma ısırdı.\n"
+    .string "Bir POKéMON mayomu ısırdı.\n"
     .string "Artık sudan çıkamam!$"
 
 ThreeIsland_BondBridge_Text_JoyIntro::

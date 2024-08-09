@@ -14,7 +14,7 @@ PewterCity_Museum_1F_Text_DontHaveEnoughMoney::
     .string "Yeterli paran yok.$"
 
 PewterCity_Museum_1F_Text_PleaseEnjoyYourself::
-    .string "Lütfen keyfini çıkar.$"
+    .string "Keyfini çıkar.$"
 
 PewterCity_Museum_1F_Text_DoYouKnowWhatAmberIs::
     .string "Arka kapıdan içeri sızamazsın!\n"
@@ -26,8 +26,8 @@ PewterCity_Museum_1F_Text_AmberContainsGeneticMatter::
     .string "KEHRİBAR, antik bir POKéMON'un\n"
     .string "genetik DNA'sını içerir.\p"
     .string "Bir yerlerde POKéMON'ları\n"
-    .string "fosillerden diriltmeye\l"
-    .string "çalışan bir LAB var.$"
+    .string "fosillerden diriltmeye çalışan\l"
+    .string "bir LABORATUVAR var.$"
 
 PewterCity_Museum_1F_Text_AmberIsFossilizedSap::
     .string "KEHRİBAR aslında ağaçlardan akan\n"
@@ -49,16 +49,16 @@ PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
     .string "anlatmam gerekiyor.\p"
     .string "Bu KEHRİBAR parçasının POKéMON\n"
     .string "DNA'sı içerdiğini düşünüyorum!\p"
-    .string "Eğer POKéMON'lar bundan geri\n"
-    .string "getirilebilirse, bilim dünyası\l"
-    .string "için büyük bir keşif olacak.\p"
-    .string "Ama meslektaşlarım beni dinlemiyor.\n"
+    .string "Eğer POKéMON'lar bundan geri\l"
+    .string "getirilebilirse, bilim dünyası\n"
+    .string "için büyük bir keşif olurdu.\p"
+    .string "Ama meslektaşlarım beni dinlemiyor.\p"
     .string "Bu yüzden bir ricam olacak!\p"
     .string "Lütfen bunu bir POKéMON LAB'ında\n"
-    .string "inceletin.$"
+    .string "incelet.$"
 
 PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan::
-    .string "{PLAYER}, adamdan\nESKİKEHRİBAR aldı.$"
+    .string "{PLAYER}, adamdan ESKİKEHRİBAR\naldı.$"
 
 PewterCity_Museum_1F_Text_GetOldAmberChecked::
     .string "Sst!\n"
@@ -68,7 +68,7 @@ PewterCity_Museum_1F_Text_DontHaveSpaceForThis::
     .string "Bunun için yerin yok.$"
 
 PewterCity_Museum_1F_Text_WeHaveTwoFossilsOnExhibit::
-    .string "Sergide, nadir, ilkel POKéMON'ların\n"
+    .string "Sergide nadir, ilkel POKéMON'ların\n"
     .string "iki adet fosiline sahibiz.$"
 
 PewterCity_Museum_1F_Text_BeautifulPieceOfAmber::

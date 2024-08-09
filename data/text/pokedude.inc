@@ -7,119 +7,55 @@ Pokedude_Text_MyRattataFasterThanPidgey::
   .string "daha hızlıymış.$"
 
 Pokedude_Text_BattlersTakeTurnsAttacking::
-  .string "Savaşçılar sırayla saldırır ve\n"
-  .string "birbirlerinin HP'sini azaltır.$"
+  .string "Savaşçılar sırayla saldırır ve\nbirbirlerinin canını azaltır.$"
 
 Pokedude_Text_MyRattataWonGetsEXP::
-  .string "RATTATA'm düşmanın HP'sini sıfıra\n"
-  .string "indirdi, yani kazandı!\p"
-  .string "Savaşa katılan POKéMON'lar EXP. Puanı\n"
-  .string "kazanır.\p"
-  .string "Bir POKéMON yeterince EXP. Puanı\n"
-  .string "topladığında, seviye atlar.\p"
-  .string "Seviye atlamak POKéMON'unuzu\n"
-  .string "eskisinden daha güçlü yapar.$"
+  .string "RATTATA'm düşmanın canını sıfıra\nindirdi, yani kazandı!\pSavaşa katılan POKéMON'lar EXP. Puanı\nkazanır.\pBir POKéMON yeterince EXP. Puanı\ntopladığında, seviye atlar.\pSeviye atlamak POKéMON'unuzu\neskisinden daha güçlü yapar.$"
 
 Pokedude_Text_UhOhRattataPoisoned::
-  .string "POKé ADAM: Uh-oh… RATTATA'm\n"
-  .string "zehirlenmiş…\p"
-  .string "Eğer bir POKéMON zehirlenirse, sürekli\n"
-  .string "olarak HP kaybeder.$"
+  .string "POKé DUDE: Eyvah... RATTATA'm\nzehirlenmiş...\pEğer bir POKéMON zehirlenirse, sürekli\nolarak can kaybeder.$"
 
 Pokedude_Text_HealStatusRightAway::
-  .string "Bir POKéMON bir durum sorunu\n"
-  .string "geliştirirse, onu hemen iyileştirin.$"
+  .string "POKéMON'ların bir durum sorunu\noluşursa, onu hemen iyileştirin.$"
 
 Pokedude_Text_UsingItemTakesTurn::
-  .string "Yine de bir POKéMON üzerinde bir eşya\n"
-  .string "kullanmak bir tur harcar.\p"
-  .string "Şimdi sıra rakipte!$"
+  .string "POKéMON üzerinde bir eşya kullanmak\nbir tur harcar.\pŞimdi sıra rakipte!$"
 
 Pokedude_Text_YayWeManagedToWin::
-  .string "Yaşasın! Kazanmayı başardık!$"
+  .string "Yaşasın!\nKazanmayı başardık!$"
 
 Pokedude_Text_WaterNotVeryEffectiveAgainstGrass::
-  .string "POKé ADAM: BALONCUK hareketi SU tipi\n"
-  .string "bir saldırıdır.\p"
-  .string "Hedeflenen ODDISH, ÇİMEN/ZEHİR\n"
-  .string "tipi bir POKéMON'dur.\p"
-  .string "SU tipi saldırı ÇİMEN tipi POKéMON\n"
-  .string "tarafından emilir…\p"
-  .string "Sonuç olarak, hareket çok etkili olmaz\n"
-  .string "ve normal hasarın yalnızca yarısını\l"
-  .string "verir.$"
+  .string "POKé ADAM: BALONCUK saldırısı SU tipi bir\nsaldırıdır.\pHedeflenen ODDISH, ÇİM/ZEHİR tipi bir\nPOKéMON'dur.\pSU tipi saldırı ÇİM tipi POKéMON\ntarafından emilir...\pSonuç olarak, saldırı çok etkili olmaz\nve normal hasarın yalnızca yarısını\lverir.$"
 
 Pokedude_Text_GrassEffectiveAgainstWater::
-  .string "Uh-oh, bu iyi değil!\p"
-  .string "Az önce gördüğün ABSORBE ET\n"
-  .string "saldırısı ÇİMEN\l"
-  .string "tipi bir harekettir.\p"
-  .string "POLIWAG ise SU tipi bir POKéMON.\p"
-  .string "Yani, ABSORBE ET süper etkili\n"
-  .string "hale gelir ve hasarı\l"
-  .string "iki katına çıkarır.$"
+  .string "Olamaz, bu hiç iyi değil!\pAz önce gördüğün EMİŞ saldırısı,\nÇİM tipi bir harekettir.\pPOLIWAG ise SU tipi POKéMON'dur.\pYani, EMİŞ, süper etkili hale gelir\nve hasarı iki katına çıkarır.$"
 
 Pokedude_Text_LetsTryShiftingMons::
-  .string "Bu eşleşmede kazanmak kolay\n"
-  .string "olmayacak.\p"
-  .string "Hadi POKéMON'u kaydırmayı deneyelim!$"
+  .string "Bu eşleşmede kazanmak kolay\nolmayacak.\pHadi POKéMON'u değişmeyi deneyelim!$"
 
 Pokedude_Text_ShiftingUsesTurn::
-  .string "POKéMON'u içeri ve dışarı kaydırmak bir\n"
-  .string "tur harcar.\p"
-  .string "Şimdi sıra rakipte.$"
+  .string "Savaştaki POKéMON'u değişmek\nbir tur harcar.\pŞimdi sıra rakipte.$"
 
 Pokedude_Text_ButterfreeDoubleResistsGrass::
-  .string "BUTTERFREE bir BÖCEK/UÇUŞ tipi\n"
-  .string "POKéMON'dur.\p"
-  .string "Bu POKéMON'a karşı, ÇİMEN tipi bir\n"
-  .string "saldırı…\p"
-  .string "…BÖCEK tipi bir POKéMON'a normalin\n"
-  .string "sadece yarısı kadar hasar verir…\p"
-  .string "…Ayrıca, bir UÇUŞ tip POKéMON'a\n"
-  .string "verilen hasarın yalnızca yarısına neden\l"
-  .string "olur.\p"
-  .string "Bu nedenle, bir BÖCEK/UÇUŞ POKéMON\n"
-  .string "olan BUTTERFREE, normal hasarın\l"
-  .string "yalnızca dörtte birini alır.$"
+  .string "BUTTERFREE, BÖCEK/UÇUŞ tipi bir\nPOKéMON'dur.\pBu POKéMON'a karşı, ÇİM tipi bir\nsaldırı...\p...BÖCEK tipi bir POKéMON'a normalin\nsadece yarısı kadar hasar verir...\p...Ayrıca, bir UÇAN tip POKéMON'a\nverilen hasarın yalnızca yarısına neden\lolur.\pBu nedenle, bir BÖCEK/UÇAN POKéMON\nolan BUTTERFREE, normal hasarın\lyalnızca dörtte birini alır.$"
 
 Pokedude_Text_ButterfreeGoodAgainstOddish::
-  .string "ODDISH, ÇİMEN/ZEHİR tipi bir\n"
-  .string "POKéMON'dur.\p"
-  .string "UÇUŞ veya PSİŞİK tipi bir saldırı\n"
-  .string "ona karşı çok etkilidir.\p"
-  .string "Bu tür saldırılardan biri normalin iki\n"
-  .string "katı hasar verir.\p"
-  .string "Tamam, işte başlıyoruz!$"
+  .string "ODDISH, ÇİM/ZEHİR tipi bir\nPOKéMON'dur.\pUÇUŞ veya PSİŞİK tipi bir saldırı\nona karşı çok etkilidir.\pBu tür saldırılardan biri normalin\niki katı hasar verir.\pTamam, işte başlıyoruz!$"
 
 Pokedude_Text_YeahWeWon::
-  .string "İşte bu! Biz kazandık!$"
+  .string "İşte bu!\nBiz kazandık!$"
 
 Pokedude_Text_WeakenMonBeforeCatching::
-  .string "POKé ADAM: Bir POKéMON yakalamaya\n"
-  .string "çalışırken, hemen POKé TOPU\l"
-  .string "atmayın.\p"
-  .string "İlk olarak, HP'sini azaltarak onu\n"
-  .string "zayıflatmanız gerekir.$"
+  .string "POKé ADAM: Bir POKéMON yakalamaya\nçalışırken, hemen POKé TOPU\latmayın.\pİlk olarak, canını azaltarak\nonu zayıflatmanız gerekir.$"
 
 Pokedude_Text_BestIfTargetStatused::
-  .string "Tamam, bu yeterince iyi olmalı.\p"
-  .string "Ancak, eğer mümkünse, hedefin bir durum\n"
-  .string "sorunu olması en iyisi olacaktır.\p"
-  .string "Örneğin, uyuyor ya da felçli olsaydı\n"
-  .string "yakalamak daha kolay olurdu.$"
+  .string "Tamam, bu yeterli olmalı.\pEğer mümkünse, rakibe bir durum\netkisi vermeye çalışabilirsinz.\pBu, onu yakalamayı daha da\nkolaylaştırır.\pÖrneğin, uyuyor olsaydı veya felçli\nolsaydı yakalamak daha kolay\lolurdu.$"
 
 Pokedude_Text_CantDoubleUpOnStatus::
-  .string "Bu, POKéMON'u yakalamayı çok daha\n"
-  .string "kolay hale getirecek!\p"
-  .string "Ah, evet. Bir POKéMON'u felç ederseniz,\n"
-  .string "elcin üstüne uykuya dalmasını\l"
-  .string "sağlayamazsınız.\p"
-  .string "Başka bir deyişle, durum sorunlarını\n"
-  .string "ikiye katlayamazsınız, tamam mı?$"
+  .string "Bu, POKéMON'u yakalamayı çok\nkolay hale getirecek!\pAh, evet. Bir POKéMON'u felç ederseniz,\nfelcin üstüne uykuya dalmasını\lsağlayamazsınız.\pBaşka bir deyişle, durum sorunlarını\nikiye katlayamazsınız, tamam mı?$"
 
 Pokedude_Text_LetMeThrowBall::
-  .string "Tamam! POKé TOPU'mu atayım!$"
+  .string "Tamam!\nPoke topumu atayım!$"
 
 Pokedude_Text_PickBestKindOfBall::
   .string "Bir POKé TOPU atmadan önce,\n"

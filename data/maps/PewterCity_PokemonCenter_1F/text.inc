@@ -1,8 +1,8 @@
 PewterCity_PokemonCenter_1F_Text_TeamRocketMtMoonImOnPhone::
-    .string "Ne!?\p"
-    .string "ROKET TAKIMI AY DAĞI'nda mı?\n"
-    .string "Hı?\p"
-    .string "Telefonla konuşuyorum!\n"
+    .string "Ne!?\n"
+    .string "ROKET TAKIMI AY DAĞI'nda mı?\p"
+    .string "Hı?\n"
+    .string "Telefonla konuşuyorum!\l"
     .string "Defol buradan!$"
 
 PewterCity_PokemonCenter_1F_Text_Jigglypuff::
@@ -16,9 +16,9 @@ PewterCity_PokemonCenter_1F_Text_WhenJiggylypuffSingsMonsGetDrowsy::
     .string "“Horrr”…$"
 
 PewterCity_PokemonCenter_1F_Text_TradingMyClefairyForPikachu::
-    .string "Gerçekten bir PIKACHU istiyorum\n"
-    .string "bu yüzden CLEFAIRY'imi\l"
-    .string "onunla takas edebilirim.$"
+    .string "Gerçekten bir PIKACHU istiyorum.\n"
+    .string "Bu yüzden CLEFAIRY'imi onunla\l"
+    .string "takas edebilirim.$"
 
 PewterCity_PokemonCenter_1F_Text_TradingPikachuWithKid::
     .string "Oradaki çocukla POKéMON takası\n"

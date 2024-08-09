@@ -1912,4 +1912,3 @@ Help_Text_TypeMatchupOwnPokemonBug::
 	.string "etkisi:\p"
 	.string "   {CIRCLE_DOT}: ATEŞ, UÇUŞ, KAYA\p"
 	.string "   {TRIANGLE}: ÇİMEN, DÖVÜŞ, YER$"
-

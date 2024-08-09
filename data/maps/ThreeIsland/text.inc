@@ -64,7 +64,7 @@ ThreeIsland_Text_WannaMakeSomethingOfYourStaring::
 
 ThreeIsland_Text_ThatsSmart::
     .string "Bu akıllıca.\n"
-    .string "Burnun bu işlere sokma.$"
+    .string "Burnunu bu işlere sokma.$"
 
 ThreeIsland_Text_Biker1Intro::
     .string "Heh, cesaretini sevdim.\n"
@@ -87,7 +87,7 @@ ThreeIsland_Text_Biker2Defeat::
 
 ThreeIsland_Text_Biker2PostBattle::
     .string "Sana ne oluyor, bu kadar\n"
-    .string "kızmak?\p"
+    .string "kızmak falan?\p"
     .string "Hiç cool değil, adamım!$"
 
 ThreeIsland_Text_Biker3Intro::
@@ -96,7 +96,7 @@ ThreeIsland_Text_Biker3Intro::
     .string "Bizi utandırdın, adamım!$"
 
 ThreeIsland_Text_Biker3Defeat::
-    .string "… … …   … … …$"
+    .string "… … …\n… … …$"
 
 ThreeIsland_Text_Biker3PostBattle::
     .string "Patron, sana söylüyorum,\n"
@@ -149,12 +149,11 @@ ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
     .string "BAĞ KÖPRÜSÜ'ne doğru gitti.$"
 
 ThreeIsland_Text_WouldntWantToSeeBikersHereAgain::
-    .string "ÜÇÜNCÜ aslında burada en kalabalık\n"
+    .string "ÜÇÜNCÜ ADA aslında en kalabalık\n"
     .string "adalardan biridir.\p"
-    .string "Yine de, daha az uyuşuk olabilir.\p"
-    .string "Ama yine de o MOTOR ÇETESİ gibi\n"
-    .string "serserileri burada tekrar görmek\l"
-    .string "istemezdim.$"
+    .string "Yine de, daha az sıkıcı olabilir.\p"
+    .string "Ama o MOTOR ÇETESİ gibi serserileri\n"
+    .string "burada tekrar görmek istemem.$"
 
 ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame::
     .string "DODUO'yu MEYVE ORMANI'nda\n"
@@ -163,4 +162,4 @@ ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame::
     .string "bir oyun oynayacağım.$"
 
 ThreeIsland_Text_Doduo::
-    .string "DODUO: Gigiih!$"
+    .string "DODUO: Cicikk!$"

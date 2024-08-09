@@ -1,6 +1,6 @@
 CeruleanCity_Text_RivalIntro::
-    .string "{RIVAL}: Hey! {PLAYER}!\p"
-    .string "Burada hâlâ zorlanıyor musun?\p"
+    .string "{RIVAL}: Hey! {PLAYER}!\n"
+    .string "Hâlâ zorlanıyor musun yoksa?\p"
     .string "Ben harika gidiyorum! Bir sürü\n"
     .string "akıllı ve güçlü POKéMON yakaladım!\p"
     .string "Bakalım sen neler yakaladın,\n"
@@ -12,28 +12,26 @@ CeruleanCity_Text_RivalDefeat::
     .string "Zaten sen kazandın!$"
 
 CeruleanCity_Text_RivalPostBattle::
-    .string "{RIVAL}: Hey, bir şey\n"
-    .string "söyleyeyim mi?\p"
+    .string "{RIVAL}: Hey, bir şey söyleyeyim mi?\p"
     .string "BILL'in yanına gittim ve bana\n" 
     .string "nadir POKéMON'larını gösterdi.\p"
-    .string "Bu, POKéDEX'ime bir sürü\n" 
+    .string "Bu, POKéDEX'ime bir sürü yeni\n" 
     .string "sayfa ekledi!\p"
-    .string "Çünkü BILL, dünya çapında ünlü\n"
-    .string "bir POKéMANYAK.\p"
-    .string "Ayrıca, PC'deki\n"
-    .string "POKéMON Depolama Sistemini de\l"
-    .string "icat etti.\p"
-    .string "Sen de sistemini kullandığın için\n"
-    .string "ona teşekkür etmelisin.\p"
+    .string "Çünkü BILL, dünya çapında ünlü bir\n"
+    .string "POKéMANYAK.\p"
+    .string "Ayrıca, PC'deki POKéMON Saklama\n"
+    .string "Sistemini de o icat etmiş.\p"
+    .string "Onun sistemini kullandığın için\n"
+    .string "gidip ona teşekkür etmelisin.\p"
     .string "Tamam, gitsem iyi olur!\n"
     .string "Hadi bay bay!$"
 
 CeruleanCity_Text_OhRightLittlePresentAsFavor::
-    .string "Ah evet, doğru.\p"
-    .string "Senin için üzgünüm. Gerçekten.\n"
-    .string "Her zaman arkamdan geliyorsun.\p"
-    .string "İşte sana küçük bir hediye,\n"
-    .string "bir iyilik olarak.$"
+    .string "Az kalsın unutuyordum.\n"
+    .string "Senin için üzülüyorum. Gerçekten.\p"
+    .string "Her zaman arkamdan geliyorsun.\n"
+    .string "İşte sana küçük bir hediye,\l"
+    .string "bir iyilik olarak düşün.$"
 
 CeruleanCity_Text_ExplainFameCheckerSmellYa::
     .string "Senin gibi bir dedikoducu için…\n"
@@ -57,15 +55,15 @@ CeruleanCity_Text_GruntIntro::
     .string "Bana inanmıyor musun?{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}$"
 
 CeruleanCity_Text_GruntDefeat::
-    .string "GRUNT: Dur! Pes ettim!\n"
-    .string "Sessizce gideceğim!$"
+    .string "EŞKİYA: Dur! Pes ettim!\n"
+    .string "Kaçıyorum buradan!$"
 
 CeruleanCity_Text_OkayIllReturnStolenTM::
     .string "…Tamam.\n"
     .string "Çaldığım TM'yi geri vereceğim.$"
 
 CeruleanCity_Text_RecoveredTM28FromGrunt::
-    .string "{PLAYER}, GRUNT'tan TM28'i\ngeri aldı.$"
+    .string "{PLAYER}, EŞKİYA'dan TM28'i\ngeri aldı.$"
 
 CeruleanCity_Text_BetterGetMovingBye::
     .string "Ben en iyisi gideyim!\n"
@@ -73,11 +71,11 @@ CeruleanCity_Text_BetterGetMovingBye::
 
 CeruleanCity_Text_MakeRoomForThisCantRun::
     .string "Bunun için yer aç!\n"
-    .string "Gitmem için bunu sana vermem lazım!$"
+    .string "Gitmem için bunu sana vermeliyim!$"
 
 CeruleanCity_Text_TrainerLifeIsToughIsntIt::
-    .string "Sen de mi bir EĞİTMEN'sin?\p"
-    .string "Toplamak, savaşmak…\n"
+    .string "Sen de bir EĞİTMEN misin?\p"
+    .string "Yakalamak, savaşmak…\n"
     .string "Zor bir yaşam, değil mi?$"
 
 CeruleanCity_Text_YouCanCutDownSmallTrees::
@@ -100,13 +98,13 @@ CeruleanCity_Text_PokemonEncyclopediaAmusing::
 
 CeruleanCity_Text_PeopleHereWereRobbed::
     .string "Buradaki insanlar soyuldu.\p"
-    .string "Bu iğrenç suçun arkasında\n"
-    .string "ROKET TAKIMI'nın olduğu çok açık!\p"
+    .string "Bu iğrenç suçun arkasında ROKET\n"
+    .string "TAKIMI'nın olduğu çok açık!\p"
     .string "POLİS bile onlarla başa çıkamıyor!$"
 
 CeruleanCity_Text_SlowbroUseSonicboom::
     .string "Tamam! SLOWBRO!\n"
-    .string "SONICBOOM kullan!$"
+    .string "SONİK PATLAMA kullan!$"
 
 CeruleanCity_Text_SlowbroPayAttention::
     .string "Hadi, SLOWBRO, dikkat et!$"
@@ -116,16 +114,16 @@ CeruleanCity_Text_SlowbroPunch::
 
 CeruleanCity_Text_NoYouBlewItAgain::
     .string "Hayır!\n"
-    .string "Yeniden mahvettin!$"
+    .string "Yine mahvettin!$"
 
 CeruleanCity_Text_SlowbroWithdraw::
     .string "SLOWBRO, geri çekil!$"
 
 CeruleanCity_Text_HardToControlMonsObedience::
-    .string "Hayır! Bu yanlış!\n"
-    .string "POKéMON'ları kontrol etmek zor!\p"
+    .string "Hayır! Olmuyor!\n"
+    .string "POKéMON'ları kontrol etmek zordur!\p"
     .string "POKéMON'unun itaatkârlığı senin\n"
-    .string "EĞİTMEN becerilerine bağlı.$"
+    .string "EĞİTMEN becerilerine bağlıdır.$"
 
 CeruleanCity_Text_SlowbroTookSnooze::
     .string "SLOWBRO uykuya daldı…$"
@@ -153,12 +151,12 @@ CeruleanCity_Text_ThisIsCeruleanCave::
     .string "EĞİTMEN olman gerekiyor.\p"
     .string "İlk olarak, POKéMON LİGİ şampiyonu\n"
     .string "olacak kadar güçlü olmalısın.\p"
-    .string "Ve, büyük bir başarı\n"
-    .string "elde etmiş olmalısın.$"
+    .string "Ve, büyük bir başarı elde etmiş\n"
+    .string "olmalısın.$"
 
 CeruleanCity_Text_CitySign::
     .string "CERULEAN ŞEHRİ\n"
-    .string "Onu Çeviren Gizemli, Mavi Bir Aura$"
+    .string "Gizemli Bir Auraya Sahip Şehir$"
 
 CeruleanCity_Text_TrainerTipsHeldItems::
     .string "EĞİTMEN İPUCU\p"

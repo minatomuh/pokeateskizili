@@ -12,7 +12,7 @@ ThreeIsland_PokemonCenter_1F_Text_ImpossibleToSurfBetweenIslands::
 
 ThreeIsland_PokemonCenter_1F_Text_AlwaysBerriesInBerryForest::
     .string "Haydi MEYVE ezelim!\n"
-    .string "…Bu MEYVE'leri boşa mı harcamak\l"
-    .string "olur?\p"
+    .string "…Bu, MEYVE'leri boşa harcamak\l"
+    .string "olmaz mı?\p"
     .string "MEYVE ORMANI'nda her zaman\n"
     .string "yerde MEYVE bulabilirsin.$"
