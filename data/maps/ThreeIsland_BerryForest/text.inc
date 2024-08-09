@@ -1,5 +1,5 @@
 ThreeIsland_BerryForest_Text_HelpScaryPokemon::
-    .string "LOSTELLE: *Hıçk*… *Burun çeker*…\n"
+    .string "LOSTELLE: (Hıçk…) (Burun çeker…)\n"
     .string "Ah! Lütfen yardım edin!\p"
     .string "Biraz önce orada ürkütücü\n"
     .string "bir POKéMON belirdi.\l"
