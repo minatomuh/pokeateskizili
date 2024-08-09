@@ -104,13 +104,13 @@ VermilionCity_Gym_Text_GymGuyPostVictory::
 VermilionCity_Gym_Text_GymStatue::
     .string "VERMILION POKéMON SALONU\n"
     .string "LİDER: TĞM. SURGE\p"
-    .string "KAZANAN ANTRENÖRLER:\n"
+    .string "KAZANAN EĞİTMENLER:\n"
     .string "{RIVAL}$"
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
     .string "VERMILION POKéMON SALONU\n"
     .string "LİDER: TĞM. SURGE\p"
-    .string "KAZANAN ANTRENÖRLER:\n"
+    .string "KAZANAN EĞİTMENLER:\n"
     .string "{RIVAL}, {PLAYER}$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::

@@ -159,11 +159,11 @@ SaffronCity_Gym_Text_GymGuyPostVictory::
 SaffronCity_Gym_Text_GymStatue::
     .string "SAFFRON POKéMON SALONU\n"
     .string "LİDER: SABRINA\p"
-    .string "KAZANAN ANTRENÖRLER:\n"
+    .string "KAZANAN EĞİTMENLER:\n"
     .string "{RIVAL}$"
 
 SaffronCity_Gym_Text_GymStatuePlayerWon::
     .string "SAFFRON POKéMON SALONU\n"
     .string "LİDER: SABRINA\p"
-    .string "KAZANAN ANTRENÖRLER:\n"
+    .string "KAZANAN EĞİTMENLER:\n"
     .string "{RIVAL}, {PLAYER}$"
