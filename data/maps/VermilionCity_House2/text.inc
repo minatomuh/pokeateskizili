@@ -16,5 +16,5 @@ VermilionCity_House2_Text_ThankYou::
 	.string "Teşekkürler!$"
 
 VermilionCity_House2_Text_HowIsMyOldMon::
-	.string "Eski {STR_VAR_2} nasıl?\p"
+	.string "Eski {STR_VAR_2}'im nasıl?\p"
 	.string "{STR_VAR_1} harika gidiyor!$"

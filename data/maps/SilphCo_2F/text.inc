@@ -67,7 +67,7 @@ Text_ThunderWaveTaught::
     .string "Felç olmuş bir POKéMON savaşırken\n"
     .string "hareket edemeyebilir.\p"
     .string "ELEKTRİK tipi bir saldırıdır, bu\n"
-    .string "nedenle bazı POKéMON'lara\n"
+    .string "nedenle bazı POKéMON'lara\l"
     .string "etkili olmayabilir.$"
 
 SilphCo_2F_Text_FloorSign::

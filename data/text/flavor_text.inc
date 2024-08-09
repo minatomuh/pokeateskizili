@@ -29,10 +29,10 @@ Text_PokecenterSign::
   .string "POKéMON'unuzu İyileştirin!\nPOKéMON MERKEZİ$"
 
 Text_Indigo_UltimateGoal::
-  .string "INDIGO PLATOSU\pEĞİTMENLERİN nihai hedefi! POKéMON\nLİG MERKEZİ$"
+  .string "INDIGO PLATOSU\pEĞİTMENLERİN nihai hedefi!\nPOKéMON LİG MERKEZİ$"
 
 Text_Indigo_HighestAuthority::
-  .string "INDIGO PLATOSU\pEn yüksek POKéMON otoritesi! POKéMON\nLİG MERKEZİ$"
+  .string "INDIGO PLATOSU\pEn yüksek POKéMON otoritesi!\nPOKéMON LİG MERKEZİ$"
 
 Text_Food::
   .string "Yiyecek her türlü lezzetli şeyle dolu\nolmalıdır.$"
@@ -41,7 +41,7 @@ Text_Blueprints::
   .string "Bir çeşit plan. Şemalar ve metinlerle\ndolu.$"
 
 Text_Painting::
-  .string "Bu bir POKéMON'un güzel bir resmi. İyi\nhissediyor gibi görünüyor.$"
+  .string "Bu bir POKéMON'un güzel bir resmi.\nİyi hissediyor gibi görünüyor.$"
 
 Text_PowerPlantMachine::
   .string "Bu makine ne olabilir? Onunla\nuğraşmasan iyi olur!$"
@@ -50,7 +50,7 @@ Text_Telephone::
   .string "Bu bir telefon. Kullanmasan iyi olur.$"
 
 Text_Computer::
-  .string "Hiçbir anlam ifade etmeyen karmaşık\nkelimeler ve sayılar...$"
+  .string "Hiçbir anlam ifade etmeyen karmaşık\nkelimeler ve sayılar…$"
 
 Text_AdvertisingPoster::
   .string "Her türlü ürün hakkında bir reklam\nafişi.$"
@@ -59,7 +59,7 @@ Text_TastyFood::
   .string "Çok lezzetli kokuyor! Mideniz\nguruldayabilir!$"
 
 Text_TrashBin::
-  .string "Bunun içinde... ......\pBurada hiçbir şey yok!$"
+  .string "Bunun içinde…\n……\pBurada hiçbir şey yok!$"
 
 Text_Cup::
   .string "Üzerinde POKéMON işareti olan bir\nfincan.$"

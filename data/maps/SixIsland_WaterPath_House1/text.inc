@@ -1,13 +1,13 @@
 SixIsland_WaterPath_House1_Text_LoveItNeedItHeracross::
-    .string "Hera, Hera, Heracross!\n"
-    .string "Parlak ve büyük, böcek patronu!\l"
+    .string "Hera, Hera, HERACROSS!\n"
+    .string "Parlak ve büyük, böceklerin patronu!\l"
     .string "Seviyorum, ihtiyacım var, HERACROSS!$"
 
 SixIsland_WaterPath_House1_Text_MayIMeasureHeracross::
     .string "Eeeeek!\n"
     .string "Bu bir HERACROSS!\p"
-    .string "Lütfen, lütfen, ölçebilir miyim\n"
-    .string "ne kadar büyük olduğunu?$"
+    .string "Lütfen, lütfen, ne kadar büyük\n"
+    .string "olduğunu ölçebilir miyim?$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesDeserveReward::
     .string "Eeeek, {STR_VAR_2} inç!\n"

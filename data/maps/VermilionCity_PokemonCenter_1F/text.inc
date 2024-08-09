@@ -35,11 +35,11 @@ VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches::
     .string "şarj etmelisin.$"
 
 VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker::
-    .string "VS BULUCU nasıl mı kullanıyorsun?\n"
-    .string "Çok basit.\p"
-    .string "Bip-bip-biip gibi kullan ve\n"
-    .string "çevrendeki eğitmenler gelecek.\p"
-    .string "Eğer bir eğitmen savaş isterse,\n"
-    .string "hemen haber verecek.\p"
+    .string "VS BULUCU'yu nasıl kullanacağını\n"
+    .string "mı soruyorsun? Çok basit.\p"
+    .string "Tuşlara bip-bip basarak kullan ve\n"
+    .string "çevrendeki EĞİTMENLER gelsin.\p"
+    .string "Eğer bir EĞİTMEN savaş isterse,\n"
+    .string "sana hemen haber verir.\p"
     .string "Bataryasını şarj et ve yolda\n"
     .string "yürürken kullan.$"

@@ -8,8 +8,8 @@ FiveIsland_House1_JPText_HusbandWentOffFishing::
 
 FiveIsland_House1_Text_HusbandWentOffFishing::
     .string "Akşam yemeği için bir şey\n"
-    .string "almana gerek yokmuş!\p"
-    .string "Eşim bugün balık tutmaya\n"
-    .string "giderken böyle demiş.\p"
+    .string "almana gerek yok!\p"
+    .string "…Eşim bugün balık tutmaya\n"
+    .string "giderken böyle dedi.\p"
     .string "Sözünü tutup tutmayacağından\n"
     .string "emin değilim.$"

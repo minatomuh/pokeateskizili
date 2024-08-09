@@ -1289,56 +1289,57 @@ TwoIsland_JoyfulGameCorner_EventScript_ShowDodrioBerryPickingRecords::
 	end
 
 CableClub_Text_WelcomeWhichCableClubService::
-	.string "Welcome to the POKéMON CABLE\n"
-	.string "CLUB.\p"
-	.string "Which of our services do you wish\n"
-	.string "to use?$"
+	.string "POKéMON KABLO KULÜBÜ'ne\n"
+	.string "hoşgeldiniz.\p"
+	.string "Hangi servislerimizi kullanmak\n"
+	.string "istersiniz?$"
 
 CableClub_Text_WhichService::
-	.string "Which of our services do you wish\n"
-	.string "to use?$"
+	.string "Hangi servislerimizi kullanmak\n"
+	.string "istersiniz?$"
 
 CableClub_Text_TradeMonsUsingLinkCable::
-	.string "Trade POKéMON with another player\n"
-	.string "using a GBA Game Link cable.$"
+	.string "Başka birisi ile GBA Link Kablosu\n"
+	.string "kullanarak POKéMON takası yap.$"
 
 CableClub_Text_BattleUsingLinkCable::
-	.string "You may battle another TRAINER\n"
-	.string "using a GBA Game Link cable.$"
+	.string "GBA Link Kablosu ile başka bir\n"
+	.string "EĞİTMEN ile savaşabilirsin.$"
 
 @ Unused, translated in Emerald
 CableClub_Text_CloseThisMenu::
 	.string "おわります$"
 
 CableClub_Text_NeedTwoMonsForDoubleBattle::
-	.string "For a DOUBLE BATTLE, you must\n"
-	.string "have at least two POKéMON.$"
+	.string "ÇİFTLİ SAVAŞ için en az iki\n"
+	.string "POKéMON gerekiyor.$"
 
 CableClub_Text_NeedTwoMonsToTrade::
-	.string "For trading, you must have at\n"
-	.string "least two POKéMON with you.$"
+	.string "Takas yapmak için en az iki\n"
+	.string "POKéMON'unun olması gerekiyor.$"
 
 CableClub_Text_CantTradeEnigmaBerry::
-	.string "A POKéMON holding the {STR_VAR_1}\n"
-	.string "BERRY can't be traded.$"
+	.string "{STR_VAR_1} MEYVESİ tutan\n"
+	.string "POKéMON takas edilemez.$"
 
 CableClub_Text_PleaseWaitBCancel::
-	.string "Please wait.\n"
-	.string "… … B Button: Cancel$"
+	.string "Lütfen bekleyin.\n"
+	.string "… … B Tuşu: İptal$"
 
 CableClub_Text_WhenAllPlayersReadyAConfirmBCancel::
-	.string "When all players are ready…\n"
-	.string "A Button: Confirm\l"
-	.string "B Button: Cancel$"
+	.string "Tüm oyuncular hazır olunca…\n"
+	.string "A Tuşu: Onay\l"
+	.string "B Tuşu: İptal$"
 
 CableClub_Text_StartLinkWithXPlayersAConfirmBCancel::
-	.string "Start link with {STR_VAR_1} players.\n"
-	.string "A Button: Confirm\l"
-	.string "B Button: Cancel$"
+	.string "{STR_VAR_1} oyuncu ile bağlantıyı\n"
+	.string "başlat.\l"
+	.string "A Tuşu: Onay\l"
+	.string "B Tuşu: İptal$"
 
 CableClub_Text_AwaitingLinkupBCancel::
-	.string "Awaiting linkup…\n"
-	.string "… … B Button: Cancel$"
+	.string "Bağlantı bekleniyor…\n"
+	.string "… … B Tuşu: İptal$"
 
 @ Unused, translated in Emerald
 CableClub_Text_OkayToSaveProgress::
@@ -1346,108 +1347,107 @@ CableClub_Text_OkayToSaveProgress::
 	.string "かきますが　よろしいですか？$"
 
 CableClub_Text_PleaseEnter::
-	.string "Please enter.$"
+	.string "Lütfen girin.$"
 
 CableClub_Text_DirectYouToYourRoom::
-	.string "I'll direct you to your room now.$"
+	.string "Sizi şimdi odanıza yönlendireceğim.$"
 
 CableClub_Text_SomeoneIsNotReadyToLink::
-	.string "Someone is not ready to link.\p"
-	.string "Please come back after everyone\n"
-	.string "has made preparations.$"
+	.string "Birisi bağlantıya hazır değil.\p"
+	.string "Lütfen herkes hazır olduğunda\n"
+	.string "tekrar gelin.$"
 
 CableClub_Text_LinkErrorPleaseReset::
-	.string "Sorry, we have a link error…\n"
-	.string "Please reset and try again.$"
+	.string "Bağlantı hatası oluştu…\n"
+	.string "Lütfen tekrar deneyin.$"
 
 CableClub_Text_PlayersMadeDifferentSelections::
-	.string "The link partners appear to have\n"
-	.string "made different selections.$"
+	.string "Bağlantı partnerleri farklı seçim\n"
+	.string "yapmış görünüyor.$"
 
 CableClub_Text_PleaseVisitAgain::
-	.string "Please do visit again.$"
+	.string "Yine bekleriz.$"
 
 CableClub_Text_IncorrectNumberOfParticipants::
-	.string "The number of participants is\n"
-	.string "incorrect.$"
+	.string "Katılımcı sayısı hatalı.$"
 
 CableClub_Text_CantSingleBattleWithXPlayers::
-	.string "The SINGLE BATTLE Mode can't be\n"
-	.string "played by {STR_VAR_1} players.$"
+	.string "TEKLİ SAVAŞ modu {STR_VAR_1} adet\n"
+	.string "oyuncu ile oynanılamaz.$"
 
 CableClub_Text_CantDoubleBattleWithXPlayers::
-	.string "The DOUBLE BATTLE Mode can't be\n"
-	.string "played by {STR_VAR_1} players.$"
+	.string "ÇİFTLİ SAVAŞ modu {STR_VAR_1} adet\n"
+	.string "oyuncu ile oynanılamaz.$"
 
 CableClub_Text_NeedFourPlayers::
-	.string "There must be four players to play\n"
-	.string "this Battle Mode.$"
+	.string "Bu savaş modu için 4 kişi\n"
+	.string "gerekiyor.$"
 
 CableClub_Text_PleaseConfirmNumberAndRestart::
-	.string "Please confirm the number of\n"
-	.string "players and start again.$"
+	.string "Lütfen oyuncu sayısını tasdik\n"
+	.string "edip tekrar deneyin.$"
 
 Text_TerminateLinkIfYouLeaveRoom::
-	.string "The link will be terminated if you\n"
-	.string "leave the room. Is that okay?$"
+	.string "Eğer odayı terkederseniz bağlantı\n"
+	.string "kesilecek. Kabul ediyor musun?$"
 
 Text_TerminateLinkConfirmation::
-	.string "Terminating link…\n"
-	.string "You will be escorted out of\l"
-	.string "the room. Please wait.$"
+	.string "Bağlantı kesiliyor…\n"
+	.string "Odanın dışına çıkarılacaksınız.\l"
+	.string "Lütfen bekleyin.$"
 
 Text_TrainerTooBusyToNotice::
-	.string "This TRAINER is too busy to\n"
-	.string "notice…$"
+    .string "Bu EĞİTMEN çok meşgul, fark\n"
+    .string "edemiyor…$"
 
 Text_LookedAtPlayersTrainerCard::
-	.string "Score! Got to look at {STR_VAR_1}'s\n"
-	.string "TRAINER CARD!$"
+    .string "Harika! {STR_VAR_1}'in\n"
+    .string "EĞİTMEN KARTI'nı inceledim!$"
 
 Text_LookedAtPlayersTrainerCardColored::
-	.string "Score! Got to look at {STR_VAR_1}'s\n"
-	.string "TRAINER CARD!\p"
-	.string "It's a {STR_VAR_2} card!$"
+    .string "Harika! {STR_VAR_1}'in\n"
+    .string "EĞİTMEN KARTI'nı inceledim!\p"
+    .string "Bu bir {STR_VAR_2} kartı!$"
 
 Text_TakeSeatStartBattle::
-	.string "Please take your seat and start\n"
-	.string "your battle.$"
+    .string "Lütfen yerinizi alın ve\n"
+    .string "mücadelenize başlayın.$"
 
 Text_TakeSeatStartTrade::
-	.string "Please take your seat and start\n"
-	.string "your trade.$"
+    .string "Lütfen yerinizi alın ve\n"
+    .string "takasa başlayın.$"
 
 @ Unused, leftover from RS
 RecordCorner_Text_ThanksForComing::
 	.string "ごりよう　ありがとう　ございました$"
 
 CableClub_Text_TrainerCardDataOverwritten::
-	.string "The TRAINER CARD data will\n"
-	.string "be overwritten.$"
+    .string "EĞİTMEN KARTI verileri\n"
+    .string "üzerine yazılacak.$"
 
 CableClub_Text_HopeToSeeYouAgain::
-	.string "I hope to see you again!$"
+    .string "Tekrar görüşmek dileğiyle!$"
 
 CableClub_Text_NotSetUpForFarAwayRegion::
-	.string "I'm awfully sorry.\p"
-	.string "We're not set up to conduct trades\n"
-	.string "with TRAINERS far away in another\l"
-	.string "region yet…$"
+    .string "Çok özür dilerim.\p"
+    .string "Henüz uzak bir bölgede bulunan\n"
+    .string "EĞİTMENLER ile takas yapabilecek\l"
+    .string "şekilde ayarlı değiliz…$"
 
 CableClub_Text_OtherTrainerNotReady::
-	.string "The other TRAINER is not ready.$"
+    .string "Diğer EĞİTMEN hazır değil.$"
 
 CableClub_Text_YouHaveAMonThatCantBeTaken::
-	.string "You have at least one POKéMON\n"
-	.string "that can't be taken.$"
+    .string "Elinizde alınamayan en az bir\n"
+    .string "POKéMON var.$"
 
 CableClub_Text_AdapterNotConnected::
-	.string "The Wireless Adapter is not\n"
-	.string "connected properly.$"
+    .string "Kablosuz Adaptör doğru\n"
+    .string "şekilde bağlı değil.$"
 
 CableClub_Text_ParticipantsStepUpToCounter::
-	.string "Participants are asked to step up\n"
-	.string "to the reception counter.$"
+    .string "Katılımcıların resepsiyon\n"
+    .string "tezgahına yaklaşmaları isteniyor.$"
 
 @ Unused, translated in Emerald
 CableClub_Text_Hello::
@@ -1458,16 +1458,16 @@ CableClub_Text_PleaseWait::
 	.string "しょうしょう　おまちください$"
 
 CableClub_Text_YouMayTradeHere::
-	.string "You may trade your POKéMON here\n"
-	.string "with another TRAINER.$"
+    .string "Burada POKéMON'unuzu başka bir\n"
+    .string "EĞİTMEN ile takas edebilirsiniz.$"
 
 CableClub_Text_YouMayBattleHere::
-	.string "You may battle with your friends\n"
-	.string "here.$"
+    .string "Burada arkadaşlarınızla\n"
+    .string "dövüşebilirsiniz.$"
 
 CableClub_Text_CanMakeBerryPowder::
-	.string "Two to five TRAINERS can make\n"
-	.string "BERRY POWDER together.$"
+    .string "İki ila beş EĞİTMEN birlikte\n"
+    .string "MEYVE TOZU yapabilir.$"
 
 @ Unused, Record Mix nopped
 CableClub_Text_CanMixRecords::
@@ -1475,7 +1475,7 @@ CableClub_Text_CanMixRecords::
 	.string "あそびかたを　せつめいします$"
 
 CableClub_Text_CancelSelectedItem::
-	.string "Cancels the selected MENU item.$"
+    .string "Seçilen MENÜ ögesini iptal eder.$"
 
 @ Unused, translated in Emerald
 CableClub_Text_WhichBattleMode::
@@ -1486,23 +1486,24 @@ CableClub_Text_ReturnsToPreviousStep::
 	.string "ひとつ　まえに　もどります$"
 
 CableClub_Text_NeedBerryForBerryCrush::
-	.string "To use the BERRY CRUSH service,\n"
-	.string "you must have at least one BERRY.$"
+    .string "MEYVE EZ hizmetini kullanmak için\n"
+    .string "en az bir MEYVE'ye sahip\l"
+	.string "olmalısınız.$"
 
 CableClub_Text_NeedTwoMonsForUnionRoom::
-	.string "To enter the UNION ROOM, you must\n"
-	.string "have at least two POKéMON.$"
+    .string "BİRLİK ODASI'na girmek için en az\n"
+    .string "iki POKéMON'a sahip olmalısınız.$"
 
 CableClub_Text_NoEnigmaBerryInUnionRoom::
-	.string "No POKéMON holding the {STR_VAR_1}\n"
-	.string "BERRY may enter the UNION ROOM.$"
+    .string "BİRLİK ODASI'na {STR_VAR_1} MEYVE'ye\n"
+    .string "sahip bir POKéMON giremez.$"
 
 CableClub_Text_UnionRoomAdapterNotConnected::
-	.string "This is the POKéMON WIRELESS CLUB\n"
-	.string "UNION ROOM.\p"
-	.string "Unfortunately, your Wireless\n"
-	.string "Adapter is not connected properly.\p"
-	.string "Please do come again.$"
+    .string "Bu POKéMON KABLOSUZ KULÜBÜ\n"
+    .string "BİRLİK ODASI'dır.\p"
+    .string "Maalesef, Kablosuz Adaptörünüz\n"
+    .string "doğru şekilde bağlanmamış.\p"
+    .string "Lütfen tekrar gelin.$"
 
 @ Unused, translated in Emerald
 CableClub_Text_OhExcuseMe::
@@ -1510,66 +1511,68 @@ CableClub_Text_OhExcuseMe::
 	.string "おきゃくさま！$"
 
 Text_PlayerIsPlayingRightNowGoForIt::
-	.string "It appears as if {STR_VAR_1} is playing\n"
-	.string "right now.\l"
-	.string "Go for it!$"
+    .string "{STR_VAR_1} şu anda oynuyor gibi\n"
+    .string "görünüyor.\l"
+    .string "Hadi yapabilirsin!$"
 
 Text_DescribeWhichGame::
-	.string "I can explain game rules to you,\n"
-	.string "if you'd like.\p"
-	.string "Which game should I describe?$"
+    .string "Oyun kurallarını açıklayabilirim,\n"
+    .string "eğer istersen.\p"
+    .string "Hangi oyunu açıklayayım?$"
 
 Text_PokemonJumpInfo::
-	.string "“POKéMON JUMP”\p"
-	.string "Make your POKéMON skip the\n"
-	.string "VINE WHIP rope with the A Button.\p"
-	.string "Only mini POKéMON around 28 inches\n"
-	.string "or less may participate.\p"
-	.string "POKéMON that only swim, burrow, or\n"
-	.string "fly are not good at jumping.\p"
-	.string "As a result, those POKéMON may not\n"
-	.string "participate.\p"
-	.string "Good things happen if everyone\n"
-	.string "jumps in time.$"
+    .string "“POKÉMON ZIPLA”\p"
+    .string "POKÉMON'unuzu A Düğmesi ile\n"
+    .string "KAMÇI YAPRAK ipinin üzerinden\l"
+    .string "atlatarak atlattırın.\p"
+    .string "Sadece 28 inç veya daha küçük\n"
+    .string "POKÉMON'lar katılabilir.\p"
+    .string "Sadece yüzme, kazma veya\n"
+    .string "uçma yeteneği olan POKÉMON'lar\l"
+    .string "atlama konusunda iyi değildir.\p"
+    .string "Bu nedenle, bu POKÉMON'lar\n"
+    .string "katılamayabilir.\p"
+    .string "Herkes zamanında atlarsa\n"
+    .string "güzel şeyler olur.$"
 
 Text_DodrioBerryPickingInfo::
-	.string "“DODRIO BERRY-PICKING”\p"
-	.string "Command DODRIO's three heads to\n"
-	.string "catch falling BERRIES.\p"
-	.string "Press right, up, or left on the\n"
-	.string "{PLUS} Control Pad to move the heads.\p"
-	.string "To play this game, you must have\n"
-	.string "a DODRIO.$"
+    .string "“DODRIO MEYVE-TOPLAMA”\p"
+    .string "DODRIO'nun üç başını düşen\n"
+    .string "MEYVELERİ yakalamak için oynatın.\p"
+    .string "Kafaları hareket ettirmek için\n"
+    .string "{PLUS} Kontrol Düğmesi'nde sağa,\l"
+    .string "yukarıya veya sola basın.\p"
+    .string "Bu oyunu oynayabilmek için\n"
+    .string "bir DODRIO'nuz olmalı.$"
 
 Text_TalkToManToPlay::
-	.string "If you want to play a game,\n"
-	.string "please tell the man beside me.$"
+    .string "Bir oyun oynamak istiyorsanız,\n"
+    .string "yanımda duran adama söyleyin.$"
 
 Text_WelcomeCanYouWait::
-	.string "Hi, welcome!\n"
-	.string "You can play games over the\l"
-	.string "Wireless Communication System.\p"
-	.string "Can you wait just a little bit?$"
+    .string "Merhaba, hoş geldiniz!\n"
+    .string "Oyunları Kablosuz İletişim Sistemi\l"
+    .string "üzerinden oynayabilirsiniz.\p"
+    .string "Biraz bekleyebilir misiniz?$"
 
 CableClub_Text_ComeAgain::
-	.string "All right, come again!$"
+    .string "Tamam, tekrar gelin!$"
 
 Text_AdapterNotConnectedMinigame::
-	.string "The Wireless Adapter isn't\n"
-	.string "connected.\p"
-	.string "Come back when it's hooked up!$"
+    .string "Kablosuz Adaptör bağlı değil.\n"
+    .string "Bağladıktan sonra geri gelin!$"
 
 Text_PlayWhichGame::
-	.string "All right, which game did you want\n"
-	.string "to play?$"
+    .string "Tamam, hangi oyunu oynamak\n"
+    .string "istiyorsunuz?$"
 
 Text_EnterWhichPokemon::
-	.string "Which POKéMON would you like to\n"
-	.string "enter?$"
+    .string "Hangi POKéMON ile girmek\n"
+    .string "istersiniz?$"
 
 Text_AllGoodToGo::
-	.string "Okay, you're all good to go.\n"
-	.string "Don't let the others beat you!$"
+    .string "Tamam, her şey hazır.\n"
+    .string "Diğerlerinin seni yenmesine izin verme!$"
 
 @ Unused, translated in Emerald
 Text_LeavingDoComeAgain::
@@ -1577,25 +1580,26 @@ Text_LeavingDoComeAgain::
 	.string "またこいよ！$"
 
 EventScript_ExplainPokemonJumpRequirements::
-	.string "It doesn't look like you have any\n"
-	.string "POKéMON that you can enter…\p"
-	.string "Would you like me to explain what\n"
-	.string "kinds of POKéMON can enter?$"
+    .string "Görünüşe göre girebileceğin hiç\n"
+    .string "POKéMON'un yok…\p"
+    .string "Hangi tür POKéMON'ların girebileceğini\n"
+    .string "açıklamamı ister misin?$"
 
 Text_ShortJumpingPokemonAllowed::
-	.string "“POKéMON JUMP” is open to POKéMON\n"
-	.string "around 28 inches or less.\p"
-	.string "What you can't enter are those\n"
-	.string "POKéMON that can't jump.\p"
-	.string "You know, like POKéMON that only\n"
-	.string "swim, burrow, or fly.\p"
-	.string "That's all you need to know.$"
+    .string "“POKéMON ZIPLA” sadece 28 inç\n"
+    .string "veya daha kısa olan POKéMON'lara.\l"
+	.string "açıktır.\p"
+    .string "Girebileceğin POKéMON'lar\n"
+	.string "zıplayabilenlerdir.\p"
+    .string "Sadece yüzen, kazan veya uçan\n"
+    .string "POKéMON'lar bu oyuna giremezler.\p"
+    .string "Bilmen gereken her şey bu.$"
 
 Text_OnlyDodrioAllowed::
-	.string "“DODRIO BERRY-PICKING”…\n"
-	.string "Well, the name says it all.\p"
-	.string "You have to have a DODRIO to play\n"
-	.string "this game.$"
+    .string "“DODRIO MEYVE-TOPLAMA”…\n"
+    .string "Eh, ismi her şeyi anlatıyor.\p"
+    .string "Bu oyunu oynamak için bir\n"
+    .string "DODRIO'ya sahip olmalısın.$"
 
 @ Unused, translated in Emerald
 Text_RetryFromStartPlease::
@@ -1603,152 +1607,155 @@ Text_RetryFromStartPlease::
 	.string "やりなおして　みて　くれ$"
 
 CableClub_Text_WelcomeWhichDirectCornerRoom::
-	.string "Welcome to the POKéMON WIRELESS\n"
-	.string "CLUB DIRECT CORNER.\p"
-	.string "You may interact directly with\n"
-	.string "your friends here.\p"
-	.string "Which room would you like to\n"
-	.string "enter?$"
+    .string "POKéMON KABLOSUZ KULÜBÜ DİREKT\n"
+    .string "KÖŞESİ'ne hoş geldin.\p"
+    .string "Burada arkadaşlarınla doğrudan\n"
+    .string "iletişim kurabilirsin.\p"
+    .string "Hangi odaya girmek istersin?$"
 
 CableClub_Text_TradePokemon::
-	.string "Would you like to trade POKéMON?$"
+    .string "POKéMON takası yapmak ister misin?$"
 
 CableClub_Text_PlayWhichBattleMode::
-	.string "Which Battle Mode would you like\n"
-	.string "to play?$"
+    .string "Hangi Savaş Modunu oynamak istersin?$"
 
 CableClub_Text_UseBerryCrush::
-	.string "Would you like to use the\n"
-	.string "BERRY CRUSH System?$"
+    .string "MEYVE EZ Sistemi'ni kullanmak\n"
+    .string "ister misin?$"
 
 CableClub_Text_ExplainBattleModes::
-	.string "There are three Battle Modes.\p"
-	.string "SINGLE BATTLE is for two TRAINERS\n"
-	.string "with one or more POKéMON each.\p"
-	.string "Each TRAINER can have one POKéMON\n"
-	.string "in battle at a time.\p"
-	.string "DOUBLE BATTLE is for two TRAINERS\n"
-	.string "with two or more POKéMON each.\p"
-	.string "Each TRAINER will send out two\n"
-	.string "POKéMON in battle at a time.\p"
-	.string "MULTI BATTLE is for four TRAINERS\n"
-	.string "with one or more POKéMON each.\p"
-	.string "Each TRAINER can have one POKéMON\n"
-	.string "in battle at a time.$"
+    .string "Üç tane Savaş Modu bulunmaktadır.\p"
+    .string "TEKLİ SAVAŞ, her birinin bir veya\n"
+    .string "daha fazla POKéMON'a sahip olduğu\l"
+    .string "iki EĞİTMEN içindir.\p"
+    .string "Her EĞİTMEN savaşta bir seferde bir\n"
+    .string "POKéMON kullanabilir.\p"
+    .string "İKİLİ SAVAŞ, her birinin iki veya\n"
+    .string "daha fazla POKéMON'a sahip olduğu\l"
+    .string "iki EĞİTMEN içindir.\p"
+    .string "Her EĞİTMEN savaşta bir seferde iki\n"
+    .string "POKéMON gönderir.\p"
+    .string "ÇOKLU SAVAŞ, her birinin bir veya\n"
+    .string "daha fazla POKéMON'a sahip olduğu\l"
+    .string "dört EĞİTMEN içindir.\p"
+    .string "Her EĞİTMEN savaşta bir seferde bir\n"
+    .string "POKéMON kullanabilir.$"
 
 CableClub_Text_ChooseGroupLeaderOfTwo::
-	.string "Please decide which of you two\n"
-	.string "will become the LEADER.\p"
-	.string "The other player must then choose\n"
-	.string "“JOIN GROUP.”$"
+    .string "Lütfen ikinizden hangisinin\n"
+    .string "GRUP LİDERİ olacağını seçin.\p"
+    .string "Diğer oyuncu ardından “GRUP \n"
+    .string "KATIL” seçeneğini seçmelidir.$"
 
 CableClub_Text_ChooseGroupLeaderOfFour::
-	.string "Please decide which of you four\n"
-	.string "will become the GROUP LEADER.\p"
-	.string "The other players must then choose\n"
-	.string "“JOIN GROUP.”$"
+    .string "Lütfen dördünüzden hangisinin\n"
+    .string "GRUP LİDERİ olacağını seçin.\p"
+    .string "Diğer oyuncular ardından “GRUP\n"
+    .string "KATIL”seçeneğini seçmelidir.$"
 
 CableClub_Text_ChooseGroupLeader::
-	.string "Please decide which of you will\n"
-	.string "become the GROUP LEADER.\p"
-	.string "The other players must then choose\n"
-	.string "“JOIN GROUP.”$"
+    .string "Lütfen hanginizin\n"
+    .string "GRUP LİDERİ olacağını seçin.\p"
+    .string "Diğer oyuncular ardından “GRUP\n"
+    .string "KATIL” seçeneğini seçmelidir.$"
 
 CableClub_Text_WelcomeUnionRoomEnter::
-	.string "Welcome to the POKéMON WIRELESS\n"
-	.string "CLUB UNION ROOM.\p"
-	.string "You may interact directly with\n"
-	.string "other TRAINERS here, some of\l"
-	.string "whom you may not even know.\p"
-	.string "Would you like to enter the ROOM?$"
+    .string "POKéMON KABLOSUZ KULÜP\n"
+    .string "BİRLİK ODASI'na hoş geldiniz.\p"
+    .string "Burada diğer EĞİTMENLER ile\n"
+    .string "iletişim kurabilirsiniz. Bazıları\l"
+    .string "belki de tanımadığınız kişiler.\l"
+	.string "olabilir.\p"
+    .string "Odaya girmek ister misiniz?$"
 
 CableClub_Text_UnionRoomInfo::
-	.string "The TRAINERS in the UNION ROOM\n"
-	.string "will be those players around you\l"
-	.string "who have also entered the ROOM.\p"
-	.string "You may do all sorts of things\n"
-	.string "here, such as exchanging greetings.\p"
-	.string "You may enter two POKéMON up to\n"
-	.string "Lv. 30 for a one-on-one battle.\p"
-	.string "You may take part in a chat with\n"
-	.string "two to five people.\p"
-	.string "Or, you may register a POKéMON for\n"
-	.string "trade.\p"
-	.string "Would you like to enter the ROOM?$"
+    .string "BİRLİK ODASI'ndaki EĞİTMENLER\n"
+    .string "etrafınızdaki ve ODA'ya giren\l"
+    .string "oyuncular olacaktır.\p"
+    .string "Burada selamlaşma gibi her türlü\n"
+    .string "etkileşimde bulunabilirsiniz.\p"
+    .string "Bire-bir savaş için iki POKéMON'u\n"
+    .string "Lv. 30'a kadar seçebilirsiniz.\p"
+    .string "İki ila beş kişiyle sohbet\n"
+	.string "edebilirsiniz.\p"
+    .string "Veya bir POKéMON'u takas için\n"
+	.string "kaydedebilirsiniz.\p"
+    .string "Odaya girmek ister misiniz?$"
 
 CableClub_Text_EnjoyUnionRoom::
-	.string "I hope you enjoy your time in\n"
-	.string "the UNION ROOM.$"
+	.string "Umarım BİRLİK ODASI'nda iyi\n"
+	.string "zaman geçirirsiniz.$"
 
 CableClub_Text_FirstTimeRightThisWay::
-	.string "Hello!\n"
-	.string "My name is TEALA.\p"
-	.string "This must be your first time\n"
-	.string "up here.\p"
-	.string "I'll show you how the Wireless\n"
-	.string "Communication System works.\p"
-	.string "First, I need to show you this\n"
-	.string "floor of our POKéMON CENTER.\p"
-	.string "Right this way, please.$"
+    .string "Merhaba!\n"
+    .string "Benim adım TEALA.\p"
+    .string "Burada yeni olduğunuz belli.\p"
+    .string "Kablosuz İletişim Sistemi'ni nasıl\n"
+    .string "kullanacağınızı göstereceğim.\p"
+    .string "Öncelikle, POKéMON MERKEZİ'mizin\n"
+    .string "bu katını göstermek istiyorum.\p"
+    .string "Bu yoldan ilerleyin, lütfen.$"
 
 CableClub_Text_ExplainWirelessClubFirstTime::
-	.string "On the top floor, there are two\n"
-	.string "rooms.\p"
-	.string "First, the room on the left.\n"
-	.string "It's the UNION ROOM.\p"
-	.string "You may link up with TRAINERS\n"
-	.string "around you who have also entered\l"
-	.string "the UNION ROOM.\p"
-	.string "With them, you may do things like\n"
-	.string "chat, battle, and trade.\p"
-	.string "Second, the room on the right is\n"
-	.string "the DIRECT CORNER.\p"
-	.string "You may trade or battle POKéMON\n"
-	.string "with your friends in this room.\p"
-	.string "If the Wireless Adapter isn't\n"
-	.string "connected, you may still link up\l"
-	.string "using a GBA Game Link cable.\p"
-	.string "If that is the case, you must go\n"
-	.string "to the DIRECT CORNER.\p"
-	.string "I hope you enjoy the Wireless \n"
-	.string "Communication System.$"
+    .string "Üst katta iki oda var.\p"
+    .string "Birincisi soldaki oda.\n"
+    .string "Bu oda BİRLİK ODASI'dır.\p"
+    .string "Burada etrafınızdaki ve BİRLİK\n"
+    .string "ODASI'na giren EĞİTMENLER ile\l"
+	.string "bağlanabilirsiniz.\p"
+    .string "Onlarla sohbet edebilir,\n"
+    .string "savaşabilir ve takas\l"
+	.string "yapabilirsiniz.\p"
+    .string "İkincisi, sağdaki oda\n"
+    .string "DİREKT KÖŞE'dir.\p"
+    .string "Bu odada arkadaşlarınızla POKéMON\n"
+    .string "takas edebilir veya\l"
+	.string "savaşabilirsiniz.\p"
+    .string "Kablosuz Adaptör bağlı değilse,\n"
+    .string "GBA Link Kablosu kullanarak da\l"
+    .string "bağlanabilirsiniz.\p"
+    .string "Bu durumda, DİREKT KÖŞE'ye\n"
+	.string "gitmelisiniz.\p"
+    .string "Kablosuz İletişim Sistemi'ni\n"
+    .string "beğenmenizi umuyorum.$"
 
 CableClub_Text_AskAboutLinking::
-	.string "Hello, {PLAYER}!\p"
-	.string "It's me, TEALA, the POKéMON\n"
-	.string "CENTER 2F attendant.\p"
-	.string "Is there something you needed to\n"
-	.string "ask me about linking?$"
+    .string "Merhaba, {PLAYER}!\p"
+    .string "Ben TEALA, POKéMON MERKEZİ 2. kat\n"
+    .string "görevlisiyim.\p"
+    .string "Bağlantı hakkında bana sormak\n"
+    .string "istediğiniz bir şey var mı?$"
 
 CableClub_Text_ExplainWirelessClub::
-	.string "Let me explain how the POKéMON\n"
-	.string "WIRELESS CLUB works.\p"
-	.string "On this, the top floor, there are\n"
-	.string "two rooms.\p"
-	.string "First, the room on the left.\n"
-	.string "It's the UNION ROOM.\p"
-	.string "You may link up with TRAINERS\n"
-	.string "around you who have also entered\l"
-	.string "the UNION ROOM.\p"
-	.string "With them, you may do things like\n"
-	.string "chat, battle, and trade.\p"
-	.string "Second, the room on the right is\n"
-	.string "the DIRECT CORNER.\p"
-	.string "You may trade or battle POKéMON\n"
-	.string "with your friends in this room.\p"
-	.string "Sometimes, you may not be able to\n"
-	.string "find your friends in the UNION ROOM\l"
-	.string "or the DIRECT CORNER.\p"
-	.string "In that case, please move closer\n"
-	.string "to your friends.\p"
-	.string "If the Wireless Adapter isn't\n"
-	.string "connected, you may still link up\l"
-	.string "using a GBA Game Link cable.\p"
-	.string "If that is the case, you must go\n"
-	.string "to the DIRECT CORNER.\p"
-	.string "I hope you enjoy the Wireless \n"
-	.string "Communication System.$"
+    .string "POKéMON KABLOSUZ KULÜP'ün nasıl\n"
+    .string "çalıştığını açıklayayım.\p"
+    .string "Bu, üst kattaki iki odadan\n"
+    .string "birincisi soldaki odadır.\p"
+    .string "Bu, BİRLİK ODASI'dır.\p"
+    .string "Burada, BİRLİK ODASI'na giriş\n"
+    .string "yapan diğer EĞİTMENLER ile\l"
+    .string "bağlantı kurabilirsiniz.\p"
+    .string "Onlarla sohbet edebilir,\n"
+    .string "savaşabilir ve takas\l"
+	.string "yapabilirsiniz.\p"
+    .string "İkincisi, sağdaki oda ise\n"
+    .string "DİREKT KÖŞE'dir.\p"
+    .string "Bu odada arkadaşlarınızla POKéMON\n"
+    .string "takası yapabilir veya\l"
+	.string "savaşabilirsiniz.\p"
+    .string "Bazen BİRLİK ODASI veya DİREKT\n"
+    .string "KÖŞE'de arkadaşlarınızı\l"
+	.string "bulamayabilirsiniz.\p"
+    .string "Bu durumda, arkadaşlarınıza daha\n"
+    .string "yakınlaşmanızı öneririm.\p"
+    .string "Eğer Kablosuz Adaptör bağlı\n"
+    .string "değilse, hala GBA Link Kablosunu\l"
+    .string "kullanarak bağlantı yapabilirsiniz.\p"
+    .string "Böyle bir durumda, DİREKT KÖŞE'ye\n"
+    .string "gitmelisiniz.\p"
+    .string "Kablosuz İletişim Sistemini\n"
+    .string "beğenmenizi umarım.$"
 
 CableClub_Text_HopeYouEnjoyWirelessSystem::
-	.string "I hope you enjoy the Wireless\n"
-	.string "Communication System.$"
+	.string "Kablosuz İletişim Sistemini\n"
+    .string "beğenmenizi umarım.$"

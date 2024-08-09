@@ -36,7 +36,8 @@ VermilionCity_Gym_Text_MakeRoomInYourBag::
 VermilionCity_Gym_Text_LtSurgeDefeat::
     .string "Bu gerçekten şaşırtıcı!\p"
     .string "Sen gerçekten iyisin, çocuk!\p"
-    .string "Tamam, o zaman YILDIRIM ROZETİNİ al!$"
+    .string "Tamam, o zaman YILDIRIM ROZETİ'ni\n"
+    .string "al!$"
 
 VermilionCity_Gym_Text_TuckerIntro::
     .string "Ordudayken TĞM. SURGE\n"
@@ -85,16 +86,16 @@ VermilionCity_Gym_Text_GymGuyAdvice::
     .string "Hey!\n"
     .string "Şampiyon olacak gibisin!\p"
     .string "TĞM. SURGE'ın bir takma adı var.\p"
-    .string "İnsanlar ona Yıldırım Amerikalı\n"
+    .string "İnsanlar ona Şimşek Amerikalı\n"
     .string "diye hitap ediyorlar.\p"
-    .string "Elektrikli POKéMON konusunda\n"
+    .string "Elektrik POKéMON'u konusunda\n"
     .string "uzmandır.\p"
-    .string "KUŞ/SU-tipi POKéMON'lar elektriğe\n"
+    .string "UÇUŞ/SU-tipi POKéMON'lar elektriğe\n"
     .string "karşı zayıf kalır.\p"
     .string "Felce de dikkat et.\p"
     .string "TĞM. SURGE çok tedbirli.\p"
-    .string "Kendini kilitledi, bu yüzden ona ulaşmak\n"
-    .string "kolay olmayacak.$"
+    .string "Kendini kilitledi, bu yüzden ona\n"
+    .string "ulaşmak kolay olmayacak.$"
 
 VermilionCity_Gym_Text_GymGuyPostVictory::
     .string "Vay!\n"
@@ -102,13 +103,13 @@ VermilionCity_Gym_Text_GymGuyPostVictory::
 
 VermilionCity_Gym_Text_GymStatue::
     .string "VERMILION POKéMON SALONU\n"
-    .string "LİDER: LT. SURGE\p"
+    .string "LİDER: TĞM. SURGE\p"
     .string "KAZANAN ANTRENÖRLER:\n"
     .string "{RIVAL}$"
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
     .string "VERMILION POKéMON SALONU\n"
-    .string "LİDER: LT. SURGE\p"
+    .string "LİDER: TĞM. SURGE\p"
     .string "KAZANAN ANTRENÖRLER:\n"
     .string "{RIVAL}, {PLAYER}$"
 

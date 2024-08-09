@@ -1,7 +1,7 @@
 CeruleanCity_Gym_Text_MistyIntro::
     .string "Merhaba, burada yenisin!\p"
     .string "Sadece POKéMON hakkında bir\l"
-    .string "politikası olan EĞİTMENLER\n"
+    .string "politikası olan EĞİTMENLER\l"
     .string "profesyonel olabilir.\p"
     .string "POKéMON'u yakalayıp eğitirken\n"
     .string "yaklaşımın nedir?\p"
@@ -14,8 +14,8 @@ CeruleanCity_Gym_Text_ExplainTM03::
     .string "Onu su POKéMON'u üstünde kullan!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
-    .string "CASCADEBADGE, tüm POKéMON'ların\n"
-    .string "SV. 30'a kadar itaat etmesini\n"
+    .string "ÇAĞLAYAN ROZETİ, tüm POKéMON'ların\n"
+    .string "SV. 30'a kadar itaat etmesini\l"
     .string "sağlar.\p"
     .string "Buna takas yoluyla elde ettiğin\n"
     .string "yabancı POKéMON'lar da dahil.\p"
@@ -38,7 +38,7 @@ CeruleanCity_Gym_Text_MistyDefeat::
     .string "Çok iyisin!\p"
     .string "Tamam!\p"
     .string "Çok iyi performans gösterdin, o\n"
-    .string "yüzden CASCADEBADGE'i sana\n"
+    .string "yüzden ÇAĞLAYAN ROZETİ'ni sana\l"
     .string "veriyorum.$"
 
 CeruleanCity_Gym_Text_DianaIntro::

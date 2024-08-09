@@ -1,5 +1,5 @@
 PalletTown_Text_HmmIsThatRight::
-  .string "Hmm... Bu doğru mu?$"
+  .string "Hmm… Bu doğru mu?$"
 
 PalletTown_Text_OhLookLook::
   .string "Hey! Şuna bir bak!$"

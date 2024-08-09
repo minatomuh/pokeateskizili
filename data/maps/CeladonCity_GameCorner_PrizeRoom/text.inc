@@ -1,6 +1,6 @@
 CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygon:
-    .string "PORYGON'u kazanmak istiyorum!\n"
-    .string "Slot makineleri zorlu.$"
+    .string "PORYGON'u almayı çok istiyorum!\n"
+    .string "Ama slotlarda kazanmak çok zor.$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_RakedItInToday:
     .string "Harika bir gündü, çok para kazandım!\n"
@@ -20,13 +20,12 @@ CeladonCity_GameCorner_PrizeRoom_Text_HereYouGo:
     .string "İşte hediyeniz.$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_YouWantPrize:
-    .string "Öyleyse,\n{STR_VAR_1} mı istiyorsunuz?$"
+    .string "Öyleyse, {STR_VAR_1} almak mı\n"
+    .string "istiyorsunuz?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_YouWantTM:
-    .string "Tamam,\n"
-    .string "{STR_VAR_2} TM'si\l"
-    .string "istiyorsunuz.\l"
-    .string "Doğru mu?$"
+    .string "Tamam, istediğiniz şey\n"
+    .string "{STR_VAR_2} TM'si mi?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_NeedMoreCoins:
     .string "Üzgünüm, daha fazla\n"

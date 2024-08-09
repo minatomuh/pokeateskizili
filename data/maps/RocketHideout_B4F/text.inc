@@ -1,5 +1,5 @@
 RocketHideout_B4F_Text_GiovanniIntro::
-    .string "Hey! Buraya geldiğinize şaşmamak\n"
+    .string "Hey! Buraya geldiğine şaşmamak\n"
     .string "elde değil.\p"
     .string "ROKET TAKIMI dünyadaki tüm\n"
     .string "POKéMON'ları yakalar.\p"

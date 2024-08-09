@@ -12,11 +12,11 @@ CinnabarIsland_PokemonCenter_1F_Text_VisitUnionRoom::
     .string "Çok arkadaşın var mı?\p"
     .string "Tabii ki, normal arkadaşlarla\n"
     .string "bağlantı kurmak eğlenceli.\p"
-    .string "Ama ara sıra UNION ROOM'a\n"
+    .string "Ama ara sıra BİRLİK ODASI'na\n"
     .string "uğramayı düşünür müsün?\p"
     .string "Bilemezsin, belki de yeni\n"
     .string "arkadaşlar edinebilirsin.\p"
-    .string "UNION ROOM'a bakmak\n"
+    .string "BİRLİK ODASI'na bakmak\n"
     .string "zamanına değer.$"
 
 CinnabarIsland_PokemonCenter_1F_Text_EvolutionCanWaitForNewMoves::

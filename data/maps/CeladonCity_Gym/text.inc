@@ -18,7 +18,7 @@ CeladonCity_Gym_Text_ErikaDefeat::
     .string "Ah!\n"
     .string "Yenildiğimi kabul ediyorum.\l"
     .string "Çok güçlüsün.\p"
-    .string "Size RAINBOWBADGE'i\n"
+    .string "Size GÖKKUŞAĞI ROZETİ'ni\n"
     .string "vermek zorundayım.$"
 
 CeladonCity_Gym_Text_ErikaPostBattle::
@@ -28,7 +28,7 @@ CeladonCity_Gym_Text_ErikaPostBattle::
     .string "POKéMON'ları asla toplamazdım.$"
 
 CeladonCity_Gym_Text_ExplainRainbowBadgeTakeThis::
-    .string "RAINBOWBADGE, POKéMON'ların\n"
+    .string "GÖKKUŞAĞI ROZETİ, POKéMON'ların\n"
     .string "50. seviyeye kadar\l"
     .string "itaat etmesini sağlayacak.\p"
     .string "Ayrıca POKéMON'ların savaş dışında\n"

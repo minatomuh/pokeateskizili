@@ -1,19 +1,19 @@
 SixIsland_WaterPath_Text_RoseIntro::
-    .string "Nereye gideceğimi serin bir esintiye bıraktım\n"
-    .string "ve buraya geldim.$"
+    .string "Nereye gideceğimi serin bir esintiye\n"
+    .string "bıraktım ve buraya geldim.$"
 
 SixIsland_WaterPath_Text_RoseDefeat::
-    .string "Giggle… O kararlı halin çok tatlı.$"
+    .string "Hıhı… O kararlı halin çok tatlı.$"
 
 SixIsland_WaterPath_Text_RosePostBattle::
-    .string "Oradaki ormana gitmek istiyorum,\nama…\p"
-    .string "Orada çok BÖCEK POKéMON var.\n"
+    .string "Oradaki ormana gitmek istiyorum,\n"
+    .string "ama…\p"
+    .string "Orada çok BÖCEK POKéMON'u var.\n"
     .string "Biraz korkutucu.$"
 
 SixIsland_WaterPath_Text_EdwardIntro::
     .string "Kimsenin görmeyeceği şekilde\n"
-    .string "gizli gizli\l"
-    .string "pratik yapıyorum.$"
+    .string "gizli gizli pratik yapıyorum.$"
 
 SixIsland_WaterPath_Text_EdwardDefeat::
     .string "Kaybettiğimi kimse görmedi,\n"

@@ -914,14 +914,14 @@ Text_BigHoleInTheWall::
 	.string "かべに\n"
 	.string "おおきな　あなが　あいている！$"
 
-Text_WirelessClubUndergoingAdjustments::
-	.string "I'm terribly sorry.\n"
-	.string "The POKéMON WIRELESS CLUB is\l"
-	.string "undergoing adjustments now.$"
+Text_WirelessClubUndergoingAdjustments:
+	.string "Çok özür dilerim.\n"
+	.string "POKÉMON WIRELESS CLUB şu anda\l"
+	.string "ayarlama aşamasında.$"
 
-Text_AppearsToBeUndergoingAdjustments::
-	.string "It appears to be undergoing\n"
-	.string "adjustments…$"
+Text_AppearsToBeUndergoingAdjustments:
+	.string "Görünüşe göre ayarlama\n"
+	.string "aşamasında…$"
 
 Text_HandedOverItem::
 	.string "{PLAYER} {STR_VAR_1}'ı\n"

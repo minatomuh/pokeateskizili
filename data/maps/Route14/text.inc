@@ -24,8 +24,8 @@ Route14_Text_MitchPostBattle::
 
 Route14_Text_BeckIntro::
     .string "CELADON MAĞAZASI'nda\n"
-    .string "satılan TM'lere bakmalısın\l"
-    .string "TM'ler nadir değildir, ama\l"
+    .string "satılan TM'lere bakmalısın.\p"
+    .string "TM'ler pek nadir sayılmaz, ama\l"
     .string "HM'lere sahip çok az kişi vardır.$"
 
 Route14_Text_BeckDefeat::
@@ -105,9 +105,8 @@ Route14_Text_GeraldDefeat::
     .string "Çakıldım!$"
 
 Route14_Text_GeraldPostBattle::
-    .string "POKéMON'unu güçlü yapman güzel.\n"
-    .string "Güç her şeydir!\n"
-    .string "Bunu biliyorsun!$"
+    .string "POKéMON'unu güçlendirmen güzel.\n"
+    .string "Güç her şeydir, biliyorsun!$"
 
 Route14_Text_MalikIntro::
     .string "POKéMON savaşı mı?\n"

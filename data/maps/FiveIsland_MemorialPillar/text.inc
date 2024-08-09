@@ -46,9 +46,8 @@ FiveIsland_MemorialPillar_Text_ThisIsWhereIBuriedMyOnix::
     .string "Adı TECTONIX'ti…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonixLemonadeOffering::
-    .string "Bir kayada\p"
-    .string "“Burada TECTONIX yatıyor”\n"
-    .string "yazılı.\p"
+    .string "Bir kayada şu yazılı:\n"
+    .string "“Burada TECTONIX yatıyor”\p"
     .string "Mezarın önüne bir LİMONATA\n"
     .string "bırakılmış.$"
 

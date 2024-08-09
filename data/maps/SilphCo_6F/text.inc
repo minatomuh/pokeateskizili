@@ -51,16 +51,16 @@ SilphCo_6F_Text_Grunt1PostBattle::
 SilphCo_6F_Text_TaylorIntro::
     .string "O berbat BAŞKAN!\p"
     .string "Beni TIKSI ŞUBESİ'ne gönderdiği\n"
-    .string "için hak etti, o yüzden ROKET\l"
-    .string "TAKIMI peşimize düştü,\l"
-    .string "bundan eminim!$"
+    .string "için bunu hak etti!\p"
+    .string "O yüzden ROKET TAKIMI peşimize\n"
+    .string "düştü, bundan eminim!$"
 
 SilphCo_6F_Text_TaylorDefeat::
     .string "Vuruldum!$"
 
 SilphCo_6F_Text_TaylorPostBattle::
-    .string "TIKSI ŞUBESİ?\n"
-    .string "O, Rusya'nın çorak bir yerinde!$"
+    .string "TIKSI ŞUBESİ mi?\n"
+    .string "Orası Rusya'nın çorak bir yerinde!$"
 
 SilphCo_6F_Text_Grunt2Intro::
     .string "ROKET TAKIMI'nı satacak kadar\n"
@@ -70,9 +70,9 @@ SilphCo_6F_Text_Grunt2Defeat::
     .string "Sen ihanet ettin!$"
 
 SilphCo_6F_Text_Grunt2PostBattle::
-    .string "Eğer adaletten yanaysanız,\n"
-    .string "ihaneti seçin sizi kötü\n"
-    .string "adamlar!$"
+    .string "Eğer adaletten yana olursanız,\n"
+    .string "biz kötü adamlara ihanet etmiş\l"
+    .string "olursunuz!$"
 
 SilphCo_6F_Text_FloorSign::
     .string "SILPH ŞTİ. MERKEZ OFİSİ\n"

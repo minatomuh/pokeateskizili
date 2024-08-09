@@ -1,4 +1,4 @@
 UndergroundPath_SouthEntrance_Text_PeopleLoseThingsInTheDarkness:
-    .string "İnsanlar genelde eşya kaybeder,\n"
-    .string "ALT GEÇİT'in karanlığında.$"
+    .string "İnsanlar genelde ALT GEÇİT'in\n"
+    .string "karanlığında eşyalarını kaybeder.$"
 

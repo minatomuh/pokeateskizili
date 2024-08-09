@@ -12,13 +12,13 @@ PokedexRating_Text_LessThan10::
   .string "Hâlâ yapacak çok şeyin var.\pGördüğün her çimenliğe gir ve\nPOKéMON ara!$"
 
 PokedexRating_Text_LessThan20::
-  .string "Görünüşe göre doğru yolda\nilerliyorsun!\pYardımcılarımdan birine FLASH HM\nverdim. Gidip onu bulmaya çalış!$"
+  .string "Görünüşe göre doğru yolda\nilerliyorsun!\pYardımcılarımdan birine HM FLAŞ\nverdim. Gidip onu bulmaya çalış!$"
 
 PokedexRating_Text_LessThan30::
   .string "POKéDEX'in hala biraz daha\ngelişebilir!\pFarklı POKéMON türleri yakalamaya\nçalış!$"
 
 PokedexRating_Text_LessThan40::
-  .string "Güzel, belli ki çok çabalıyorsun!\nYardımcılarımdan birine bir EŞYA\nBULUCU verdim.\lOnu arayıp bulmalısın!$"
+  .string "Güzel, belli ki çok çabalıyorsun!\pYardımcılarımdan birine bir EŞYA\nBULUCU verdim.\lOnu arayıp bulmalısın!$"
 
 PokedexRating_Text_LessThan50::
   .string "POKéDEX'in oldukça iyi gidiyor!\pYardımcılarımdan birine bir\nPARA TILSIMI verdim.\lOnu arayıp bulmalısın!$"
@@ -27,13 +27,13 @@ PokedexRating_Text_LessThan60::
   .string "Sonunda 50 türe ulaşmışsın!\pYardımcılarımdan birine EXP\nPAYLAŞ. eşyası verdim.\lOnu arayıp bulmalısın!$"
 
 PokedexRating_Text_LessThan70::
-  .string "Hoho!\nBu artık oldukça hacimli bir\nPOKéDEX'e dönüşüyor!$"
+  .string "Hoho!\nBu artık oldukça hacimli bir\lPOKéDEX'e dönüşüyor!$"
 
 PokedexRating_Text_LessThan80::
   .string "Çok iyi!\pBence balığa çıkarak daha fazla\nPOKéMON toplayabilirsin!$"
 
 PokedexRating_Text_LessThan90::
-  .string "Harika! Dur tahmin edeyim...\nKoleksiyonculuğu seviyorsun, değil\lmi?$"
+  .string "Harika! Dur tahmin edeyim…\nKoleksiyonculuğu seviyorsun, değil\lmi?$"
 
 PokedexRating_Text_LessThan100::
   .string "Etkilendim!\nBunu yapmak zor olmalı!$"
@@ -78,5 +78,5 @@ PokedexRating_Text_ThankYouMadeDreamReality::
   .string "Teşekkürler, {PLAYER}!\nTüm kalbimle teşekkür ederim!\lHayallerimi gerçeğe dönüştürdün!$"
 
 PokedexRating_Text_LoveSeeingYourPokedex::
-  .string "Hoş geldin!\pSöylesene, POKéDEX'in nasıl gidiyor?\pVahaha!\pAslında nasıl olduğunu biliyorum ama\nyine de görmeyi seviyorum!\pBakalım...$"
+  .string "Hoş geldin!\pSöylesene, POKéDEX'in nasıl gidiyor?\pVahaha!\pAslında nasıl olduğunu biliyorum ama\nyine de görmeyi seviyorum!\pBakalım…$"
 

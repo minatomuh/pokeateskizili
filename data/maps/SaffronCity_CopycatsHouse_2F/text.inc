@@ -1,8 +1,9 @@
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
     .string "{PLAYER}: Merhaba!\n"
     .string "POKéMON'ları sever misin?\p"
-    .string "{PLAYER}: Eh, hayır, ben sadece sordum.\p"
-    .string "{PLAYER}: Hmm?\n"
+    .string "{PLAYER}: Eh, hayır, ben sadece\n"
+    .string "sana sormuştum.\p"
+    .string "{PLAYER}: Ha?\n"
     .string "Çok garipsin!\p"
     .string "TAKLİTÇİ: Hmm? Taklit etmeyi\n"
     .string "bırakmamı mı istiyorsun?\p"
@@ -63,9 +64,9 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMaleJP::
     .string "POKéMON'ları sever misin?\p"
     .string "{PLAYER}“Ben değil, sana soruyorum\n"
     .string "ama.\p"
-    .string "{PLAYER}“... Niye böyle yapıyorsun!\n"
+    .string "{PLAYER}“… Niye böyle yapıyorsun!\n"
     .string "Çok garipsin!\p"
-    .string "TAKLİTÇİ KIZ“... Ne?\n"
+    .string "TAKLİTÇİ KIZ“… Ne?\n"
     .string "Beni taklit etmememi mi istiyorsun?\p"
     .string "Ama taklit etmek benim hobim!$"
 
@@ -74,9 +75,9 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemaleJP::
     .string "POKéMON'ları seviyorsun, değil mi?\p"
     .string "{PLAYER}“Ben değil, sana soruyorum\n"
     .string "ama.\p"
-    .string "{PLAYER}“... Niye böyle yapıyorsun!\n"
+    .string "{PLAYER}“… Niye böyle yapıyorsun!\n"
     .string "Çok garipsin!\p"
-    .string "TAKLİTÇİ KIZ“... Ne?\n"
+    .string "TAKLİTÇİ KIZ“… Ne?\n"
     .string "Beni taklit etmememi mi istiyorsun?\p"
     .string "Ama taklit etmek benim hobim!$"
 
@@ -101,4 +102,4 @@ SaffronCity_CopycatsHouse_2F_Text_MySecrets::
     .string "Favori Pokemon: CLEFAIRY!$"
 
 SaffronCity_CopycatsHouse_2F_Text_HuhCantSee::
-    .string "Ne? Görünmüyor...$"
+    .string "Ne? Görünmüyor…$"

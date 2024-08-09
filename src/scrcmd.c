@@ -1630,8 +1630,8 @@ bool8 ScrCmd_bufferitemname(struct ScriptContext * ctx)
     return FALSE;
 }
 
-static const u8 sText_S[] = _("S");
-static const u8 sText_IES[] = _("IES");
+static const u8 sText_S[] = _("LARI");
+static const u8 sText_IES[] = _("LER");
 
 bool8 ScrCmd_bufferitemnameplural(struct ScriptContext * ctx)
 {
@@ -1640,15 +1640,20 @@ bool8 ScrCmd_bufferitemnameplural(struct ScriptContext * ctx)
     u16 quantity = VarGet(ScriptReadHalfword(ctx));
 
     CopyItemName(itemId, sScriptStringVars[stringVarIndex]);
-    if (itemId == ITEM_POKE_BALL && quantity >= 2)
+    // POKé TOPU -> POKE TOPLARI
+    if (itemId == ITEM_POKE_BALL && quantity >= 2) {
+        u8 *endptr = sScriptStringVars[stringVarIndex] + StringLength(sScriptStringVars[stringVarIndex]);
+        endptr[-1] = EOS;
         StringAppend(sScriptStringVars[stringVarIndex], sText_S);
+    }
+    // MEYVE -> MEYVELER
     else if (itemId >= FIRST_BERRY_INDEX && itemId < LAST_BERRY_INDEX && quantity >= 2)
     {
         u16 strlength = StringLength(sScriptStringVars[stringVarIndex]);
         if (strlength != 0)
         {
-            u8 * endptr = sScriptStringVars[stringVarIndex] + strlength;
-            endptr[-1] = EOS;
+            //u8 * endptr = sScriptStringVars[stringVarIndex] + strlength;
+            //endptr[-1] = EOS;
             StringAppend(sScriptStringVars[stringVarIndex], sText_IES);
         }
     }

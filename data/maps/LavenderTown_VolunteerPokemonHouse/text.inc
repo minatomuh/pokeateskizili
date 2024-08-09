@@ -18,7 +18,7 @@ LavenderTown_VolunteerPokemonHouse_Text_MrFujiLooksAfterOrphanedMons::
     .string "bakar.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MonsNiceToHug::
-    .string "Çok sıcak!\n"
+    .string "Sıcacık!\n"
     .string "POKéMON'ları kucaklamak çok güzel.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Nidorino::
@@ -42,7 +42,7 @@ LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
     .string "POKE FLÜT aldı.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
-    .string "POKé FLUTE'u duyduğunda, uyuyan\n"
+    .string "POKé FLÜT'ü duyduğunda, uyuyan\n"
     .string "POKéMON'lar uyanacak.\p"
     .string "Uyuyan engeller olan POKéMON'lara\n"
     .string "karşı kullanmayı dene.$"

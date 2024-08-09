@@ -2,7 +2,7 @@ FuchsiaCity_PokemonCenter_1F_Text_CantBecomeGoodTrainerWithOneMon:
     .string "Tek bir POKéMON ile\n"
     .string "iyi EĞİTMEN olamazsın.\p"
     .string "Fakat birçok POKéMON'u\n"
-    .string "eşit şekilde eğitmek de\n"
+    .string "eşit şekilde eğitmek de\l"
     .string "kolay değil.$"
 
 FuchsiaCity_PokemonCenter_1F_Text_PokemonLeagueWestOfViridian:

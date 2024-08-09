@@ -4,7 +4,7 @@ LavenderTown_House1_Text_Cubone::
 LavenderTown_House1_Text_RocketsKilledCubonesMother::
     .string "O korkunç ROKET TAKIMI!\n"
     .string "Merhameti asla hak etmiyorlar!\p"
-    .string "O zavallı CUBONE'un annesi…\p"
+    .string "Zavallı CUBONE'un annesi…\p"
     .string "ROKET TAKIMI'ndan kaçmaya\n"
     .string "çalışırken öldürüldü.$"
 

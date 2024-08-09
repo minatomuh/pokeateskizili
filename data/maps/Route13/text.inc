@@ -113,13 +113,13 @@ Route13_Text_RobertPostBattle::
     .string "uçabilseydim…$"
 
 Route13_Text_LookToLeftOfThatPost::
-    .string "EĞİTMEN İPUCU\n"
+    .string "EĞİTMEN İPUCU\p"
     .string "Bak, bak!\n"
     .string "O direğin soluna bak!$"
 
 Route13_Text_SelectToSwitchItems::
     .string "EĞİTMEN İPUCU\n"
-    .string "EŞYA penceresindeki öğeleri\n"
+    .string "EŞYA penceresindeki öğeleri\l"
     .string "değiştirmek için SELECT'e basın.$"
 
 Route13_Text_RouteSign::

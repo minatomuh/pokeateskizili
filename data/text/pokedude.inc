@@ -1,8 +1,10 @@
 Pokedude_Text_SpeedierBattlerGoesFirst::
-  .string "POKé ADAM: Savaşçılardan daha hızlı\nolan ilk saldırıyı yapar.$"
+  .string "POKé ADAM: Savaşçılardan daha hızlı\n"
+  .string "olan ilk saldırıyı yapar.$"
 
 Pokedude_Text_MyRattataFasterThanPidgey::
-  .string "Görünüşe göre RATTATA'm PIDGEY'den\ndaha hızlıymış.$"
+  .string "Görünüşe göre RATTATA'm PIDGEY'den\n"
+  .string "daha hızlıymış.$"
 
 Pokedude_Text_BattlersTakeTurnsAttacking::
   .string "Savaşçılar sırayla saldırır ve\nbirbirlerinin canını azaltır.$"
@@ -56,5 +58,8 @@ Pokedude_Text_LetMeThrowBall::
   .string "Tamam!\nPoke topumu atayım!$"
 
 Pokedude_Text_PickBestKindOfBall::
-  .string "Bir POKé TOPU atmadan önce,\nPOKéMON'un durumunu ve türünü göz\lönünde bulundurun ve en iyi çalışacak\lTOP türünü seçin.$"
+  .string "Bir POKé TOPU atmadan önce,\n"
+  .string "POKéMON'un durumunu ve türünü göz\l"
+  .string "önünde bulundurun ve en iyi çalışacak\l"
+  .string "TOP türünü seçin.$"
 

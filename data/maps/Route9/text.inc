@@ -78,15 +78,15 @@ Route9_Text_BrentPostBattle::
     .string "toplamak yetmez…$"
 
 Route9_Text_AlanIntro::
-    .string "Kahkahahaha!\n"
+    .string "Hahahaha!\n"
     .string "Haydi gel!$"
 
 Route9_Text_AlanDefeat::
-    .string "Kahkahahaha!\n"
+    .string "Hahahaha!\n"
     .string "Adil bir şekilde yendin!$"
 
 Route9_Text_AlanPostBattle::
-    .string "Kahkahahaha!\n"
+    .string "Hahahaha!\n"
     .string "Biz neşeli adamlarız, hep güleriz!$"
 
 Route9_Text_ConnerIntro::

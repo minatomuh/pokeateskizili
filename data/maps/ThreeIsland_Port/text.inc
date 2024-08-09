@@ -1,8 +1,8 @@
 ThreeIsland_Port_Text_WereKantoRiderFederation::
     .string "KANTO MOTORCULARIYIZ!\n"
     .string "VIN! VIIIINN! VINNN!\p"
-    .string "Motorum güçsüz, o yüzden\n"
-    .string "egzoz sesini ben çıkarmalıyım!$"
+    .string "Motorum güçsüz, bu yüzden\n"
+    .string "egzoz sesini ben çıkarıyorum!$"
 
 ThreeIsland_Port_Text_ForkOverMoney::
     .string "Hey, hanımefendi!\n"

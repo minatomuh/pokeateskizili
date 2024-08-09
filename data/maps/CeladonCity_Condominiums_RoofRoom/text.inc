@@ -22,23 +22,23 @@ CeladonCity_Condominiums_RoofRoom_Text_ReadWhichHeading::
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub::
     .string "POKéMON KABLOSUZ KULÜBÜ,\n"
-    .string "herhangi bir POKéMON MERKEZİ'nin\n"
+    .string "herhangi bir POKéMON MERKEZİ'nin\l"
     .string "üst katındadır.\p"
     .string "Kablosuz Adaptör'ünüzü kullanarak\n"
     .string "arkadaşlarınızla bağlantı kurun.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner::
     .string "Sadece bir arkadaşla bağlantı\n"
-    .string "kurmak için, DOĞRUDAN KÖŞE'ye\n"
+    .string "kurmak için, DİREKT KÖŞE'ye\l"
     .string "gitmelisin.\p"
     .string "Bu, POKéMON KABLOSUZ KULÜBÜ'ndeki\n"
     .string "sağ taraftaki bankodur.\p"
-    .string "Arkadaşınızla birlikte TİCARET\n"
-    .string "KÖŞESİ'ne veya COLOSSEUM'a gidin.$"
+    .string "Arkadaşınızla birlikte TAKAS\n"
+    .string "KÖŞESİ'ne veya KOLEZYUM'a gidin.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom::
     .string "Herhangi biriyle bağlantı kurmak\n"
-    .string "ve iletişim kurmak için, BİRLİK\n"
+    .string "ve iletişim kurmak için, BİRLİK\l"
     .string "ODASI'na gidin.\p"
     .string "Bu, POKéMON KABLOSUZ KULÜBÜ'ndeki\n"
     .string "sol taraftaki bankodur.\p"
@@ -50,6 +50,6 @@ CeladonCity_Condominiums_RoofRoom_Text_PamphletOnTMs::
     .string "… …\p"
     .string "Toplamda elli tane TM var.\p"
     .string "Ayrıca, tekrar tekrar\n"
-    .string "kullanılabilen\l"
-    .string "yedi tane HM de var.\p"
+    .string "kullanılabilen yedi tane\l"
+    .string "HM de var.\p"
     .string "SILPH ŞTİ.$"

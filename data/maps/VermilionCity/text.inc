@@ -15,8 +15,8 @@ VermilionCity_Text_SSAnneHasDepartedForYear::
 VermilionCity_Text_BuildingOnThisLand::
     .string "Bu arsa üzerinde bir bina\n"
     .string "inşa ediyorum. Hepsi benim.\p"
-    .string "POKéMON'um toprağı eziyor\n"
-    .string "temel oluşturmak için.$"
+    .string "POKéMON'um temel oluşturmak için\n"
+    .string "toprağı eziyor.$"
 
 VermilionCity_Text_Machop::
     .string "MACHOP: Guooh! Goh goh!$"
@@ -91,7 +91,7 @@ VermilionCity_Text_BoardSeagallopRainbowPass::
 VermilionCity_Text_OhMysticTicketTakeYouToNavelRock::
     .string "Oh! O bir MİSTİK BİLET!\n"
     .string "Bu gerçekten nadir.\p"
-    .string "Sizi her zaman NAVEL KAYASINA\n"
+    .string "Sizi her zaman GÖBEKLİ KAYA'ya\n"
     .string "götürmekten mutluluk duyarız.$"
 
 VermilionCity_Text_OhAuroraTicketTakeYouToBirthIsland::
@@ -119,11 +119,11 @@ VermilionCity_Text_Seagallop12Departing::
 VermilionCity_Text_Route2AideHasPackageForYou::
     .string "Oh, merhaba, {PLAYER}!\n"
     .string "Nasılsın?\p"
-    .string "BEN PROF. OAK'ın YARDIMCISIYIM.\p"
+    .string "Ben PROF. OAK'ın YARDIMCISIYIM.\p"
     .string "Diğer YARDIMCI'yı gördün mü?\p"
-    .string "PROF. OAK'den sana bir paketi\n"
-    .string "vardı, {PLAYER}.\p"
-    .string "O, ROTA 2 civarında seni arayacak\n"
-    .string "dedi, {PLAYER}.\p"
-    .string "Eğer ROTA 2 bölgesindeyseniz,\n"
-    .string "lütfen onu arayın.$"
+    .string "PROF. OAK'dan senin için bir\n"
+    .string "paketi vardı, {PLAYER}.\p"
+    .string "Dedi ki ROTA 2 civarında seni\n"
+    .string "arayacakmış, {PLAYER}.\p"
+    .string "Eğer ROTA 2 civarındaysan,\n"
+    .string "lütfen onu bul.$"

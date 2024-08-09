@@ -1,5 +1,5 @@
 Route25_SeaCottage_Text_ImBillHelpMeOutPal::
-    .string "Merhaba! Bir POKéMON'um…\n"
+    .string "Merhaba! Ben bir POKéMON'um…\n"
     .string "…Hayır değilim!\p"
     .string "Bana BILL de!\n"
     .string "Ben gerçek bir POKéMANYAK'ım!\p"
@@ -12,7 +12,7 @@ Route25_SeaCottage_Text_ImBillHelpMeOutPal::
     .string "Bana burada yardım et!$"
 
 Route25_SeaCottage_Text_ImBillHelpMeOutLady::
-    .string "Merhaba! Bir POKéMON'um…\n"
+    .string "Merhaba! Ben bir POKéMON'um…\n"
     .string "…Hayır değilim!\p"
     .string "Bana BILL de!\n"
     .string "Ben gerçek bir POKéMANYAK'ım!\p"
@@ -46,7 +46,7 @@ Route25_SeaCottage_Text_NoPleaseBeautiful::
     .string "Hayır!?\n"
     .string "Şimdi bu kadar soğuk yapma!\p"
     .string "Gel, bir adama yardım etmelisin\n"
-    .string "büyük, büyük bir belada!\p"
+    .string "başım büyük, büyük bir belada!\p"
     .string "Ne dersin, güzellik?\n"
     .string "Lütfen?\l"
     .string "Tamam?\l"
@@ -60,7 +60,7 @@ Route25_SeaCottage_Text_ThanksBudTakeThis::
     .string "görmeye mi geldin?\p"
     .string "Hayır mı?\n"
     .string "Bu kötü.\p"
-    .string "Sana teşekkür borçluyum...\n"
+    .string "Sana teşekkür borçluyum…\n"
     .string "Oh, burada, belki bu işi görür.$"
 
 Route25_SeaCottage_Text_ThanksLadyTakeThis::
@@ -87,7 +87,7 @@ Route25_SeaCottage_Text_SSAnnePartyYouGoInstead::
     .string "Gemide birçok EĞİTMEN olduğunu\n"
     .string "duydum.\p"
     .string "Partilerine davet edildim, ama\n"
-    .string "Ben şık partileri sevmiyorum.\p"
+    .string "ben şık partileri sevmiyorum.\p"
     .string "Neden sen gitmiyorsun?\n"
     .string "Git ve eğlen.$"
 

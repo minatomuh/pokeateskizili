@@ -94,5 +94,5 @@ ThreeIsland_BondBridge_Text_BerryForestAhead::
 
 ThreeIsland_BondBridge_Text_BondBridgeSign::
     .string "BAĞ KÖPRÜSÜ\n"
-    .string "Lütfen sessiz olun.\n"
+    .string "Lütfen geçerken sessiz olun.\p"
     .string "MEYVE ORMANI İLERİDE$"

@@ -28,8 +28,8 @@ SevenIsland_Text_IslandsMadeInSevenDays::
     .string "olarak adlandırılır… En azından\l"
     .string "gençlerin inancı bu yönde.\p"
     .string "Gerçek şu ki, bu adalar yedi günde\n"
-    .string "oluştuğu için böyle adlandırılmış.\l"
-    .string "deniyor.$"
+    .string "oluştuğu söylendiği için böyle\l"
+    .string "adlandırılmış.$"
 
 SevenIsland_Text_IslandVirtuallyUntouched::
     .string "Bu ada, doğal durumuna neredeyse\n"

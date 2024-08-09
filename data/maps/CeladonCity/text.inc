@@ -14,10 +14,11 @@ CeladonCity_Text_GameCornerIsBadForCitysImage::
     .string "imajını zedeliyor.$"
 
 CeladonCity_Text_BlewItAllAtSlots::
-    .string "Ah…\n"
-    .string "Tüm paramı slot\l"
-    .string "makinelerine yatırdım!\p"
-    .string "Paraları hediyelere çevirmeliydim!$"
+    .string "Ah…\p"
+    .string "Hepsini slot makinelerinde\n"
+    .string "harcadım!\p"
+    .string "Keşke JETON'ları hediyelere\n"
+    .string "çevirseydim!$"
 
 CeladonCity_Text_MyTrustedPalPoliwrath::
     .string "Bu, güvenilir dostum POLIWRATH.\p"
@@ -78,10 +79,10 @@ CeladonCity_Text_GameCornerSign::
 CeladonCity_Text_ScaldedTongueOnTea::
     .string "Aaaah, ah…\n"
     .string "Dilimi yaktım!\p"
-    .string "Köşk'teki tatlı bir yaşlı bayan\n"
+    .string "KÖŞK'teki tatlı bir yaşlı bayan\n"
     .string "bana ÇAY verdi.\p"
     .string "Ama çok sıcaktı!\n"
-    .string "İçmeden soğuması lazım.$"
+    .string "İçmek için biraz soğutmak lazım.$"
 
 Text_SoftboiledTeach::
     .string "Merhaba!\p"

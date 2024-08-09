@@ -115,21 +115,20 @@ OneIsland_PokemonCenter_1F_Text_BillOhHeyPlayer::
     .string "{PLAYER}!$"
 
 OneIsland_PokemonCenter_1F_Text_BillWeGotItDone::
-    .string "BILL: Seni bu kadar uzun süre\n"
-    .string "nerede tuttu?\n"
-    .string "İyi vakit mi geçirdin?\p"
-    .string "Bitti.\n"
+    .string "BILL: Nerede kaldın?\p"
+    .string "İyi vakit geçirdin mi?\p"
+    .string "Hallettik.\n"
     .string "PC'ler çalışıyor!$"
 
 OneIsland_PokemonCenter_1F_Text_CelioJobWentQuick::
     .string "CELIO: İş inanılmaz derecede hızlı\n"
-    .string "gitti.\p"
+    .string "bitti.\p"
     .string "BILL inanılmaz bir adam…$"
 
 OneIsland_PokemonCenter_1F_Text_BillYouveLearnedALot::
-    .string "BILL: Hayır, hayır! Yapacak neredeyse\n"
-    .string "hiçbir şey kalmamıştı.\p"
-    .string "CELIO, bunu sana bırakmalıyım.\n"
+    .string "BILL: Hayır, hayır! Bana neredeyse\n"
+    .string "yapacak bir şey kalmamıştı.\p"
+    .string "CELIO, bunu asıl sen başardın.\n"
     .string "Çok şey öğrendin.$"
 
 OneIsland_PokemonCenter_1F_Text_CelioOhReallyEhehe::
@@ -137,14 +136,15 @@ OneIsland_PokemonCenter_1F_Text_CelioOhReallyEhehe::
     .string "Ehehe…$"
 
 OneIsland_PokemonCenter_1F_Text_BillWeShouldHeadBackToKanto::
-    .string "BILL: İşte bu.\n"
-    .string "İş bitti.\l"
-    .string "KANTO'ya geri dönmeliyiz.\p"
+    .string "BILL: Tamamdır.\n"
+    .string "Buradaki işim bitti.\l"
+    .string "Artık KANTO'ya geri dönmeliyiz.\p"
     .string "CELIO, tekrar görüşürüz.$"
 
 OneIsland_PokemonCenter_1F_Text_CelioPromiseIllShowYouAroundSometime::
     .string "CELIO: {PLAYER}, bugün seni yalnız\n"
-    .string "gönderdiğimiz için gerçekten üzgünüm.\p"
+    .string "gönderdiğimiz için gerçekten\l"
+    .string "üzgünüm.\p"
     .string "Söz veriyorum, bir gün bu adaları\n"
     .string "sana gezdireceğim.$"
 
@@ -162,23 +162,23 @@ OneIsland_PokemonCenter_1F_Text_CelioCaughtMoreMonMaybeICanBeUseful::
     .string "Oh, öyle mi?\n"
     .string "Daha fazla POKéMON yakalamışsın.\p"
     .string "Biliyor musun?\n"
-    .string "Belki sana faydalı olabilirim$"
+    .string "Belki sana faydalı olabilirim.$"
     
 OneIsland_PokemonCenter_1F_Text_YoullBeTradingFromTrainersFarAway::
     .string "Ağ Makinesi'ni\n"
     .string "şu anda değiştiriyorum.\p"
     .string "Onu uzun mesafelerdeki\n"
-    .string "takasları yapabilecek şekilde\n"
+    .string "takasları yapabilecek şekilde\l"
     .string "değiştiriyorum.\p"
     .string "Bittiğinde, uzaklardaki\n"
-    .string "EĞİTİCİLERDEN egzotik POKéMON\n"
+    .string "EĞİTMENLERDEN egzotik POKéMON\l"
     .string "takas edeceksin.$"
 
 OneIsland_PokemonCenter_1F_Text_NeedsSpecialGemstone::
     .string "Ancak, küçük bir pürüz var.\p"
     .string "Bağlantının çalışması için\n"
-    .string "Makine'nin\l"
-    .string "özel bir taşa ihtiyacı var.\p"
+    .string "Makine'nin özel bir taşa\l"
+    .string "ihtiyacı var.\p"
     .string "Bu taşın BİRİNCİ ADA'da olduğu\n"
     .string "söyleniyor, ama henüz bulamadım.\p"
     .string "Kim bilir nerede olabilir.$"
@@ -205,7 +205,7 @@ OneIsland_PokemonCenter_1F_Text_MayIAskOneMoreFavor::
     .string "Teşekkür ederim!\n"
     .string "{PLAYER}, sen harikasın.\p"
     .string "… … …  … … …\p"
-    .string "Um… Sana bir büyük iyilik\n"
+    .string "Um… Senden bir büyük iyilik\n"
     .string "daha isteyebilir miyim?$"
 
 OneIsland_PokemonCenter_1F_Text_PleaseINeedYourHelp::
@@ -236,7 +236,7 @@ OneIsland_PokemonCenter_1F_Text_PassLetYouGetToAllIslands::
     .string "Bu benim kendi feribot BİLET'im.\p"
     .string "Seni tüm SEVII ADALARI'na\n"
     .string "götürecek.\p"
-    .string "{PLAYER}, lütfen, yardımsız\n"
+    .string "{PLAYER}, lütfen, yardımın olmadan\n"
     .string "bunu yapamam.$"
 
 OneIsland_PokemonCenter_1F_Text_HandedSapphireToCelio::
@@ -265,7 +265,7 @@ OneIsland_PokemonCenter_1F_Text_ManagedToLinkWithHoennThankYou::
     .string "{PLAYER}…\n"
     .string "{PLAYER}, başardım!\p"
     .string "HOENN bölgesindeki\n"
-    .string "EĞİTİCİLER ile bağlantı kurdum!\p"
+    .string "EĞİTMENLER ile bağlantı kurdum!\p"
     .string "Sonunda, Ağ Makinesi tamamen\n"
     .string "çalışır hale geldi!\p"
     .string "{PLAYER}, hepsi senin sayende!\p"
@@ -322,15 +322,14 @@ OneIsland_PokemonCenter_1F_Text_EnormousVolcanoOnIsland::
     .string "çıkarmıyorsun?$"
 
 OneIsland_PokemonCenter_1F_Text_WishICouldTradeWithBoyfriend::
-    .string "Uzakta yaşayan\n"
-    .string "erkek arkadaşımla POKéMON\n"
-    .string "takas edebilmeyi dilerdim…$"
+    .string "Uzakta yaşayan erkek arkadaşımla\n"
+    .string "POKéMON takas edebilmeyi dilerdim…$"
 
 OneIsland_PokemonCenter_1F_Text_TradedWithFarAwayBoyfriend::
     .string "Uzakta olan erkek arkadaşımla\n"
     .string "POKéMON takas ettim!\p"
     .string "Herkes bunun için sana\n"
-    .string "ve CELIO'ya teşekkür etmemiz\n"
+    .string "ve CELIO'ya teşekkür etmemiz\l"
     .string "gerektiğini söylüyor.\p"
     .string "Gerçekten çok teşekkür ederim!$"
 

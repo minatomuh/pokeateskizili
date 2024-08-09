@@ -6,8 +6,8 @@ Route6_Text_RickyDefeat::
     .string "Kazanamıyorum bir türlü!$"
 
 Route6_Text_RickyPostBattle::
-    .string "Fısıltı...\n"
-    .string "Fısıltı...$"
+    .string "Fısıltı…\n"
+    .string "Fısıltı…$"
 
 Route6_Text_NancyIntro::
     .string "Özür dilerim!\n"
@@ -18,8 +18,8 @@ Route6_Text_NancyDefeat::
     .string "Kaybetmeyi hiç sevmiyorum.$"
 
 Route6_Text_NancyPostBattle::
-    .string "Fısıltı...\n"
-    .string "Fısıltı...$"
+    .string "Fısıltı…\n"
+    .string "Fısıltı…$"
 
 Route6_Text_KeigoIntro::
     .string "Burada pek böcek yok.$"
@@ -49,7 +49,7 @@ Route6_Text_IsabelleIntro::
     .string "Tamam, oynayalım!$"
 
 Route6_Text_IsabelleDefeat::
-    .string "Şeyler yolunda gitmedi...$"
+    .string "Bir şeyler yolunda gitmedi…$"
 
 Route6_Text_IsabellePostBattle::
     .string "Güçlenmek istiyorum.\n"

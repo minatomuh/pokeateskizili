@@ -32,11 +32,11 @@ SaffronCity_PokemonTrainerFanClub_Text_IllAlwaysBelieveInYou::
 
 SaffronCity_PokemonTrainerFanClub_Text_WasYourFanNotAnymore::
     .string "Üzgünüm.\n"
-    .string "Önceden senin hayranındım\p"
+    .string "Önceden senin hayranındım.\p"
     .string "Ama şimdi, eskiden sahip\n"
-    .string "olduğun etkiyi kaybettiğini\n"
+    .string "olduğun etkiyi kaybettiğini\l"
     .string "düşünüyorum.\p"
-    .string "Son zamanlarda, {STR_VAR_1}ın daha\n"
+    .string "Son zamanlarda, {STR_VAR_1}'in daha\n"
     .string "havalı olduğunu düşünüyorum.$"
 
 SaffronCity_PokemonTrainerFanClub_Text_EveryonesYourFanButICantBe::
@@ -153,7 +153,7 @@ SaffronCity_PokemonTrainerFanClub_Text_EveryoneButMeStoppedBeingYourFan::
 SaffronCity_PokemonTrainerFanClub_Text_WantToBeLikeSabrina::
     .string "Biliyor musun?\n"
     .string "SABRINA gibi olmak istiyorum!\p"
-    .string "O gibi bir psişik kız olmak\n"
+    .string "Onun gibi bir psişik kız olmak\n"
     .string "istiyorum!$"
 
 SaffronCity_PokemonTrainerFanClub_Text_WontStopBeingSabrinasFan::
@@ -242,7 +242,7 @@ SaffronCity_PokemonTrainerFanClub_Text_ImYourOnlyFan::
     .string "gözüne giremez misin?$"
 
 SaffronCity_PokemonTrainerFanClub_Text_WhyCantOthersSeeMastersDignity::
-    .string "Usta {STR_VAR_1} çok asil\n"
+    .string "Usta {STR_VAR_1} çok asil.\n"
     .string "Tam benim tipimden.\p"
     .string "Neden başkaları da onun akan\n"
     .string "asaletini göremiyor?$"

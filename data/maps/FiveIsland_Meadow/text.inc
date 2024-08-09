@@ -15,10 +15,10 @@ FiveIsland_Meadow_Text_EnteredPasswordDoorOpened::
     .string "“GOLDEEN kütük istiyor.”\n"
     .string "“Evet, hayır, CHANSEY.”\p"
     .string "… …  … …  … …\p"
-    .string "AMBAR kapısı açıldı!$"
+    .string "DEPO kapısı açıldı!$"
 
 FiveIsland_Meadow_Text_WarehouseDoorAlreadyOpen::
-    .string "AMBAR kapısı zaten\n"
+    .string "DEPO kapısı zaten\n"
     .string "açık.$"
 
 FiveIsland_Meadow_Text_Rocket1Intro::
@@ -33,26 +33,26 @@ FiveIsland_Meadow_Text_Rocket1PostBattle::
     .string "Defol git!$"
 
 FiveIsland_Meadow_Text_Rocket2Intro::
-    .string "Buradan öteye bir şey yok,\n"
-    .string "sadece AMBARımız var.\p"
+    .string "Buradan ötede bir şey yok,\n"
+    .string "sadece DEPO'muz var.\p"
     .string "O zaman neden buradasın?$"
 
 FiveIsland_Meadow_Text_Rocket2Defeat::
     .string "Bunun olması mümkün değildi…$"
 
 FiveIsland_Meadow_Text_Rocket2PostBattle::
-    .string "Bu AMBARın içinde ne olduğunu\n"
+    .string "Bu DEPO'nun içinde ne olduğunu\n"
     .string "bilmek istiyorsun, değil mi?\p"
-    .string "Bilmemen senin için daha iyi olurdu.\n"
+    .string "Bilmemen senin için daha iyi olur.\n"
     .string "Kendi iyiliğin için söylüyorum.$"
 
 FiveIsland_Meadow_Text_Rocket3Intro::
-    .string "Beni geçsen bile vakit kaybı olacak,\n"
-    .string "çünkü şifreler olmadan giremezsin.$"
+    .string "Beni geçsen bile vakit kaybetmiş\n"
+    .string "olacaksın.$"
 
 FiveIsland_Meadow_Text_Rocket3Defeat::
-    .string "Bunu yapmana çok sinirlendim!$"
+    .string "Bu beni çok sinirlendirdi!$"
 
 FiveIsland_Meadow_Text_Rocket3PostBattle::
-    .string "Şifreler olmadan\n"
+    .string "Şifreler olmadan zaten\n"
     .string "içeri giremezsin.$"

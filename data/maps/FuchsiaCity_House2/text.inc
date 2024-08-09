@@ -1,5 +1,5 @@
 FuchsiaCity_House2_Text_DoYouLikeToFish::
-    .string "Ben BALIK GURU'sunun ağabeyiyim.\p"
+    .string "Ben BALIK GURUSU'nun ağabeyiyim.\p"
     .string "Balık avlamayı çok seviyorum!\p"
     .string "Onsuz yapamam. Sana soruyorum,\n"
     .string "balık tutmayı sever misin?$"
@@ -10,7 +10,7 @@ FuchsiaCity_House2_Text_LikeYourStyleTakeThis::
     .string "Al bunu ve balık tut, genç dostum!$"
 
 FuchsiaCity_House2_Text_ReceivedGoodRod::
-    .string "{PLAYER}, BALIK GURU'sunun\n"
+    .string "{PLAYER}, BALIK GURUSU'nun\n"
     .string "ağabeyinden bir İYİ OLTA aldı.$"
 
 FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
@@ -31,5 +31,5 @@ FuchsiaCity_House2_Text_HowAreTheFishBiting::
 
 FuchsiaCity_House2_Text_YouHaveNoRoomForGift::
     .string "Aman Tanrım!\n"
-    .string "Sana bir hediyem vardı, ama\n"
-    .string "yerin yok!$"
+    .string "Sana bir hediyem vardı,\l"
+    .string "ama yerin yok!$"

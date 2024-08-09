@@ -1,7 +1,7 @@
 SilphCo_5F_Text_RocketsInUproarAboutIntruder::
-    .string "ROKET TAKIMI karmaşada,\n"
-    .string "birisinin içeri sızdığı\p"
-    .string "söyleniyor. Sensin, değil mi?$"
+    .string "ROKET TAKIMI karmaşa içinde.\n"
+    .string "Birisinin içeri sızdığı söyleniyor.\p"
+    .string "Sensin, değil mi?$"
 
 SilphCo_5F_Text_YoureOurHeroThankYou::
     .string "ROKET TAKIMI kaçtı!\n"

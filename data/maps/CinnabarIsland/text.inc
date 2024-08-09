@@ -1,5 +1,5 @@
 CinnabarIsland_Text_DoorIsLocked::
-    .string "Kapı kilitli...$"
+    .string "Kapı kilitli…$"
 
 CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab::
     .string "CINNABAR SALONU'ndaki BLAINE\n"

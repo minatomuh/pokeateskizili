@@ -71,7 +71,7 @@ Text_MegaKickTaught::
     .string "kafayı tekme atmakla bozmuş.$"
 
 Route4_Text_PeopleLikeAndRespectBrock::
-    .string "Vay canına, bu BOULDERBADGE!\n"
+    .string "Vay canına, bu KAYA ROZETİ!\n"
     .string "BROCK'tan aldın, değil mi?\p"
     .string "BROCK çok havalı. Sadece güçlü\n"
     .string "değil, sevilen ve saygı duyulan\l"

@@ -54,10 +54,10 @@ MtEmber_Exterior_Text_PunchedThroughAtLast::
 .string "Hazine avına çıkalım!$"
 
 MtEmber_Exterior_Text_WhatsPasswordAgain::
-.string "Bulduğumuz her hazineyi AMBAR'a\n"
+.string "Bulduğumuz her hazineyi DEPO'ya\n"
 .string "taşımalıyız, anlaştık mı?\p"
 .string "…Ah, şifreler neydi?\n"
-.string "ROKET AMBARI'ndaki şifreler.$"
+.string "ROKET DEPOSU'ndaki şifreler.$"
 
 MtEmber_Exterior_Text_FirstPasswordGoldeen::
 .string "Ne, şifreyi unuttun mu?\n"

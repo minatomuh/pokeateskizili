@@ -14,7 +14,7 @@ Text_MomExplainHPGetPotions::
   .string "ANNE: Ah, güzel!\nSen ve POKéMON'un harika görünüyorsunuz.\pAz önce PROF. OAK'tan haber aldım.\pPOKéMON'un enerjisinin CAN ile\nölçüldüğünü söyledi.\pPOKéMON'unun canı azaldığında canını\nherhangi bir POKéMON MERKEZİ'nde\lyenileyebilirmişsin.\pEğer uzaklara seyahat edeceksen,\nakıllı bir eğitmen olup POKé MART'tan\lİKSİR stoklamayı unutma.\pBeni gururlandır, tatlım!\nKendine iyi bak!$"
 
 Text_WhitedOutLostMoney::
-  .string "{PLAYER}'ın kullanılabilir POKéMON'u\nkalmadı!\p{PLAYER} panikledi ve kaçarken ¥{STR_VAR_1}\ndüşürdü...\p... ... ... ...\p{PLAYER} kaçtı!$"
+  .string "{PLAYER}'ın kullanılabilir POKéMON'u\nkalmadı!\p{PLAYER} panikledi ve kaçarken ¥{STR_VAR_1}\ndüşürdü…\p… … … …\p{PLAYER} kaçtı!$"
 
 Text_WhitedOut::
   .string "{PLAYER}'ın kullanılabilir POKéMON'u\nkalmadı!\p{PLAYER} kaçtı!$"

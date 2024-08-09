@@ -16,7 +16,7 @@ OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder::
 OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed::
     .string "Su mükemmel sıcaklıkta.\n"
     .string "Muhteşem hissettiriyor…\p"
-    .string "{PLAYER} ve POKéMON tamamen\n"
+    .string "{PLAYER} ve POKéMON'lar tamamen\n"
     .string "yenilendi!$"
 
 OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic::
@@ -25,20 +25,20 @@ OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic::
 
 OneIsland_KindleRoad_EmberSpa_Text_SeeHowSmoothMySkinIs::
     .string "Yüzüme bak.\n"
-    .string "Cildimin ne kadar pürüzsüz\n"
-    .string "olduğuna bakın.\p"
+    .string "Cildimin ne kadar pürüzsüz\l"
+    .string "olduğuna bak.\p"
     .string "Sıcak kaynak suyu cildimi\n"
     .string "genç tutuyor.$"
 
 OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
     .string "Dürüst bir antrenman gününden\n"
-    .string "sonra, sıcak kaynak havuzunda\n"
+    .string "sonra, sıcak kaynak havuzunda\l"
     .string "rahatlamak gibisi yok.\p"
-    .string "Benden daha yaşlı BRUNO,\n"
+    .string "BRUNO, benim üstadım,\n"
     .string "ara sıra SPA'ya uğrar.\p"
     .string "Hem kendi hem de POKéMON'u\n"
-    .string "için yaralanmaları tedavi\n"
-    .string "etmek için gelir.$"
+    .string "için yaralanmaları tedavi\l"
+    .string "etmeye gelir.$"
 
 OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
     .string "Sıcak kaynaklar volkanlarla\n"

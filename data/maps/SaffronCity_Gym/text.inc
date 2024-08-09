@@ -3,7 +3,7 @@ SaffronCity_Gym_Text_SabrinaIntro::
     .string "Çocukluğumdan beri psişik\n"
     .string "güçlere sahibim.\p"
     .string "Bir kaşığı dikkatsizce\n"
-    .string "fırlattığımda büküldüğünü\n"
+    .string "fırlattığımda büküldüğünü\l"
     .string "görmemle başladı.\p"
     .string "Dövüşmeyi sevmiyorum,\n"
     .string "ama istersen güçlerimi göstermeye\l"
@@ -14,7 +14,8 @@ SaffronCity_Gym_Text_SabrinaDefeat::
     .string "Ama yenilgi, yenilgidir.\p"
     .string "Kabul ediyorum, kazanmak\n"
     .string "için yeterince çalışmadım.\p"
-    .string "Zaferinle MARSHBADGE'i hak ettin.$"
+    .string "Zaferinle BATAKLIK ROZETİ'ni\n"
+    .string "hak ettin.$"
 
 SaffronCity_Gym_Text_SabrinaPostBattle::
     .string "Psişik güç, sadece birkaç kişinin\n"
@@ -24,9 +25,9 @@ SaffronCity_Gym_Text_SabrinaPostBattle::
     .string "değiller.$"
 
 SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
-    .string "MARSHBADGE, SV. 70'e kadar\n"
-    .string "POKéMON'un size itaat etmesini\l"
-    .string "sağlar.\p"
+    .string "BATAKLIK ROZETİ, SV. 70'e kadar\n"
+    .string "olan POKéMON'ların size itaat\l"
+    .string "etmesini sağlar.\p"
     .string "Daha güçlü POKéMON'lar vahşi hale\n"
     .string "gelebilir ve savaş sırasında\l"
     .string "emirlerinizi dinlemeyebilir.\p"
@@ -42,7 +43,7 @@ SaffronCity_Gym_Text_ExplainTM04::
     .string "TM04, SAKİNLEŞ içerir.\p"
     .string "POKéMON'un konsantre olmasını\n"
     .string "sağlar ve hem ÖZ. SLD hem de\l"
-    .string "ÖZ. SVN'i arttırır.$"
+    .string "ÖZ. SVN'yı arttırır.$"
 
 SaffronCity_Gym_Text_BagFullOfOtherItems::
     .string "Çantanız diğer öğelerle dolu.$"
@@ -150,7 +151,7 @@ SaffronCity_Gym_Text_GymGuyAdvice::
     .string "yok olurlar!$"
 
 SaffronCity_Gym_Text_GymGuyPostVictory::
-    .string "Psişik güç mü?$\n"
+    .string "Psişik güç mü?$\p"
     .string "Eğer psişik güçlere sahip olsaydım\n"
     .string "slot makinelerinde bir servet\l"
     .string "kazanırdım!$"

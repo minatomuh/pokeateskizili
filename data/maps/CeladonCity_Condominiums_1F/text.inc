@@ -12,7 +12,8 @@ CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
 
 CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
     .string "Sevgili POKéMON'larım bana\n"
-    .string "MEOWTH bile para getiriyor!$"
+    .string "eşlik ediyor.\p"
+    .string "MEOWTH eve para bile getiriyor!$"
 
 CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
     .string "Oh, merhaba.\n"

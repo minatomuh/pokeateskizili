@@ -10,7 +10,7 @@ SafariZone_SecretHouse_Text_CongratsYouveWon::
     .string "Kazandın!$"
 
 SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant::
-    .string "{PLAYER}, görevli tarafından\p"
+    .string "{PLAYER}, görevli tarafından\n"
     .string "HM03'ü aldı!$"
 
 SafariZone_SecretHouse_Text_ExplainSurf::

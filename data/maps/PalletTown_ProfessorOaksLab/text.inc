@@ -206,17 +206,17 @@ PalletTown_ProfessorOaksLab_Text_OakCompleteMonGuideWasMyDream::
     .string "girişim olacak!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMonsAroundWorldWait::
-    .string "Dünyadaki POKéMON'lar seni bekliyor,\n"
-    .string "{PLAYER}!$"
+    .string "Dünyadaki POKéMON'lar seni\n"
+    .string "bekliyor, {PLAYER}!$"
 
 PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex::
     .string "Ah, {PLAYER}!\n"
     .string "POKéDEX'in nasıl gidiyor?\p"
     .string "{RIVAL} bazı POKéMON'ları\n"
-    .string "zaten yakaladı ve veri ekledi.\p"
+    .string "çoktan yakaladı ve verisini ekledi.\p"
     .string "Peki, {PLAYER}, senin POKéDEX'ine\n"
     .string "bir bakalım.\p"
-    .string "…Ne oldu?\n"
+    .string "…O da ne?\n"
     .string "Hiç yeni veri eklememişsin.\p"
     .string "Sana bunları veriyorum, biraz daha\n"
     .string "çaba göster.$"
@@ -257,8 +257,8 @@ PalletTown_ProfessorOaksLab_Text_EmailMessage::
     .string "En iyi POKéMON'larını getir ve\n"
     .string "bir EĞİTMEN olarak ne derece\l"
     .string "güçlü olduğunu gör!\p"
-    .string "POKéMON LİGİ HQ\n"
-    .string "INDIGO PLATEAU\p"
+    .string "POKéMON LİG MERKEZİ\n"
+    .string "INDIGO PLATOSU\p"
     .string "PROF. OAK, lütfen bizi ziyaret\n"
     .string "edin! …$"
 
@@ -272,8 +272,8 @@ PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
     .string "Bu arada, DAISY'i tanıyor\n"
     .string "muydun?\p"
     .string "Eğer DAISY'ye POKéMON'unu\n"
-    .string "gösterirsen, onun ne kadar\n"
-    .string "seni sevdiğini söyleyebilir.\p"
+    .string "gösterirsen, onun seni ne kadar\l"
+    .string "sevdiğini söyleyebilir.\p"
     .string "Bazen, senin için bir POKéMON'u\n"
     .string "bakım yapar.\p"
     .string "Bu bir sır, lütfen kimseye söyleme.$"
@@ -317,9 +317,8 @@ PalletTown_ProfessorOaksLab_Text_RivalJustLetMeHandleEverything::
 
 PalletTown_ProfessorOaksLab_Text_OakNeedYourHelpTooNeedToSeePokedexes::
     .string "OAK: Biliyorum, biliyorum.\n"
-    .string "Tabi ki yardımınıza\l"
-    .string "ihtiyacım var.\p"
-    .string "Şimdi, her iki POKéDEX'e de\l"
+    .string "Tabi ki yardımınıza ihtiyacım var.\p"
+    .string "Şimdi, her iki POKéDEX'e de\n"
     .string "bakmalıyım.$"
 
 PalletTown_ProfessorOaksLab_Text_OakTookBothPokedexUnits::
