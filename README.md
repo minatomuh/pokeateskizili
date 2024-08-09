@@ -12,6 +12,6 @@ It builds the following ROMs:
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
 # Translators
-Gökhan Perçem
-Muhammed Emin Karakaya
+Gökhan Perçem\
+Muhammed Emin Karakaya\
 Emirhan Yılmaz
