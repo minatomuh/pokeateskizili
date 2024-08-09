@@ -11,4 +11,7 @@ It builds the following ROMs:
 
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
-For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
+# Translators
+Gökhan Perçem
+Muhammed Emin Karakaya
+Emirhan Yılmaz
