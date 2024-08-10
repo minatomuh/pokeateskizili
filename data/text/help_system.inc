@@ -1213,7 +1213,7 @@ Help_Text_DefineHP::
 	.string "Yani savaşın anahtarı, düşmanın CAN\n"
 	.string "puanını sıfıra indirmeye çalışmaktır.\l"
 	.string "POKéMON'lar yaralanırsa, CAN'larını bir\l"
-	.string "POKéMON MERKEZİ'nde veya eşyayla yenile.$"
+	.string "POKéMON MERKEZİ'nde yenile.$"
 
 Help_Text_DefineEXP::
 	.string "EXP. Puanı, “Deneyim Puanı”\n"
@@ -1274,10 +1274,9 @@ Help_Text_DefineSpeed::
 Help_Text_DefineLevel::
 	.string "Sv. (Seviye), bir POKéMON'un gelişim\n"
 	.string "ve gücünü gösterir.\l"
-	.string "Genel olarak, bir POKéMON seviye\l"
-	.string "atladığında, CAN, SALDIRI ve SAVUNMA\l"
-	.string "gibi istatistikleri artar, bu da onu\l"
-	.string "daha güçlü yapar.\l"
+	.string "Bir POKéMON seviye atladığında, CAN,\l"
+	.string "SALDIRI ve SAVUNMA gibi özellikleri\l"
+	.string "artar, bu da onu daha güçlü yapar.\l"
 	.string "POKéMON seviye atladığında yeni bir\l"
 	.string "hareket öğrenebilir.$"
 
