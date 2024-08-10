@@ -24,7 +24,7 @@ Help_Text_TryDoingItOnYourOwn::
 
 Help_Text_DescWhatShouldIDo::
 	.string "Zorlu durumlarda ipucu almak için\n"
-	.string "seçin.$"
+	.string "seç.$"
 
 Help_Text_DescHowDoIDoThis::
 	.string "Çeşitli işlemler için ayrıntılı\n"
@@ -43,7 +43,7 @@ Help_Text_DescTypeMatchupList::
 	.string "hamleler listelenmiştir.$"
 
 Help_Text_DescExit::
-	.string "YARDIM sisteminden çıkmak için seçin.$"
+	.string "YARDIM sisteminden çıkmak için seç.$"
 
 Help_Text_Greetings::
 	.string "Merhaba! Burası YARDIM sistemi.\n"
@@ -51,10 +51,10 @@ Help_Text_Greetings::
 	.string "tuşuna basarak gelebilirsin.\l"
 	.string "Yardım mesajları duruma göre\l"
 	.string "değişebilir.\l"
-	.string "Bu yüzden lütfen sık sık kontrol edin.$"
+	.string "Bu yüzden lütfen sık sık kontrol et.$"
 
 Help_Text_PlayingForFirstTime::
-	.string "İlk defa oynuyorum. Yardım edin!$"
+	.string "İlk defa oynuyorum. Yardım et!$"
 
 Help_Text_WhatShouldIBeDoing::
 	.string "Ne yapmam gerekiyor?$"
@@ -291,7 +291,7 @@ Help_Text_AnswerWhenCanIUseItem::
 	.string "Bazıları gezerken kullanılır.\l"
 	.string "Bazıları sadece savaşlarda.\l"
 	.string "Bazıları ise her zaman ve her yerde.\l"
-	.string "Eşyayı kullanmayı dene- eğer\l"
+	.string "Eşyayı kullanmayı dene. Eğer\l"
 	.string "kullanamazsan uyarı mesajı alırsın.$"
 
 Help_Text_AnswerWhatsABattle::
@@ -304,12 +304,12 @@ Help_Text_AnswerWhatsABattle::
 	.string "(güçlenmesine) yardımcı olur.$"
 
 Help_Text_AnswerHowDoIPrepareForBattle::
-	.string "İlk olarak, partinizdeki (yanınızdaki)\n"
+	.string "İlk olarak, takımındaki (yanındaki)\n"
 	.string "POKéMON'ları herhangi bir\l"
-	.string "POKéMON MERKEZİ'nde iyileştirin.\l"
+	.string "POKéMON MERKEZİ'nde iyileştir.\l"
 	.string "Ayrıca, acil durumlar için bir POKéMON\l"
 	.string "MARKET'inden iyileştirme eşyaları\l"
-	.string "satın almalısınız.$"
+	.string "satın almalısın.$"
 
 Help_Text_AnswerWhatIsAMonsVitality::
 	.string "Bir POKéMON'un canı CAN ile gösterilir.\n"
@@ -318,15 +318,15 @@ Help_Text_AnswerWhatIsAMonsVitality::
 	.string "POKéMON bayılır.\l"
 	.string "Yaralı veya bayılmış POKéMON'ları\l"
 	.string "POKéMON MERKEZİ'nde ya da eşya\l"
-	.string "kullanarak iyileştirin.$"
+	.string "kullanarak iyileştir.$"
 
 Help_Text_AnswerMyMonsAreHurt::
 	.string "POKéMON MERKEZİ, POKéMON'lar için\n"
 	.string "bir han gibidir. Özel bir makine ile\l"
 	.string "POKéMON'ları tamamen iyileştirir ve\l"
-	.string "herhangi bir durum sorununu giderir.\l"
+	.string "durum sorunlarını giderir.\l"
 	.string "Bu hizmet ücretsizdir, bu yüzden\l"
-	.string "POKéMON'larınızı sık sık iyileştirin.$"
+	.string "POKéMON'larını sık sık iyileştir.$"
 
 Help_Text_AnswerWhatIsStatusProblem::
 	.string "Durum sorunu, bir POKéMON'a rakibinin\n"
@@ -338,44 +338,44 @@ Help_Text_AnswerWhatIsStatusProblem::
 	.string "iyileştirilebilir.$"
 
 Help_Text_AnswerWhatHappensIfAllMyMonsFaint::
-	.string "Partinizdeki (yanınızdaki) tüm\n"
+	.string "Takımındaki (yanındaki) tüm\n"
 	.string "POKéMON'lar bayılırsa, biraz PARA\l"
-	.string "kaybedersiniz ve evinize veya bir\l"
-	.string "POKéMON MERKEZİ'ne geri dönersiniz.\l"
+	.string "kaybedersin ve evine veya bir\l"
+	.string "POKéMON MERKEZİ'ne geri dönersin.\l"
 	.string "Bu ihtimali azaltmak için sık sık\l"
-	.string "onları iyileştirin ve ayrıca.\l"
-	.string "sık sık kaydetme alışkanlığı edinin.$"
+	.string "onları iyileştir ve oyunu sık sık\l"
+	.string "kaydetme alışkanlığı edin.$"
 
 Help_Text_AnswerCantCatchMons::
 	.string "Eğer vahşi POKéMON bir POKé TOPU'ndan\n"
 	.string "kaçarsa, hala çok hareketli demektir.\l"
-	.string "CANını biraz daha azaltmayı deneyin ve\l"
+	.string "CAN'ını biraz daha azaltmayı dene ve\l"
 	.string "yakalamaya çalışmadan önce onu felç\l"
-	.string "veya uyku ile zayıflatmaya çalışın.\l"
-	.string "Eğer POKéTOPU bir süre sallanıyorsa,\l"
+	.string "veya uyku ile zayıflatmaya çalış.\l"
+	.string "Eğer POKé TOPU bir süre sallanırsa,\l"
 	.string "av yakalanmaya yakındır!$"
 
 Help_Text_AnswerRanOutOfPotions::
 	.string "POKéMON MARKET olarak bilinen,\n"
 	.string "eşya satan dükkanlar vardır.\l"
-	.string "POKéMON MARKET'ini yollarda,\l"
+	.string "POKéMON MARKET'i yollarda,\l"
 	.string "ormanlarda veya mağaralarda\l"
-	.string "bulamazsınız. Bir kasabaya\l"
-	.string "ziyaret ederken ihtiyaç duyduğunuz\l"
-	.string "eşyaları stoklayın.$"
+	.string "bulamazsın. Bir kasabayı\l"
+	.string "ziyaret ederken ihtiyaç duyduğun\l"
+	.string "eşyaları stoklamalısın.$"
 
 Help_Text_AnswerCanIBuyPokeBalls::
-	.string "Herhangi bir kasabadaki herhangi bir\n"
+	.string "Herhangi bir kasabadaki bir\n"
 	.string "POKéMON MARKETİ'nden POKéTOPU\l"
-	.string "satın alabilirsiniz. POKéMON\l"
+	.string "satın alabilirsin. POKéMON\l"
 	.string "MARKETLERİ'ni yollarda, ormanlarda\l"
-	.string "veya mağaralarda bulamazsınız.\l"
-	.string "Bir kasabaya ziyarette bulunurken\l"
-	.string "POKéTOPU stoklayın.$"
+	.string "veya mağaralarda bulamazsın.\l"
+	.string "Bir kasabayı ziyaret edince\l"
+	.string "POKéTOPU stoklamalısın.$"
 
 Help_Text_AnswerWhatsATrainer::
 	.string "EĞİTMEN, POKéMON'ları savaşarak\n"
-	.string "yetiştiren kişidir. EĞİTMENLER size\l"
+	.string "yetiştiren kişidir. EĞİTMENLER sana\l"
 	.string "nerede olurlarsa olsun meydan okurlar.\l"
 	.string "Bu bir yol, mağara, her yer olabilir.\l"
 	.string "Göz göze gelirsen, onların meydan\l"
@@ -385,23 +385,23 @@ Help_Text_AnswerWhatsATrainer::
 Help_Text_AnswerHowDoIWinAgainstTrainer::
 	.string "Bir EĞİTMEN'i yenmek için, rakibin\n"
 	.string "POKéMON'larına karşı avantajlı\l"
-	.string "tiplere sahip POKéMON'lar kullanın.\l"
+	.string "tiplere sahip POKéMON'lar kullan.\l"
 	.string "Ayrıca, çok güçlü, iyi eğitilmiş\l"
-	.string "POKéMON'lar kullanabilirsiniz. Rakibin\l"
+	.string "POKéMON'lar kullanabilirsin. Rakibin\l"
 	.string "POKéMON'larından sayıca fazla olmak\l"
 	.string "da başka bir taktik.$"
 
 Help_Text_AnswerWhereDoMonsAppear::
 	.string "Vahşi POKéMON'lar uzun otlarda,\n"
 	.string "yollarda ve ormanlarda ortaya çıkar.\l"
-	.string "Karanlık mağaralarda her yerde\l"
+	.string "Karanlık mağaralarda, her yerde\l"
 	.string "belirirler. Kasabalarda vahşi\l"
 	.string "POKéMON veya EĞİTMEN yoktur, bu\l"
 	.string "yüzden buralar güvenli yerlerdir.$"
 
 Help_Text_AnswerWhatAreMoves::
 	.string "POKéMON'lar en fazla dört farklı\n"
-	.string "teknik veya hareket öğrenebilirler.\l"
+	.string "hamle veya hareket öğrenebilirler.\l"
 	.string "Saldırılar ve özel etkiler içeren büyük\l"
 	.string "çeşitlilikte hareketler vardır. Hangi\l"
 	.string "hareketlerin öğrenilebileceği her\l"
@@ -409,76 +409,76 @@ Help_Text_AnswerWhatAreMoves::
 	.string "makinelerden öğrenilebilir.$"
 
 Help_Text_AnswerWhatAreHiddenMoves::
-	.string "GİZLİ hamleler, maceranız için önemli\n"
+	.string "GİZLİ hamleler, maceran için önemli\n"
 	.string "hamlelerdir. Bu tür bir hareketi savaş\l"
 	.string "dışında kullanmak için, “POKéMON”\l"
 	.string "menüsünden hamleyi bilen POKéMON'un\l"
-	.string "kullanmasını sağlayın.\l"
+	.string "kullanmasını sağlayabilirsin.\l"
 	.string "Bayılmış bir POKéMON savaş dışında\l"
 	.string "bir GİZLİ hamle kullanabilir.$"
 
 Help_Text_AnswerWhatMovesShouldIUse::
-	.string "“SALDIR”ı seçin ve hareketlerin menüsü\n"
-	.string "görünecek. Tür eşleşmelerini düşünün\l"
-	.string "ve en etkili hareketleri kullanın.\l"
+	.string "“SALDIR”ı seç ve hareketlerin menüsü\n"
+	.string "görünsün. Tür eşleşmelerini düşün\l"
+	.string "ve en etkili hareketleri kullan.\l"
 	.string "Hareketlerin etkilerini “POKéMON”u\l"
 	.string "açıp, bir POKéMON seçerek,\l"
 	.string "“ÖZET”i açarak ve ardından\l"
 	.string "“POKéMON YETENEKLERİ”ni açarak\l"
-	.string "kontrol edebilirsiniz.$"
+	.string "kontrol edebilirsin.$"
 
 Help_Text_AnswerWantToAddMoreMoves::
 	.string "Bir POKéMON'un öğrenebileceği en fazla\n"
 	.string "hareket sayısı dört. POKéMON seviye\l"
-	.string "atladıkça hareketler öğrenilir.\l"
+	.string "atladıkça hareketler öğrenir.\l"
 	.string "Ayrıca bir TM (Teknik Makine) veya\l"
 	.string "HM (Gizli Makine) kullanarak\l"
 	.string "hareket öğretilebilir. Ayrıca hareket\l"
 	.string "öğreten insanlar da vardır.$"
 
 Help_Text_AnswerWantToMakeMonStronger::
-	.string "POKéMON'unuzu güçlendirmenin anahtarı,\n"
+	.string "POKéMON'unu güçlendirmenin anahtarı,\n"
 	.string "sık sık savaşmak ve kazanmaktır.\l"
 	.string "Savaş kazanarak kazanılan EXP. Puanı\l"
 	.string "savaşlara katılan POKéMON'ların\l"
 	.string "seviye atlamasına yardımcı olur.\l"
-	.string "Partinizi seviye atlatmak için sık sık\l"
-	.string "vahşi POKéMON'larla savaşın.$"
+	.string "Takımını seviye atlatmak için sık sık\l"
+	.string "vahşi POKéMON'larla savaş.$"
 
 Help_Text_AnswerFoeMonsTooStrong::
-	.string "Eğer rakipleriniz çok güçlü ise,\n"
-	.string "POKéMON'larınızı biraz daha seviye\l"
-	.string "atlatmayı deneyin. Geldiğiniz yere\l"
-	.string "geri dönün ve partinizi seviye atlatmak\l"
-	.string "için vahşi POKéMON'larla savaşın.\l"
-	.string "Ayrıca, daha önce savaşmadığınız\l"
-	.string "EĞİTMENLER ile de savaşabilirsiniz.$"
+	.string "Eğer rakiplerin çok güçlü ise,\n"
+	.string "POKéMON'larını biraz daha seviye\l"
+	.string "atlatmayı dene. Geldiğin yere\l"
+	.string "geri dön ve takımını seviye atlatmak\l"
+	.string "için vahşi POKéMON'larla savaş.\l"
+	.string "Ayrıca, daha önce savaşmadığın\l"
+	.string "EĞİTMENLER ile de savaşabilirsin.$"
 
 Help_Text_AnswerWhatDoIDoInCave::
 	.string "Yollar ve ormanlardan farklı olarak,\n"
-	.string "vahşi POKéMON mağaralarda her yerde\l"
-	.string "belirir. POKéMON'larınız bir mağarada\l"
+	.string "mağaralarda vahşi POKéMON'lar her\l"
+	.string "yerde belirir. POKéMON'ların mağarada\l"
 	.string "yaralanırsa, hemen bir POKéMON MERKEZİ'ne\l"
-	.string "koşun veya eşyalar kullanarak onları\l"
-	.string "hemen iyileştirin. Mağaralarda şansınızı\l"
+	.string "koş veya eşyalar kullanarak onları\l"
+	.string "hemen iyileştir. Mağaralarda şansını\l"
 	.string "zorlamak çok tehlikelidir.$"
 
 Help_Text_AnswerNothingIWantToKnow::
-	.string "Kendi bilginize ve gücünüze güvenin.\n"
-	.string "Kendinize inanın ve yolunuzu bulun!$"
+	.string "Kendi bilgine ve gücüne güven.\n"
+	.string "Kendine inan ve yolunu bul!$"
 
 Help_Text_AnswerWhatsPokemonCenter::
 	.string "Bir POKéMON MERKEZİ, kırmızı çatısı ve\n"
-	.string "“P.C” tabelası ile tanınır. Her\l"
+	.string "“P.M” tabelası ile tanınır. Her\l"
 	.string "POKéMON MERKEZİ, POKéMON'ları tamamen\l"
 	.string "iyileştirme ve ücretsiz bilgisayar\l"
 	.string "kullanımı gibi hizmetler sunar, bu da\l"
-	.string "onu yolculuklarınız için vazgeçilmez\l"
+	.string "onu yolculukların için vazgeçilmez\l"
 	.string "kılar. Üst katta arkadaşların ve\l"
 	.string "diğerleri ile bağlantı kurabilirsin.$"
 
 Help_Text_AnswerWhatsPokemonMart::
-	.string "Bir POKéMON MARKETİ, mavi çatısı ve\n"
+	.string "POKéMON MARKETİ, mavi çatısı ve\n"
 	.string "“MARKET” tabelası ile tanınır.\l"
 	.string "Herhangi bir POKéMON MARKETİ'nde\l"
 	.string "eşya alınıp satılabilir. Bazıları\l"
@@ -487,7 +487,7 @@ Help_Text_AnswerWhatsPokemonMart::
 
 Help_Text_AnswerWantToEndGame::
 	.string "MENÜ'den “KAYDET”i seçerek\n"
-	.string "oyununuzu güvenli bir şekilde\l"
+	.string "oyununu güvenli bir şekilde\l"
 	.string "sonlandırabilirsin.\l"
 	.string "Bir kez kaydettikten sonra, oyun\l"
 	.string "güvenli bir şekilde kapatılabilir.\l"
@@ -497,43 +497,43 @@ Help_Text_AnswerWantToEndGame::
 Help_Text_AnswerWhatsAMon::
 	.string "POKéMON'lar, EĞİTMENLER tarafından\n"
 	.string "savaşlarda kullanılan ve eğitilen\l"
-	.string "garip yaratıklardır. POKéMON'ların\l"
+	.string "ilginç yaratıklardır. POKéMON'ların\l"
 	.string "birçok farklı tipi vardır ve bazı\l"
 	.string "tipler diğerlerine karşı avantaj\l"
 	.string "veya dezavantaja sahiptir.$"
 
 Help_Text_AnswerWhatIsThatPersonLike::
 	.string "ÇANTA'da ANAHTAR EŞYA bölümünde\n"
-	.string "ŞANIMSAYICI'yı kullanın.\l"
-	.string "Size bir ipucu verebilir, bu yüzden\l"
-	.string "denemekten çekinmeyin.$"
+	.string "ŞANIMSAYICI'yı kullan.\l"
+	.string "Sana bir ipucu verebilir, bu yüzden\l"
+	.string "denemekten çekinme.$"
 
 Help_Text_AnswerWhatDoesHiddenMoveDo::
-	.string "GİZLİ hamleler, bir HM (Gizli Makine)\n"
+	.string "GİZLİ hamleler, HM (Gizli Makine)\n"
 	.string "kullanarak POKéMON'a öğretilir.\l"
-	.string "GİZLİ hamleler, maceranızda ilerlemek\l"
+	.string "GİZLİ hamleler, maceranda ilerlemek\l"
 	.string "için önemlidir. Örneğin karanlık\l"
-	.string "karanlık mağaraları aydınlatma,\l"
-	.string "küçük ağaçları kesme, su seyahati\l"
-	.string "ve daha fazlası.$"
+	.string "mağaraları aydınlatma, küçük\l"
+	.string "ağaçları kesme, su seyahati ve daha\l"
+	.string "fazla alanda.$"
 
 Help_Text_AnswerWhatDoIDoInSafari::
 	.string "Özel SAFARİ TOPLARI atarak vahşi\n"
-	.string "POKéMON'ları yakalamayı deneyin.\l"
-	.string "Ayrıca bulduğunuz her eşyayı\l"
-	.string "da saklayabilirsiniz.$"
+	.string "POKéMON'ları yakalamayı dene.\l"
+	.string "Ayrıca bulduğun her eşyayı\l"
+	.string "da yanına alabilirsin.$"
 
 Help_Text_AnswerWhatAreSafariRules::
-	.string "SAFARİ OYUNUNUZ belirli bir mesafe\n"
-	.string "kat ettiğinizde veya tüm SAFARİ\l"
-	.string "TOPLARI'nı attığınızda sona erer.\l"
+	.string "SAFARİ OYUNU, belirli bir mesafe\n"
+	.string "kat ettiğinde veya tüm SAFARİ\l"
+	.string "TOPLARI'nı attığında sona erer.\l"
 	.string "Kalan adım sayısını ve SAFARİ TOPLARI'nı\l"
-	.string "kontrol etmek için MENÜ'yü açın.$"
+	.string "kontrol etmek için MENÜ'yü aç.$"
 
 Help_Text_AnswerWantToEndSafari::
-	.string "SAFARİ OYUNUNUZU kısa kesmek isterseniz,\n"
-	.string "MENÜ'yü açın ve listenin en üstünde\l"
-	.string "“AYRIL”ı seçin.$"
+	.string "SAFARİ OYUNUNU kısa kesmek istersen,\n"
+	.string "MENÜ'yü aç ve listenin en üstündeki\l"
+	.string "“AYRIL”ı seç.$"
 
 Help_Text_AnswerWhatIsAGym::
 	.string "POKéMON SALONLARI, POKéMON LİGİ'nin\n"
@@ -542,7 +542,7 @@ Help_Text_AnswerWhatIsAGym::
 	.string "ve kasabalarda bulunurlar.\l"
 	.string "Her birinin başında, çok yetenekli\l"
 	.string "bir EĞİTMEN olan BİR LİDER bulunur.\l"
-	.string "LİDER'i yenin ve bir ROZET toplayın.$"
+	.string "LİDER'i yen ve bir ROZET topla.$"
 
 Help_Text_UsingPokedex::
 	.string " “POKéDEX” kullanımı$"
@@ -572,13 +572,13 @@ Help_Text_UsingPokeBall::
 	.string "  POKé TOPU kullanmak$"
 
 Help_Text_UsingPlayer::
-	.string " “{PLAYER}”ı yönetmek$"
+	.string " “{PLAYER}” seçeneği$"
 
 Help_Text_UsingSave::
-	.string " “KAYIT” kullanımı$"
+	.string " “KAYDET” seçeneği$"
 
 Help_Text_UsingOption::
-	.string " “AYAR” kullanımı$"
+	.string " “AYARLAR” seçeneği$"
 
 Help_Text_UsingPotion::
 	.string "    İKSİR kullanmak$"
@@ -671,7 +671,7 @@ Help_Text_UsingMailbox2::
 	.string "POSTA kullanımı$"
 
 Help_Text_UsingRun::
-	.string " “KOŞ” kullanımı$"
+	.string " “KAÇ” kullanımı$"
 
 Help_Text_RegisterKeyItem::
 	.string "  Bir eşyayı “KAYIT” etme$"
@@ -689,39 +689,39 @@ Help_Text_UsingHallOfFame::
 	.string " “ŞÖHRET SALONU” kullanımı$"
 
 Help_Text_HowToUsePokedex::
-	.string "{CIRCLE_1} Menüde “POKéDEX”i açın.\n"
-	.string "{CIRCLE_2} Aşağıdaki komutlarla POKéMON seçin:\n"
+	.string "{CIRCLE_1} Menüde “POKéDEX”i aç.\n"
+	.string "{CIRCLE_2} Aşağıdaki komutlarla POKéMON seç:\n"
 	.string "   “POKéMON LİSTESİ,”\n"
 	.string "   “POKéMON HABİTATLARI,” ve\n"
 	.string "   “ARA.”\n"
 	.string "{CIRCLE_3} Detaylı bilgi için POKéMON'u\n"
-	.string "   seçin.$"
+	.string "   seç.$"
 
 Help_Text_HowToUsePokemon::
-	.string "{CIRCLE_1} Menüde “POKéMON”u seçin.\n"
-	.string "{CIRCLE_2} Elinizdeki bir POKéMON'u seçin.\n"
+	.string "{CIRCLE_1} Menüde “POKéMON”u seç.\n"
+	.string "{CIRCLE_2} Elinizdeki bir POKéMON'u seç.\n"
 	.string "{CIRCLE_3} “ÖZET,” “DEĞİŞ,” ya da\n"
-	.string "   “EŞYA”yı seçin.$"
+	.string "   “EŞYA”yı seç.$"
 
 Help_Text_HowToUseSummary::
-	.string "{CIRCLE_1} “ÖZET”i seçin.\n"
+	.string "{CIRCLE_1} “ÖZET”i seç.\n"
 	.string "{CIRCLE_2} {PLUS} tuşlarıyla aşağıdaki\n"
-	.string "   bilgilere bakabilirsiniz:\n"
+	.string "   bilgilere bakabilirsin:\n"
 	.string "   “POKéMON VERİSİ”\n"
 	.string "   “POKéMON YETENEK”\n"
 	.string "   “HAMLELER”$"
 
 Help_Text_HowToUseSwitch::
-	.string "{CIRCLE_1} Yer değişeceğiniz POKéMON'u\n"
-	.string "   seçin.\n"
-	.string "{CIRCLE_2} “DEĞİŞ”e basın.\n"
+	.string "{CIRCLE_1} Yer değişeceğin POKéMON'u\n"
+	.string "   seç.\n"
+	.string "{CIRCLE_2} “DEĞİŞ”e bas.\n"
 	.string "{CIRCLE_3} İlk olacak POKéMON ile\n"
-	.string "   değiştirin.\n"
-	.string "En soldaki POKéMON savaşlarda\n"
+	.string "   değiştir.\n"
+	.string "En soldaki POKéMON, savaşlarda\n"
 	.string "ilk olarak çıkacaktır.$"
 
 Help_Text_HowToUseItem::
-	.string "{CIRCLE_1} “EŞYA”yı seçin\n"
+	.string "{CIRCLE_1} “EŞYA”yı seç\n"
 	.string "{CIRCLE_2} “VER”e basarak POKéMON'a\n"
 	.string "   eşya verebilir, ya da “AL”a\n"
 	.string "   basarak tuttuğu eşyayı alabilirsin.\n"
@@ -729,7 +729,7 @@ Help_Text_HowToUseItem::
 	.string "taşıyamaz!$"
 
 Help_Text_HowToUseBag::
-	.string "{CIRCLE_1} Menüde “ÇANTA”yı seçin.\n"
+	.string "{CIRCLE_1} Menüde “ÇANTA”yı seç.\n"
 	.string "{CIRCLE_2} {PLUS} tuşları ile sağ sola basarak\n"
 	.string "   aşağıdaki menüleri gezebilirsin:\n"
 	.string "   “EŞYA”\n"
@@ -738,7 +738,7 @@ Help_Text_HowToUseBag::
 	.string "   Yukarı/aşağı ile eşya seçebilirsin.$"
 
 Help_Text_HowToUseAnItem::
-	.string "{CIRCLE_1} “EŞYA” cebini seçin.\n"
+	.string "{CIRCLE_1} “EŞYA” cebini seç.\n"
 	.string "{CIRCLE_2} {PLUS} tuşları ile yukarı aşağı\n"
 	.string "   basarak eşya seçebilirsin.\n"
 	.string "{CIRCLE_3} “KULLAN”a basarak eşyayı\n"
@@ -747,7 +747,7 @@ Help_Text_HowToUseAnItem::
 	.string "kullanılamayabilir.$"
 
 Help_Text_HowToUseKeyItem::
-	.string "{CIRCLE_1} “ANAHTAR EŞYA” cebini seçin.\n"
+	.string "{CIRCLE_1} “ANAHTAR EŞYA” cebini seç.\n"
 	.string "{CIRCLE_2} {PLUS} tuşları ile yukarı aşağı\n"
 	.string "   basarak anahtar eşya seçebilirsin.\n"
 	.string "{CIRCLE_3} “KULLAN”a basarak eşyayı\n"
@@ -758,12 +758,12 @@ Help_Text_HowToUsePokeBall::
 	.string "   ÇANTA menüsünden “POKé TOPU” cebini\n"
 	.string "   seç.\n"
 	.string "{CIRCLE_2} {PLUS} tuşları ile yukarı aşağı\n"
-	.string "   basarak bir POKé TOPU seçin.\n"
+	.string "   basarak bir POKé TOPU seç.\n"
 	.string "{CIRCLE_3} “KULLAN”a basarak seçtiğin\n"
 	.string "   POKé TOPU'nu atabilirsin.$"
 
 Help_Text_HowToUsePlayer::
-	.string "{CIRCLE_1} Menüde “{PLAYER}”ı seçin.\n"
+	.string "{CIRCLE_1} Menüde “{PLAYER}”ı seç.\n"
 	.string "{CIRCLE_2} EĞİTMEN KARTIN bilgilerinle\n"
 	.string "   birlikte gözükecektir. A tuşu ile\n"
 	.string "   KARTI ters çevirebilirsin.\n"
@@ -771,7 +771,7 @@ Help_Text_HowToUsePlayer::
 	.string "   bilgiler bulunur.$"
 
 Help_Text_HowToUseSave::
-	.string "{CIRCLE_1} Menüde “KAYDET”i seçin.\n"
+	.string "{CIRCLE_1} Menüde “KAYDET”i seç.\n"
 	.string "{CIRCLE_2} “EVET”e basarak oyundaki\n"
 	.string "   ilerlemeni kaydedebilirsin.\n"
 	.string "Oyun kaydedildikten sonra oyunu\n"
@@ -779,7 +779,7 @@ Help_Text_HowToUseSave::
 	.string "devam edecektir.$"
 
 Help_Text_HowToUseOption::
-	.string "{CIRCLE_1} Menüde “AYARLAR”ı seçin..\n"
+	.string "{CIRCLE_1} Menüde “AYARLAR”ı seç.\n"
 	.string "{CIRCLE_2} {PLUS} tuşları ile yukarı aşağı\n"
 	.string "   giderek istediğin ayarı seçebilir,\n"
 	.string "   sonra sağ ve sola basarak istediğin\n"
@@ -790,24 +790,24 @@ Help_Text_HowToUseOption::
 Help_Text_HowToUsePotion::
 	.string "{CIRCLE_1} Menüyü açın.\n"
 	.string "{CIRCLE_2} {PLUS} tuşları ile yukarı aşağı\n"
-	.string "   basarak “ÇANTA”'yı seçin\n"
+	.string "   basarak “ÇANTA”'yı seç.\n"
 	.string "{CIRCLE_3}  “EŞYA” bölümünden “İKSİR”i\n"
-	.string "   seçin.\n"
+	.string "   seç.\n"
 	.string "{CIRCLE_4} “KULLAN”a basın\n"
 	.string "{CIRCLE_5} İyileştirmek istediğiniz POKéMON'u\n"
-	.string "   seçin.$"
+	.string "   seç.$"
 
 Help_Text_HowToUseTownMap::
 	.string "{CIRCLE_1} Menüyü açın.\n"
 	.string "{CIRCLE_2} {PLUS} tuşları ile yukarı aşağı\n"
-	.string "   basarak “ÇANTA”'yı seçin\n"
+	.string "   basarak “ÇANTA”'yı seç\n"
 	.string "{CIRCLE_3} Sağ ve sola basarak “ANAHTAR\n"
-	.string "   EŞYA” cebini açın, ardından yukarı\n"
-	.string "   veya aşağı gelerek “HARİTA”yı seçin. \n"
+	.string "   EŞYA” cebini aç, ardından yukarı\n"
+	.string "   veya aşağı gelerek “HARİTA”yı seç. \n"
 	.string "{CIRCLE_4} “KULLAN”a basarak açabilirsin.$"
 
 Help_Text_HowToUseTM::
-	.string "{CIRCLE_1} Menüyü açın.\n"
+	.string "{CIRCLE_1} Menüyü aç.\n"
 	.string "{CIRCLE_2} “ÇANTA”da “ANAHTAR EŞYA”\n"
 	.string "   cebine gelin.\n"
 	.string "{CIRCLE_3} TM KASASI'nı “AÇ”.\n"
@@ -816,7 +816,7 @@ Help_Text_HowToUseTM::
 	.string "   POKéMON'u seç.$"
 
 Help_Text_HowToUseHM::
-	.string "{CIRCLE_1} Menüyü açın.\n"
+	.string "{CIRCLE_1} Menüyü aç.\n"
 	.string "{CIRCLE_2} “ÇANTA”da “ANAHTAR EŞYA”\n"
 	.string "   cebine gelin.\n"
 	.string "{CIRCLE_3} TM KASASI'nı “AÇ”.\n"
@@ -825,18 +825,18 @@ Help_Text_HowToUseHM::
 	.string "seç. HM unutması zordur, bu yüzden dikkatli ol!$"
 
 Help_Text_HowToUseMoveOutsideOfBattle::
-	.string "{CIRCLE_1} Menüyü açın.\n"
-	.string "{CIRCLE_2} “POKéMON”u seçin.\n"
+	.string "{CIRCLE_1} Menüyü aç.\n"
+	.string "{CIRCLE_2} “POKéMON”u seç.\n"
 	.string "{CIRCLE_3} HM hamlesi bilen POKéMON'u\n"
-	.string "   seçin. Kullanılabilecek hamleler\n"
+	.string "   seç. Kullanılabilecek hamleler\n"
 	.string "   mavi renk ile gösterilir. İstenilen\n"
 	.string "   hamleyi kullanarak bir engeli keser,\n"
 	.string "   yüzebilir, uçabilirsin vs..$"
 
 Help_Text_HowToRideBicycle::
-	.string "{CIRCLE_1} Menüyü açın. “ÇANTA”da\n"
+	.string "{CIRCLE_1} Menüyü aç. “ÇANTA”da\n"
 	.string "   “ANAHTAR EŞYA” cebine gelip\n"
-	.string "   “BİSİKLET”i seçin.\n"
+	.string "   “BİSİKLET”i seç.\n"
 	.string "{CIRCLE_2} “KULLAN”a basarak BİSİKLET\n"
 	.string "   sürebilirsin. Ayrıca\n"
 	.string "   “ATA” ile SELECT tuşuna atayarak\n"
@@ -865,7 +865,7 @@ Help_Text_HowToUseBillsPC::
 
 Help_Text_HowToUseWithdraw::
 	.string "{CIRCLE_1} {PLUS} yön tuşlarını kullanarak\n"
-	.string "   bir POKéMON seçin.\n"
+	.string "   bir POKéMON seç.\n"
 	.string "{CIRCLE_2} “AL” tuşuna basarak KUTU'dan\n"
 	.string "   POKéMON seçip yanınıza\n"
 	.string "   alabilirsiniz.\n"
@@ -874,8 +874,8 @@ Help_Text_HowToUseWithdraw::
 
 Help_Text_HowToUseDeposit::
 	.string "{CIRCLE_1} {PLUS} yön tuşlarını kullanarak\n"
-	.string "   partinizden bir POKéMON seçin.\n"
-	.string "{CIRCLE_2} “DEPOLA”yı seçin.\n"
+	.string "   partinizden bir POKéMON seç.\n"
+	.string "{CIRCLE_2} “DEPOLA”yı seç.\n"
 	.string "{CIRCLE_3} KUTU seçtikten sonra\n"
 	.string "   A tuşu ile POKéMON'u depolayın.\n"
 	.string "Eğer tek POKéMON'un varsa,\n"
@@ -908,17 +908,17 @@ Help_Text_HowToUsePlayersPC::
 	.string "eşyaları geri alabilirsin.$"
 
 Help_Text_HowToUseWithdrawItem::
-	.string "{CIRCLE_1} “EŞYA AL”ı seçin.\n"
-	.string "{CIRCLE_2} Alınacak eşyayı seçin.\n"
+	.string "{CIRCLE_1} “EŞYA AL”ı seç.\n"
+	.string "{CIRCLE_2} Alınacak eşyayı seç.\n"
 	.string "{CIRCLE_3} Eşya artık alınabilir ve\n"
 	.string "   ÇANTA'da EŞYA cebine koyulabilir.\n"
 	.string "   Ayrıca tutması için bir POKéMON'a\n"
 	.string "   verilebilir.$"
 
 Help_Text_HowToUseDepositItem::
-	.string "{CIRCLE_1} “EŞYA DEPOLA”yı seçin.\n"
+	.string "{CIRCLE_1} “EŞYA DEPOLA”yı seç.\n"
 	.string "{CIRCLE_2} {PLUS} yön tuşları ile koymak\n"
-	.string "   istediğiniz eşyayı seçin.\n"
+	.string "   istediğiniz eşyayı seç.\n"
 	.string "{CIRCLE_3} Eğer birden fazla eşya koymak\n"
 	.string "   isterseniz, miktarı {PLUS} yön tuşları\n"
 	.string "   ile seçtikten sonra, A tuşuna basarak\n"
@@ -928,13 +928,13 @@ Help_Text_HowToUseMailbox::
 	.string "Bir POKéMON'dan MEKTUP alınırsa,\n"
 	.string "POSTA KUTUSU'na taşınır. Eğer hiç\n"
 	.string "MEKTUP yoksa POSTA K. kullanılamaz.\n"
-	.string "{CIRCLE_1} “{PLAYER}'ın PC'si”ni seçin.\n"
+	.string "{CIRCLE_1} “{PLAYER}'ın PC'si”ni seç.\n"
 	.string "{CIRCLE_2} “POSTA K.”nu seçerek MEKTUP\n"
 	.string "   okuyabilir veya bir POKéMON'a\n"
 	.string "   verebilirsin.$"
 
 Help_Text_HowToUseProfOaksPC::
-	.string "{CIRCLE_1} “PROF. OAK'ın PC'si”ni seçin.\n"
+	.string "{CIRCLE_1} “PROF. OAK'ın PC'si”ni seç.\n"
 	.string "{CIRCLE_2} PROF. OAK, POKéDEX'inizi\n"
 	.string "   değerlendirecektir.\n"
 	.string "Önerileri size daha fazla POKéMON\n"
@@ -949,14 +949,14 @@ Help_Text_HowToOpenMenu::
 	.string "gibi durumlar sırasında açılamaz.$"
 
 Help_Text_HowToUseFight::
-	.string "{CIRCLE_1} “SALDIR”ı seçin\n"
+	.string "{CIRCLE_1} “SALDIR”ı seç\n"
 	.string "{CIRCLE_2} Gösterilen hamlelerden birini\n"
-	.string "seçin ve kullanın!$"
+	.string "seç ve kullanın!$"
 
 Help_Text_HowToUsePokemon2::
-	.string "{CIRCLE_1} “POKéMON”u seçin\n"
+	.string "{CIRCLE_1} “POKéMON”u seç\n"
 	.string "{CIRCLE_2} Kullanmak istediğiniz POKéMON'u\n"
-	.string "   seçin.\n"
+	.string "   seç.\n"
 	.string "{CIRCLE_3} Eğer iki veya daha fazla\n"
 	.string "   POKéMON'unuz varsa, “DEĞİŞ”e basarak\n"
 	.string "   onu savaşa sokabilirsiniz. “ÖZET” ile\n"
@@ -965,7 +965,7 @@ Help_Text_HowToUsePokemon2::
 Help_Text_HowToUseShift::
 	.string "Bu komut savaştaki POKéMON'unuzu\n"
 	.string "partinizdeki bir başkasıyla değiştirir.\n"
-	.string "{CIRCLE_1} Göndereceğiniz POKéMON'u seçin.\n"
+	.string "{CIRCLE_1} Göndereceğiniz POKéMON'u seç.\n"
 	.string "{CIRCLE_2} “DEĞİŞ”e basın.\n"
 	.string "{CIRCLE_3} Seçilen POKéMON savaştaki\n"
 	.string "   ile yer değiştirir!$"
@@ -979,7 +979,7 @@ Help_Text_HowToUseSummary2::
 	.string "   “HAMLELER”$"
 
 Help_Text_HowToUseBag2::
-	.string "{CIRCLE_1} “ÇANTA”yı seçin\n"
+	.string "{CIRCLE_1} “ÇANTA”yı seç\n"
 	.string "{CIRCLE_2} {PLUS} yön tuşları ile sağ ve sola\n"
 	.string "   basarak aşağıdakilere bakabilirsiniz:\n"
 	.string "   “EŞYA”\n"
@@ -1015,17 +1015,17 @@ Help_Text_HowToUseItemStorage::
 	.string "   bulunan bir eşyayı koyabilirsin.$"
 
 Help_Text_HowToUseWithdrawItem2::
-	.string "{CIRCLE_1} “EŞYA AL”ı seçin.\n"
-	.string "{CIRCLE_2} Alınacak eşyayı seçin.\n"
+	.string "{CIRCLE_1} “EŞYA AL”ı seç.\n"
+	.string "{CIRCLE_2} Alınacak eşyayı seç.\n"
 	.string "{CIRCLE_3} Eşya artık alınabilir ve\n"
 	.string "   ÇANTA'da EŞYA cebine koyulabilir.\n"
 	.string "   Ayrıca tutması için bir POKéMON'a\n"
 	.string "   verilebilir.$"
 
 Help_Text_HowToUseDepositItem2::
-	.string "{CIRCLE_1} “EŞYA DEPOLA”yı seçin.\n"
+	.string "{CIRCLE_1} “EŞYA DEPOLA”yı seç.\n"
 	.string "{CIRCLE_2} {PLUS} yön tuşları ile koymak\n"
-	.string "   istediğiniz eşyayı seçin.\n"
+	.string "   istediğiniz eşyayı seç.\n"
 	.string "{CIRCLE_3} Eğer hiçbir eşyanız yoksa,\n"
 	.string "   bu komut kullanılamaz!$"
 
@@ -1046,19 +1046,19 @@ Help_Text_HowToUseRun::
 Help_Text_HowToRegisterKeyItem::
 	.string "Bir anahtar eşyayı SELECT tuşuna kolay\n"
 	.string "kullanım için “ATA”yabilirsin!\n"
-	.string "{CIRCLE_1} “ANAHTAR EŞYA” cebini açın.\n"
-	.string "{CIRCLE_2} Eşyayı seçin, ardından “ATA”\n"
-	.string "   butonunu seçin.$"
+	.string "{CIRCLE_1} “ANAHTAR EŞYA” cebini aç.\n"
+	.string "{CIRCLE_2} Eşyayı seç, ardından “ATA”\n"
+	.string "   butonunu seç.$"
 
 Help_Text_HowToUseBall::
 	.string "{CIRCLE_1} SAFARİ BÖLGESİ'ne özel\n"
-	.string "   POKé TOPU'nu atmak için seçin.\n"
+	.string "   POKé TOPU'nu atmak için seç.\n"
 	.string "Vahşi POKéMON göründüğünde, onları\n"
 	.string "yakalamak için bolca SAFARİ TOPU atın!$"
 
 Help_Text_HowToUseBait::
 	.string "{CIRCLE_1} SAFARİ BÖLGESİ'ne özel\n"
-	.string "   yiyecek atmak için seçin.\n"
+	.string "   yiyecek atmak için seç.\n"
 	.string "Bu, kolay yemeleri için top haline\n"
 	.string "getirilmiş POKéMON yiyeceğidir. YEM\n"
 	.string "atıldığında, vahşi POKéMON buna\n"
@@ -1066,7 +1066,7 @@ Help_Text_HowToUseBait::
 
 Help_Text_HowToUseRock::
 	.string "{CIRCLE_1} SAFARİ BÖLGESİ'nde yerdeki\n"
-	.string "   bir taşı atmak için seçin.\n"
+	.string "   bir taşı atmak için seç.\n"
 	.string "Bir POKéMON'a taş atmak onu\n"
 	.string "kaçırabilir, ancak yakalamayı\n"
 	.string "kolaylaştırır!$"
@@ -1213,7 +1213,7 @@ Help_Text_DefineHP::
 	.string "Yani savaşın anahtarı, düşmanın CAN\n"
 	.string "puanını sıfıra indirmeye çalışmaktır.\l"
 	.string "POKéMON'lar yaralanırsa, CAN'larını bir\l"
-	.string "POKéMON MERKEZİ'nde veya eşyayla yenileyin$"
+	.string "POKéMON MERKEZİ'nde veya eşyayla yenile.$"
 
 Help_Text_DefineEXP::
 	.string "EXP. Puanı, “Deneyim Puanı”\n"
@@ -1291,7 +1291,7 @@ Help_Text_DefineType::
 	.string "türüne karşı zayıftır.$"
 
 Help_Text_DefineOT::
-	.string "OE, “Orijinal EĞİTMEN” anlamına gelir,\n"
+	.string "OE, “Orijinal Eğitmen” anlamına gelir,\n"
 	.string "seçilen POKéMON'u yakalayan ilk\l"
 	.string "EĞİTMEN'dir.\l"
 	.string "POKéMON takas edilse bile OE adı\l"
@@ -1302,7 +1302,7 @@ Help_Text_DefineItem::
 	.string "Bazı eşyalar belirli durumlarda\l"
 	.string "POKéMON tarafından otomatik olarak\l"
 	.string "kullanılır. Bir POKéMON'a eşya\l"
-	.string "taşıtmak için ÇANTA'dan eşya seçin\l"
+	.string "taşıtmak için ÇANTA'dan eşya seç\l"
 	.string "ve POKéMON'a “VER”in.$"
 
 Help_Text_DefineAbility::
@@ -1355,7 +1355,7 @@ Help_Text_DefinePower::
 	.string "verilebilecek hasar o kadar büyük olur!$"
 
 Help_Text_DefineAccuracy::
-	.string "KESİNLİK, hareketin düşmana\n"
+	.string "İSABET, hareketin düşmana\n"
 	.string "isabet etme olasılığını gösterir.\l"
 	.string "Bu sayı ne kadar yüksekse, hareketin\l"
 	.string "hedefi vurma olasılığı o kadar fazladır.$"
@@ -1411,7 +1411,7 @@ Help_Text_DefineBadges::
 
 Help_Text_DefineTextSpeed::
 	.string "Metnin ne kadar hızlı gösterileceğini\n"
-	.string "ayarlayabilirsiniz. Birini seçin:\l"
+	.string "ayarlayabilirsiniz. Birini seç:\l"
 	.string "YAVAŞ, ORTA, veya HIZLI.$"
 
 Help_Text_DefineBattleScene::
@@ -1468,11 +1468,11 @@ Help_Text_DefineHM::
 	.string "hareketi unutması zor olabilir.$"
 
 Help_Text_DefineHMMove::
-	.string "GİZLİ hamleler, maceranız için\n"
-	.string "önemli olanlardır. Bu hamleleri\l"
-	.string "savaş dışında kullanmak için,\l"
-	.string "“POKéMON” MENÜSÜNÜ açın ve hamleyi\l"
-	.string "bilen POKéMON'un kullanmasını sağlayın.\l"
+	.string "GİZLİ hamleler, maceran için\n"
+	.string "önemlidir. Bu hamleleri savaş\l"
+	.string "dışında kullanmak için,\l"
+	.string "“POKéMON” MENÜSÜNÜ aç ve hamleyi\l"
+	.string "bilen POKéMON'un kullanmasını sağla.\l"
 	.string "Baygın bir POKéMON, savaş dışı bile\l"
 	.string "GİZLİ hamle kullanabilir.$"
 
@@ -1506,7 +1506,7 @@ Help_Text_DefineIDNo2::
 	.string "ID No., size EĞİTMEN olarak özel\n"
 	.string "olarak atanmış bir numaradır.\l"
 	.string "OE adı ile birlikte ID No., Orijinal\l"
-	.string "EĞİTMEN'i kesin olarak tanımlamak için\l"
+	.string "Eğitmen'i kesin olarak tanımlamak için\l"
 	.string "kullanılır.\l"
 	.string "POKéMON takas edilse bile ID değişmez.$"
 
@@ -1545,55 +1545,55 @@ Help_Text_WhatArePokemon::
 
 Help_Text_DescTheHelpSystem::
 	.string "Yardım mesajları, oyunda ne kadar\n"
-	.string "ilerlediğinize bağlı olarak değişir.\l"
-	.string "İhtiyacınız olduğunda sizi desteklemek\l"
-	.string "için tasarlandılar. Anlamadığınız\l"
-	.string "bir şey varsa, LÜTFEN Yardım Sistemine\l"
-	.string "bakın!$"
+	.string "ilerlediğine bağlı olarak değişir.\l"
+	.string "İhtiyacın olduğunda seni desteklemek\l"
+	.string "için tasarlandılar. Anlamadığın\l"
+	.string "bir şey olursa, lütfen yardım\l"
+	.string "sisteminden yararlan!$"
 
 Help_Text_DescTheGame::
 	.string "Ana karakter olarak POKéMON dünyasını\n"
-	.string "keşfetmeye başlıyorsunuz!\l"
+	.string "keşfetmeye başlıyorsun!\l"
 	.string "İnsanlarla konuşarak ve gizemleri\l"
-	.string "çözerek, yeni yollar size açılacak.\l"
-	.string "Harika POKéMON'unuzla birlikte hedefe\l"
-	.string "ulaşmak için çabalayın!$"
+	.string "çözerek, yeni yollar açılacak.\l"
+	.string "Harika POKéMON'unla birlikte hedefe\l"
+	.string "ulaşmak için çabala!$"
 
 Help_Text_DescWirelessAdapter::
 	.string "Bu oyun, Kablosuz Adaptör kullanarak\n"
 	.string "kablosuz bağlantı üzerinden iletişim\p"
-	.string "kurar.\p"
-	.string "Her yerde, her zaman ve herkesle\l"
-	.string "kablosuz oynayın!\p"
-	.string "Kablosuz Adaptör'ü daima bağlı tutarak\l"
-	.string "oynamayı deneyin!$"
+	.string "kurar. Emülatörde oynuyorsan şu\p"
+	.string "emülatörler ile çok oyunculu\l"
+	.string "oynayabilirsin: (LAN veya Bluetooth)\p"
+	.string "Android: My Boy, Pizza Boy\l"
+	.string "Windows: VBA-M Emulator$"
 
 Help_Text_DescGameFundamentals1::
-	.string "Her şehri ve kasabayı ziyaret edin,\n"
-	.string "her yolu gezin, her mağarayı keşfedin ve\l"
-	.string "POKéMON'un en büyük EĞİTMENİ olmak için\l"
-	.string "her zorluğun üstesinden gelin!$"
+	.string "Her şehri ve kasabayı ziyaret et,\n"
+	.string "her yeri gez, her mağarayı keşfet ve\l"
+	.string "en büyük POKéMON EĞİTMENİ olmak için\l"
+	.string "her zorluğun üstesinden gel!$"
 
 Help_Text_DescGameFundamentals2::
-	.string "Maceranızda birçok engelle karşılaşacaksınız.\n"
-	.string "Her engel, bir şey yaparak veya gizemleri\l"
+	.string "Maceranda birçok engelle karşılaşacaksın.\n"
+	.string "Her engel, eylemlerinle veya gizemleri\l"
 	.string "çözerek aşılabilir. Bazı engeller,\l"
 	.string "uzaklarda meydana gelen bir olaydan\l"
-	.string "etkilenir.$"
+	.string "etkilenebilir.$"
 
 Help_Text_DescGameFundamentals3::
-	.string "Yolunuzdaki bazı engeller, POKéMON'unuz\n"
+	.string "Yolundaki bazı engeller, POKéMON'un\n"
 	.string "belirli hareketleri öğrendiğinde\l"
 	.string "kaldırılabilir.$"
 
 Help_Text_DescWhatArePokemon::
-	.string "POKéMON, gizemlerle dolu harika\n"
+	.string "POKéMON'lar, gizemlerle dolu\n"
 	.string "varlıklardır. Onlarla dünyanın\l"
-	.string "dört bir yanında… uzun otların\l"
+	.string "dört bir yanında -uzun otların\l"
 	.string "arasında, mağaralarda, denizde ve\l"
-	.string "daha birçok yerde karşılaşabilirsiniz.\l"
-	.string "Yakaladıkları EĞİTMENLERE itaatkar\l"
-	.string "oldukları görülüyor.$"
+	.string "daha birçok yerde- karşılaşabilirsin.\l"
+	.string "Yakalandıkları eğitmenlere oldukça\l"
+	.string "itaatkardırlar.$"
 
 Help_Text_UsingTypeMatchupList::
 	.string "Tür Eşleşme Listesi Kullanımı$"
