@@ -355,7 +355,7 @@ const u8 *const gTexts_UR_ChatDeclined[GENDER_COUNT] = {
 };
 
 ALIGNED(4) static const u8 sText_YoureToughMale[] = _("Vay!\nGerçekten zorlu olduğunu görebiliyorum!\p");
-ALIGNED(4) static const u8 sText_UsedGoodMoveMale[] = _("O hareketi mi kullandın?\nBu iyi bir strateji!\p");
+ALIGNED(4) static const u8 sText_UsedGoodMoveMale[] = _("O hamleyi mi kullandın?\nBu iyi bir strateji!\p");
 ALIGNED(4) static const u8 sText_BattleSurpriseMale[] = _("Harika iş!\nBu gerçekten göz açıcıydı!\p");
 ALIGNED(4) static const u8 sText_SwitchedMonsMale[] = _("Oh! O POKéMON'u o durumda nasıl\nkullanabildin?\p");
 ALIGNED(4) static const u8 sText_YoureToughFemale[] = _("Bu POKéMON…\nGerçekten iyi yetiştirilmiş!\p");

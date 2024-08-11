@@ -4,9 +4,9 @@ Text_MetronomeTeach::
     .string "Bir POKéMON'a öğret ve eğlenceyi\n"
     .string "izle!\p"
     .ifdef ENG_NAMES
-    .string "Hareketin adı METRONOME\n"
+    .string "Hamlenin adı METRONOME\n"
     .else
-    .string "Hareketin adı METRONOM\n"
+    .string "Hamlenin adı METRONOM\n"
     .endif
     .string "İlginizi çekti mi?$"
 

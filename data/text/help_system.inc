@@ -410,7 +410,7 @@ Help_Text_AnswerWhatAreMoves::
 
 Help_Text_AnswerWhatAreHiddenMoves::
 	.string "GİZLİ hamleler, maceran için önemli\n"
-	.string "hamlelerdir. Bu tür bir hareketi savaş\l"
+	.string "hamlelerdir. Bu tür bir hamleyi savaş\l"
 	.string "dışında kullanmak için, “POKéMON”\l"
 	.string "menüsünden hamleyi bilen POKéMON'un\l"
 	.string "kullanmasını sağlayabilirsin.\l"
@@ -1233,7 +1233,7 @@ Help_Text_DefineMoves::
 	.string "Bazı hamleler eşyalardan öğrenilebilir.$"
 
 Help_Text_DefineAttack::
-	.string "SALDIRI, saldırı hareketinin gücünü\n"
+	.string "SALDIRI, saldırı hamlesinin gücünü\n"
 	.string "gösterir. Bu istatistik ne kadar\l"
 	.string "yüksekse, hareket o kadar güçlü olur.\l"
 	.string "Şu hareket türleri için uygulanır:\l"
@@ -1250,9 +1250,9 @@ Help_Text_DefineDefense::
 
 Help_Text_DefineSpAtk::
 	.string "ÖZ. SLD (Özel Saldırı),\n"
-	.string "hareketinin gücünü gösterir.\l"
+	.string "hamlenin gücünü gösterir.\l"
 	.string "Bu istatistik ne kadar yüksekse, özel\l"
-	.string "saldırı hareketi o kadar güçlü olur.\l"
+	.string "saldırı hamlesi o kadar güçlü olur.\l"
 	.string "Şu hareket türleri için uygulanır:\l"
 	.string "ATEŞ, SU, ELEKTRİK, ÇİMEN,\l"
 	.string "BUZ, PSİŞİK, EJDER ve KARA.$"
@@ -1321,7 +1321,7 @@ Help_Text_DefineMoney::
 Help_Text_DefineMoveType::
 	.string "Hamleler de türüne göre sınıflandırılır.\n"
 	.string "Belirli türdeki bir POKéMON, aynı türde\l"
-	.string "bir hareket kullandığında, hareketin\l"
+	.string "bir hamle kullandığında, hamlenin\l"
 	.string "gücü artar. Hamle türü hedefe karşı\l"
 	.string "avantaja sahipse, gücü daha da artar.$"
 
@@ -1342,7 +1342,7 @@ Help_Text_DefineIDNo::
 
 Help_Text_DefinePP::
 	.string "PP “Power Points” (Güç Puanları)\n"
-	.string "anlamına gelir. Bir hareketin savaşta\l"
+	.string "anlamına gelir. Bir hamlenin savaşta\l"
 	.string "kaç kez kullanılabileceğini gösterir.\l"
 	.string "CAN gibi, PP de bir POKéMON MERKEZİ'ni\l"
 	.string "ziyaret ederek veya belirli eşyaları\l"
@@ -1354,9 +1354,9 @@ Help_Text_DefinePower::
 	.string "verilebilecek hasar o kadar büyük olur!$"
 
 Help_Text_DefineAccuracy::
-	.string "İSABET, hareketin düşmana\n"
+	.string "İSABET, hamlenin düşmana\n"
 	.string "isabet etme olasılığını gösterir.\l"
-	.string "Bu sayı ne kadar yüksekse, hareketin\l"
+	.string "Bu sayı ne kadar yüksekse, hamlenin\l"
 	.string "hedefi vurma olasılığı o kadar fazladır.$"
 
 Help_Text_DefineFNT::
@@ -1463,7 +1463,7 @@ Help_Text_DefineHM::
 	.string "kullanılan bir cihazdır.\l"
 	.string "TM'nin aksine, bir HM tekrar tekrar\l"
 	.string "kullanılabilir. Bir POKéMON'un GİZLİ\l"
-	.string "hareketi unutması zor olabilir.$"
+	.string "hamleleri unutması zor olabilir.$"
 
 Help_Text_DefineHMMove::
 	.string "GİZLİ hamleler, maceran için\n"

@@ -153,7 +153,7 @@ const u8 gPokedudeText_TMTypes[] = _(
 const u8 gPokedudeText_ReadTMDescription[] = _(
     "Sadece türe bakmayın.\n"
     "Açıklamayı da okuyun.\p"
-    "Açıklama, hangi POKéMON'un hareketi\n"
+    "Açıklama, hangi POKéMON'un hamleyi\n"
     "öğrenebileceği konusunda ipucu verir.\p"
     "Örneğin, ODAK YUMRUĞU gibi bir\n"
     "saldırıyı ele alalım.\p"

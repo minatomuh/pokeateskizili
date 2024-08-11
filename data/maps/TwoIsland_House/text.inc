@@ -2,7 +2,7 @@ TwoIsland_House_Text_TeachMonMoveForMushroom::
     .string "Merhaba, ben POKéMON Hamle\n"
     .string "Manyağıyım.\p"
     .string "Her POKéMON'un büyürken öğrendiği\n"
-    .string "her hareketi biliyorum.\p"
+    .string "her hamleyi biliyorum.\p"
     .string "Ayrıca bir mantar delisiyim.\p"
     .string "Bana iki KÜÇÜK MANTAR ya da,\n"
     .string "bir BÜYÜK MANTAR getir.\p"
@@ -19,12 +19,12 @@ TwoIsland_House_Text_TutorWhichMon::
     .string "Hangi POKéMON'a eğitim verilecek?$"
 
 TwoIsland_House_Text_TeachWhichMove::
-    .string "Hangi hareketi öğretmemi istersin?$"
+    .string "Hangi hamleyi öğretmemi istersin?$"
 
 TwoIsland_House_Text_NoMoveICanTeachThatMon::
     .string "Üzgünüm…\p"
     .string "Görüntüye göre bu POKéMON'a\n"
-    .string "öğretebileceğim bir hareketim yok.$"
+    .string "öğretebileceğim bir hamle yok.$"
 
 TwoIsland_House_Text_IllNeedMushroomOrTwo::
     .string "O zaman bir veya iki\n"
@@ -46,4 +46,4 @@ TwoIsland_House_Text_NeedMushroomOrTwoToLearnMove::
 
 TwoIsland_House_Text_CantTeachAnEgg::
     .string "Hmm? Bir yumurtaya öğretecek\n"
-    .string "hiçbir hareketim yok.$"
+    .string "hiçbir hamle yok.$"

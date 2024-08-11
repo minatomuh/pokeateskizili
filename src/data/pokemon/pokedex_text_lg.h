@@ -1134,7 +1134,7 @@ const u8 gMewtwoPokedexText[] = _(
 const u8 gMewPokedexText[] = _(
     "Neslinin tükendiği düşünülen Güney\n"
     "Amerika'dan bir POKéMON. Çok zekidir ve\n"
-    "her hareketi öğrenir.");
+    "her hamleyi öğrenir.");
 
 const u8 gChikoritaPokedexText[] = _(
     "Hoş aromalı yaprağı, nemi ve sıcaklığı\n"
@@ -1160,7 +1160,7 @@ const u8 gQuilavaPokedexText[] = _(
     "dayanabilir.");
 
 const u8 gTyphlosionPokedexText[] = _(
-    "Gizli, yıkıcı bir hareketi var. Alev alev\n"
+    "Gizli, yıkıcı bir hamlesi var. Alev alev\n"
     "yanan kürkünü birbirine sürterek büyük\n"
     "patlamalara neden olur.");
 

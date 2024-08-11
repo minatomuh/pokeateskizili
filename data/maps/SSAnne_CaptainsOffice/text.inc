@@ -41,9 +41,9 @@ SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
 
 SSAnne_CaptainsOffice_Text_ExplainCut::
     .ifdef ENG_NAMES
-    .string "CUT hareketini kullanarak,\n"
+    .string "CUT hamlesini kullanarak,\n"
     .else
-    .string "KES hareketini kullanarak,\n"
+    .string "KES hamlesini kullanarak,\n"
     .endif
     .string "küçük ağaçları kesebilirsin.\p"
     .string "VERMILION ŞEHRİ çevresindeki\n"

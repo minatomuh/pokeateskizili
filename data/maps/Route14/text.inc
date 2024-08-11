@@ -32,14 +32,16 @@ Route14_Text_BeckDefeat::
     .string "Ayy, berbat!$"
 
 Route14_Text_BeckPostBattle::
-    .string "Aynı türden bir hareket öğretmeyi dene.\n"
-    .string "Bu, hareketin gücünü artırırmış.$"
+    .string "POKéMON'una onunla aynı türden bir\n"
+    .string "hamle öğretmeyi dene.\p"
+    .string "Anlaşılan bu şekilde hamlenin gücü\n"
+    .string "daha da çok artıyor.$"
 
 Route14_Text_MarlonIntro::
     .ifdef ENG_NAMES
-    .string "Uçan POKéMON'una FLY hareketini\n"
+    .string "Uçan POKéMON'una FLY hamlesini\n"
     .else
-    .string "Uçan POKéMON'una UÇ hareketini\n"
+    .string "Uçan POKéMON'una UÇ hamlesini\n"
     .endif
     .string "öğretmeyi denedin mi?\l"
     .string "Böylece onunla\l"

@@ -91,9 +91,9 @@ Text_SoftboiledTeach::
     .string "Bizi sonunda bir araya getiren\n"
     .string "şansın iyi olduğunu düşünüyorum.\p"
     .ifdef ENG_NAMES
-    .string "SOFTBOILED hareketini öğreterek\n"
+    .string "SOFTBOILED hamlesini öğreterek\n"
     .else
-    .string "RAFADAN hareketini öğreterek\n"
+    .string "RAFADAN hamlesini öğreterek\n"
     .endif
     .string "kutlamak istiyorum.$"
 
