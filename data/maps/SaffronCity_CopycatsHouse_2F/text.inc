@@ -26,13 +26,25 @@ Text_MimicTeach::
     .string "Bana mı?\n"
     .string "Teşekkürler!\p"
     .string "Biliyor musun?\n"
-    .string "MİMİK hareketini öğretebilirim.$"
+    .ifdef ENG_NAMES
+    .string "MIMIC hamlesini öğretebilirim.$"
+    .else
+    .string "MİMİK hamlesini öğretebilirim.$"
+    .endif
 
 Text_MimicDeclined::
-    .string "MİMİK hareketini beğenmedin mi?$"
+    .ifdef ENG_NAMES
+    .string "MIMIC hamlesini beğenmedin mi?$"
+    .else
+    .string "MİMİK hamlesini beğenmedin mi?$"
+    .endif
 
 Text_MimicWhichMon::
-    .string "MİMİK hareketini çok seviyorum!\n"
+    .ifdef ENG_NAMES
+    .string "MIMIC hamlesini çok seviyorum!\n"
+    .else
+    .string "MİMİK hamlesini çok seviyorum!\n"
+    .endif
     .string "Hangi POKéMON öğrenecek?$"
 
 Text_MimicTaughtMale::

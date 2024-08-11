@@ -87,17 +87,31 @@ Text_SubstituteTeach::
     .string "isterdim…\p"
     .string "Ve anne KANGASKHAN'ın karnındaki\n"
     .string "keseye sokulmayı.\p"
+    .ifdef ENG_NAMES
+    .string "Ama sadece POKéMON'lar SUBSTITUTE\n"
+    .string "tekniğini kullanabilir…\p"
+    .string "Bir POKéMON'unuza SUBSTITUTE\n"
+    .else
     .string "Ama sadece POKéMON'lar KOPYA\n"
     .string "tekniğini kullanabilir…\p"
     .string "Bir POKéMON'unuza KOPYA\n"
-    .string "öğretmemi ister misiniz?$"
+    .endif
+    .string "hamlesini öğretmemi ister misiniz?$"
 
 Text_SubstituteDeclined::
     .string "Oh, gerçekten mi?\n"
+    .ifdef ENG_NAMES
+    .string "SUBSTITUTE çok eğlenceli görünüyor…$"
+    .else
     .string "KOPYA çok eğlenceli görünüyor…$"
+    .endif
 
 Text_SubstituteWhichMon::
-    .string "Hangi POKéMON KOPYA öğrenmek?\n"
+    .ifdef ENG_NAMES
+    .string "Hangi POKéMON SUBSTITUTE öğrenmek\n"
+    .else
+    .string "Hangi POKéMON KOPYA öğrenmek\n"
+    .endif
     .string "ister?$"
 
 Text_SubstituteTaught::

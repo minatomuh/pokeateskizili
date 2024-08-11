@@ -26,13 +26,21 @@ Text_MegaPunchTeach::
     .string "Gürültülü bir yumruk!\p"
     .string "Yıkıcı güçle dolu!\p"
     .string "Zor durumda kaldığında,\n"
+    .ifdef ENG_NAMES
+    .string "MEGA PUNCH en iyi saldırı!\l"
+    .else
     .string "MEGA YUMRUK en iyi saldırı!\l"
+    .endif
     .string "Katılıyor musun?\p"
     .string "Hadi!\n"
     .string "Şimdi POKéMON'una öğretelim!$"
 
 Text_MegaPunchDeclined::
+    .ifdef ENG_NAMES
+    .string "MEGA PUNCH'ın değerini\n"
+    .else
     .string "MEGA YUMRUK'ün değerini\n"
+    .endif
     .string "anladığında geri dönersin.$"
 
 Text_MegaPunchWhichMon::
@@ -49,14 +57,22 @@ Text_MegaPunchTaught::
 Text_MegaKickTeach::
     .string "Vahşi bir tekme!\p"
     .string "Yıkıcı güçle dolu!\p"
+    .ifdef ENG_NAMES
+    .string "Esas mesele şu ki, MEGA KICK\n"
+    .else
     .string "Esas mesele şu ki, MEGA TEKME\n"
+    .endif
     .string "en iyi saldırı!\l"
     .string "Katılıyor musun?\p"
     .string "Tamam!\n"
     .string "POKéMON'una öğreteceğim!$"
 
 Text_MegaKickDeclined::
+    .ifdef ENG_NAMES
+    .string "MEGA KICK'in değerini\n"
+    .else
     .string "MEGA TEKME'nin değerini\n"
+    .endif
     .string "anladığında geri döneceksin.$"
 
 Text_MegaKickWhichMon::

@@ -18,7 +18,11 @@ CeruleanCity_House1_Text_ComeVisitAnytime::
 CeruleanCity_House1_Text_AttackStatFlash::
     .string "Tüm POKéMON'larının SALDIRI\n"
     .string "değerleri biraz artar.\p"
-    .string "Ayrıca FLAŞ hareketini savaş dışı\n"
+    .ifdef ENG_NAMES
+    .string "Ayrıca FLASH hamlesini savaş dışı\n"
+    .else
+    .string "Ayrıca FLAŞ hamlesini savaş dışı\n"
+    .endif
     .string "kullanmanı sağlar.$"
 
 CeruleanCity_House1_Text_ObeyLv30Cut::
@@ -29,13 +33,21 @@ CeruleanCity_House1_Text_ObeyLv30Cut::
     .string "Ancak, daha yüksek seviyedeki\n"
     .string "POKéMON'lar\l"
     .string "savaş sırasında yaramaz olacak.\p"
-    .string "Ayrıca KES hareketini savaş dışı\n"
+    .ifdef ENG_NAMES
+    .string "Ayrıca CUT hamlesini savaş dışı\n"
+    .else
+    .string "Ayrıca KES hamlesini savaş dışı\n"
+    .endif
     .string "kullanmanı sağlar.$"
 
 CeruleanCity_House1_Text_SpeedStatFly::
     .string "Tüm POKéMON'larının HIZ değerleri\n"
     .string "biraz artar.\p"
-    .string "Ayrıca UÇ hareketini savaş dışı\n"
+    .ifdef ENG_NAMES
+    .string "Ayrıca FLY hamlesini savaş dışı\n"
+    .else
+    .string "Ayrıca UÇ hamlesini savaş dışı\n"
+    .endif
     .string "kullanmanı sağlar.$"
 
 CeruleanCity_House1_Text_ObeyLv50Strength::
@@ -46,13 +58,22 @@ CeruleanCity_House1_Text_ObeyLv50Strength::
     .string "Ancak, daha yüksek seviyedeki\n"
     .string "POKéMON'lar\l"
     .string "savaş sırasında yaramaz olacak.\p"
-    .string "Ayrıca GÜÇ hareketini savaş dışı\n"
+    .ifdef ENG_NAMES
+    .string "Ayrıca STRENGTH hamlesini savaş\n"
+    .string "dışı kullanmanı sağlar.$"
+    .else
+    .string "Ayrıca GÜÇ hamlesini savaş dışı\n"
     .string "kullanmanı sağlar.$"
+    .endif
 
 CeruleanCity_House1_Text_DefenseStatSurf::
     .string "Tüm POKéMON'larının SAVUNMA\n"
     .string "statüleri biraz artar.\p"
-    .string "Ayrıca SÖRF hareketini savaş dışı\n"
+    .ifdef ENG_NAMES
+    .string "Ayrıca SURF hamlesini savaş dışı\n"
+    .else
+    .string "Ayrıca SÖRF hamlesini savaş dışı\n"
+    .endif
     .string "kullanmanı sağlar.$"
 
 CeruleanCity_House1_Text_ObeyLv70RockSmash::
@@ -63,14 +84,23 @@ CeruleanCity_House1_Text_ObeyLv70RockSmash::
     .string "Ancak, daha yüksek seviyedeki\n"
     .string "POKéMON'lar\l"
     .string "savaş sırasında yaramaz olacak.\p"
-    .string "Ayrıca KAYA DARBESİ hareketini\n"
+    .ifdef ENG_NAMES
+    .string "Ayrıca ROCK SMASH hamlesini\n"
+    .else
+    .string "Ayrıca KAYA DARBESİ hamlesini\n"
+    .endif
     .string "savaş dışı kullanmanı sağlar.$"
 
 CeruleanCity_House1_Text_SpStatsWaterfall::
     .string "Tüm POKéMON'larının ÖZEL SALDIRI\n"
     .string "ve ÖZEL SAVUNMA statüleri artar.\p"
+    .ifdef ENG_NAMES
+    .string "Ayrıca WATERFALL hamlesini savaş\n"
+    .string "dışı kullanmanı sağlar.$"
+    .else
     .string "Ayrıca ŞELALE hamlesini savaş dışı\n"
     .string "kullanmanı sağlar.$"
+    .endif
 
 CeruleanCity_House1_Text_AllMonsWillObeyYou::
     .string "Tüm POKéMON'lar sana itaat edecek!$"

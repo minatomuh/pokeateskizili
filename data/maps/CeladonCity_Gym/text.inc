@@ -40,7 +40,11 @@ CeladonCity_Gym_Text_ReceivedTM19FromErika::
     .string "aldı.$"
 
 CeladonCity_Gym_Text_ExplainTM19::
+    .ifdef ENG_NAMES
+    .string "TM19 GIGA DRAIN içerir.\p"
+    .else
     .string "TM19 GİGA EMİŞ içerir.\p"
+    .endif
     .string "Vurduğu hasarın yarısı, POKéMON'u\n"
     .string "iyileştirmek için emilir.\p"
     .string "Sence de harika bir hamle\n"

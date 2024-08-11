@@ -12,14 +12,26 @@ SSAnne_CaptainsOffice_Text_RubbedCaptainsBack::
 SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
     .string "KAPTAN: Ohoh! Teşekkürler!\n"
     .string "Şimdi çok daha iyi hissediyorum.\p"
+    .ifdef ENG_NAMES
+    .string "Gizli CUT tekniğimi\n"
+    .else
     .string "Gizli KES tekniğimi\n"
+    .endif
     .string "görmek ister misin?\p"
     .string "Eğer hasta olmasaydım, sana\n"
+    .ifdef ENG_NAMES
+    .string "özel CUT tekniğimi\l"
+    .else
     .string "özel KES tekniğimi\l"
+    .endif
     .string "gösterebilirdim…\p"
     .string "Bunu alabilirsin!\n"
     .string "Bu HM!\p"
-    .string "KES hareketini POKéMON'una\n"
+    .ifdef ENG_NAMES
+    .string "CUT hamlesini POKéMON'una\n"
+    .else
+    .string "KES hamlesini POKéMON'una\n"
+    .endif
     .string "öğret ve dilediğin zaman\l"
     .string "görebilirsin!$"
 
@@ -28,7 +40,11 @@ SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
     .string "HM01'i aldı!$"
 
 SSAnne_CaptainsOffice_Text_ExplainCut::
+    .ifdef ENG_NAMES
+    .string "CUT hareketini kullanarak,\n"
+    .else
     .string "KES hareketini kullanarak,\n"
+    .endif
     .string "küçük ağaçları kesebilirsin.\p"
     .string "VERMILION ŞEHRİ çevresindeki\n"
     .string "ağaçlarda denemeye ne dersin?$"

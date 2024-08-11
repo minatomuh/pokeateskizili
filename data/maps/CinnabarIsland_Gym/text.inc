@@ -14,7 +14,11 @@ CinnabarIsland_Gym_Text_BlaineDefeat::
     .string "VOLKAN ROZETİ'ni hak ettin.$"
 
 CinnabarIsland_Gym_Text_FireBlastIsUltimateFireMove::
+    .ifdef ENG_NAMES
+    .string "FIRE BLAST en güçlü ateş\n"
+    .else
     .string "ATEŞPATLAMA en güçlü ateş\n"
+    .endif
     .string "tekniğidir.\p"
     .string "Bunu SU POKéMON'larına harcama.$"
 
@@ -29,7 +33,11 @@ CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
     .string "aldı.$"
 
 CinnabarIsland_Gym_Text_BlainePostBattle::
+    .ifdef ENG_NAMES
+    .string "TM38 FIRE BLAST içerir.\n"
+    .else
     .string "TM38 ATEŞPATLAMA içerir.\n"
+    .endif
     .string "Bunu ATEŞ tipi POKéMON'lara öğret.\p"
     .string "VULPIX veya CHARMELEON için ideal.$"
 
@@ -176,7 +184,11 @@ CinnabarIsland_Gym_Text_QuizQuestion5::
     .string "POKéMON'lar aynı değildir.$"
 
 CinnabarIsland_Gym_Text_QuizQuestion6::
+    .ifdef ENG_NAMES
+    .string "TM28 TOMBSTONE içerir.$"
+    .else
     .string "TM28 MEZARTAŞ içerir.$"
+    .endif
 
 CinnabarIsland_Gym_Text_CorrectGoOnThrough::
     .string "Doğru cevap!\n"

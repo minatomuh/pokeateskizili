@@ -18,7 +18,11 @@ Text_ReceivedItemFromLittleGirl::
     .string "{STR_VAR_2} aldı.$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
+    .ifdef ENG_NAMES
+    .string "TM16 LIGHT SCREEN içerir.\p"
+    .else
     .string "TM16 IŞIK DUVARI içerir.\p"
+    .endif
     .string "Bu hareket,\n"
     .string "rakibinin özel saldırılarının\l"
     .string "gücünü azaltır.$"
@@ -31,7 +35,11 @@ CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
     .string "bu hediyeyi verebilirim!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
+    .ifdef ENG_NAMES
+    .string "TM20 SAFEGUARD içerir.\p"
+    .else
     .string "TM20 MİSTİKKORUMA içerir.\p"
+    .endif
     .string "Bu hareket, POKéMON'ların durum\n"
     .string "sorunlarının önüne geçer.$"
 
@@ -43,7 +51,11 @@ CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
     .string "bu hediyeyi verebilirim!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
+    .ifdef ENG_NAMES
+    .string "TM33 REFLECT içerir.\p"
+    .else
     .string "TM33 YANSIT içerir.\p"
+    .endif
     .string "Bu hareket, rakibinin fiziksel\n"
     .string "saldırılarının gücünü azaltır.$"
 
