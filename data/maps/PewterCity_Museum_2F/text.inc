@@ -5,7 +5,11 @@ Text_SeismicTossTeach::
     .string "Ama bu bizi çalışmaya itmeli,\l"
     .string "havlu atmaya değil.\p"
     .string "Tek atman gereken şey…\n"
-    .string "SİSMİK ATMA!\p"
+    .ifdef ENG_NAMES
+    .string "SEISMIC TOSS!$"
+    .else
+    .string "SİSMİK ATIŞ!\p"
+    .endif
     .string "Bir POKéMON'a bu hamleyi\nöğreteyim mi?$"
 
 Text_SeismicTossDeclined::
@@ -13,7 +17,11 @@ Text_SeismicTossDeclined::
     .string "Bundan vazgeçmeyeceğinden eminim.$"
 
 Text_SeismicTossWhichMon::
-    .string "SİSMİK ATMA'yı öğrenmek isteyen\n"
+    .ifdef ENG_NAMES
+    .string "SEISMIC TOSS öğrenmek isteyen\n"
+    .else
+    .string "SİSMİK ATIŞ'ı öğrenmek isteyen\n"
+    .endif
     .string "POKéMON hangisi?$"
 
 Text_SeismicTossTaught::

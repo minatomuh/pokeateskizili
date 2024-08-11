@@ -23,11 +23,20 @@ Route2_EastBuilding_Text_ReceivedHM05FromAide:
 
 Route2_EastBuilding_Text_ExplainHM05:
     .string "HM05 gizli hareket\n"
+    .ifdef ENG_NAMES
+    .string "FLASH'ı içerir.\p"
+    .string "FLASH, en karanlık mağaraları ve\n"
+    .else
     .string "FLAŞ'ı içerir.\p"
     .string "FLAŞ, en karanlık mağaraları ve\n"
+    .endif
     .string "yeraltı şehirlerini aydınlatır.$"
 
 Route2_EastBuilding_Text_CanGetThroughRockTunnel:
+    .ifdef ENG_NAMES
+    .string "Bir POKéMON, FLASH\n"
+    .else
     .string "Bir POKéMON, FLAŞ\n"
-    .string "hareketini öğrendiğinde,\l"
+    .endif
+    .string "hamlesini öğrendiğinde,\l"
     .string "KAYA TÜNELİ'ni geçebilirsin.$"

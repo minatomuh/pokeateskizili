@@ -36,7 +36,11 @@ Route14_Text_BeckPostBattle::
     .string "Bu, hareketin gücünü artırırmış.$"
 
 Route14_Text_MarlonIntro::
+    .ifdef ENG_NAMES
+    .string "Uçan POKéMON'una FLY hareketini\n"
+    .else
     .string "Uçan POKéMON'una UÇ hareketini\n"
+    .endif
     .string "öğretmeyi denedin mi?\l"
     .string "Böylece onunla\l"
     .string "gökyüzünde süzülebilirsin!$"

@@ -25,10 +25,18 @@ PewterCity_Gym_Text_BrockDefeat::
     .string "{FONT_MALE}Sırf KAYA ROZETİ'ne sahip olmak bile\n"
     .string "POKéMON'ları daha güçlü hale\l"
     .string "getirir.\p"
+    .ifdef ENG_NAMES
+    .string "Ayrıca, FLASH hamlesinin savaş dışı\n"
+    .else
     .string "Ayrıca, FLAŞ hamlesinin savaş dışı\n"
+    .endif
     .string "kullanılmasını sağlar.\p"
+    .ifdef ENG_NAMES
     .string "Tabii ki, bir POKéMON'un FLAŞ\n"
-    .string "hareketini kullanabilmesi için\l"
+    .else
+    .string "Tabii ki, bir POKéMON'un FLAŞ\n"
+    .endif
+    .string "hamlesini kullanabilmesi için\l"
     .string "onu bilmesi gerekir.$"
 
 PewterCity_Gym_Text_TakeThisWithYou::
@@ -49,7 +57,11 @@ PewterCity_Gym_Text_ExplainTM39::
     .string "Bu nedenle, lütfen kullandığın\n"
     .string "POKéMON'u dikkatli seç.\p"
     .string "Her neyse…\n"
+    .ifdef ENG_NAMES
+    .string "TM39 ROCK TOMB içerir.\p"
+    .else
     .string "TM39 KAYA MEZAR içerir.\p"
+    .endif
     .string "Rakibe kaya fırlatır ve HIZINI\n"
     .string "düşürür.$"
 

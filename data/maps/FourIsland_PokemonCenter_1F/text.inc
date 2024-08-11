@@ -2,10 +2,18 @@
 Text_BodySlamTeach::
     .string "Hazır mısın?\n"
     .string "Zıpla!\p"
+    .ifdef ENG_NAMES
+    .string "Bir BODY SLAM maçı yapıyoruz\n"
+    .else
     .string "Bir VÜCUT VURUŞU maçı yapıyoruz\n"
+    .endif
     .string "ilk kim pes edecek.\p"
     .string "Katılırsan, bir böcek gibi ezilirsin…\p"
-    .string "VÜCUT VURUŞU hareketini bir\n"
+    .ifdef ENG_NAMES
+    .string "BODY SLAM hamlesini bir\n"
+    .else
+    .string "VÜCUT VURUŞU hamlesini bir\n"
+    .endif
     .string "POKéMON'una öğretmemi ister misin?$"
 
 Text_BodySlamDeclined::
@@ -13,8 +21,12 @@ Text_BodySlamDeclined::
     .string "Zıpla!$"
 
 Text_BodySlamWhichMon::
+    .ifdef ENG_NAMES
+    .string "Hangi POKéMON BODY SLAM\n"
+    .else
     .string "Hangi POKéMON VÜCUT VURUŞU\n"
-    .string "hareketini öğrenmek ister?$"
+    .endif
+    .string "hamlesini öğrenmek ister?$"
 
 Text_BodySlamTaught::
     .string "Zıplayarak öğrendim!$"

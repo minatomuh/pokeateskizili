@@ -15,7 +15,11 @@ Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
     .string "aldı.$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
-    .string "TM27 KARŞILIK isimli bir hareket.\p"
+    .ifdef ENG_NAMES
+    .string "TM27 RETURN isimli bir hamle.\p"
+    .else
+    .string "TM27 KARŞILIK isimli bir hamle.\p"
+    .endif
     .string "Eğer POKéMON'unu iyi\n"
     .string "beslersen, sevgisini savaşlarda\l"
     .string "en iyi performansı ile\l"

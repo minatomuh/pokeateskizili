@@ -90,7 +90,11 @@ Text_SoftboiledTeach::
     .string "etmek için bir fırsatım olmadı.\p"
     .string "Bizi sonunda bir araya getiren\n"
     .string "şansın iyi olduğunu düşünüyorum.\p"
+    .ifdef ENG_NAMES
+    .string "SOFTBOILED hareketini öğreterek\n"
+    .else
     .string "RAFADAN hareketini öğreterek\n"
+    .endif
     .string "kutlamak istiyorum.$"
 
 Text_SoftboiledDeclined::
@@ -99,7 +103,11 @@ Text_SoftboiledDeclined::
     .string "Tekrar sohbet edebilmeyi umuyorum.$"
 
 Text_SoftboiledWhichMon::
-    .string "Öyleyse RAFADAN hareketini\n"
+    .ifdef ENG_NAMES
+    .string "Öyleyse SOFTBOILED hamlesini\n"
+    .else
+    .string "Öyleyse RAFADAN hamlesini\n"
+    .endif
     .string "öğrenecek POKéMON hangisi?$"
 
 Text_SoftboiledTaught::

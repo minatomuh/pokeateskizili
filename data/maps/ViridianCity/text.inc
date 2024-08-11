@@ -101,7 +101,8 @@ ViridianCity_Text_CitySign::
 
 ViridianCity_Text_CatchMonsForEasierBattles::
     .string "EĞİTMEN İPUCU\p"
-    .string "POKéMON yakala ve koleksiyonunu genişlet.\p"
+    .string "POKéMON yakala ve koleksiyonunu\n"
+    .string "genişlet.\p"
     .string "Ne kadar çok POKéMON'un varsa,\n"
     .string "savaşmak o kadar kolaylaşır.$"
 

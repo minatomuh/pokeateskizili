@@ -8,7 +8,11 @@ SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic::
 
 SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
     .string "Zaten biliyorsun, değil mi?\n"
-    .string "TM29 PSİŞİK.\p"
+    .ifdef ENG_NAMES
+    .string "TM29 PSYCHIC'tir.\p"
+    .else
+    .string "TM29 PSİŞİK'tir.\p"
+    .endif
     .string "Hedefin özel istatistiklerini\n"
     .string "düşürebilecek bir saldırı.$"
 

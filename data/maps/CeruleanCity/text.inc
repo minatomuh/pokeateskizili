@@ -63,7 +63,8 @@ CeruleanCity_Text_OkayIllReturnStolenTM::
     .string "Çaldığım TM'yi geri vereceğim.$"
 
 CeruleanCity_Text_RecoveredTM28FromGrunt::
-    .string "{PLAYER}, EŞKİYA'dan TM28'i\ngeri aldı.$"
+    .string "{PLAYER}, EŞKİYA'dan TM28'i\n"
+    .string "geri aldı.$"
 
 CeruleanCity_Text_BetterGetMovingBye::
     .string "Ben en iyisi gideyim!\n"
@@ -83,12 +84,13 @@ CeruleanCity_Text_YouCanCutDownSmallTrees::
     .string "biliyor muydun?\p"
     .string "Mağazanın önündeki küçük çalıyı\n"
     .string "bile kesebilirsin.\p"
-    .string "Sanırım geçmenin başka bir\nyolu daha var…$"
+    .string "Sanırım geçmenin başka bir\n"
+    .string "yolu daha var…$"
 
 CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
     .string "Eğer orada SLOWBRO olmasaydı,\n"
     .string "küçük ağacı kesebilirdin.\p"
-    .string "Böylece, diğer tarafa geçebilirdin.\p"
+    .string "Böylece diğer tarafa geçebilirdin.\p"
     .string "Sanırım geçmenin başka bir\n"
     .string "yolu daha var…$"
 
@@ -104,7 +106,11 @@ CeruleanCity_Text_PeopleHereWereRobbed::
 
 CeruleanCity_Text_SlowbroUseSonicboom::
     .string "Tamam! SLOWBRO!\n"
-    .string "SONİK PATLAMA kullan!$"
+    .ifdef ENG_NAMES
+    .string "SONICBOOM kullan!$"
+    .else
+    .string "SONİKPATLAMA kullan!$"
+    .endif
 
 CeruleanCity_Text_SlowbroPayAttention::
     .string "Hadi, SLOWBRO, dikkat et!$"

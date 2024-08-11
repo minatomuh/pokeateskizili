@@ -3,7 +3,11 @@ Text_DoubleEdgeTeach::
     .string "ZAFER YOLU'nu savaşarak\n"
     .string "cesurca geçtin.\p"
     .string "Bu başarını takdir ederek,\n"
+    .ifdef ENG_NAMES
+    .string "DOUBLE-EDGE öğretmek isterim.\p"
+    .else
     .string "RİSKLİ VURUŞ öğretmek isterim.\p"
+    .endif
     .string "Bu tekniği öğretmemi ister misin?$"
 
 Text_DoubleEdgeDeclined::
@@ -11,7 +15,11 @@ Text_DoubleEdgeDeclined::
     .string "öğretmeye hazırım.$"
 
 Text_DoubleEdgeWhichMon::
+    .ifdef ENG_NAMES
+    .string "Hangi POKéMON'a DOUBLE-EDGE\n"
+    .else
     .string "Hangi POKéMON'a RİSKLİ VURUŞ\n"
+    .endif
     .string "öğretmemi istersin?$"
 
 Text_DoubleEdgeTaught::

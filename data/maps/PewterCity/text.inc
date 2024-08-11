@@ -13,7 +13,11 @@ Text_DreamEaterDeclined::
     .string "ZZZ.\nHorr…$"
 
 Text_DreamEaterWhichMon::
+    .ifdef ENG_NAMES
+    .string "Hangi POKéMON DREAM EATER\n"
+    .else
     .string "Hangi POKéMON RÜYA YİYEN\n"
+    .endif
     .string "öğrenmek ister?$"
 
 Text_DreamEaterTaught::

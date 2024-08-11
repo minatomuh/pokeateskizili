@@ -3,7 +3,11 @@ Text_ExplosionTeach::
     .string "Bu yanardağ patlasa ne olurdu?\p"
     .string "Patlama bizim sonumuz olurdu.\n"
     .string "Ne kadar korkunç, değil mi?\p"
+    .ifdef ENG_NAMES
+    .string "Korkmuşken, EXPLOSION öğretmemi\n"
+    .else
     .string "Korkmuşken, PATLAMA öğretmemi\n"
+    .endif
     .string "ister misin?$"
 
 Text_ExplosionDeclined::
@@ -12,12 +16,20 @@ Text_ExplosionDeclined::
 
 Text_ExplosionWhichMon::
     .string "Çok cesursun!\p"
+    .ifdef ENG_NAMES
+    .string "EXPLOSION'ı hangi POKéMON'a\n"
+    .else
     .string "PATLAMA'yı hangi POKéMON'a\n"
+    .endif
     .string "öğretmeliyim?$"
 
 Text_ExplosionTaught::
     .string "Bu yanardağın üzerinde\n"
+    .ifdef ENG_NAMES
+    .string "EXPLOSION kullanmak…\p"
+    .else
     .string "PATLAMA kullanmak…\p"
+    .endif
     .string "Ne kadar korkutucu ve heyecan verici!$"
 
 @ Aşağıdaki 4 satır, yukarıdaki metinlerin kullanılmayan JP versiyonlarıdır

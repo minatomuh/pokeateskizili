@@ -1397,7 +1397,6 @@ Help_Text_DefinePokedex::
 	.string "POKéDEX'i doldurun. Çeşitli türde\n"
 	.string "POKéMON yakalamak için çabalayın!$"
 
-
 Help_Text_DefinePlayTime::
 	.string "Bu oyun oynadığınız toplam süreyi\n"
 	.string "gösterir.$"

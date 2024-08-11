@@ -47,7 +47,11 @@ EventScript_DontCutTree::
 Text_CutTreeDown::
 	.string "Bu ağaç KESİLEBİLİR gibi\n"
 	.string "görünüyor!\p"
+	.ifdef ENG_NAMES
+	.string "CUT kullanmak ister misin?$"
+	.else
 	.string "KES kullanmak ister misin?$"
+	.endif
 
 Text_MonUsedMove::
 	.string "{STR_VAR_1}, {STR_VAR_2} kullandı!$"
@@ -110,7 +114,11 @@ EventScript_DontSmashRock::
 
 Text_UseRockSmash::
 	.string "Bu kaya kırılabilir gibi duruyor.\n"
+	.ifdef ENG_NAMES
+	.string "ROCK SMASH kullanmak ister misin?$"
+	.else
 	.string "KAYA DARBESİ kullanmak ister misin?$"
+	.endif
 
 Text_MonMaySmashRock::
 	.string "Bu sağlam bir kaya. Belki bir\n"
@@ -160,10 +168,18 @@ EventScript_DontUseStrength::
 Text_UseStrength::
 	.string "Bu büyük bir kaya. Belki de bir\n"
 	.string "POKéMON bunu ittirebilir.\p"
+	.ifdef ENG_NAMES
+	.string "STRENGTH kullanmak ister misin?$"
+	.else
 	.string "GÜÇ kullanmak ister misin?$"
+	.endif
 
 Text_MonUsedStrengthCanMoveBoulders::
+	.ifdef ENG_NAMES
+	.string "{STR_VAR_1}, STRENGTH kullandı!\p"
+	.else
 	.string "{STR_VAR_1}, GÜÇ kullandı!\p"
+	.endif
 	.string "{STR_VAR_1}'ın gücü artık\n"
 	.string "kayaları yerinden oynatabilir!$"
 
@@ -172,7 +188,11 @@ Text_MonMayPushBoulder::
 	.string "POKéMON bunu ittirebilir.$"
 
 Text_StrengthMadeMovingBouldersPossible::
+	.ifdef ENG_NAMES
+	.string "STRENGTH sayesinde kayalar artık\n"
+	.else
 	.string "GÜÇ sayesinde kayalar artık\n"
+	.endif
 	.string "yerinden oynatılabilir.$"
 
 EventScript_Waterfall::
@@ -202,10 +222,18 @@ Text_WallOfWaterCrashingDown::
 
 Text_UseWaterfall::
 	.string "Bu büyük bir şelale.\n"
+	.ifdef ENG_NAMES
+	.string "WATERFALL kullanmak ister misin?$"
+	.else
 	.string "ŞELALE kullanmak ister misin?$"
+	.endif
 
 Text_MonUsedWaterfall::
+	.ifdef ENG_NAMES
+	.string "{STR_VAR_1}, WATERFALL kullandı.$"
+	.else
 	.string "{STR_VAR_1}, ŞELALE kullandı.$"
+	.endif
 
 @ Unused leftover from R/S
 EventScript_DeepWater::
@@ -260,10 +288,18 @@ Text_MonMayGoUnderwater::
 
 Text_SeaIsDeepUseDive::
 	.string "Su çok derin.\n"
+	.ifdef ENG_NAMES
+	.string "DIVE kullanmak ister misin?$"
+	.else
 	.string "DALIŞ kullanmak ister misin?$"
+	.endif
 
 Text_MonUsedDive::
+	.ifdef ENG_NAMES
+	.string "{STR_VAR_1}, DIVE kullandı.$"
+	.else
 	.string "{STR_VAR_1}, DALIŞ kullandı.$"
+	.endif
 
 Text_MonMaySurface::
 	.string "Işık yukarıdan aşağı süzülüyor.\n"
@@ -271,11 +307,19 @@ Text_MonMaySurface::
 
 Text_LightFilteringUseDive::
 	.string "Işık yukarıdan aşağı süzülüyor.\n"
+	.ifdef ENG_NAMES
+	.string "DIVE kullanmak ister misin?$"
+	.else
 	.string "DALIŞ kullanmak ister misin?$"
+	.endif
 
 Text_DiveCantBeUsedHere::
 	.string "Tepede bir engel var.\n"
+	.ifdef ENG_NAMES
+	.string "DIVE burada kullanılamaz.$"
+	.else
 	.string "DALIŞ burada kullanılamaz.$"
+	.endif
 
 EventScript_FailSweetScent::
 	msgbox Text_LooksLikeNothingHere, MSGBOX_SIGN
