@@ -7,7 +7,7 @@ Route2_ViridianForest_NorthEntrance_Text_ManyMonsOnlyInForests::
 Route2_ViridianForest_NorthEntrance_Text_CanCutSkinnyTrees::
     .string "Yol kenarındaki ince ağaçları\n"
     .string "gördün mü?\p"
-    .string "Özel bir POKéMON hareketiyle\n"
+    .string "Özel bir POKéMON hamlesiyle\n"
     .string "kesilebilirler, öyle duydum.$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCancelEvolution::

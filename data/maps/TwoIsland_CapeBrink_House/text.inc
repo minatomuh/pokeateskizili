@@ -1,5 +1,5 @@
 Text_UltimateMoveThatMon::
-    .string "Bu türün en iyi hareketini\n"
+    .string "Bu türün en iyi hamlesini\n"
     .string "geliştirdim…\p"
     .string "Ama hiç kimse bundan\n"
     .string "faydalanmayacak mı?\p"
@@ -14,7 +14,7 @@ Text_JustMistaken::
 Text_AllowMeToTeachMonUltimateMove::
     .string "Oh! İşte bu!\n"
     .string "Bu o POKéMON!\p"
-    .string "Bu {STR_VAR_1} en iyi hareketimi\n"
+    .string "Bu {STR_VAR_1} en iyi hamlemi\n"
     .string "öğrenmeye değer!\p"
     .string "Buna izin verir misin?\p"
     .string "{STR_VAR_1}'ine {STR_VAR_2}\n"
@@ -26,17 +26,17 @@ Text_YouRejectIt::
 
 Text_LetMeConferUltimateMove::
     .string "Buna izin veriyorsun?\p"
-    .string "O zaman, {STR_VAR_2} hareketini\n"
+    .string "O zaman, {STR_VAR_2} hamlesini\n"
     .string "{STR_VAR_1}'ine aktarayım.\p"
     .string "Ggggrah-awooo!$"
 
 Text_TaughtMove::
     .string "Hıçkırık…\p"
-    .string "Yaşarken bu hareketi\n"
+    .string "Yaşarken bu hamleyi\n"
     .string "öğretmeyi düşünmezdim…$"
 
 Text_MakeBestUseOfMove::
-    .string "Senden bu hareketi en iyi şekilde\n"
+    .string "Senden bu hamleyi en iyi şekilde\n"
     .string "kullanmanı ve güçlenmeni rica\l"
     .string "ediyorum!$"
 

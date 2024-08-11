@@ -14,7 +14,7 @@ SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant::
     .string "HM03'ü aldı!$"
 
 SafariZone_SecretHouse_Text_ExplainSurf::
-    .string "HM03, SÖRF hareketidir.\p"
+    .string "HM03, SÖRF hamlesidir.\p"
     .string "POKéMON'lar bu hareket sayesinde\n"
     .string "seni suda taşıyabilecek.\p"
     .string "Ayrıca, bu HM tek kullanımlık\n"

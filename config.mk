@@ -35,6 +35,13 @@ $(error unknown revision $(GAME_REVISION))
 endif
 endif
 
+# English moves/abilities/natures
+ifeq ($(ENG_NAMES), ENG_NAMES)
+BUILD_NAME := $(BUILD_NAME)_engmoves
+else
+BUILD_NAME := $(BUILD_NAME)
+endif
+
 # Language
 ifeq ($(GAME_LANGUAGE),ENGLISH)
 BUILD_NAME  := $(BUILD_NAME)

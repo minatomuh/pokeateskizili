@@ -9,8 +9,8 @@ Route16_House_Text_ReceivedHM02FromGirl::
     .string "HM02 aldı.$"
 
 Route16_House_Text_ExplainHM02::
-    .string "HM02, UÇ hareketidir.\n"
-    .string "Çok kullanışlı bir hareket.\p"
+    .string "HM02, UÇ hamlesidir.\n"
+    .string "Çok kullanışlı bir hamle.\p"
     .string "Lütfen, bunu iyi değerlendir.$"
 
 Route16_House_Text_DontHaveAnyRoomForThis::
