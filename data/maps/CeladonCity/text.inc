@@ -62,7 +62,7 @@ CeladonCity_Text_DeptStoreSign::
 
 CeladonCity_Text_GuardSpecProtectsFromStatus::
     .string "EĞİTMEN İPUCU\p"
-    .string "KORUMA ÖZELLİĞİ, POKéMON'u\n"
+    .string "KORUYUCU eşyası, POKéMON'u\n"
     .string "durum düşürücü hareketlerden\l"
     .string "korur.\p"
     .string "Eşyalarını CELADON\n"
