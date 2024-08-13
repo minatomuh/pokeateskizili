@@ -26,21 +26,21 @@ Text_MimicTeach::
     .string "Bana mı?\n"
     .string "Teşekkürler!\p"
     .string "Biliyor musun?\n"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "MIMIC hamlesini öğretebilirim.$"
     .else
     .string "MİMİK hamlesini öğretebilirim.$"
     .endif
 
 Text_MimicDeclined::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "MIMIC hamlesini beğenmedin mi?$"
     .else
     .string "MİMİK hamlesini beğenmedin mi?$"
     .endif
 
 Text_MimicWhichMon::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "MIMIC hamlesini çok seviyorum!\n"
     .else
     .string "MİMİK hamlesini çok seviyorum!\n"
@@ -111,7 +111,7 @@ SaffronCity_CopycatsHouse_2F_Text_MySecrets::
     .string "Sırlarım!\p"
     .string "Yetenek: Taklit!\n"
     .string "Hobi: Bebek toplamak!\l"
-    .string "Favori Pokemon: CLEFAIRY!$"
+    .string "Favori POKéMON: CLEFAIRY!$"
 
 SaffronCity_CopycatsHouse_2F_Text_HuhCantSee::
     .string "Ne? Görünmüyor…$"

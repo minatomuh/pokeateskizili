@@ -5,7 +5,7 @@ Text_SwordsDanceTeach::
     .string "Evet, daha güçlü ve daha güçlü…\p"
     .string "Böyle bir hareket öğrenmek\n"
     .string "ister misin?\l"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Bu SWORDS DANCE.$"
     .else
     .string "Bu KILIÇ DANSI.$"

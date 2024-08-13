@@ -10,7 +10,7 @@ CeruleanCity_Gym_Text_MistyIntro::
     .string "saldırmaktır!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "TM03 WATER PULSE öğretir.\p"
     .else
     .string "TM03 SU VURUŞU öğretir.\p"
@@ -23,7 +23,7 @@ CeruleanCity_Gym_Text_ExplainCascadeBadge::
     .string "sağlar.\p"
     .string "Buna takas yoluyla elde ettiğin\n"
     .string "yabancı POKéMON'lar da dahil.\p"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Daha da fazlası var. Artık CUT\n"
     .else
     .string "Daha da fazlası var. Artık KES\n"

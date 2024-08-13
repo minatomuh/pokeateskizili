@@ -40,7 +40,7 @@ CeladonCity_Gym_Text_ReceivedTM19FromErika::
     .string "aldı.$"
 
 CeladonCity_Gym_Text_ExplainTM19::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "TM19 GIGA DRAIN içerir.\p"
     .else
     .string "TM19 GİGA EMİŞ içerir.\p"

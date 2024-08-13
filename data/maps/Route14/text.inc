@@ -38,7 +38,7 @@ Route14_Text_BeckPostBattle::
     .string "daha da çok artıyor.$"
 
 Route14_Text_MarlonIntro::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Uçan POKéMON'una FLY hamlesini\n"
     .else
     .string "Uçan POKéMON'una UÇ hamlesini\n"

@@ -50,7 +50,7 @@ Text_ThunderWaveTeach::
     .string "O, sen ROKET TAKIMI'ndan değilsin.\n"
     .string "Üzgünüm, öyle sandım…\p"
     .string "Affedebilir misin, eğer sana\n"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "THUNDER WAVE tekniğini\l"
     .else
     .string "ŞİMŞEK DALGA tekniğini\l"
@@ -59,14 +59,14 @@ Text_ThunderWaveTeach::
 
 Text_ThunderWaveDeclined::
     .string "Oh…\n"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Ama THUNDER WAVE kullanışlı…$"
     .else
     .string "Ama ŞİMŞEK DALGA kullanışlı…$"
     .endif
 
 Text_ThunderWaveWhichMon::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Hangi POKéMON'a THUNDER WAVE\n"
     .else
     .string "Hangi POKéMON'a ŞİMŞEK DALGA\n"
@@ -74,7 +74,7 @@ Text_ThunderWaveWhichMon::
     .string "öğretmeliyim?$"
 
 Text_ThunderWaveTaught::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "THUNDER WAVE hedef POKéMON'u\n"
     .else
     .string "ŞİMŞEK DALGA hedef POKéMON'u\n"

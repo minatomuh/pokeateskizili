@@ -3,7 +3,7 @@ Text_ExplosionTeach::
     .string "Bu yanardağ patlasa ne olurdu?\p"
     .string "Patlama bizim sonumuz olurdu.\n"
     .string "Ne kadar korkunç, değil mi?\p"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Korkmuşken, EXPLOSION öğretmemi\n"
     .else
     .string "Korkmuşken, PATLAMA öğretmemi\n"
@@ -16,7 +16,7 @@ Text_ExplosionDeclined::
 
 Text_ExplosionWhichMon::
     .string "Çok cesursun!\p"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "EXPLOSION'ı hangi POKéMON'a\n"
     .else
     .string "PATLAMA'yı hangi POKéMON'a\n"
@@ -25,7 +25,7 @@ Text_ExplosionWhichMon::
 
 Text_ExplosionTaught::
     .string "Bu yanardağın üzerinde\n"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "EXPLOSION kullanmak…\p"
     .else
     .string "PATLAMA kullanmak…\p"

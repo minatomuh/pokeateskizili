@@ -23,7 +23,7 @@ Route2_EastBuilding_Text_ReceivedHM05FromAide:
 
 Route2_EastBuilding_Text_ExplainHM05:
     .string "HM05 gizli hareket\n"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "FLASH'ı içerir.\p"
     .string "FLASH, en karanlık mağaraları ve\n"
     .else
@@ -33,7 +33,7 @@ Route2_EastBuilding_Text_ExplainHM05:
     .string "yeraltı şehirlerini aydınlatır.$"
 
 Route2_EastBuilding_Text_CanGetThroughRockTunnel:
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Bir POKéMON, FLASH\n"
     .else
     .string "Bir POKéMON, FLAŞ\n"

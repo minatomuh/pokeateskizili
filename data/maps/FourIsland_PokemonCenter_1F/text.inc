@@ -2,14 +2,14 @@
 Text_BodySlamTeach::
     .string "Hazır mısın?\n"
     .string "Zıpla!\p"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Bir BODY SLAM maçı yapıyoruz\n"
     .else
     .string "Bir VÜCUT VURUŞU maçı yapıyoruz\n"
     .endif
     .string "ilk kim pes edecek.\p"
     .string "Katılırsan, bir böcek gibi ezilirsin…\p"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "BODY SLAM hamlesini bir\n"
     .else
     .string "VÜCUT VURUŞU hamlesini bir\n"
@@ -21,7 +21,7 @@ Text_BodySlamDeclined::
     .string "Zıpla!$"
 
 Text_BodySlamWhichMon::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Hangi POKéMON BODY SLAM\n"
     .else
     .string "Hangi POKéMON VÜCUT VURUŞU\n"

@@ -45,7 +45,7 @@ ViridianCity_Gym_Text_ReceivedTM26FromGiovanni::
     .string "aldı.$"
 
 ViridianCity_Gym_Text_ExplainTM26::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "TM26, EARTHQUAKE'i içerir.\p"
     .else
     .string "TM26, DEPREM'i içerir.\p"

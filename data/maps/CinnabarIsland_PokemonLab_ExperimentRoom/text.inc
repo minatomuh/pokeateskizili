@@ -3,7 +3,7 @@ Text_MetronomeTeach::
     .string "Harika bir hareket öğreteceğim.\p"
     .string "Bir POKéMON'a öğret ve eğlenceyi\n"
     .string "izle!\p"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Hamlenin adı METRONOME\n"
     .else
     .string "Hamlenin adı METRONOM\n"

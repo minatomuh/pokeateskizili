@@ -8,7 +8,7 @@ CeruleanCity_House2_Text_RocketsStoleTMForDig::
 
 CeruleanCity_House2_Text_TeachDiglettDigWithoutTM::
     .string "Kaybolduğunu kabullendim.\p"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "DIGLETT'e bir TM olmadan DIG\n"
     .else
     .string "DIGLETT'e bir TM olmadan KAZ\n"

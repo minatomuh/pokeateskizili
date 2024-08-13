@@ -106,7 +106,7 @@ CeruleanCity_Text_PeopleHereWereRobbed::
 
 CeruleanCity_Text_SlowbroUseSonicboom::
     .string "Tamam! SLOWBRO!\n"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "SONICBOOM kullan!$"
     .else
     .string "SONİKPATLAMA kullan!$"

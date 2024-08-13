@@ -1,5 +1,6 @@
 TOOLCHAIN := $(DEVKITARM)
 COMPARE ?= 0
+ENGMOVES_FLAG ?= 0
 
 # don't use dkP's base_tools anymore
 # because the redefinition of $(CC) conflicts
@@ -61,7 +62,7 @@ override CFLAGS += -mthumb -mthumb-interwork -O2 -mcpu=arm7tdmi -mabi=apcs-gnu -
 LIBPATH := -L $(shell dirname $(shell $(MODERNCC) --print-file-name=libgcc.a)) -L $(shell dirname $(shell $(MODERNCC) --print-file-name=libc.a))
 endif
 
-CPPFLAGS := -iquote include -D$(GAME_VERSION) -DREVISION=$(GAME_REVISION) -D$(GAME_LANGUAGE) -DMODERN=$(MODERN) -D$(ENG_NAMES)
+CPPFLAGS := -iquote include -D$(GAME_VERSION) -DREVISION=$(GAME_REVISION) -D$(GAME_LANGUAGE) -DMODERN=$(MODERN) -DENG_MOVES=$(ENGMOVES_FLAG)
 ifeq ($(MODERN),0)
 CPPFLAGS += -I tools/agbcc -I tools/agbcc/include -nostdinc -undef
 endif
@@ -90,7 +91,7 @@ DATA_ASM_BUILDDIR = $(OBJ_DIR)/$(DATA_ASM_SUBDIR)
 SONG_BUILDDIR = $(OBJ_DIR)/$(SONG_SUBDIR)
 MID_BUILDDIR = $(OBJ_DIR)/$(MID_SUBDIR)
 
-ASFLAGS := -mcpu=arm7tdmi --defsym $(GAME_VERSION)=1 --defsym REVISION=$(GAME_REVISION) --defsym $(GAME_LANGUAGE)=1 --defsym MODERN=$(MODERN) --defsym $(ENG_NAMES)=1
+ASFLAGS := -mcpu=arm7tdmi --defsym $(GAME_VERSION)=1 --defsym REVISION=$(GAME_REVISION) --defsym $(GAME_LANGUAGE)=1 --defsym MODERN=$(MODERN) --defsym ENG_MOVES=$(ENGMOVES_FLAG)
 
 LDFLAGS = -Map ../../$(MAP)
 
@@ -343,31 +344,31 @@ $(ROM): $(ELF)
 
 # "friendly" target names for convenience sake
 firered:                	; @$(MAKE) GAME_VERSION=FIRERED
-firered_engmoves:			; @$(MAKE) GAME_VERSION=FIRERED ENG_NAMES=ENG_NAMES
+firered_engmoves:			; @$(MAKE) GAME_VERSION=FIRERED ENGMOVES_FLAG=1
 firered_rev1:           	; @$(MAKE) GAME_VERSION=FIRERED GAME_REVISION=1
-firered_rev1_engmoves:		; @$(MAKE) GAME_VERSION=FIRERED GAME_REVISION=1 ENG_NAMES=ENG_NAMES
+firered_rev1_engmoves:		; @$(MAKE) GAME_VERSION=FIRERED GAME_REVISION=1 ENGMOVES_FLAG=1
 leafgreen:              	; @$(MAKE) GAME_VERSION=LEAFGREEN
-leafgreen_engmoves:			; @$(MAKE) GAME_VERSION=LEAFGREEN ENG_NAMES=ENG_NAMES
+leafgreen_engmoves:			; @$(MAKE) GAME_VERSION=LEAFGREEN ENGMOVES_FLAG=1
 leafgreen_rev1:         	; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_REVISION=1
-leafgreen_rev1_engmoves:	; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_REVISION=1 ENG_NAMES=ENG_NAMES
+leafgreen_rev1_engmoves:	; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_REVISION=1 ENGMOVES_FLAG=1
 
 compare_firered:        		; @$(MAKE) GAME_VERSION=FIRERED COMPARE=1
-compare_firered_engmoves:		; @$(MAKE) GAME_VERSION=FIRERED COMPARE=1 ENG_NAMES=ENG_NAMES
+compare_firered_engmoves:		; @$(MAKE) GAME_VERSION=FIRERED COMPARE=1 ENGMOVES_FLAG=1
 compare_firered_rev1:			; @$(MAKE) GAME_VERSION=FIRERED GAME_REVISION=1 COMPARE=1
-compare_firered_rev1_engmoves:	; @$(MAKE) GAME_VERSION=FIRERED GAME_REVISION=1 COMPARE=1 ENG_NAMES=ENG_NAMES
+compare_firered_rev1_engmoves:	; @$(MAKE) GAME_VERSION=FIRERED GAME_REVISION=1 COMPARE=1 ENGMOVES_FLAG=1
 compare_leafgreen:				; @$(MAKE) GAME_VERSION=LEAFGREEN COMPARE=1
-compare_leafgreen_engmoves:		; @$(MAKE) GAME_VERSION=LEAFGREEN COMPARE=1 ENG_NAMES=ENG_NAMES
+compare_leafgreen_engmoves:		; @$(MAKE) GAME_VERSION=LEAFGREEN COMPARE=1 ENGMOVES_FLAG=1
 compare_leafgreen_rev1:			; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_REVISION=1 COMPARE=1
-compare_leafgreen_rev1_engmoves:; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_REVISION=1 COMPARE=1 ENG_NAMES=ENG_NAMES
+compare_leafgreen_rev1_engmoves:; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_REVISION=1 COMPARE=1 ENGMOVES_FLAG=1
 
 firered_modern:        			; @$(MAKE) GAME_VERSION=FIRERED MODERN=1
-firered_modern_engmoves:        ; @$(MAKE) GAME_VERSION=FIRERED MODERN=1 ENG_NAMES=ENG_NAMES
+firered_modern_engmoves:        ; @$(MAKE) GAME_VERSION=FIRERED MODERN=1 ENGMOVES_FLAG=1
 firered_rev1_modern:   			; @$(MAKE) GAME_VERSION=FIRERED GAME_REVISION=1 MODERN=1
-firered_rev1_modern_engmoves:   ; @$(MAKE) GAME_VERSION=FIRERED GAME_REVISION=1 MODERN=1 ENG_NAMES=ENG_NAMES
+firered_rev1_modern_engmoves:   ; @$(MAKE) GAME_VERSION=FIRERED GAME_REVISION=1 MODERN=1 ENGMOVES_FLAG=1
 leafgreen_modern:      			; @$(MAKE) GAME_VERSION=LEAFGREEN MODERN=1
-leafgreen_modern_engmoves:      ; @$(MAKE) GAME_VERSION=LEAFGREEN MODERN=1 ENG_NAMES=ENG_NAMES
+leafgreen_modern_engmoves:      ; @$(MAKE) GAME_VERSION=LEAFGREEN MODERN=1 ENGMOVES_FLAG=1
 leafgreen_rev1_modern: 			; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_REVISION=1 MODERN=1
-leafgreen_rev1_modern_engmoves: ; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_REVISION=1 MODERN=1 ENG_NAMES=ENG_NAMES
+leafgreen_rev1_modern_engmoves: ; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_REVISION=1 MODERN=1 ENGMOVES_FLAG=1
 
 modern: ; @$(MAKE) MODERN=1
 

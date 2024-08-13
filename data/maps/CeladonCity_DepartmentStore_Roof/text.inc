@@ -18,7 +18,7 @@ Text_ReceivedItemFromLittleGirl::
     .string "{STR_VAR_2} aldı.$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "TM16 LIGHT SCREEN içerir.\p"
     .else
     .string "TM16 IŞIK DUVARI içerir.\p"
@@ -35,7 +35,7 @@ CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
     .string "bu hediyeyi verebilirim!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "TM20 SAFEGUARD içerir.\p"
     .else
     .string "TM20 MİSTİKKORUMA içerir.\p"
@@ -51,7 +51,7 @@ CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
     .string "bu hediyeyi verebilirim!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "TM33 REFLECT içerir.\p"
     .else
     .string "TM33 YANSIT içerir.\p"

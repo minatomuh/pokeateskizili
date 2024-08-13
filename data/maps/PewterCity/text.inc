@@ -13,7 +13,7 @@ Text_DreamEaterDeclined::
     .string "ZZZ.\nHorr…$"
 
 Text_DreamEaterWhichMon::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Hangi POKéMON DREAM EATER\n"
     .else
     .string "Hangi POKéMON RÜYA YİYEN\n"

@@ -101,14 +101,14 @@ SurfPichu_Slot5:
 sText_MysteryGiftEgg:
 	.string "GİZEMLİ HEDİYE Sistemini\n"
 	.string "kullandığınız için teşekkür ederiz.\p"
-	.string "POKÉMON MERKEZİ'nden size\n"
+	.string "POKéMON MERKEZİ'nden size\n"
 	.string "bir hediye - bir YUMURTA!\p"
 	.string "Lütfen bunu sevgi ve\n"
 	.string "nazla yetiştirin.$"
 
 sText_FullParty:
 	.string "Oh, takımınız dolu görünüyor.\p"
-	.string "Lütfen bir POKÉMON'u PC'ye\n"
+	.string "Lütfen bir POKéMON'u PC'ye\n"
 	.string "depoladıktan sonra tekrar gelin.$"
 
 MysteryEventScript_VisitingTrainer::
@@ -136,7 +136,7 @@ sText_MysteryGiftVisitingTrainer:
 	.string "GİZEMLİ HEDİYE Sistemini\n"
 	.string "kullandığınız için teşekkür ederiz.\p"
 	.string "Bu HARİKA KART'ı tutarak,\n"
-	.string "POKÉMON MART'ta anketlere katıl.\p"
+	.string "POKéMON MART'ta anketlere katıl.\p"
 	.string "Bu anketleri kullanarak EĞİTMENLER\n"
 	.string "SEVII ADALARI'na davet edebilirsin.\p"
 	.string "…Size bir anket için gizli\n"

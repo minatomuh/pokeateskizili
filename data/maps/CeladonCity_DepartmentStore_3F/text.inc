@@ -53,7 +53,7 @@ Text_CounterTeach::
     .string "Henüz bitirmedin mi?\n"
     .string "Sana iyi bir hareket öğretmemi\l"
     .string "ister misin?\p"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Aklımdaki hareket COUNTER.\p"
     .string "Aklına o meşhur oyun gelmesin!$"
     .else
@@ -66,7 +66,7 @@ Text_CounterDeclined::
     .string "Fikrini değiştirirsen gel bana.$"
 
 Text_CounterWhichMon::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Hangi POKéMON'a COUNTER\n"
     .else
     .string "Hangi POKéMON'a KARŞILIK\n"
@@ -74,7 +74,7 @@ Text_CounterWhichMon::
     .string "öğretmemi istersin?$"
 
 Text_CounterTaught::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Öğrettiğim COUNTER hamlesini\n"
     .else
     .string "Öğrettiğim KARŞILIK hamlesini\n"
