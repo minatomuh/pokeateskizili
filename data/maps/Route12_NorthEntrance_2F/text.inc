@@ -15,7 +15,7 @@ Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
     .string "aldı.$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "TM27 RETURN isimli bir hamle.\p"
     .else
     .string "TM27 KARŞILIK isimli bir hamle.\p"

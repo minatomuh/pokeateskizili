@@ -33,7 +33,7 @@ FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
     .string "Şimdi RUH ROZETİ'ne sahipsin,\n"
     .string "POKéMON'larının SAVUNMA'sı artacak.\p"
     .string "Ayrıca savaş dışında\n"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "SURF kullanmana izin verir.\p"
 	.else
     .string "SÖRF kullanmana izin verir.\p"
@@ -47,7 +47,7 @@ FuchsiaCity_Gym_Text_ReceivedTM06FromKoga::
 
 FuchsiaCity_Gym_Text_KogaExplainTM06::
     .string "O TM06'nın içinde\n"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "TOXIC var!\p"
     .else
     .string "TOKSİK var!\p"

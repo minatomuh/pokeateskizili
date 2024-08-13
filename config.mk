@@ -36,7 +36,7 @@ endif
 endif
 
 # English moves/abilities/natures
-ifeq ($(ENG_NAMES), ENG_NAMES)
+ifeq ($(ENGMOVES_FLAG), 1)
 BUILD_NAME := $(BUILD_NAME)_engmoves
 else
 BUILD_NAME := $(BUILD_NAME)

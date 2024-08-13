@@ -1,4 +1,4 @@
-#ifdef ENG_NAMES
+#if ENG_MOVES==1
 static const u8 sHardyNatureName[] = _("HARDY");
 static const u8 sLonelyNatureName[] = _("LONELY");
 static const u8 sBraveNatureName[] = _("BRAVE");

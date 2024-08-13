@@ -6,7 +6,7 @@ Text_RockSlideTeach::
     .string "Waaaaaaaaaaah, çok korkutucu!\n"
     .string "Tam bir dehşet!\p"
     .string "Pek korkmuş gibi görünmüyorsun.\n"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "ROCK SLIDE'ı denemek ister misin?$"
     .else
     .string "KAYA DÜŞÜŞÜ'nü denemek ister misin?$"
@@ -16,7 +16,7 @@ Text_RockSlideDeclined::
     .string "Öyleyse sonunda korkuyorsun.$"
 
 Text_RockSlideWhichMon::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Hangi POKéMON'a ROCK SLIDE\n"
     .else
     .string "Hangi POKéMON'a KAYA DÜŞÜŞÜ\n"

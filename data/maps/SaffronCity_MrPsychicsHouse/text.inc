@@ -8,7 +8,7 @@ SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic::
 
 SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
     .string "Zaten biliyorsun, değil mi?\n"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "TM29 PSYCHIC'tir.\p"
     .else
     .string "TM29 PSİŞİK'tir.\p"

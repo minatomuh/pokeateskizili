@@ -27,7 +27,7 @@ VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
     .string "aldı.$"
 
 VermilionCity_Gym_Text_ExplainTM34::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "TM34 SHOCK WAVE içerir!\p"
     .else
     .string "TM34 ŞOK DALGASI içerir!\p"

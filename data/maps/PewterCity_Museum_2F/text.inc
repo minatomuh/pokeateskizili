@@ -5,7 +5,7 @@ Text_SeismicTossTeach::
     .string "Ama bu bizi çalışmaya itmeli,\l"
     .string "havlu atmaya değil.\p"
     .string "Tek atman gereken şey…\n"
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "SEISMIC TOSS!$"
     .else
     .string "SİSMİK ATIŞ!\p"
@@ -17,7 +17,7 @@ Text_SeismicTossDeclined::
     .string "Bundan vazgeçmeyeceğinden eminim.$"
 
 Text_SeismicTossWhichMon::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "SEISMIC TOSS öğrenmek isteyen\n"
     .else
     .string "SİSMİK ATIŞ'ı öğrenmek isteyen\n"

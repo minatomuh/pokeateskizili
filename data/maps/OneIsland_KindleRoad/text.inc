@@ -39,7 +39,7 @@ OneIsland_KindleRoad_Text_GarrettDefeat::
     .string "Sen gerçekten iyisin!$"
 
 OneIsland_KindleRoad_Text_GarrettPostBattle::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "Sürekli SURF kullanmak yerine,\n"
 	.else
     .string "Sürekli SÖRF kullanmak yerine,\n"

@@ -40,7 +40,7 @@ SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
     .string "{PLAYER}, SABRINA'dan TM04 aldı.$"
 
 SaffronCity_Gym_Text_ExplainTM04::
-    .ifdef ENG_NAMES
+    .if ENG_MOVES == 1
     .string "TM04, CALM MIND içerir.\p"
     .else
     .string "TM04, SAKİNLEŞ içerir.\p"
