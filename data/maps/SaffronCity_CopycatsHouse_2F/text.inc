@@ -111,7 +111,7 @@ SaffronCity_CopycatsHouse_2F_Text_MySecrets::
     .string "Sırlarım!\p"
     .string "Yetenek: Taklit!\n"
     .string "Hobi: Bebek toplamak!\l"
-    .string "Favori Pokemon: CLEFAIRY!$"
+    .string "Favori POKéMON: CLEFAIRY!$"
 
 SaffronCity_CopycatsHouse_2F_Text_HuhCantSee::
     .string "Ne? Görünmüyor…$"

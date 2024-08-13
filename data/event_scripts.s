@@ -916,7 +916,7 @@ Text_BigHoleInTheWall::
 
 Text_WirelessClubUndergoingAdjustments:
 	.string "Çok özür dilerim.\n"
-	.string "POKÉMON WIRELESS CLUB şu anda\l"
+	.string "POKéMON WIRELESS CLUB şu anda\l"
 	.string "ayarlama aşamasında.$"
 
 Text_AppearsToBeUndergoingAdjustments:

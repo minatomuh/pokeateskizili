@@ -53,7 +53,7 @@ Route13_Text_AlmaDefeat::
     .string "Batırdım!$"
 
 Route13_Text_AlmaPostBattle::
-    .string "KARBON, Pokemonumun\n"
+    .string "KARBON, POKéMON'umun\n"
     .string "hızını artırdı.$"
 
 Route13_Text_PerryIntro::
