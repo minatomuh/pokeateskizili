@@ -11,7 +11,7 @@ PalletTown_RivalsHouse_Text_HeardYouBattledRival::
 
 PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelp::
     .string "Dedem sana yapman için\n"
-    .string "bir görev mi verdi?.\p"
+    .string "bir görev mi verdi?\p"
     .string "Vay canına, bu tam bir tembellik.\n"
     .string "İşte, bu sana yardımcı olur.$"
 
@@ -23,16 +23,15 @@ PalletTown_RivalsHouse_Text_DontHaveSpaceForThis::
     .string "Çantanızda buna yer yok.$"
 
 PalletTown_RivalsHouse_Text_ExplainTownMap::
-    .string "HARİTA'yı kullanarak\n"
-    .string "nerede olduğunu öğrenebilir veya\l"
-    .string "yerlerin isimlerini kontrol\l"
-    .string "edebilirsin.$"
+    .string "HARİTA'yı kullanarak nerede olduğunu\n"
+    .string "öğrenebilir veya yerlerin\l"
+    .string "isimlerini kontrol edebilirsin.$"
 
 PalletTown_RivalsHouse_Text_PleaseGiveMonsRest::
     .string "DAISY: İnsanlar gibi, POKéMON'lar\n"
     .string "da canlı varlıklardır.\p"
     .string "Yorgun olduklarında, lütfen onlara\n"
-    .string "dinlenmeleri için zaman tanıyın.$"
+    .string "dinlenmeleri için zaman tanı.$"
 
 PalletTown_RivalsHouse_Text_ItsBigMapOfKanto::
     .string "Bu, KANTO bölgesinin büyük\n"
@@ -54,7 +53,7 @@ PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
     .string "ister misin?$"
 
 PalletTown_RivalsHouse_Text_DontNeedAnyGrooming::
-    .string "POKéMON'ların bakıma ihtiyacı\n"
+    .string "POKéMON'larının bakıma ihtiyacı\n"
     .string "yok mu?\p"
     .string "Tamam, o zaman sadece çay içelim.$"
 
@@ -62,8 +61,8 @@ PalletTown_RivalsHouse_Text_GroomWhichOne::
     .string "Hangi POKéMON'u temizleyeyim?$"
 
 PalletTown_RivalsHouse_Text_LookingNiceInNoTime::
-    .string "DAISY: Tamam, onu kısa sürede\n"
-    .string "güzel görünmesini sağlayacağım.$"
+    .string "DAISY: Tamam, hemen onu bir güzel\n"
+    .string "temizleyeyim.$"
 
 PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 #ifdef BUGFIX @ The localizers missed what should be a textcolor change in the localizations.
@@ -83,28 +82,28 @@ PalletTown_RivalsHouse_Text_CantGroomAnEgg::
     .string "temizleyemem.$"
 
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
-    .string "DAISY: POKéMON'larınızı\n"
-    .string "severseniz, onlar da sizi sever.\p"
+    .string "DAISY: POKéMON'larını\n"
+    .string "seversen, onlar da seni sever.\p"
     .string "Örneğin, {PLAYER}, ilk\n"
-    .string "POKéMON'unuza bakabilir miyim?$"
+    .string "POKéMON'una bakabilir miyim?$"
 
 PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
     .string "Seni şu anda aşırı seviyor.\p"
-    .string "POKéMON'unuz kelimelerle ifade\n"
+    .string "POKéMON'un kelimelerle ifade\n"
     .string "edilemeyecek kadar mutlu.$"
 
 PalletTown_RivalsHouse_Text_ItLooksVeryHappy::
     .string "Çok mutlu görünüyor.\p"
-    .string "{RIVAL}'ın bunu görmesini ve\n"
-    .string "bir şeyler öğrenmesini isterdim.$"
+    .string "{RIVAL}'ın bunu görmesini ve bir\n"
+    .string "şeyler öğrenmesini isterdim.$"
 
 PalletTown_RivalsHouse_Text_ItsQuiteFriendly::
-    .string "Sana karşı oldukça dostça.\n"
+    .string "Sana karşı oldukça yakın görünüyor.\n"
     .string "İyi davranmaya devam et!$"
 
 PalletTown_RivalsHouse_Text_ItsWarmingUpToYou::
     .string "Sana ısınıyor.\n"
-    .string "Aranda güven oluşuyor olmalı.$"
+    .string "Aranızda bir bağ oluşuyor olmalı.$"
 
 PalletTown_RivalsHouse_Text_NotFamiliarWithYouYet::
     .string "Henüz sana alışkın değil.\p"
@@ -112,16 +111,16 @@ PalletTown_RivalsHouse_Text_NotFamiliarWithYouYet::
     .string "hepsi temkinlidir.$"
 
 PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
-    .string "{PLAYER}, sana bakışını\n"
-    .string "beğenmiyorum.\p"
-    .string "Onunla biraz daha nazik\n"
+    .string "{PLAYER}, onun sana bakışını\n"
+    .string "hiç beğenmedim.\p"
+    .string "Ona karşı biraz daha nazik\n"
     .string "davranabilir misin?$"
 
 PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuch::
-    .string "…Ehm, bunu söylemek\n"
-    .string "kolay değil ama…\p"
-    .string "POKéMON'unuzun size bu kadar\n"
+    .string "…Ehm, bunu söylemek hiç kolay\n"
+    .string "değil, ama…\p"
+    .string "POKéMON'unun senden bu kadar\n"
     .string "nefret etmesinin bir nedeni var mı?$"
 
 PalletTown_RivalsHouse_Text_LovelyAndSweetClefairy::
-    .string "“Tatlı ve sevimli CLEFAIRY”$"
+    .string "“Tatlı ve sevimli bir CLEFAIRY”$"

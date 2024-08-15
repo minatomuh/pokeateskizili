@@ -1,16 +1,15 @@
 ViridianForest_Text_FriendsItchingToBattle::
-    .string "Bazı arkadaşlarla BÖCEK\n"
+    .string "Birkaç arkadaşımla BÖCEK\n"
     .string "POKéMON'u yakalamaya geldik!\p"
     .string "Hepsi POKéMON savaşlarına\n"
     .string "girmek için can atıyorlar!$"
 
 ViridianForest_Text_RickIntro::
     .string "Hey! POKéMON'un var!\n"
-    .string "Hadi!\l"
-    .string "Savaşalım!$"
+    .string "Hadi! Savaşalım!$"
 
 ViridianForest_Text_RickDefeat::
-    .string "Hayır!\nCATERPIE dayanamaz!$"
+    .string "Olamaz!\nCATERPIE dayanamadı!$"
 
 ViridianForest_Text_RickPostBattle::
     .string "Şşt! Böcekleri kaçıracaksın.\n"
@@ -68,14 +67,14 @@ ViridianForest_Text_CharliePostBattle::
 ViridianForest_Text_RanOutOfPokeBalls::
     .string "POKéMON yakalamak için POKé\n"
     .string "TOPU atıyordum ama elimde kalmadı.\p"
-    .string "Bu yüzden yeterince POKé\n"
-    .string "TOPUN olduğundan emin ol.$"
+    .string "Bu yüzden yeterince POKéTOPUN\n"
+    .string "olduğundan emin ol.$"
 
 ViridianForest_Text_AvoidGrassyAreasWhenWeak::
-    .string "EĞİTMEN İPUCU\p"
-    .string "Eğer POKéMON'ların zayıfsa ve\n"
-    .string "savaşlardan kaçınmak istiyorsan,\l"
-    .string "otlu alanlardan uzak dur!$"
+    .string "EĞİTMEN İPUÇLARI\p"
+    .string "Eğer POKéMON'larınız zayıfsa ve\n"
+    .string "savaşlardan kaçınmak istiyorsanız\l"
+    .string "otlu alanlardan uzak durun!$"
 
 ViridianForest_Text_UseAntidoteForPoison::
     .string "Zehirlenmeye karşı PANZEHİR\n"
@@ -83,25 +82,24 @@ ViridianForest_Text_UseAntidoteForPoison::
     .string "alabilirsiniz!$"
 
 ViridianForest_Text_ContactOakViaPCToRatePokedex::
-    .string "EĞİTMEN İPUCU\p"
+    .string "EĞİTMEN İPUÇLARI\p"
     .string "PROF. OAK ile iletişime geçmek\n"
-    .string "için bir PC kullanın\l"
-    .string "ve POKéDEX'inizi\l"
+    .string "için PC kullanıp POKéDEX'inizin\l"
     .string "değerlendirmesini isteyin!$"
 
 ViridianForest_Text_CantCatchOwnedMons::
-    .string "EĞİTMEN İPUCU\p"
+    .string "EĞİTMEN İPUÇLARI\p"
     .string "Başkasına ait bir POKéMON'u\n"
     .string "yakalayamazsınız.\p"
-    .string "Yalnızca yabani POKéMON'ları\n"
-    .string "yakalamak için POKé TOPU atın!$"
+    .string "Yalnızca vahşi POKéMON'ları\n"
+    .string "yakalayabilirsiniz!$"
 
 ViridianForest_Text_WeakenMonsBeforeCapture::
-    .string "EĞİTMEN İPUCU\p"
+    .string "EĞİTMEN İPUÇLARI\p"
     .string "Yakalamadan önce POKéMON'ları\n"
     .string "zayıflatın!\p"
     .string "Sağlıklıysalar kaçabilirler!$"
 
 ViridianForest_Text_LeavingViridianForest::
-    .string "VIRIDIAN ORMANINDAN AYRILIYOR\n"
+    .string "VIRIDIAN ORMANI SONU\n"
     .string "PEWTER ŞEHRİ İLERİDE$"

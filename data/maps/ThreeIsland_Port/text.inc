@@ -5,8 +5,8 @@ ThreeIsland_Port_Text_WereKantoRiderFederation::
     .string "egzoz sesini ben çıkarıyorum!$"
 
 ThreeIsland_Port_Text_ForkOverMoney::
-    .string "Hey, hanımefendi!\n"
-    .string "Harcamam için biraz para ver bana!$"
+    .string "Hey, sen!\n"
+    .string "Biraz para ver bana!$"
 
 ThreeIsland_Port_Text_IllCallThePolice::
     .string "Ayy!\p"

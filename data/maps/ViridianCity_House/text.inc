@@ -1,11 +1,11 @@
 ViridianCity_House_Text_NicknamingIsFun::
-    .string "Takma ad bulmak eğlenceli,\n"
-    .string "ama kolay değil. Akıllıca\l"
-    .string "adlar güzel, basit adlar\l"
-    .string "daha kolay hatırlanır.$"
+    .string "Takma ad bulmak eğlenceli ama\n"
+    .string "kolay değil. Düşünülmüş adlar\l"
+    .string "güzel, basit adlar ise daha\l"
+    .string "kolay hatırlanıyor.$"
 
 ViridianCity_House_Text_MyDaddyLovesMonsToo::
-    .string "Babam da POKéMONLARI seviyor.$"
+    .string "Babam da POKéMON'ları seviyor.$"
 
 ViridianCity_House_Text_Speary::
     .string "SPEARY: CİK CİK!$"

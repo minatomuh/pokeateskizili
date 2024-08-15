@@ -5,7 +5,7 @@ ViridianCity_School_Text_TryingToMemorizeNotes::
 ViridianCity_School_Text_ReadBlackboardCarefully::
     .string "Tamam!\p"
     .string "Lütfen tahtadaki yazıları dikkatlice\n"
-    .string "okuyun!$"
+    .string "oku!$"
 
 ViridianCity_School_Text_NotebookFirstPage::
     .string "Defterimize bir göz atalım.\p"
@@ -21,8 +21,8 @@ ViridianCity_School_Text_NotebookSecondPage::
     .string "İkinci sayfa…\p"
     .string "Sağlıklı bir POKéMON yakalamak zor\n"
     .string "olabilir, önce zayıflatın.\p"
-    .string "Zehirle, yak, ya da başka bir\n"
-    .string "durum sorunu yarat.$"
+    .string "Zehirleyin, yakın, ya da başka\n"
+    .string "bir durum sorunu yaratın.$"
 
 ViridianCity_School_Text_NotebookThirdPage::
     .string "Üçüncü sayfa…\p"
@@ -51,8 +51,8 @@ ViridianCity_School_Text_HeyDontLookAtMyNotes::
     .string "Notlarıma bakma!$"
 
 ViridianCity_School_Text_BlackboardListsStatusProblems::
-    .string "Tahta, savaş sırasındaki POKéMON\n"
-    .string "DURUM sorunlarını listeler.$"
+    .string "Tahtada, savaştaki POKéMON\n"
+    .string "DURUM sorunları yazıyor.$"
 
 ViridianCity_School_Text_ReadWhichTopic::
     .string "Hangi konuyu okumak istersin?$"

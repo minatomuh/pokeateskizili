@@ -12,7 +12,7 @@ Text_JustMistaken::
     .string "Yanılmışım.$"
 
 Text_AllowMeToTeachMonUltimateMove::
-    .string "Oh! İşte bu!\n"
+    .string "Hey! İşte bu!\n"
     .string "Bu o POKéMON!\p"
     .string "Bu {STR_VAR_1} en iyi hamlemi\n"
     .string "öğrenmeye değer!\p"
@@ -21,19 +21,19 @@ Text_AllowMeToTeachMonUltimateMove::
     .string "öğreteyim mi?$"
 
 Text_YouRejectIt::
-    .string "Gaah! Reddediyor musun?\n"
+    .string "Gaah! Reddediyorsun demek.\n"
     .string "Hayır, vazgeçmeyeceğim!$"
 
 Text_LetMeConferUltimateMove::
-    .string "Buna izin veriyorsun?\p"
+    .string "Buna izin veriyorsun demek.\p"
     .string "O zaman, {STR_VAR_2} hamlesini\n"
-    .string "{STR_VAR_1}'ine aktarayım.\p"
-    .string "Ggggrah-awooo!$"
+    .string "{STR_VAR_1}'ine öğreteyim.\p"
+    .string "Ggggrah-avuuuu!$"
 
 Text_TaughtMove::
-    .string "Hıçkırık…\p"
-    .string "Yaşarken bu hamleyi\n"
-    .string "öğretmeyi düşünmezdim…$"
+    .string "Hıh…\p"
+    .string "Bu hamleyi ölmeden öğretmek\n"
+    .string "hiç aklıma gelmezdi…$"
 
 Text_MakeBestUseOfMove::
     .string "Senden bu hamleyi en iyi şekilde\n"
@@ -41,14 +41,14 @@ Text_MakeBestUseOfMove::
     .string "ediyorum!$"
 
 Text_PassedOnEverythingIKnow::
-    .string "Hıçkırık…\p"
+    .string "Hıh…\p"
     .string "Artık hiçbir pişmanlığım yok.\n"
     .string "Bildiğim her şeyi aktardım.\p"
-    .string "Artık yaşayabilirim, çünkü\n"
+    .string "Artık rahat edebilirim çünkü\n"
     .string "görevimi tamamladım.$"
 
 Text_FeelRejuvenated::
-    .string "Bilgimi sana aktardıktan sonra,\n"
+    .string "Bilgimi sana aktardıktan sonra\n"
     .string "büyük bir rahatlama hissettim.\p"
     .string "Aslında, kendimi yeniden\n"
     .string "gençleşmiş gibi hissediyorum!$"

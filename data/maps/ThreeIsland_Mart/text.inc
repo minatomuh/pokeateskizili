@@ -1,7 +1,7 @@
 ThreeIsland_Mart_Text_TrueThatCeldadonDeptStoreBigger::
     .string "Doğru mu?\p"
     .string "CELADON MAĞAZASI bu dükkandan\n"
-    .string "daha mı büyük mü?$"
+    .string "daha mı büyük?$"
 
 ThreeIsland_Mart_Text_PeopleHealWithBerriesFromForest::
     .string "Bazen buradan ilaç alırım.\p"

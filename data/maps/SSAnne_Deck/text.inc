@@ -30,6 +30,6 @@ SSAnne_Deck_Text_TrevorDefeat::
     .string "Dikkatsiz davrandım!$"
 
 SSAnne_Deck_Text_TrevorPostBattle::
-    .string "Babam 100 çeşit POKéMON\n"
+    .string "Babam dünyada 100 çeşit POKéMON\n"
     .string "olduğunu söyledi. Bence daha fazla.$"
 

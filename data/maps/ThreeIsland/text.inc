@@ -8,17 +8,15 @@ ThreeIsland_Text_IslandBelongsToUs::
     .string "bize ait!$"
 
 ThreeIsland_Text_GoBackToKanto::
-    .string "Gürültü ve sorunlarınızı buraya\n"
-    .string "taşımayın! Sizi KANTO'ya geri\l"
-    .string "göndermek istiyoruz!$"
+    .string "Gürültünüzü alın gidin!\n"
+    .string "KANTO'ya geri dönün hemen!$"
 
 ThreeIsland_Text_BossIsOnHisWay::
     .string "Hey, başka yerde ağla.\n"
     .string "Patronumuz yolda.\p"
-    .string "Buraya geldiğinde, size\n"
-    .string "unutamayacağınız\l"
-    .string "bir motosiklet şovuyla karşı\l"
-    .string "koyacağız!$"
+    .string "Buraya geldiğinde, sana\n"
+    .string "unutamayacağın bir motosiklet\l"
+    .string "şovu sunacağız!$"
 
 ThreeIsland_Text_GetOffIslandNow::
     .string "N-ne!? Asla!\n"
@@ -46,7 +44,7 @@ ThreeIsland_Text_FollowersRaisingHavoc::
 ThreeIsland_Text_OughtToBeThankingUs::
     .string "Hayır, hiç anlamıyorum.\p"
     .string "Şu yere bir bak.\n"
-    .string "Eğlenmek için ne yapıyorsun?\p"
+    .string "Eğlenmeyi hiç bilmiyorsun.\p"
     .string "Bu uyuşuk köyü canlandırdığımız\n"
     .string "için bize teşekkür etmelisin.\p"
     .string "Ama eğer ısrar ediyorsan, bizi\n"
@@ -59,8 +57,8 @@ ThreeIsland_Text_YouCowardsToughInPack::
 ThreeIsland_Text_WannaMakeSomethingOfYourStaring::
     .string "Sen, neye bakıyorsun?\n"
     .string "Bilmiyor musun, bu çok kaba.\p"
-    .string "Bunun hakkında bir şeyler mi yapmak\n"
-    .string "istiyorsun?$"
+    .string "Bunun hakkında bir şeyler mi\n"
+    .string "yapmak istiyorsun?$"
 
 ThreeIsland_Text_ThatsSmart::
     .string "Bu akıllıca.\n"
@@ -75,7 +73,7 @@ ThreeIsland_Text_Biker1Defeat::
     .string "Bu çocuk da ne!?$"
 
 ThreeIsland_Text_Biker1PostBattle::
-    .string "Aww, adamım…\n"
+    .string "Ah, adamım…\n"
     .string "Sakın gülmeye cüret etme!$"
 
 ThreeIsland_Text_Biker2Intro::
@@ -88,7 +86,7 @@ ThreeIsland_Text_Biker2Defeat::
 ThreeIsland_Text_Biker2PostBattle::
     .string "Sana ne oluyor, bu kadar\n"
     .string "kızmak falan?\p"
-    .string "Hiç cool değil, adamım!$"
+    .string "Hiç havalı değil, adamım!$"
 
 ThreeIsland_Text_Biker3Intro::
     .string "Patronu buraya çağırdık,\n"
@@ -99,13 +97,13 @@ ThreeIsland_Text_Biker3Defeat::
     .string "… … …\n… … …$"
 
 ThreeIsland_Text_Biker3PostBattle::
-    .string "Patron, sana söylüyorum,\n"
-    .string "bu çocuk hakkında bir şeyler\l"
+    .string "Patron, hadi ama, bu çocuk\n"
+    .string "hakkında bir şeyler\l"
     .string "yapmalısın!$"
 
 ThreeIsland_Text_PaxtonIntro::
-    .string "Seni izledim ve diyorum ki bu\n"
-    .string "kadarı artık yeter.\p"
+    .string "Seni izledim.\n"
+    .string "Bu kadarı artık yeter.\p"
     .string "Kimsin sen, onların dostu\n"
     .string "falan mı?\p"
     .string "O zaman onların adına benimle\n"
@@ -115,23 +113,23 @@ ThreeIsland_Text_PaxtonDefeat::
     .string "Tamam, yeter!\n"
     .string "İstediğin gibi ayrılacağız!\p"
     .string "Bu sıkıcı adadan kurtulmak\n"
-    .string "bizi mutlu edecek!$"
+    .string "bizi mutlu bile eder!$"
 
 ThreeIsland_Text_PaxtonPostBattle::
-    .string "Hımf! Evet, doğru, bu köylülerle\n"
+    .string "Hımf! Evet, bu köylülerle\n"
     .string "takılmaya devam et!$"
 
 ThreeIsland_Text_ThankYouOhYourMonGotHurt::
     .string "Teşekkürler! O serseriler\n"
-    .string "sadece bela arıyordu.\p"
+    .string "bela arıyordu sanki.\p"
     .string "Ah, bak, POKéMON'ların biraz\n"
     .string "yaralanmış.$"
 
 ThreeIsland_Text_GivenFullRestore::
-    .string "{PLAYER} bir TAM YENİLENME aldı.$"
+    .string "{PLAYER}, bir TAM YENİLENME\naldı.$"
 
 ThreeIsland_Text_OhYourBagIsFull::
-    .string "Oh?\n"
+    .string "Ha?\n"
     .string "Çantan dolu.$"
 
 ThreeIsland_Text_YouveGotImpressiveMons::
@@ -144,7 +142,7 @@ ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
     .string "Umarım en azından bir süre\n"
     .string "burada kalırsın.\p"
     .string "…Şey pardon?\n"
-    .string "LOSTELLE'i mi arıyorsunuz?\p"
+    .string "LOSTELLE'i mi arıyorsun?\p"
     .string "LOSTELLE bir süre önce\n"
     .string "BAĞ KÖPRÜSÜ'ne doğru gitti.$"
 

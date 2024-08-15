@@ -1,7 +1,7 @@
 VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish::
     .string "Ben BALIK GURUSU'yum!\p"
     .string "Balık tutmayı çok seviyorum!\n"
-    .string "Onsuz yapamam.\p"
+    .string "Balık tutmadan yapamam.\p"
     .string "Söyle, sen de balık tutmayı sever\n"
     .string "misin?$"
 
@@ -30,5 +30,5 @@ VermilionCity_House1_Text_HowAreTheFishBiting::
 
 VermilionCity_House1_Text_NoRoomForNiceGift::
     .string "Aman Tanrım!\p"
-    .string "Sana güzel bir hediyem vardı, ama\n"
-    .string "senin hiç yerin yok!$"
+    .string "Sana güzel bir hediyem vardı ama\n"
+    .string "hiç yerin yok!$"

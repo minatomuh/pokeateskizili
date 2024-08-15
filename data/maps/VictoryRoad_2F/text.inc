@@ -1,6 +1,6 @@
 VictoryRoad_2F_Text_DawsonIntro::
-    .string "Buradan geçebilirsen,\n"
-    .string "ELİT DÖRTLÜ'ye gidebilirsin.$"
+    .string "Buradan geçebilirsen, ELİT\n"
+    .string "DÖRTLÜ'ye gidebilirsin.$"
 
 VictoryRoad_2F_Text_DawsonDefeat::
     .string "Hayır!\n"
@@ -23,7 +23,7 @@ VictoryRoad_2F_Text_DaisukePostBattle::
 
 VictoryRoad_2F_Text_NelsonIntro::
     .string "Ah, demek ELİT DÖRTLÜ'ye meydan\n"
-    .string "okumak istiyorsun?$"
+    .string "okumak istiyorsun.$"
 
 VictoryRoad_2F_Text_NelsonDefeat::
     .string "Beni yendin!$"

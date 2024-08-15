@@ -1,8 +1,8 @@
 Text_DoubleEdgeTeach::
     .string "Kendinle gurur duymalısın.\p"
-    .string "ZAFER YOLU'nu savaşarak\n"
-    .string "cesurca geçtin.\p"
-    .string "Bu başarını takdir ederek,\n"
+    .string "ZAFER YOLU'nda savaşarak\n"
+    .string "engelleri cesurca atlattın.\p"
+    .string "Bu başarını takdir etmek için\n"
     .if ENG_MOVES == 1
     .string "DOUBLE-EDGE öğretmek isterim.\p"
     .else
@@ -23,9 +23,9 @@ Text_DoubleEdgeWhichMon::
     .string "öğretmemi istersin?$"
 
 Text_DoubleEdgeTaught::
-    .string "POKéMON LİGİ için bu motivasyonunu\n"
-    .string "koruyarak devam et.\p"
-    .string "Onlara meydan oku ve onları devir!$"
+    .string "POKéMON LİGİ için bu ritmini\n"
+    .string "korumaya devam et.\p"
+    .string "Onlara meydan oku ve yık geç!$"
 
 VictoryRoad_3F_Text_GeorgeIntro::
     .string "Bir dahi çocuk hakkında\n"
@@ -39,15 +39,15 @@ VictoryRoad_3F_Text_GeorgePostBattle::
     .string "GIOVANNI'yi yenen sen misin?$"
 
 VictoryRoad_3F_Text_AlexaIntro::
-    .string "EĞİTMENLER daha güçlü rakipler arar.$"
+    .string "EĞİTMENLER hep daha da güçlü\nrakipler arar.$"
 
 VictoryRoad_3F_Text_AlexaDefeat::
-    .string "Oh!\n"
+    .string "Of!\n"
     .string "Çok güçlüsün!$"
 
 VictoryRoad_3F_Text_AlexaPostBattle::
-    .string "Zorlu savaşlar seni\n"
-    .string "daha da güçlendirir.$"
+    .string "Zorlu savaşlar seni daha\n"
+    .string "da güçlendirir.$"
 
 VictoryRoad_3F_Text_CarolineIntro::
     .string "Sana ne kadar iyi olduğumu\n"
@@ -69,7 +69,7 @@ VictoryRoad_3F_Text_ColbyDefeat::
 
 VictoryRoad_3F_Text_ColbyPostBattle::
     .string "Buradaki tüm EĞİTMENLER,\n"
-    .string "POKéMON LİGİ'ne gidiyor\p"
+    .string "POKéMON LİGİ'ne gidiyor.\p"
     .string "Sakın rehavete kapılma.$"
 
 VictoryRoad_3F_Text_RayIntro::
@@ -85,14 +85,14 @@ VictoryRoad_3F_Text_RayPostBattle::
     .string "Büyüklük hala çok uzakta…$"
 
 VictoryRoad_3F_Text_RayNotEnoughMons::
-    .string "RAY: Birlikte zirveye ulaşmak için\n"
-    .string "çalışıyoruz.\p"
+    .string "RAY: Birlikte zirveye ulaşmak\n"
+    .string "için çalışıyoruz.\p"
     .string "Bizimle savaşmak için iki\n"
     .string "POKéMON'a ihtiyacın var.$"
 
 VictoryRoad_3F_Text_TyraIntro::
-    .string "TYRA: Birlikte şampiyon olmak için\n"
-    .string "çalışıyoruz.$"
+    .string "TYRA: Birlikte şampiyon olmak\n"
+    .string "için çalışıyoruz.$"
 
 VictoryRoad_3F_Text_TyraDefeat::
     .string "TYRA: Ah, ama…$"

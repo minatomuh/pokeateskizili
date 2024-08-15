@@ -12,7 +12,7 @@ VermilionCity_Gym_Text_LtSurgePostBattle::
     .string "Bir küçük tavsiye, çocuk!\p"
     .string "Elektrik gerçekten güçlü!\p"
     .string "Ama, YER-tipi POKéMON'a karşı\n"
-    .string "işe yaramaz!$"
+    .string "işe yaramıyor!$"
 
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
     .string "YILDIRIM ROZETİ, POKéMON'unun\n"
@@ -44,8 +44,8 @@ VermilionCity_Gym_Text_LtSurgeDefeat::
     .string "al!$"
 
 VermilionCity_Gym_Text_TuckerIntro::
-    .string "Ordudayken TĞM. SURGE\n"
-    .string "benim komutanımdı.\p"
+    .string "Ordudayken TĞM. SURGE benim\n"
+    .string "komutanımdı.\p"
     .string "Çok zorlu eğitimler verirdi.$"
 
 VermilionCity_Gym_Text_TuckerDefeat::
@@ -67,8 +67,8 @@ VermilionCity_Gym_Text_BailyDefeat::
 
 VermilionCity_Gym_Text_BailyPostBattle::
     .string "Tamam, konuşacağım!\p"
-    .string "TĞM. SURGE kapı düğmesini\n"
-    .string "bir şeyin içine sakladığını söyledi.$"
+    .string "TĞM. SURGE kapı düğmesini bir\n"
+    .string "şeyin içine sakladığını söyledi.$"
 
 VermilionCity_Gym_Text_DwayneIntro::
     .string "Burası çocuklar için bir yer değil!\n"
@@ -118,12 +118,11 @@ VermilionCity_Gym_Text_GymStatuePlayerWon::
     .string "{RIVAL}, {PLAYER}$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::
-    .string "Hayır!\n"
     .string "Burada sadece çöp var.$"
 
 VermilionCity_Gym_Text_SwitchUnderTrashFirstLockOpened::
     .string "Hey! Çöpün altında bir düğme var!\n"
-    .string "Tıkla! İlk elektrikli kilit açıldı!$"
+    .string "Tık! İlk elektrikli kilit açıldı!$"
 
 VermilionCity_Gym_Text_AnotherSwitchInTrash::
     .string "ガサゴソ‥！\n"
@@ -136,7 +135,6 @@ VermilionCity_Gym_Text_SecondLockOpened::
     .string "Motorlu kapı açıldı!$"
 
 VermilionCity_Gym_Text_OnlyTrashLocksWereReset::
-    .string "Hayır!\n"
     .string "Burada sadece çöp var.\p"
     .string "Hey!\n"
     .string "Elektrikli kilitler sıfırlandı!$"

@@ -13,8 +13,8 @@ ViridianCity_Mart_Text_ReceivedOaksParcelFromClerk::
 
 ViridianCity_Mart_Text_SayHiToOakForMe::
     .string "Tamam, teşekkürler!\p"
-    .string "PROF. OAK'a benden\n"
-    .string "selam söyle lütfen.$"
+    .string "PROF. OAK'a benden selam\n"
+    .string "söyle lütfen.$"
 
 ViridianCity_Mart_Text_ShopDoesGoodBusinessInAntidotes::
     .string "Bu dükkan PANZEHİR satışında\n"
@@ -22,6 +22,6 @@ ViridianCity_Mart_Text_ShopDoesGoodBusinessInAntidotes::
 
 ViridianCity_Mart_Text_GotToBuySomePotions::
     .string "Biraz İKSİR satın almalıyım.\p"
-    .string "POKéMON'un ne zaman\n"
+    .string "POKéMON'umun ne zaman\n"
     .string "iyileşmeye ihtiyacı olacağını\l"
-    .string "bilemezsin.$"
+    .string "bilemem.$"

@@ -10,11 +10,11 @@ VermilionCity_House2_Text_ThatsTooBad::
 VermilionCity_House2_Text_ThisIsNoMon::
 	.string "…Bu bir {STR_VAR_1} değil.\p"
 	.string "Eğer bir tane bulursan, lütfen\n"
-	.string "bana takas et!$"
+	.string "benimle takas et!$"
 
 VermilionCity_House2_Text_ThankYou::
 	.string "Teşekkürler!$"
 
 VermilionCity_House2_Text_HowIsMyOldMon::
 	.string "Eski {STR_VAR_2}'im nasıl?\p"
-	.string "{STR_VAR_1} harika gidiyor!$"
+	.string "{STR_VAR_1} harika!$"
