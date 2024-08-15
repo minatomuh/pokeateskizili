@@ -1,10 +1,10 @@
 VermilionCity_PokemonFanClub_Text_AdmirePikachusTail::
-    .string "PIKACHU'umun kuyruğuna\n"
-    .string "bakar mısın? Çok tatlı!$"
+    .string "PIKACHU'umun kuyruğuna bakar\n"
+    .string "mısın? Çok tatlı!$"
 
 VermilionCity_PokemonFanClub_Text_PikachuTwiceAsCute::
-    .string "Hıh! Benim PIKACHU'um\n"
-    .string "ondan iki kat sevimli!$"
+    .string "Hıh! Benim PIKACHU'um ondan\n"
+    .string "iki kat sevimli!$"
 
 VermilionCity_PokemonFanClub_Text_AdoreMySeel::
     .string "SEEL'imi çok seviyorum!\n"
@@ -26,8 +26,8 @@ VermilionCity_PokemonFanClub_Text_Seel::
 VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons::
     .string "POKéMON FAN KULÜBÜ'nün başkanıyım!\p"
     .string "100'den fazla POKéMON yetiştirdim!\p"
-    .string "POKéMON konusunda çok\n"
-    .string "seçiciyimdir! Gerçekten öyleyim!\p"
+    .string "POKéMON konusunda çok seçiciyim!\n"
+    .string "Cidden öyleyim!\p"
     .string "Öyleyse…\p"
     .string "POKéMON'larım hakkında konuşmak\n"
     .string "için mi geldin?$"
@@ -37,13 +37,13 @@ VermilionCity_PokemonFanClub_Text_ChairmansStory::
     .string "O zaman dikkatle dinle!\p"
     .string "Favori RAPIDASH'im…\p"
     .string "…tatlı… sevimli… akıllı…\n"
-    .string "ve… muhteşem… öyle değil mi?\l"
-    .string "evet… o…\l"
+    .string "ve… muhteşemdir.\l"
+    .string "Evet… o…\l"
     .string "harika…\l"
     .string "tatlı…\l"
-    .string "Uyurken sarıl… sıcak ve\l"
-    .string "sevimli… muhteşem…\l"
-    .string "büyüleyici…\l"
+    .string "Uyurken sarılırım… sıcak ve\l"
+    .string "sevimlidir… muhteşemdir…\l"
+    .string "büyüleyicidir…\l"
     .string "…Aman Tanrım! Saat kaç olmuş!\l"
     .string "Sizi çok uzun süre tuttum!\p"
     .string "Dinlediğin için teşekkürler!\n"
@@ -54,14 +54,14 @@ VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairman::
     .string "BİSİKLET KUPONU aldı.$"
 
 VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
-    .string "Bu KUPONU CERULEAN ŞEHRİ'ndeki\n"
+    .string "Bu kuponu CERULEAN ŞEHRİ'ndeki\n"
     .string "BİSİKLET DÜKKANI'na götür.\p"
-    .string "Ücretsiz bir BİSİKLET alabilirsin.\p"
+    .string "Ücretsiz bir BİSİKLET\nalabilirsin.\p"
     .string "Endişelenme, favori FEAROW'um\n"
-    .string "HER YERE UÇAR.\p"
+    .string "her yere uçar.\p"
     .string "Bu yüzden BİSİKLETE ihtiyacım\n"
     .string "yok.\p"
-    .string "Umarım keyifli sürüşler yaparsın!$"
+    .string "Umarım keyifli sürüşler\nyaparsın!$"
 
 VermilionCity_PokemonFanClub_Text_ComeBackToHearStory::
     .string "Ah. Hikayemi dinlemek için\n"
@@ -75,11 +75,11 @@ VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgain::
     .string "Ne yazık!$"
 
 VermilionCity_PokemonFanClub_Text_MakeRoomForThis::
-    .string "Buna yer açın!$"
+    .string "Hiç yerin yok!$"
 
 VermilionCity_PokemonFanClub_Text_ChairmanVeryVocalAboutPokemon::
-    .string "BAŞKANımız POKéMON konusunda\n"
-    .string "çok konuşkan.$"
+    .string "Başkanımız POKéMON konusunda\n"
+    .string "çok konuşkandır.$"
 
 VermilionCity_PokemonFanClub_Text_ListenPolitelyToOtherTrainers::
     .string "Diğer EĞİTMENLER'i kibarca\n"
@@ -92,6 +92,6 @@ VermilionCity_PokemonFanClub_Text_SomeoneBragsBragBack::
 VermilionCity_PokemonFanClub_Text_ChairmanReallyAdoresHisMons::
     .string "BAŞKAN POKéMON'larını\n"
     .string "gerçekten çok seviyor.\p"
-    .string "Ama POKéMON'lar tarafından\n"
-    .string "en çok sevilen kişi DAISY diye\l"
+    .string "Ama POKéMON'lar tarafından en\n"
+    .string "çok sevilen kişi DAISY diye\l"
     .string "düşünüyorum.$"

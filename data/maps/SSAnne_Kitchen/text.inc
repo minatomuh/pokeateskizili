@@ -1,5 +1,5 @@
 SSAnne_Kitchen_Text_BusyOutOfTheWay::
-    .string "Sen, küçük!\n"
+    .string "Sen, küçük çocuk!\n"
     .string "Meşgulüz, kenara çekil!$"
 
 SSAnne_Kitchen_Text_SawOddBerryInTrash::
@@ -8,7 +8,7 @@ SSAnne_Kitchen_Text_SawOddBerryInTrash::
 
 SSAnne_Kitchen_Text_SoBusyImDizzy::
     .string "O kadar meşgulüm ki başım dönüyor!\n"
-    .string "Bana yer aç!$"
+    .string "Önümden çekil!$"
 
 SSAnne_Kitchen_Text_PeelSpudsEveryDay::
     .string "Hım hım hım hım…\p"
@@ -17,17 +17,17 @@ SSAnne_Kitchen_Text_PeelSpudsEveryDay::
 
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
     .string "SNORLAX'ı duydun mu?\n"
-    .string "O bir obur.\p"
+    .string "O tam bir obur.\p"
     .string "Hiçbir POKéMON, SNORLAX kadar\n"
     .string "obur ve uykucu olamaz!$"
 
 SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
-    .string "Hıçkı… Hıçkı…\p"
+    .string "Hıçk… Hıçk…\p"
     .string "Sadece soğan soyuyorum\n"
-    .string "Hıçkı…$"
+    .string "Hıçk…$"
 
 SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
-    .string "Er-hem!\n"
+    .string "E-hem!\n"
     .string "Evet, ben şefim!\p"
     .string "Ana yemeğimiz…$"
 

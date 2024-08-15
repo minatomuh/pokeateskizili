@@ -6,44 +6,44 @@ TwoIsland_House_Text_TeachMonMoveForMushroom::
     .string "Ayrıca bir mantar delisiyim.\p"
     .string "Bana iki KÜÇÜK MANTAR ya da,\n"
     .string "bir BÜYÜK MANTAR getir.\p"
-    .string "Bunu yaparsanız, bir POKéMON'a\n"
+    .string "Bunu yaparsan, POKéMON'una\n"
     .string "bir hamle öğretirim.$"
 
 TwoIsland_House_Text_WantMeToTeachMove::
     .string "Hmm…\n"
     .string "Mantar kokusu alıyorum!\p"
-    .string "Bir POKéMON'unuza hareket\n"
-    .string "öğretmemi ister misiniz?$"
+    .string "Bir POKéMON'una hareket\n"
+    .string "öğretmemi ister misin?$"
 
 TwoIsland_House_Text_TutorWhichMon::
-    .string "Hangi POKéMON'a eğitim verilecek?$"
+    .string "Hangi POKéMON'u eğiteyim?$"
 
 TwoIsland_House_Text_TeachWhichMove::
     .string "Hangi hamleyi öğretmemi istersin?$"
 
 TwoIsland_House_Text_NoMoveICanTeachThatMon::
     .string "Üzgünüm…\p"
-    .string "Görüntüye göre bu POKéMON'a\n"
+    .string "Görünüşe göre bu POKéMON'a\n"
     .string "öğretebileceğim bir hamle yok.$"
 
 TwoIsland_House_Text_IllNeedMushroomOrTwo::
-    .string "O zaman bir veya iki\n"
-    .string "mantara ihtiyacım var.\l"
+    .string "Bir-iki mantara ihtiyacım\n"
+    .string "var sadece.\l"
     .string "Bana ne vermek istersin?$"
 
 TwoIsland_House_Text_HandedOverTwoTinyMushrooms::
-    .string "{PLAYER} karşılığında iki\n"
+    .string "{PLAYER}, karşılığında iki\n"
     .string "KÜÇÜK MANTAR verdi.$"
 
 TwoIsland_House_Text_HandedOverOneBigMushroom::
-    .string "{PLAYER} karşılığında bir\n"
+    .string "{PLAYER}, karşılığında bir\n"
     .string "BÜYÜK MANTAR verdi.$"
 
 TwoIsland_House_Text_NeedMushroomOrTwoToLearnMove::
-    .string "Eğer POKéMON'unuzun hareket\n"
-    .string "öğrenmesi gerekiyorsa, bir veya\l"
-    .string "iki mantara ihtiyacım var.$"
+    .string "Eğer POKéMON'unun hareket\n"
+    .string "öğrenmesi gerekiyorsa, birkaç\l"
+    .string "mantara ihtiyacım var.$"
 
 TwoIsland_House_Text_CantTeachAnEgg::
-    .string "Hmm? Bir yumurtaya öğretecek\n"
-    .string "hiçbir hamle yok.$"
+    .string "Hmm? Bir yumurtaya hamle\n"
+    .string "öğretemem.$"

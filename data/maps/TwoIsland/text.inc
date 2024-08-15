@@ -3,15 +3,15 @@ TwoIsland_Text_IslandSign::
     .string "İki Kat Eğlence$"
 
 TwoIsland_Text_JoyfulGameCornerSign::
-    .string "Atla ve Isır!\n"
+    .string "Gel ve Kap!\n"
     .string "Eğlenceli OYUN KÖŞESİ$"
 
 TwoIsland_Text_DangerFastCurrent::
     .string "TEHLİKE! HIZLI AKINTI!\n"
-    .string "Balık tutmak ve sörf yapmak yasaktır!$"
+    .string "Balık tutmak ve sörf yapmak\lyasaktır!$"
 
 TwoIsland_Text_WelcomeToShopMerchandiseLimited::
-    .string "Oh!\n"
+    .string "Hey!\n"
     .string "Merhaba, dükkanıma hoş geldin!\p"
     .string "Yeni açıldık.\p"
     .string "Ürünlerimiz sınırlı, ama umarım\n"
@@ -22,9 +22,9 @@ TwoIsland_Text_AddedMerchandiseForLostelle::
     .string "ne kadar minnettar olduğumu\l"
     .string "anlatamam.\p"
     .string "Sayende, ADA halkı KANTO\n"
-    .string "halkına bakış açılarını değiştirdi.\p"
+    .string "halkına bakış açısını değiştirdi.\p"
     .string "Ben de KANTO'danım.\p"
-    .string "ADA halkı bana ürün\n"
+    .string "ADA halkı, bana ürün\n"
     .string "çeşitlendirmesinde yardım etti.$"
 
 TwoIsland_Text_HopeYouGiveItYourBest::
@@ -34,7 +34,7 @@ TwoIsland_Text_HopeYouGiveItYourBest::
     .string "{PLAYER}.$"
 
 TwoIsland_Text_BringingItemsFromDistantLands::
-    .string "Oh, merhaba, {PLAYER}!\n"
+    .string "Merhaba, {PLAYER}!\n"
     .string "Hoş geldin!\p"
     .string "Uzak diyarlardan eşyalar getirmeye\n"
     .string "başladım.\p"
@@ -45,14 +45,14 @@ TwoIsland_Text_FellowMovedFromCeladonCity::
     .string "Oradaki adam, CELADON ŞEHRİ'nden\n"
     .string "taşınmış.\p"
     .string "Kardeşinin dükkanı var.\p"
-    .string "Acaba neye kendini\n"
-    .string "attığını biliyor muydu?$"
+    .string "Acaba kendini neye attığını\n"
+    .string "biliyor muydu?$"
 
 TwoIsland_Text_ShopkeepersBrotherWorksGameCorner::
     .string "Dükkan sahibinin kardeşi OYUN\n"
     .string "KÖŞESİ'nde çalışıyor.\p"
-    .string "Daha fazla ürün alabilmek için para\n"
-    .string "biriktiriyorlar.$"
+    .string "Daha fazla ürün alabilmek için\n"
+    .string "para biriktiriyorlar.$"
 
 TwoIsland_Text_BrunoCameToIslandWhileBack::
     .string "Dinle, dinle.\n"

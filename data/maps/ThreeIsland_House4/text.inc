@@ -1,5 +1,5 @@
 ThreeIsland_House4_Text_GhostsInBerryForest::
-    .string "Asla, ama asla MEYVE ORMANI'na\n"
+    .string "Asla ama asla MEYVE ORMANI'na\n"
     .string "tek başına gitmemelisin.\p"
     .string "Neden mi?\n"
     .string "Orada hayaletler var.$"

@@ -51,7 +51,7 @@ CeruleanCity_House1_Text_SpeedStatFly::
     .string "kullanmanı sağlar.$"
 
 CeruleanCity_House1_Text_ObeyLv50Strength::
-    .string "Lv. 50'ye kadar POKéMON'lar sana\n"
+    .string "Sv. 50'ye kadar POKéMON'lar sana\n"
     .string "itaat edecek.\p"
     .string "Bu, takas yoluyla elde ettiğin\n"
     .string "yabancı POKéMON'ları da içerir.\p"

@@ -2,13 +2,12 @@ ViridianCity_Gym_Text_GiovanniIntro::
     .string "Hahahaha!\n"
     .string "Sığınağıma hoş geldin!\p"
     .string "ROKET TAKIMI'nın eski şanını\n"
-    .string "geri getireceğim.\p"
+    .string "geri getirecektim.\p"
     .string "Ama yine de beni buldun.\n"
     .string "Öyle olsun.\l"
     .string "Bu sefer, geri durmayacağım!\p"
-    .string "Bir kez daha, en büyük\n"
-    .string "EĞİTMEN GIOVANNI'ye karşı\l"
-    .string "savaşacaksın!{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}$"
+    .string "Bir kez daha en büyük EĞİTMEN\n"
+    .string "GIOVANNI'ye karşı savaşacaksın!{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}$"
 
 ViridianCity_Gym_Text_GiovanniDefeat::
     .string "Ha!\n"
@@ -36,7 +35,7 @@ ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
     .string "olarak ustalığının kanıtıdır.\p"
     .string "Bununla, POKéMON LİGİ'ne\n"
     .string "katılabilirsin.\p"
-    .string "Ayrıca, bu TM'i al.\p"
+    .string "Ayrıca, bu TM'yi al.\p"
     .string "Onu POKéMON LİGİ mücadelen için\n"
     .string "bir hediye olarak düşün.$"
 
@@ -56,7 +55,7 @@ ViridianCity_Gym_Text_ExplainTM26::
     .string "SALONU çalıştırdığımda yapıldı…$"
 
 ViridianCity_Gym_Text_YouDoNotHaveSpace::
-    .string "Bunu almak için alanın yok!$"
+    .string "Bunu almak için yerin yok!$"
 
 ViridianCity_Gym_Text_YujiIntro::
     .string "Heh!\p"
@@ -64,7 +63,7 @@ ViridianCity_Gym_Text_YujiIntro::
     .string "diye düşünüyorum!$"
 
 ViridianCity_Gym_Text_YujiDefeat::
-    .string "Benzin bitti!$"
+    .string "Yakıt bitti!$"
 
 ViridianCity_Gym_Text_YujiPostBattle::
     .string "SALON LİDER'imizle başa çıkmak\n"
@@ -75,7 +74,7 @@ ViridianCity_Gym_Text_AtsushiIntro::
     .string "Kendimi öfkeye kaptırıyorum!$"
 
 ViridianCity_Gym_Text_AtsushiDefeat::
-    .string "Waaahh!$"
+    .string "Vaaahh!$"
 
 ViridianCity_Gym_Text_AtsushiPostBattle::
     .string "Hala yeterli değilim!$"
@@ -157,7 +156,7 @@ ViridianCity_Gym_Text_GymGuyAdvice::
     .string "Ama bir şey kesin.\n"
     .string "Bu, tüm SALON LİDER'lerinden\l"
     .string "en zorlu olanı olacak.\p"
-    .string "Ayrıca, VIRIDIAN'daki EĞİTMENLER'in\n"
+    .string "Ayrıca, VIRIDIAN eğitmenlerinin\n"
     .string "YER türündeki POKéMON'ları\l"
     .string "sevdiğini duydum.$"
 

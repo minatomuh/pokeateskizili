@@ -10,6 +10,6 @@ VermilionCity_Mart_Text_TeamRocketAreWickedPeople::
     .string "korkunç insanlar olduğunu gösterir.$"
 
 VermilionCity_Mart_Text_MonsGoodOrBadDependingOnTrainer::
-    .string "POKéMONların iyi ya da kötü\n"
-    .string "olabileceğini düşünüyorum. Her şey\l"
-    .string "EĞİTMENİNE bağlı.$"
+    .string "POKéMON'ların iyi ya da kötü\n"
+    .string "olabileceğini düşünüyorum. Her\l"
+    .string "şey EĞİTMENİNE bağlı.$"

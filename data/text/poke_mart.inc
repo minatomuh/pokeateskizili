@@ -1,14 +1,14 @@
 Text_MayIHelpYou::
-  .string "Merhaba! Size yardımcı olabilir miyim?$"
+  .string "Merhaba!\nSize yardımcı olabilir miyim?$"
 
 Text_FillOutQuestionnaire::
-  .string "Bir anket var. Doldurmak ister misiniz?$"
+  .string "Bir anket var.\nDoldurmak ister misiniz?$"
 
 Text_QuestionnaireThankYou::
   .string "Anketimizi doldurmaya zaman\nayırdığınız için teşekkür ederiz.\pGörüşleriniz gelecekte referans olarak\nkullanılacaktır.$"
 
 Text_YouKnowThoseWords::
-  .string "Ah, merhaba! Bu kelimeleri biliyor\nmusunuz?\pBu, GİZEMLİ HEDİYE hakkında bilgi\nsahibi olmanız gerektiği anlamına\lgeliyor.\pŞu andan itibaren, GİZEMLİ HEDİYELER\nalmalısınız!$"
+  .string "Ah, merhaba!\nBu kelimeleri biliyorsunuz demek.\pBu, GİZEMLİ HEDİYE hakkında bilgi\nsahibi olduğunuz anlamına geliyor.\pŞu andan itibaren, GİZEMLİ HEDİYELER\nalabilirsiniz!$"
 
 Text_YouCanAccessMysteryGift::
   .string "Oyununuzu kaydettiğinizde, GİZEMLİ\nHEDİYEYE erişebilirsiniz.$"

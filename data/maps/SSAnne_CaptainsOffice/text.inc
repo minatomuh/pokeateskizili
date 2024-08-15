@@ -4,10 +4,10 @@ SSAnne_CaptainsOffice_Text_CaptainIFeelSeasick::
     .string "Mide Bulantısı! Deniz tutması…$"
 
 SSAnne_CaptainsOffice_Text_RubbedCaptainsBack::
-    .string "{PLAYER}, kaptanın\n"
-    .string "sırtını ovdu!\p"
-    .string "Ovala…\n"
-    .string "Ovala…$"
+    .string "{PLAYER}, kaptanın sırtını\n"
+    .string "ovdu!\p"
+    .string "Ovaladı…\n"
+    .string "Ovaladı…$"
 
 SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
     .string "KAPTAN: Ohoh! Teşekkürler!\n"
@@ -55,11 +55,11 @@ SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
     .string "zamanı geldi sanırım.\p"
     .string "S.S. ANNE kısa süre içinde\n"
     .string "yola çıkacak!\p"
-    .string "Hoşçakalın, buraya geri\n"
+    .string "Hoşçakal, buraya geri\n"
     .string "dönüşümüze kadar!$"
 
 SSAnne_CaptainsOffice_Text_YouHaveNoRoomForThis::
-    .string "Oh, hayır!\n"
+    .string "Ah, olamaz!\n"
     .string "Bunun için yerin yok!$"
 
 SSAnne_CaptainsOffice_Text_YuckShouldntHaveLooked::
