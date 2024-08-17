@@ -69,6 +69,8 @@
 #include "constants/songs.h"
 #include "constants/sound.h"
 
+extern struct Evolution gEvolutionTable[][EVOS_PER_MON];
+
 #define PARTY_PAL_SELECTED     (1 << 0)
 #define PARTY_PAL_FAINTED      (1 << 1)
 #define PARTY_PAL_TO_SWITCH    (1 << 2)
@@ -168,6 +170,7 @@ static void CursorCB_FieldMove(u8 taskId);
 static bool8 SetUpFieldMove_Fly(void);
 static bool8 SetUpFieldMove_Waterfall(void);
 static bool8 SetUpFieldMove_Surf(void);
+static void CursorCB_Evolution(u8 taskId);
 static void CB2_InitPartyMenu(void);
 static void ResetPartyMenu(void);
 static bool8 ShowPartyMenu(void);
@@ -341,7 +344,7 @@ static void UpdateMonDisplayInfoAfterRareCandy(u8 slot, struct Pokemon *mon);
 static void DisplayLevelUpStatsPg1(u8 taskId);
 static void DisplayLevelUpStatsPg2(u8 taskId);
 static void Task_TryLearnNewMoves(u8 taskId);
-static void PartyMenuTryEvolution(u8 taskId);
+static void PartyMenuTryEvolution(u8 taskId, u8 evo_mode);
 static void DisplayMonNeedsToReplaceMove(u8 taskId);
 static void DisplayMonLearnedMove(u8 taskId, u16 move);
 static void Task_SacredAshDisplayHPRestored(u8 taskId);
@@ -2963,6 +2966,7 @@ static void SetPartyMonSelectionActions(struct Pokemon *mons, u8 slotId, u8 acti
 static void SetPartyMonFieldSelectionActions(struct Pokemon *mons, u8 slotId)
 {
     u8 i, j;
+    u16 targetSpecies = GetEvolutionTargetSpecies(&gPlayerParty[gPartyMenu.slotId], EVO_MODE_TRADE, ITEM_NONE);
 
     sPartyMenuInternal->numActions = 0;
     AppendToList(sPartyMenuInternal->actions, &sPartyMenuInternal->numActions, CURSOR_OPTION_SUMMARY);
@@ -2984,6 +2988,9 @@ static void SetPartyMonFieldSelectionActions(struct Pokemon *mons, u8 slotId)
         AppendToList(sPartyMenuInternal->actions, &sPartyMenuInternal->numActions, CURSOR_OPTION_MAIL);
     else
         AppendToList(sPartyMenuInternal->actions, &sPartyMenuInternal->numActions, CURSOR_OPTION_ITEM);
+    if (targetSpecies != SPECIES_NONE)
+        AppendToList(sPartyMenuInternal->actions, &sPartyMenuInternal->numActions, CURSOR_OPTION_EVOLUTION);
+
     AppendToList(sPartyMenuInternal->actions, &sPartyMenuInternal->numActions, CURSOR_OPTION_CANCEL1);
 }
 
@@ -4074,6 +4081,27 @@ static bool8 SetUpFieldMove_Surf(void)
     return FALSE;
 }
 
+// Only for trade evolutions
+// If want to apply to all evolutions, change the EVO_MODE_TRADE
+static void CursorCB_Evolution(u8 taskId)
+{
+    u16 targetSpecies = GetEvolutionTargetSpecies(&gPlayerParty[gPartyMenu.slotId], EVO_MODE_TRADE, ITEM_NONE);
+
+    PlaySE(SE_SELECT);
+    if (targetSpecies != SPECIES_NONE)
+    {
+        gPartyMenu.exitCallback = CB2_ReturnToPartyMenuFromFlyMap;
+        PartyMenuTryEvolution(taskId, EVO_MODE_TRADE);
+    }
+    else
+    {
+        DisplayPartyMenuMessage(gText_WontHaveEffect, FALSE);
+        ScheduleBgCopyTilemapToVram(2);
+        gTasks[taskId].func = Task_ReturnToChooseMonAfterText;
+    }
+}
+
+
 static void DisplayCantUseSurfMessage(void)
 {
     s16 x, y;
@@ -5128,7 +5156,7 @@ static void Task_TryLearnNewMoves(u8 taskId)
         switch (learnMove)
         {
         case MOVE_NONE: // No moves to learn
-            PartyMenuTryEvolution(taskId);
+            PartyMenuTryEvolution(taskId, EVO_MODE_NORMAL);
             break;
         case MON_HAS_MAX_MOVES:
             DisplayMonNeedsToReplaceMove(taskId);
@@ -5150,7 +5178,7 @@ static void Task_TryLearningNextMove(u8 taskId)
     switch (result)
     {
     case MOVE_NONE: // No moves to learn
-        PartyMenuTryEvolution(taskId);
+        PartyMenuTryEvolution(taskId, EVO_MODE_NORMAL);
         break;
     case MON_HAS_MAX_MOVES:
         DisplayMonNeedsToReplaceMove(taskId);
@@ -5163,10 +5191,10 @@ static void Task_TryLearningNextMove(u8 taskId)
     }
 }
 
-static void PartyMenuTryEvolution(u8 taskId)
+static void PartyMenuTryEvolution(u8 taskId, u8 evo_mode)
 {
     struct Pokemon *mon = &gPlayerParty[gPartyMenu.slotId];
-    u16 targetSpecies = GetEvolutionTargetSpecies(mon, EVO_MODE_NORMAL, ITEM_NONE);
+    u16 targetSpecies = GetEvolutionTargetSpecies(mon, evo_mode, ITEM_NONE);
 
     if (targetSpecies != SPECIES_NONE)
     {

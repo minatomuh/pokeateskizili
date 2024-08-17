@@ -22,7 +22,11 @@ ViridianCity_Text_ExplainCaterpieWeedle::
     .string "CATERPIE zehirsizdir, WEEDLE\n"
     .string "ise zehirlidir.\p"
     .string "POKéMON'unun, WEEDLE'ın\n"
+    .if ENG_MOVES == 1
+    .string "POISON STING hamlesi ile\l"
+    .else
     .string "ZEHİRLİ İĞNE hamlesi ile\l"
+    .endif
     .string "yaralanmadığından emin ol.$"
 
 ViridianCity_Text_GrandpaHasntHadCoffeeYet::

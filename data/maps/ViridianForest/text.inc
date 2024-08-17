@@ -85,7 +85,7 @@ ViridianForest_Text_ContactOakViaPCToRatePokedex::
     .string "EĞİTMEN İPUÇLARI\p"
     .string "PROF. OAK ile iletişime geçmek\n"
     .string "için PC kullanıp POKéDEX'inizin\l"
-    .string "değerlendirmesini isteyin!$"
+    .string "değerlendirilmesini isteyin!$"
 
 ViridianForest_Text_CantCatchOwnedMons::
     .string "EĞİTMEN İPUÇLARI\p"

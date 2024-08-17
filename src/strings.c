@@ -1334,3 +1334,4 @@ const u8 gText_Send[] = _("GÖNDER");
 const u8 gText_Toss[] = _("AT");
 const u8 gText_DelAllCancelOk[] = _("HEP. SİL{CLEAR_TO 0x57}İPTAL{CLEAR_TO 0xA4}TAMAM");
 const u8 gText_PlayerUsedRepel[] = _("{PLAYER}, {STR_VAR_2}\nkullandı.");
+const u8 gText_Evolution[] = _("EVRİM");

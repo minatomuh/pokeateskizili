@@ -1546,4 +1546,7 @@ extern const u8 gText_PokeSum_EggOrigin_NicePlace[];
 extern const u8 gText_PokeSum_EggOrigin_Spa[];
 extern const u8 gText_PokeSum_EggOrigin_Trade[];
 
+// Evolution
+extern const u8 gText_Evolution[];
+
 #endif //GUARD_STRINGS_H
