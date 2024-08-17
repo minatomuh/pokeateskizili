@@ -75,7 +75,7 @@ SaffronCity_Text_GymSign::
     .string "PSİŞİK POKéMON Ustası!$"
 
 SaffronCity_Text_FullHealCuresStatus::
-    .string "EĞİTMEN İPUCU\p"
+    .string "EĞİTMEN İPUÇLARI\p"
     .string "TAM İYİLEŞTR yanma, felç, zehir\n"
     .string "donma, uyku gibi tüm,\l"
     .string "durumları çözer.\p"
@@ -83,10 +83,10 @@ SaffronCity_Text_FullHealCuresStatus::
     .string "ama daha pratik.$"
 
 SaffronCity_Text_GreatBallImprovedCatchRate::
-    .string "EĞİTMEN İPUCU\p"
+    .string "EĞİTMEN İPUÇLARI\p"
     .string "Yeni SÜPER TOP, yakalarken\n"
     .string "geliştirilmiş oranlar sunar.\p"
-    .string "Onunla zor POKéMON\n"
+    .string "Onunla zor POKéMON'ları\n"
     .string "yakalamaya çalış.$"
 
 SaffronCity_Text_SilphCoSign::

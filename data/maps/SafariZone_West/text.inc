@@ -10,7 +10,7 @@ SafariZone_West_Text_PleaseFindWardensLostTeeth::
     .string "İletişim: BEKÇİ$"
 
 SafariZone_West_Text_SearchForSecretHouse::
-    .string "EĞİTMEN İPUCU\p"
+    .string "EĞİTMEN İPUÇLARI\p"
     .string "Bölge Keşif Kampanyası!\n"
     .string "GİZLİ EV'i bulun!$"
 

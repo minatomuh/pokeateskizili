@@ -2,7 +2,7 @@ SafariZone_East_Text_RestHouse::
     .string "DİNLENME EVİ$"
 
 SafariZone_East_Text_TimeDeclinesOnlyWhileYouWalk::
-    .string "EĞİTMEN İPUCU\p"
+    .string "EĞİTMEN İPUÇLARI\p"
     .string "Kalan zaman sadece yürürken\n"
     .string "azalır.$"
 

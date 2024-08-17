@@ -99,7 +99,7 @@ Text_SubstituteTeach::
     .string "hamlesini öğretmemi ister misiniz?$"
 
 Text_SubstituteDeclined::
-    .string "Oh, gerçekten mi?\n"
+    .string "Ne, gerçekten mi?\n"
     .if ENG_MOVES == 1
     .string "SUBSTITUTE çok eğlenceli görünüyor…$"
     .else

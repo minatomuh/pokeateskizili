@@ -77,7 +77,7 @@ PewterCity_Text_GoTakeOnBrock::
     .string "BROCK'a meydan oku!$"
 
 PewterCity_Text_TrainerTipsEarningEXP::
-    .string "EĞİTMEN İPUCU\n"
+    .string "EĞİTMEN İPUÇLARI\n"
     .string "Tüm POKéMON'lar, ne kadar kısa süre\l"
     .string "savaşırlarsa savaşsın hepsi\l"
     .string "EXP. Puanı kazanırlar.$"

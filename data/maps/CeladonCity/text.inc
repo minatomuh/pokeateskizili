@@ -36,7 +36,7 @@ CeladonCity_Text_KeepOutOfTeamRocketsWay::
     .string "ROKET TAKIMI'nın yolundan çekil!$"
 
 CeladonCity_Text_ExplainXAccuracyDireHit::
-    .string "EĞİTMEN İPUCU\p"
+    .string "EĞİTMEN İPUÇLARI\p"
     .string "X İSABET tekniklerin isabetini\n"
     .string "arttırır.\p"
     .string "ÖLÜMCÜL VURUŞ kritik vuruş\n"
@@ -61,7 +61,7 @@ CeladonCity_Text_DeptStoreSign::
     .string "MAĞAZASINDA bul!$"
 
 CeladonCity_Text_GuardSpecProtectsFromStatus::
-    .string "EĞİTMEN İPUCU\p"
+    .string "EĞİTMEN İPUÇLARI\p"
     .string "KORUYUCU eşyası, POKéMON'u\n"
     .string "durum düşürücü hareketlerden\l"
     .string "korur.\p"

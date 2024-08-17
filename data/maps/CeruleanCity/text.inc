@@ -165,7 +165,7 @@ CeruleanCity_Text_CitySign::
     .string "Gizemli Bir Auraya Sahip Şehir$"
 
 CeruleanCity_Text_TrainerTipsHeldItems::
-    .string "EĞİTMEN İPUCU\p"
+    .string "EĞİTMEN İPUÇLARI\p"
     .string "Bir POKéMON'a eşya verebilirsin.\p"
     .string "Bazı eşyalar, savaş sırasında\n"
     .string "POKéMON tarafından kullanılabilir.$"

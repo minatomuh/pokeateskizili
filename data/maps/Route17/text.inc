@@ -1,6 +1,6 @@
 Route17_Text_RaulIntro::
-    .string "Burada çocuklarla\n"
-    .string "savaşarak hızlı para kazanamazsın.$"
+    .string "Burada çocuklarla savaşarak\n"
+    .string "hızlı para kazanamazsın.$"
 
 Route17_Text_RaulDefeat::
     .string "Yandım!$"
@@ -29,14 +29,14 @@ Route17_Text_VirgilDefeat::
     .string "Çakıldım!$"
 
 Route17_Text_VirgilPostBattle::
-    .string "Bayır aşağı yarışmaya bayılıyorum!$"
+    .string "Bayır aşağı yarışmaya\nbayılıyorum!$"
 
 Route17_Text_BillyIntro::
     .string "Biz MOTORCULAR'ız!\n"
     .string "Yolların efendisiyiz, adamım!$"
 
 Route17_Text_BillyDefeat::
-    .string "Duman oldum!$"
+    .string "Toz duman oldum!$"
 
 Route17_Text_BillyPostBattle::
     .string "Macera mı arıyorsun?$"
@@ -52,11 +52,11 @@ Route17_Text_NikolasPostBattle::
     .string "ENERJİ SANTRALİ'nden aldım.$"
 
 Route17_Text_ZeekIntro::
-    .string "POKéMON'umu geliştirdim, ama evrim\n"
-    .string "geçirmiyor. Neden?$"
+    .string "POKéMON'umu geliştirdim ama\n"
+    .string "evrim geçirmiyor. Neden?$"
 
 Route17_Text_ZeekDefeat::
-    .string "Sen de kim oluyorsun!$"
+    .string "Sen de kim oluyorsun!?$"
 
 Route17_Text_ZeekPostBattle::
     .string "Belki de bazı POKéMON'ların\n"
@@ -90,7 +90,7 @@ Route17_Text_JaxonDefeat::
     .string "Vay canına!$"
 
 Route17_Text_JaxonPostBattle::
-    .string "Eğim yönlendirmeyi zorlaştırıyor.$"
+    .string "Eğim, yönlendirmeyi zorlaştırıyor.$"
 
 Route17_Text_WilliamIntro::
     .string "Defol buradan, çocuk!\n"
@@ -103,17 +103,17 @@ Route17_Text_WilliamPostBattle::
     .string "Birkaç saat uyumam lazım!$"
 
 Route17_Text_WatchOutForDiscardedItems::
-    .string "Bir duyuru.\p"
-    .string "Atılmış eşyalara dikkat et.$"
+    .string "Bir not.\p"
+    .string "Yerdeki eşyalara dikkat et.$"
 
 Route17_Text_SameSpeciesGrowDifferentRates::
-    .string "EĞİTMEN İPUCU\p"
+    .string "EĞİTMEN İPUÇLARI\p"
     .string "Tüm POKéMON'lar eşsizdir.\p"
     .string "Aynı tür ve seviyedeki POKéMON'lar\n"
     .string "bile farklı hızlarda büyür.$"
 
 Route17_Text_PressBToStayInPlace::
-    .string "EĞİTMEN İPUCU\p"
+    .string "EĞİTMEN İPUÇLARI\p"
     .string "Yokuş aşağı sabit durmak için\n"
     .string "B tuşuna bas.$"
 

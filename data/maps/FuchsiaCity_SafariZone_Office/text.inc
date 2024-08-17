@@ -1,8 +1,8 @@
 FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
-    .string "Biz BEKÇİ'a\n"
-    .string "“SLOWPOKE lakabı taktık.”\p"
-    .string "Biliyor musun, aynı SLOWPOKE\n"
-    .string "gibi boş bakışları var.$"
+    .string "Biz BEKÇİ'ye “SLOWPOKE” lakabı\n"
+    .string "taktık.\p"
+    .string "Neden biliyor musun?\p"
+    .string "Çünkü SLOWPOKE gibi boş\nbakışları var.$"
 
 FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
     .string "BEKÇİ SLOWPOKE, POKéMON\n"
@@ -11,7 +11,7 @@ FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
     .string "fosillerine bile sahip.$"
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
-    .string "BEKÇİ SLOWPOKE içeri girdi, ama\n"
+    .string "BEKÇİ SLOWPOKE içeri girdi ama\n"
     .string "onu hiç anlayamadım.\p"
     .string "Sanırım konuşma problemi var!$"
 

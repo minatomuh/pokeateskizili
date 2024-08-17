@@ -26,7 +26,7 @@ ViridianCity_Text_ExplainCaterpieWeedle::
     .string "yaralanmadığından emin ol.$"
 
 ViridianCity_Text_GrandpaHasntHadCoffeeYet::
-    .string "Of, Dede!\n"
+    .string "Of, dede!\n"
     .string "Bu kadar kaba olma!\p"
     .string "Üzgünüm.\n"
     .string "O kahvesini henüz içemedi.$"

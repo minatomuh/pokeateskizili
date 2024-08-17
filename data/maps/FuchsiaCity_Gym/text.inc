@@ -1,9 +1,9 @@
 FuchsiaCity_Gym_Text_KogaIntro::
     .string "KOGA: Hahahaha!\p"
     .string "Senin gibi bir çocuk bana meydan\n"
-    .string "okumaya cesaret eder mi?\p"
-    .string "Bu düşünce beni\n"
-    .string "kahkahaya boğuyor!\p"
+    .string "okumaya cesaret mi ediyor?\p"
+    .string "Bu düşünce beni kahkahaya\n"
+    .string "boğuyor!\p"
     .string "Pekala, sana bir ninja ustası\n"
     .string "olarak gerçek korkunun ne olduğunu\l"
     .string "göstereceğim.\p"
@@ -131,7 +131,7 @@ FuchsiaCity_Gym_Text_EdgarIntro::
     .string "bir geçmişi var!$"
 
 FuchsiaCity_Gym_Text_EdgarDefeat::
-    .string "Awoo!$"
+    .string "Avoo!$"
 
 FuchsiaCity_Gym_Text_EdgarPostBattle::
     .string "Öğrenecek çok şeyim var.$"

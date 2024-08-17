@@ -1,10 +1,10 @@
 FuchsiaCity_WardensHouse_Text_HifFuffHefifoo::
     .string "BEKÇİ: Hif fuff hefifoo!\p"
     .string "Ha lof ha feef ee hafahi ho.\n"
-    .string "Heff hee fwee!$"
+    .string "Heff hee fee!$"
 
 FuchsiaCity_WardensHouse_Text_AhHowheeHoHoo::
-    .string "Ah howhee ho hoo!\n"
+    .string "Ah hohee ho hoo!\n"
     .string "Eef ee hafahi ho!$"
 
 FuchsiaCity_WardensHouse_Text_HeOhayHeHaHoo::
@@ -13,16 +13,16 @@ FuchsiaCity_WardensHouse_Text_HeOhayHeHaHoo::
 
 FuchsiaCity_WardensHouse_Text_GaveGoldTeethToWarden::
     .string "{PLAYER} ALTIN DİŞ'i\n"
-    .string "BEKÇİ'a verdi.$"
+    .string "BEKÇİ'ye verdi.$"
 
 FuchsiaCity_WardensHouse_Text_WardenPoppedInHisTeeth::
     .string "BEKÇİ dişlerini taktı!$"
 
 FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomething::
-    .string "BEKÇİ: Teşekkürler, oğlum!\n"
+    .string "BEKÇİ: Teşekkürler, evlat!\n"
     .string "Gerçek bir hayat kurtarıcısın!\p"
     .string "Söylediğim hiçbir şeyi\n"
-    .string "anlayamıyorlardı, hiçbiri!\p"
+    .string "anlayamıyorlardı, hiçbir şeyi!\p"
     .string "Utancımdan ofise bile yüzümü\n"
     .string "sokmaya çekiniyordum.\p"
     .string "Buna değdi, sana bir şey vermek\n"
@@ -32,7 +32,7 @@ FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
     .string "BEKÇİ: Teşekkürler, kızım!\n"
     .string "Gerçek bir hayat kurtarıcısın!\p"
     .string "Söylediğim hiçbir şeyi\n"
-    .string "anlayamıyorlardı, hiçbiri!\p"
+    .string "anlayamıyorlardı, hiçbir şeyi!\p"
     .string "Utancımdan ofise bile yüzümü\n"
     .string "sokmaya çekiniyordum.\p"
     .string "Buna değdi, sana bir şey vermek\n"

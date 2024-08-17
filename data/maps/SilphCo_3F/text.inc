@@ -1,10 +1,10 @@
 SilphCo_3F_Text_WhatAmIToDo::
-    .string "SILPH ŞTİ. için çalışıyorum\n"
+    .string "SILPH ŞTİ. için çalışıyorum.\n"
     .string "Ne yapmalıyım?$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
     .string "{PLAYER}!\n"
-    .string "Sen ve POKéMON'ların bizi kurtardı!$"
+    .string "Sen ve POKéMON'ların bizi\lkurtardı!$"
 
 SilphCo_3F_Text_GruntIntro::
     .string "Bizi rahat bırak, çocuk!$"
@@ -17,8 +17,8 @@ SilphCo_3F_Text_GruntPostBattle::
     .string "ile açabilirsin!$"
 
 SilphCo_3F_Text_JoseIntro::
-    .string "ROKET TAKIMI'nı SILPH ŞTİ'ne\n"
-    .string "tercih ederim!$"
+    .string "ROKET TAKIMI'nı SILPH\n"
+    .string "şirketine tercih ederim!$"
 
 SilphCo_3F_Text_JoseDefeat::
     .string "Gerçekten yakalandım!$"

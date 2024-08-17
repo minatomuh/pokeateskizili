@@ -33,8 +33,8 @@ Route13_Text_ValeriePostBattle::
     .string "aldığınızı biliyorum.$"
 
 Route13_Text_GwenIntro::
-    .string "Tatlı POKéMON'um sizinle tanışmak\n"
-    .string "istiyor.$"
+    .string "Tatlı POKéMON'um sizinle\n"
+    .string "tanışmak istiyor.$"
 
 Route13_Text_GwenDefeat::
     .string "İyi gidiyorsun!\n"
@@ -109,16 +109,16 @@ Route13_Text_RobertDefeat::
     .string "Güç bitti!$"
 
 Route13_Text_RobertPostBattle::
-    .string "Keşke PIDGEY ve PIDGEOTTO gibi\n"
-    .string "uçabilseydim…$"
+    .string "Keşke PIDGEY ve PIDGEOTTO\n"
+    .string "gibi uçabilseydim…$"
 
 Route13_Text_LookToLeftOfThatPost::
-    .string "EĞİTMEN İPUCU\p"
+    .string "EĞİTMEN İPUÇLARI\p"
     .string "Bak, bak!\n"
     .string "O direğin soluna bak!$"
 
 Route13_Text_SelectToSwitchItems::
-    .string "EĞİTMEN İPUCU\n"
+    .string "EĞİTMEN İPUÇLARI\n"
     .string "EŞYA penceresindeki öğeleri\l"
     .string "değiştirmek için SELECT'e basın.$"
 
