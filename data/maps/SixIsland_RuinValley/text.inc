@@ -59,18 +59,18 @@ SixIsland_RuinValley_Text_LarryPostBattle::
     .string "İçeri nasıl gireceğimi bulamadım.$"
 
 SixIsland_RuinValley_Text_DarylIntro::
-    .string "Seninle, bu yükseklikte savaşmak!$"
+    .string "Seninle savaşmak, uçlardayım!$"
 
 SixIsland_RuinValley_Text_DarylDefeat::
-    .string "Ah, sana karşı bu kadar\n"
-    .string "kolay yenilmek!$"
+    .string "Ah, yenilmenin kalp yarası!\n"
+    .string "senin için basit.$"
 
 SixIsland_RuinValley_Text_DarylPostBattle::
     .string "Tırmanmanın keyfini çıkar!$"
 
 SixIsland_RuinValley_Text_HectorIntro::
     .string "Bu civarda olan bitenlere oldukça\n"
-    .string "vakıfım.$"
+    .string "hakimim.$"
 
 SixIsland_RuinValley_Text_HectorDefeat::
     .string "Bana bu kadar baskı yapmana\n"

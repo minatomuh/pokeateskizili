@@ -14,7 +14,7 @@ SSAnne_B1F_Room4_Text_DuncanIntro::
     .string "Denizci gururum söz konusu!$"
 
 SSAnne_B1F_Room4_Text_DuncanDefeat::
-    .string "Senin o savaşçı ruhun beni yendi!$"
+    .string "Senin savaşçı ruhun beni yendi!$"
 
 SSAnne_B1F_Room4_Text_DuncanPostBattle::
     .string "VERMILION ŞEHRİ'ndeki BALIK\n"

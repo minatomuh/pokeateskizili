@@ -4,7 +4,7 @@ SSAnne_1F_Corridor_Text_LeStrongSilentType::
     .string "Size hizmet etmekten\n"
     .string "memnuniyet duyarım!\p"
     .string "… … …\n"
-    .string "Ah! Sessiz ve güçlü tip!$"
+    .string "Ah! Sessiz ve güçlü bir tip!$"
 
 SSAnne_1F_Corridor_Text_PassengersAreRestless::
     .string "Yolcular bu uzun yolculuktan\n"

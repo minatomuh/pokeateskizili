@@ -3,11 +3,11 @@ SixIsland_PatternBush_Text_BethanyIntro::
     .string "nasıl eğitiyorsun?$"
 
 SixIsland_PatternBush_Text_BethanyDefeat::
-    .string "Sen POKéMON'unu çok sevgiyle\n"
+    .string "Sen POKéMON'unu sevgiyle\n"
     .string "eğitiyorsun!$"
 
 SixIsland_PatternBush_Text_BethanyPostBattle::
-    .string "Senin annenin seni sevgiyle\n"
+    .string "Annenin seni sevgisi ile\n"
     .string "büyüttüğü gibi, sen de POKéMON'unu\l"
     .string "aynı şekilde eğitmelisin.$"
 
@@ -84,10 +84,10 @@ SixIsland_PatternBush_Text_CordellDefeat::
     .string "mi?$"
 
 SixIsland_PatternBush_Text_CordellPostBattle::
-    .string "Ayıp be, şehirli arkadaşlar çok\n"
+    .string "Ayıp be! Şehirli arkadaşlar, çok\n"
     .string "kokoş geliyorsunuz böyle şapka\l"
     .string "takarak…\p"
-    .string "Bana onu versene?$"
+    .string "Onu bana versene?$"
 
 SixIsland_PatternBush_Text_DaliaIntro::
     .string "Derin bir nefes al.\n"
@@ -107,16 +107,16 @@ SixIsland_PatternBush_Text_DaliaPostBattle::
 SixIsland_PatternBush_Text_JoanaIntro::
     .string "BÖCEK POKéMON'larını seviyorum.\n"
     .string "Bu yüzden sürekli buradayım.\p"
-    .string "Acaba tek kız ben miyim?$"
+    .string "Böyle olan tek kız ben miyim?$"
 
 SixIsland_PatternBush_Text_JoanaDefeat::
     .string "Yenildim, ama hala gülüyorum.\n"
-    .string "Acaba tek kız ben miyim?$"
+    .string "Böyle olan tek kız ben miyim?$"
 
 SixIsland_PatternBush_Text_JoanaPostBattle::
     .string "BÖCEK POKéMON'ları toplamaya devam\n"
     .string "edeceğim.\p"
-    .string "Acaba tek kız ben miyim?$"
+    .string "Böyle olan tek kız ben miyim?$"
 
 SixIsland_PatternBush_Text_RileyIntro::
     .string "Burası iyi bir yer.\n"

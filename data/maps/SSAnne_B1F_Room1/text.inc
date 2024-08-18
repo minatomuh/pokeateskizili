@@ -13,7 +13,7 @@ SSAnne_B1F_Room1_Text_PhillipPostBattle::
 SSAnne_B1F_Room1_Text_BarnyIntro::
     .string "Merhaba yabancı!\p"
     .string "Denizden mi geldin, dağlardan mı?\p"
-    .string "Dur, biraz sohbet et.\n"
+    .string "Dur, biraz sohbet edelim.\n"
     .string "Tüm POKéMON'larım denizden.$"
 
 SSAnne_B1F_Room1_Text_BarnyDefeat::

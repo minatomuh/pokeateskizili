@@ -29,6 +29,6 @@ SixIsland_PokemonCenter_1F_Text_RivalImpossibleToGetAllMonsAroundHere::
     .string "ve eğitmeye devam edeceğim.\p"
     .string "İşte bunu yapacağım.\p"
     .string "Burada kalmanın bir anlamı yok.\n"
-    .string "Eve gidebilirim.\p"
+    .string "Artık eve gidebilirim.\p"
     .string "İşte öyle, çok konuştum!\n"
     .string "Sonra görüşürüz!$"

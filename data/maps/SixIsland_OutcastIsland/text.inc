@@ -1,5 +1,5 @@
 SixIsland_OutcastIsland_Text_RocketIntro::
-    .string "Burada nadir POKéMON yok!\n"
+    .string "Burada hiç nadir POKéMON yok!\n"
     .string "Hiçbiri yok! Canımı sıkıyor.\l"
     .string "Bunu senden bileceğim!$"
 
@@ -11,8 +11,8 @@ SixIsland_OutcastIsland_Text_RocketPostBattle::
     .string "gördün mü?$"
 
 SixIsland_OutcastIsland_Text_TylorIntro::
-    .string "Şansım hiç yok.\n"
-    .string "Bir savaş tempoyu değiştirecek!$"
+    .string "Hiç şansım yok. Savaşta\n"
+    .string "tempoyu değiştirecek kadar!$"
 
 SixIsland_OutcastIsland_Text_TylorDefeat::
     .string "Hayır, hiç şansım yok…$"
@@ -74,7 +74,7 @@ SixIsland_OutcastIsland_Text_GebDefeat::
 
 SixIsland_OutcastIsland_Text_GebPostBattle::
     .string "GEB: Ablama sarılıyorum çünkü\n"
-    .string "dibine basamıyorum.$"
+    .string "dibe basamıyorum.$"
 
 SixIsland_OutcastIsland_Text_GebNotEnoughMons::
     .string "GEB: Lütfen benimle ve ablamla\n"

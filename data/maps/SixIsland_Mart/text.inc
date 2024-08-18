@@ -1,5 +1,5 @@
 SixIsland_Mart_Text_AgathaOldestEverEliteFourMember::
-    .string "POKéMON'la çok oyna ve uzun yaşa!\p"
+    .string "POKéMON'unla çok oyna ve uzun yaşa!\p"
     .string "Mesela AGATHA.\p"
     .string "ELİT DÖRTLÜ'nün en yaşlı üyesi\n"
     .string "olarak bir rekor kırdı.\p"
@@ -7,5 +7,5 @@ SixIsland_Mart_Text_AgathaOldestEverEliteFourMember::
     .string "motivasyon kaynağı oluyor.$"
 
 SixIsland_Mart_Text_ShouldBuyMailAndWriteLetter::
-    .string "MEKTUP almalıyım ve ona bir\n"
+    .string "MEKTUP almalı ve ona birşeyler\n"
     .string "yazıp göndermeliyim…$"

@@ -3,7 +3,7 @@ SSAnne_2F_Room4_Text_LamarIntro::
     .string "POKéMON mu daha değerli?$"
 
 SSAnne_2F_Room4_Text_LamarDefeat::
-    .string "Sizi selamlamalıyım!$"
+    .string "Sizi selamlıyorum!$"
 
 SSAnne_2F_Room4_Text_LamarPostBattle::
     .string "Benim tercihim güçlü ve\n"

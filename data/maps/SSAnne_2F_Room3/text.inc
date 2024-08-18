@@ -1,6 +1,6 @@
 SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
     .string "Ah evet, insanları suda taşıyan\n"
-    .string "POKéMON gördüm!$"
+    .string "bir POKéMON gördüm!$"
 
 SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::
     .string "Küçük ağaçlar KES hamlesiyle\n"

@@ -21,7 +21,7 @@ SSAnne_1F_Room2_Text_AnnDefeat::
     .string "Bunları almak için dünyayı dolaştım!$"
 
 SSAnne_1F_Room2_Text_AnnPostBattle::
-    .string "Zavallı POKéMON'larımı acıttın!\p"
+    .string "Zavallı POKéMON'larımı incittin!\p"
     .string "Onları bir POKéMON Merkezi'nde\n"
     .string "iyileştirmeni istiyorum.$"
 

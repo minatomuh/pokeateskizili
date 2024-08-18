@@ -17,7 +17,7 @@ SSAnne_Kitchen_Text_PeelSpudsEveryDay::
 
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
     .string "SNORLAX'ı duydun mu?\n"
-    .string "O tam bir obur.\p"
+    .string "O tam bir oburdur.\p"
     .string "Hiçbir POKéMON, SNORLAX kadar\n"
     .string "obur ve uykucu olamaz!$"
 
