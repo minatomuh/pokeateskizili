@@ -214,8 +214,8 @@ static u8 *MapNamePopupAppendFloorNum(u8 *dest, s8 floorNum)
         *dest++ = CHAR_B;
         floorNum *= -1;
     }
-    dest = ConvertIntToDecimalStringN(dest, floorNum, STR_CONV_MODE_LEFT_ALIGN, 2);
     *dest++ = CHAR_K;
+    dest = ConvertIntToDecimalStringN(dest, floorNum, STR_CONV_MODE_LEFT_ALIGN, 2);
     *dest = EOS;
     return dest;
 }
