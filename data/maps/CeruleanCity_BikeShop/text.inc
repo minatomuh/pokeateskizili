@@ -9,10 +9,10 @@ CeruleanCity_BikeShop_Text_SorryYouCantAffordIt::
     .string "Onu alacak paranız yok!$"
 
 CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGo::
-    .string "Oh, bu…\p"
+    .string "Aa, bu…\p"
     .string "Bir BİSİKLET KUPONU!\p"
     .string "Tamam!\n"
-    .string "İşte alabilirsin!$"
+    .string "Bunu alabilirsin!$"
 
 CeruleanCity_BikeShop_Text_ExchangedVoucherForBicycle::
     .string "{PLAYER} BİSİKLET KUPONU vererek\n"
@@ -30,17 +30,17 @@ CeruleanCity_BikeShop_Text_HowDoYouLikeNewBicycle::
     .string "sürebilirsiniz!$"
 
 CeruleanCity_BikeShop_Text_MakeRoomForBicycle::
-    .string "BİSİKLET için yer açın!$"
+    .string "BİSİKLET için yer açın lütfen!$"
 
 CeruleanCity_BikeShop_Text_CityBikeGoodEnoughForMe::
     .string "Sade bir şehir bisikleti\n"
     .string "benim için yeterli.\p"
-    .string "Sonuçta, dağ bisikletine\n"
-    .string "bir sepet takamazsın.$"
+    .string "Sonuçta, dağ bisikletine bir\n"
+    .string "sepet takamazsın.$"
 
 CeruleanCity_BikeShop_Text_BikesCoolButExpensive::
-    .string "Bu bisikletler çok havalı,\n"
-    .string "ama çok pahalılar!$"
+    .string "Bu bisikletler çok havalı ama\n"
+    .string "çok pahalılar!$"
 
 CeruleanCity_BikeShop_Text_WowYourBikeIsCool::
     .string "Vay canına.\n"
@@ -53,4 +53,4 @@ CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket::
     .string "おりたたみ　じてんしゃ！$"
 
 CeruleanCity_BikeShop_Text_ShinyNewBicycle::
-    .string "Parlak yeni bir BİSİKLET!$"
+    .string "Parlak, yeni bir BİSİKLET!$"

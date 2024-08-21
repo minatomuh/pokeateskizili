@@ -1,11 +1,11 @@
 CeruleanCity_Gym_Text_MistyIntro::
     .string "Merhaba, burada yenisin!\p"
-    .string "Sadece POKéMON hakkında bir\l"
-    .string "politikası olan EĞİTMENLER\l"
+    .string "Sadece POKéMON'ları belirli\l"
+    .string "bir yaklaşımla eğitenler\l"
     .string "profesyonel olabilir.\p"
-    .string "POKéMON'u yakalayıp eğitirken\n"
-    .string "yaklaşımın nedir?\p"
-    .string "Benim politikam, SU tipi\n"
+    .string "POKéMON yakalayıp eğittikten\n"
+    .string "sonra nasıl savaşırsın?\p"
+    .string "Benim yaklaşımım, SU tipi\n"
     .string "POKéMON'larla tüm gücüyle\l"
     .string "saldırmaktır!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
@@ -18,9 +18,9 @@ CeruleanCity_Gym_Text_ExplainTM03::
     .string "Onu su POKéMON'u üstünde kullan!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
-    .string "ÇAĞLAYAN ROZETİ, tüm POKéMON'ların\n"
-    .string "SV. 30'a kadar itaat etmesini\l"
-    .string "sağlar.\p"
+    .string "ÇAĞLAYAN ROZETİ, POKéMON'ların\n"
+    .string "SV. 30'a kadar sana itaat\l"
+    .string "etmesini sağlar.\p"
     .string "Buna takas yoluyla elde ettiğin\n"
     .string "yabancı POKéMON'lar da dahil.\p"
     .if ENG_MOVES == 1
@@ -32,7 +32,7 @@ CeruleanCity_Gym_Text_ExplainCascadeBadge::
     .string "hatta savaş dışı kullanabilirsin.\p"
     .string "Küçük ağaçları keserek yeni\n"
     .string "yollar açabilirsin.\p"
-    .string "Ayrıca favori TM'imi de alabilirsin.$"
+    .string "Ayrıca favori TM'mi de alabilirsin.$"
 
 CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
     .string "{PLAYER}, MISTY'den TM03\n"
@@ -45,14 +45,14 @@ CeruleanCity_Gym_Text_MistyDefeat::
     .string "Vay canına!\n"
     .string "Çok iyisin!\p"
     .string "Tamam!\p"
-    .string "Çok iyi performans gösterdin, o\n"
+    .string "Çok iyi performans gösterdin, bu\n"
     .string "yüzden ÇAĞLAYAN ROZETİ'ni sana\l"
     .string "veriyorum.$"
 
 CeruleanCity_Gym_Text_DianaIntro::
     .string "Ne? Sen mi?\n"
     .string "Sana karşı yeterince iyiyim!\p"
-    .string "MISTY'yi rahatsız etmeye gerek\n"
+    .string "MISTY'yi rahatsız etmene gerek\n"
     .string "yok.$"
 
 CeruleanCity_Gym_Text_DianaDefeat::

@@ -12,7 +12,7 @@ CeruleanCity_Text_RivalDefeat::
     .string "Zaten sen kazandın!$"
 
 CeruleanCity_Text_RivalPostBattle::
-    .string "{RIVAL}: Hey, bir şey söyleyeyim mi?\p"
+    .string "{RIVAL}: Bir şey söyleyeyim mi?\p"
     .string "BILL'in yanına gittim ve bana\n" 
     .string "nadir POKéMON'larını gösterdi.\p"
     .string "Bu, POKéDEX'ime bir sürü yeni\n" 

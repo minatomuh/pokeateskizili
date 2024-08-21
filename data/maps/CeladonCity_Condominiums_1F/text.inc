@@ -16,7 +16,7 @@ CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
     .string "MEOWTH eve para bile getiriyor!$"
 
 CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
-    .string "Oh, merhaba.\n"
+    .string "Hey, merhaba.\n"
     .string "ÇAY'ımı beğendin mi?\p"
     .string "Bu arada, PALLET KASABASI'ndan\n"
     .string "mısın, canım?\p"

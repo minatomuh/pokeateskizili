@@ -38,4 +38,4 @@ CeladonCity_Condominiums_3F_Text_ItsScriptBetterNotLookAtEnding::
     .string "Sonuna bakmamalısın!$"
 
 CeladonCity_Condominiums_3F_Text_GameFreakDevelopmentRoom::
-    .string "GAME FREAK Geliştirme Odası$"
+    .string "GAME FREAK\nGeliştirme Odası$"
