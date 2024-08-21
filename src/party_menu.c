@@ -872,7 +872,7 @@ static bool8 DisplayPartyPokemonDataForMoveTutorOrEvolutionItem(u8 slot)
             DisplayPartyPokemonDataToTeachMove(slot, item, 0);
             break;
         case 2: // Evolution stone
-            if (!GetMonData(currentPokemon, MON_DATA_IS_EGG) && GetEvolutionTargetSpecies(currentPokemon, EVO_MODE_ITEM_CHECK, item) != SPECIES_NONE)
+            if (!GetMonData(currentPokemon, MON_DATA_IS_EGG) && GetEvolutionTargetSpecies(currentPokemon, EVO_MODE_ITEM_CHECK, item, FALSE) != SPECIES_NONE)
                 return FALSE;
             DisplayPartyPokemonDescriptionData(slot, PARTYBOX_DESC_NO_USE);
             break;
@@ -2966,7 +2966,7 @@ static void SetPartyMonSelectionActions(struct Pokemon *mons, u8 slotId, u8 acti
 static void SetPartyMonFieldSelectionActions(struct Pokemon *mons, u8 slotId)
 {
     u8 i, j;
-    u16 targetSpecies = GetEvolutionTargetSpecies(&gPlayerParty[gPartyMenu.slotId], EVO_MODE_TRADE, ITEM_NONE);
+    u16 targetSpecies = GetEvolutionTargetSpecies(&gPlayerParty[gPartyMenu.slotId], EVO_MODE_TRADE, ITEM_NONE, TRUE);
 
     sPartyMenuInternal->numActions = 0;
     AppendToList(sPartyMenuInternal->actions, &sPartyMenuInternal->numActions, CURSOR_OPTION_SUMMARY);
@@ -4085,7 +4085,7 @@ static bool8 SetUpFieldMove_Surf(void)
 // If want to apply to all evolutions, change the EVO_MODE_TRADE
 static void CursorCB_Evolution(u8 taskId)
 {
-    u16 targetSpecies = GetEvolutionTargetSpecies(&gPlayerParty[gPartyMenu.slotId], EVO_MODE_TRADE, ITEM_NONE);
+    u16 targetSpecies = GetEvolutionTargetSpecies(&gPlayerParty[gPartyMenu.slotId], EVO_MODE_TRADE, ITEM_NONE, TRUE);
 
     PlaySE(SE_SELECT);
     if (targetSpecies != SPECIES_NONE)
@@ -5194,7 +5194,7 @@ static void Task_TryLearningNextMove(u8 taskId)
 static void PartyMenuTryEvolution(u8 taskId, u8 evo_mode)
 {
     struct Pokemon *mon = &gPlayerParty[gPartyMenu.slotId];
-    u16 targetSpecies = GetEvolutionTargetSpecies(mon, evo_mode, ITEM_NONE);
+    u16 targetSpecies = GetEvolutionTargetSpecies(mon, evo_mode, ITEM_NONE, FALSE);
 
     if (targetSpecies != SPECIES_NONE)
     {
@@ -5346,7 +5346,7 @@ static void CB2_UseEvolutionStone(void)
 static bool8 MonCanEvolve(void)
 {
     if (!IsNationalPokedexEnabled()
-     && GetEvolutionTargetSpecies(&gPlayerParty[gPartyMenu.slotId], EVO_MODE_ITEM_USE, gSpecialVar_ItemId) > KANTO_DEX_COUNT)
+     && GetEvolutionTargetSpecies(&gPlayerParty[gPartyMenu.slotId], EVO_MODE_ITEM_USE, gSpecialVar_ItemId, FALSE) > KANTO_DEX_COUNT)
         return FALSE;
     else
         return TRUE;
