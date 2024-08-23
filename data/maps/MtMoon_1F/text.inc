@@ -82,7 +82,7 @@ MtMoon_1F_Text_RobbyPostBattle::
 
 MtMoon_1F_Text_ZubatIsABloodsucker::
     .string "Dikkatli ol!\n"
-    .string "ZUBAT tam bir kan emicidir!$"
+    .string "ZUBAT'lar tam bir kan emicidir!$"
 
 MtMoon_1F_Text_BrockHelpsExcavateFossils::
     .string "Merhaba, ben AY DAĞI'nda fosil\n"

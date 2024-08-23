@@ -90,7 +90,7 @@ MtEmber_Exterior_Text_Grunt1Defeat::
     .string "Hey, ne oluyor?$"
 
 MtEmber_Exterior_Text_Grunt1PostBattle::
-    .string "Neden kazanmak zorundasın?$"
+    .string "Nasıl kazandın sen?$"
 
 MtEmber_Exterior_Text_Grunt2Intro::
     .string "Hazinemize ortak mı olmak\n"
@@ -105,7 +105,7 @@ MtEmber_Exterior_Text_Grunt2PostBattle::
     .string "Duymuş olduklarını unut!$"
 
 MtEmber_Exterior_Text_WellRegroupDontStepInsideThere::
-    .string "Bu bir gerileme…\n"
+    .string "Bu bir yenilgi…\n"
     .string "Yeniden gruplanmamız gerekecek.\p"
     .string "Sen!\n"
     .string "Sakın içeri girmeyi bile düşünme!\p"
@@ -113,12 +113,12 @@ MtEmber_Exterior_Text_WellRegroupDontStepInsideThere::
     .string "bunu aklından bile geçirme!$"
 
 MtEmber_Exterior_Text_LoganIntro::
-    .string "Aktif yanardağ, patlamaya başlamış\n"
-    .string "veya başlamak üzere olan\l"
-    .string "yanardağdır.$"
+    .string "Aktif yanardağlar, patlamaya\n"
+    .string "başlamış veya başlamak üzere olan\l"
+    .string "yanardağlardır.$"
 
 MtEmber_Exterior_Text_LoganDefeat::
-    .string "Oh… Bu çok sıcak!\n"
+    .string "Ah… Bu çok sıcak!\n"
     .string "Kan ter içinde kaldım!$"
 
 MtEmber_Exterior_Text_LoganPostBattle::
@@ -128,8 +128,7 @@ MtEmber_Exterior_Text_LoganPostBattle::
 
 MtEmber_Exterior_Text_BethIntro::
     .string "Yanardağların içinde mağaraların\n"
-    .string "nasıl oluştuğunu\l"
-    .string "biliyor musun?$"
+    .string "nasıl oluştuğunu biliyor musun?$"
 
 MtEmber_Exterior_Text_BethDefeat::
     .string "Atchah!\n"
@@ -137,14 +136,14 @@ MtEmber_Exterior_Text_BethDefeat::
 
 MtEmber_Exterior_Text_BethPostBattle::
     .string "Yüzeydeki lav sertleştiğinde\n"
-    .string "ve içindeki magma\l"
-    .string "aktığında mağaralar geride kalır.$"
+    .string "ve içindeki magma aktığında,\l"
+    .string "mağaralar oluşur.$"
 
 MtEmber_Exterior_Text_JocelynIntro::
     .string "Kırık kalbimi onarmak için\n"
     .string "antrenman yapıyorum…\p"
     .string "En azından fiziksel olarak beni\n"
-    .string "güçlendirdi! Haydi!$"
+    .string "güçlendiriyor! Haydi!$"
 
 MtEmber_Exterior_Text_JocelynDefeat::
     .string "Galiba abarttım…$"
