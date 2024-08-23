@@ -159,14 +159,14 @@ gOakSpeech_Text_AskPlayerGender::
     .string "Yoksa kız mı?$"
 
 gPikachuIntro_Text_Page1::
-    .string "Pokémon AteşKızılı ve YaprakYeşili\n"
     .string "Çeviri Yönetmeni: Gökhan Perçem\n"
     .string "Çevirmen: Muhammed Emin Karakaya\n"
     .string "Çevirmen: Emirhan Yılmaz\n"
     .string "\n"
     .string "Yamada bir sorunla karşılaşırsanız\n"
     .string "Discord kanalımıza uğrayabilirsiniz.\n"
-    .string "Link: discord.gg/aHJMKXkafz$"
+    .string "Discord: discord.gg/aHJMKXkafz\n"
+    .string "Resmi Sitemiz: poketr.github.io$"
 
 gPikachuIntro_Text_Page2::
     .string "Girmek üzere olduğun dünyada\n"
