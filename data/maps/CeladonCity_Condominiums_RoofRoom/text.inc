@@ -7,11 +7,11 @@ CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow::
     .string "takasının tadını çıkar!$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEevee::
-    .string "{PLAYER} bir EEVEE elde etti!$"
+    .string "{PLAYER} bir EEVEE aldı!$"
 
 CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull::
-    .string "POKéMON'lar doldu!\n"
-    .string "Lütfen başka bir kutu seçin.$"
+    .string "POKéMON'larla dolu burası!\n"
+    .string "Lütfen başka bir kutu seç.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_WirelessAdapterLecture::
     .string "POKéMON Dersi\p"
@@ -29,7 +29,7 @@ CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub::
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner::
     .string "Sadece bir arkadaşla bağlantı\n"
-    .string "kurmak için, DİREKT KÖŞE'ye\l"
+    .string "kurmak için, DİREKT KÖŞESİ'ne\l"
     .string "gitmelisin.\p"
     .string "Bu, POKéMON KABLOSUZ KULÜBÜ'ndeki\n"
     .string "sağ taraftaki bankodur.\p"

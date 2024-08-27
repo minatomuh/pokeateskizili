@@ -11,10 +11,10 @@ LavenderTown_Text_JustImaginingWhiteHand::
     .string "Sanırım hayal gücümün ürünü.$"
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
-    .string "Bu şehir, POKéMON'ların\n"
-    .string "mezarı olarak bilinir.\p"
-    .string "Anma törenleri POKéMON\n"
-    .string "KULESİ'nde yapılır.$"
+    .string "Bu şehir, POKéMON'ların mezarı\n"
+    .string "olarak bilinir.\p"
+    .string "Anma törenleri POKéMON KULESİ'nde\n"
+    .string "yapılır.$"
 
 LavenderTown_Text_GhostsAppearedInTower::
     .string "Hayaletler POKéMON KULESİ'nde\n"
@@ -37,4 +37,4 @@ LavenderTown_Text_VolunteerPokemonHouse::
 
 LavenderTown_Text_PokemonTowerSign::
     .string "POKéMON KULESİ\n"
-    .string "POKéMON Ruhlarını Sakinleştir$"
+    .string "POKéMON Ruhlarının Huzurevi$"

@@ -2,7 +2,7 @@ CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore::
     .string "Merhaba!\n"
     .string "Celadon Mağazasına Hoş Geldiniz.\p"
     .string "Sağdaki pano, mağaza düzenini\n"
-    .string "açıklar.$"
+    .string "gösteriyor.$"
 
 CeladonCity_DepartmentStore_1F_Text_FloorDescriptions::
     .string "1. Kat: MÜŞTERİ HİZMETLERİ\p"

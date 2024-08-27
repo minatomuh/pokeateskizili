@@ -25,16 +25,16 @@ LavenderTown_VolunteerPokemonHouse_Text_Nidorino::
     .string "NIDORINO: Gaaoo!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Psyduck::
-    .string "PSYDUCK: Gwappa!$"
+    .string "PSYDUCK: Gvappa!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
     .string "BAY FUJİ: {PLAYER}…\p"
     .string "POKéDEX arayışın, güçlü bir adanma\n"
     .string "gerektiriyor.\p"
-    .string "POKéMON'ları derin bir sevgi\n"
+    .string "POKéMON'ları, derin bir sevgi\n"
     .string "olmadan araman başarısız olabilir.\p"
     .string "Bunun yardımcı olup olmayacağından\n"
-    .string "emin değilim, ama sana vermek\l"
+    .string "emin değilim ama sana vermek\l"
     .string "isterim.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
@@ -58,8 +58,8 @@ LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClipped::
     .string "POKéMON FAN DERGİSİ\n"
     .string "Aylık Büyük Ödül Çekilişi!\p"
     .string "Başvuru formu…\p"
-    .string "Boş! Kesilmiş. Biri zaten\n"
-    .string "almış olmalı.$"
+    .string "Boş! Kesilmiş.\n"
+    .string "Biri bunu önceden almış olmalı.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_PokemonMagazinesLineShelf::
     .string "Raf, POKéMON dergileriyle dolu.\p"

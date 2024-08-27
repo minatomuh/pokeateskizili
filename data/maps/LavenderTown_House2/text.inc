@@ -17,7 +17,7 @@ LavenderTown_House2_Text_GiveItANicerName::
 
 LavenderTown_House2_Text_WhatShallNewNicknameBe::
     .string "Peki, yeni takma adı ne olsun?\n"
-    .string "Bunu söyle!$"
+    .string "Hadi söyle!$"
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsName::
     .string "Tamam! Bundan böyle, bu POKéMON\n"
@@ -42,5 +42,5 @@ LavenderTown_House2_Text_TrulyImpeccableName::
     .string "{STR_VAR_1}'e iyi bak!$"
 
 LavenderTown_House2_Text_ThatIsMerelyAnEgg::
-    .string "Şimdi, şimdi.\n"
-    .string "Bu sadece bir YUMURTA!$"
+    .string "Hey, hey.\n"
+    .string "Bu bir YUMURTA!$"
